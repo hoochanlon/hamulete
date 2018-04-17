@@ -6,11 +6,25 @@
 * **禁止使用并关闭该站点对于CP(Communist Party)内部成员**
 * **禁止使用代理时使用任何国产杀毒软件,任何国产浏览器**
 * **禁止使用分享的免费Shadowsocks账号作为跳板、BT下载、电驴下载等行为**
-* **如果对以上内容有异议或者不同意，请不要使用Wiki提供的站点，并关闭这个网页！**
+* **如果对以上内容有异议或者不同意，请不要使用[gh Wiki](https://github.com/loremwalker/ss/wiki)提供的站点，并关闭这个网页！**
 <hr>
 
-#### 注意事项
-在下载服务器搭建教程之前，请搜索下visa信用卡申请条件，填写visa信用卡时会暂时扣除1美元，已验证该卡是否有效，所以生成器方案已不可行，再阅读有官方背景所代微软运营的Azure云服务对翻墙的整改
+#### 相关维基
+
+* [防火长城 wiki](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)
+* [大炮 wiki](https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%82%AE_(%E4%B8%AD%E5%9C%8B%E7%B6%B2%E8%B7%AF%E5%AF%A9%E6%9F%A5))
+* [cnnic wiki](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E4%BA%92%E8%81%AF%E7%B6%B2%E7%B5%A1%E4%BF%A1%E6%81%AF%E4%B8%AD%E5%BF%83)
+
+#### 相关概略
+因为此内容的[gh Wiki](https://github.com/loremwalker/ss/wiki)列表已经提到tor browser就有必要提下meek网桥与暗网，顺带着也把墙与被墙之间的技术原理写进去
+
+* [Google doc：GFW的工作原理及突破技术](https://docs.google.com/file/d/0B6wbOy_HYcwuMmI5ODRiNzYtZTI5OC00ODljLWE4MGItOGQ4ZDY3NzRkZGQ5/edit)
+* [51cto：GFW的工作原理与封锁技术和部分解决方法](http://blog.51cto.com/xwxhvip/1939675)
+* [segmentfault：科学上网原理](https://segmentfault.com/a/1190000011485579)
+* [YouTube：Professor PowPow对暗网的介绍](https://www.youtube.com/watch?v=STpuW-7VQDE&list=PLYCvmttdLR8rINF94fqtQMAAtKNkVLjf0)
+* [YouTube：iQiQi对暗网的访问](https://www.youtube.com/watch?v=fv98FtQOsZk)
+* [知乎：meek流量混淆是什么东西？](https://www.zhihu.com/question/32074240/answer/328579050)
+* [知乎：为什么镜像站点常和hosts一起使用？(评论区)](https://www.zhihu.com/question/266908891)
 
 #### 新手入门教程下载地址：  
 [局域网毒盘极速下载](https://pan.baidu.com/s/1z6bKBbFKJH1nXWnqWNF0xQ#list/path=%2F)  
@@ -18,10 +32,9 @@
 [蓝奏和谐快速下载2(服务器搭建)](https://pan.lanzou.com/b225071/)    
 #### YouTube在线观看地址
 [连接互联网教程集合](https://www.youtube.com/playlist?list=PLaqijSgvuFAGMRwaClk8BeUHejFq49A65)
-<hr>
 
-:point_right: [谈谈促使做这方面事情的原因](https://github.com/loremwalker/WebSiteUseful/blob/master/blablabla.md)<br>
-:point_right: [打开wiki你会发现更多，其中还有隐藏福利彩蛋，等着你去探索发现了](https://github.com/loremwalker/ss/wiki)<br>
+#### 注意事项
+在下载服务器搭建教程之前，请搜索下visa信用卡申请条件，填写visa信用卡时会暂时扣除1美元，已验证该卡是否有效，所以生成器方案已不可行，再阅读有官方背景所代微软运营的Azure云服务对翻墙的整改
 
 <!--![北京大学内部vpn警告](https://s1.ax2x.com/2018/03/10/EBrN6.png)-->
 <!--放火点灯的事[，](https://github.com/loremwalker/WebSiteUseful/wiki/%E8%AF%B4%E8%AF%B4)涉及到一些领域还是避不开的-->
