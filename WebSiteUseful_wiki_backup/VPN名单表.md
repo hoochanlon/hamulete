@@ -21,9 +21,9 @@ vpn|使用限制|
 |[SurfEasyVPN](https://www.surfeasy.com)| 500M流量|
 |[speedify](http://speedify.com/)|1G流量|
 |[windscribe](https://chn.windscribe.com)|10G流量限制|
-|[unblockvpn](https://unblockvpn.com/download.php)|试用三天每五分钟自动切断一次|
-|[Viscosity](https://www.sparklabs.com/viscosity/)|试用30天|
 |[devpn](https://devpn.info/)| 一小时更换一次密码<br>服务器以及协议上的限制|
+|[goldenkey](https://www.safasti.net/#download)|试用3天|
+|[Viscosity](https://www.sparklabs.com/viscosity/)|试用30天|
 |[SetupVPN](https://setupvpn.com/)|无|
 |[gatevpn](http://www.vpngate.net/cn/)|无|
 |[aoyouvpn](http://www.aoyouvpn.com/)|无|
