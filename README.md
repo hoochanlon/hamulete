@@ -26,6 +26,11 @@
 * [知乎：meek流量混淆是什么东西？](https://www.zhihu.com/question/32074240/answer/328579050)
 * [知乎：为什么镜像站点常和hosts一起使用？(评论区)](https://www.zhihu.com/question/266908891)
 
+#### 总览
+
+ :point_right: [谈谈促使做这方面事情的原因](https://github.com/loremwalker/WebSiteUseful/blob/master/blablabla.md)<br>
+ :point_right: [打开gh wiki你会发现更多，其中还有隐藏福利彩蛋，等着你去探索发现了](https://github.com/loremwalker/ss/wiki)<br>
+
 #### 新手入门教程下载地址：  
 [局域网毒盘极速下载](https://pan.baidu.com/s/1z6bKBbFKJH1nXWnqWNF0xQ#list/path=%2F)  
 [蓝奏和谐快速下载1(客户端使用)](https://pan.lanzou.com/b225070/)    
