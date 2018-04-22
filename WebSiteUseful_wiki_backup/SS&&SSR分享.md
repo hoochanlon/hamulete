@@ -8,14 +8,13 @@
 * https://freess.pw
 * https://freessr.win
 * http://www.vpn168.tk
-* https://get.freess.today
 * https://52ssr.cn
 * https://en.ss8.fun
-* https://get.ishadowx.net
 * http://webosss.com/tool/socket
 
 #### 镜像站点
-* https://doub.ws
+* https://doub.loan
+* http://free-ss.tk
 * https://tool.ssrshare.xyz/tool/free_ssr
 
 #### 待定项
@@ -29,21 +28,31 @@
 
 #### 科学访问
 * https://www.ssrshare.com
+* https://get.ishadowx.net
+* https://get.freess.today
 * https://tool.ssrshare.com/tool/free_ssr
 * https://doub.io 
+* https://free-ss.site
 * https://global.ishadowx.net
 * http://i.wuw.red 
 * https://freess.cx
-* https://free.4kvpn.com
 * https://free.yitianjianss.com
 
-#### 参考
-* <s>https://free-ss.fq </s>
+#### 获取地址邮箱
+* toyoooooooooooo@gmail.com (doub.io)
+* ss@rohankdd.com (free-ss.site)
+
+#### ssr订阅源
+* https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
+* http://share-shadowsocksr.herokuapp.com/subscribe?valid=1
+* http://share-shadowsocks.herokuapp.com/full/subscribe
+* https://prom-php.herokuapp.com/cloudfra_ssr.txt
+* https://www.nutgeek.cn/newsubscribe/
 
 #### 说明
 待定项：为贴子、博客类型的账号分享文章，可能存在长期未更新，不太推荐；
-<!-- 
-https://free-ss.site
-https://free-ss.gq
-http://shadowsockssr.tk
+
+<!--
+已失效
+https://free.4kvpn.com
 -->
