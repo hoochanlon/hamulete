@@ -36,7 +36,7 @@
 #### 总览
 
  :point_right: [谈谈促使做这方面事情的原因](https://github.com/loremwalker/WebSiteUseful/blob/master/blablabla.md)<br>
- :point_right: [打开gh wiki你会发现更多，其中还有隐藏福利彩蛋，等着你去探索发现了](https://github.com/loremwalker/ss/wiki)<br>
+ :point_right: [打开gh wiki你会发现更多，Clone in desktop即可下载全部内容](https://github.com/loremwalker/ss/wiki)<br>
 
 #### 新手入门教程下载地址：  
 [局域网毒盘极速下载](https://pan.baidu.com/s/1z6bKBbFKJH1nXWnqWNF0xQ#list/path=%2F)  
