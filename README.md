@@ -23,7 +23,7 @@
 * [博客园：正向代理与反向代理](https://www.cnblogs.com/Anker/p/6056540.html)
 * [私人博客站点：上网限制和翻墙基本原理](http://blog.021xt.cc/archives/85)
 * [知乎：为什么更改主机host可以访问google?](https://www.zhihu.com/question/36914293)
-* [知乎：VPN与DNS 有什么联系？有什么区别？](https://www.zhihu.com/question/37647950)
+* <s>[知乎：VPN与DNS 有什么联系？有什么区别？](https://www.zhihu.com/question/37647950)</s> （可以可以，<!--真他妈的屄非常棒！-->已被彻底删除！）
 * [知乎：VPN和Sock5代理的区别？](https://www.zhihu.com/question/21211024)
 * [知乎：如何用通俗的语言解释 VPN 中 PPTP 与 L2TP 协议的联系与区别？](https://www.zhihu.com/question/20174552)
 * [知乎：meek流量混淆是什么东西？](https://www.zhihu.com/question/32074240/answer/328579050)

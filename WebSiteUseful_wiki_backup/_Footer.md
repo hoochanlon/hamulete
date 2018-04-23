@@ -1,1 +1,0 @@
-https://loremwalker.github.io
