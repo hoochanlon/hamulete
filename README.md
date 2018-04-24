@@ -37,7 +37,8 @@
  :point_right: [打开gh wiki你会发现更多，Clone in desktop即可下载全部内容](https://github.com/loremwalker/ss/wiki)<br>
 
 #### 新手上互联网奇技淫巧
-建议打开[gh wiki](https://github.com/loremwalker/ss/wiki)或是下载教程之前,还是看看[上网技巧](https://github.com/loremwalker/WebSiteUseful/blob/master/shawshank.md)比较好,因为它能让你多些法门
+
+建议打开[gh wiki](https://github.com/loremwalker/ss/wiki)或是下载教程之前，，还是看看[厉害了，我的国](https://github.com/github/gov-takedowns/tree/78775b09e64d85f08547287cab204b48b2491192)与[上网技巧](https://github.com/loremwalker/WebSiteUseful/blob/master/shawshank.md)比较好，因为它能让你多些法门
 
 #### 新手入门教程下载地址：  
 [局域网毒盘极速下载](https://pan.baidu.com/s/1z6bKBbFKJH1nXWnqWNF0xQ#list/path=%2F)  
