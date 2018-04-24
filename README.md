@@ -35,7 +35,6 @@
 
 #### 总览
 
- :point_right: [谈谈促使做这方面事情的原因](https://github.com/loremwalker/WebSiteUseful/blob/master/blablabla.md)<br>
  :point_right: [打开gh wiki你会发现更多，Clone in desktop即可下载全部内容](https://github.com/loremwalker/ss/wiki)<br>
 
 #### 新手上互联网奇技淫巧
