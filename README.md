@@ -6,7 +6,7 @@
 
 #### 前言
 
-我好像明白了什么...Disgusting！Bollocks！有问题或有新的好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)，谢谢;关于[感谢者Md](https://github.com/loremwalker/WebSiteUseful/blob/master/CONTRIBUTING.md)
+我好像明白了什么...Disgusting！Bollocks！有问题或有新的好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)，谢谢；关于[感谢者Md](https://github.com/loremwalker/WebSiteUseful/blob/master/CONTRIBUTING.md)
 
 #### 相关维基
 
