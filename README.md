@@ -35,7 +35,7 @@
 
 #### 新手上互联网奇技淫巧
 
-* 分享网址或软件下载网址被dns劫持、污染与封锁ip
+* 分享网址或软件下载网址被dns劫持、污染与封锁ip相对来说越来越少
 * free爱国上网核弹级保密(封锁)以及打通任督二脉(专业知识)的双重难度
 * 以上两点所以你需要了解[厉害了我的国github英文版](https://github.com/github/gov-takedowns/tree/78775b09e64d85f08547287cab204b48b2491192)与[上网技巧](https://github.com/loremwalker/WebSiteUseful/blob/master/shawshank.md)多了解了解
 
