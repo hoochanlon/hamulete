@@ -46,7 +46,7 @@ meek有aws、ms在天朝很多公司使用服务，以至gfw不敢随便封公�
 9. lantern
 10. betternet
 
-#### 11-15付费vpn的典型了速度很快，游戏加速也还不错
+#### 11-15付费vpn的典型了速度很快，游戏加速也还不错，价钱相对较高
 11. VyprVPN
 12. AstrillVPN
 13. ComodoEasyVPN	
