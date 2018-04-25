@@ -16,3 +16,5 @@
 `[网址描述](网址链接)` 网址
 
 [链接示例对图片说明：其实国漫也有些好的](https://www.google.com/)
+
+[更多markdown语法请看...](http://www.markdown.cn/#acknowledgement)
