@@ -3,6 +3,10 @@
 **仅面向海外华人用户，中国境内居民禁止使用，并请立即关闭本网站！分享仅进行科研学习，切勿用于其他用途。**
 <hr>
 
+#### 一句温暖的问候
+
+**辛苦了！看完这篇README即将进入真正的全球互联网。**
+
 #### 前言
 
 我好像明白了什么...Disgusting！Bollocks！有问题或有不错的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)，谢谢；关于[感谢者Md](https://github.com/loremwalker/WebSiteUseful/blob/master/CONTRIBUTING.md)
