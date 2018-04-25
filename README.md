@@ -32,15 +32,12 @@
 * [YouTube：iQiQi对暗网的访问](https://www.youtube.com/watch?v=fv98FtQOsZk)
 * [Google doc：GFW的工作原理及突破技术](https://docs.google.com/file/d/0B6wbOy_HYcwuMmI5ODRiNzYtZTI5OC00ODljLWE4MGItOGQ4ZDY3NzRkZGQ5/edit)
 
-#### 总览
-
- :point_right: [打开gh wiki你会发现更多，Clone in desktop即可下载全部内容](https://github.com/loremwalker/ss/wiki)<br>
 
 #### 新手上互联网奇技淫巧
 
+* 分享网址或软件下载网址被dns劫持、污染与封锁ip
 * free爱国上网核弹级保密(封锁)以及打通任督二脉(专业知识)的双重难度
-
-建议打开[gh wiki](https://github.com/loremwalker/ss/wiki)或是下载教程之前，还是看看[厉害了，我的国GitHub官方英文版](https://github.com/github/gov-takedowns/tree/78775b09e64d85f08547287cab204b48b2491192)和[上网技巧](https://github.com/loremwalker/WebSiteUseful/blob/master/shawshank.md)比较好，多些认知与法门
+* 以上两点所以你需要了解[厉害了我的国github英文版](https://github.com/github/gov-takedowns/tree/78775b09e64d85f08547287cab204b48b2491192)与[上网技巧](https://github.com/loremwalker/WebSiteUseful/blob/master/shawshank.md)多了解了解
 
 #### 新手入门教程下载地址：  
 [局域网毒盘极速下载](https://pan.baidu.com/s/1z6bKBbFKJH1nXWnqWNF0xQ#list/path=%2F)  
@@ -48,6 +45,10 @@
 [蓝奏和谐快速下载2(服务器搭建)](https://pan.lanzou.com/b225071/)    
 #### YouTube在线观看地址
 [连接互联网教程集合](https://www.youtube.com/playlist?list=PLaqijSgvuFAGMRwaClk8BeUHejFq49A65)
+
+#### 总览
+
+ :point_right: [打开gh wiki你会发现更多，Clone in desktop即可下载全部内容](https://github.com/loremwalker/ss/wiki)<br>
 
 #### 注意事项
 有必要爱国上网时，不使用任何国产杀毒软件、任何国产浏览器，干部要员用iphone也不用ZTE，道理不多说，大家都懂得。
