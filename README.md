@@ -51,7 +51,6 @@
  :point_right: [打开gh wiki你会发现更多，Clone in desktop即可下载全部内容](https://github.com/loremwalker/ss/wiki)<br>
 
 #### 注意事项
-有必要爱国上网时，不使用任何国产杀毒软件、任何国产浏览器，干部要员用iphone也不用ZTE，道理不多说，大家都懂得。
 
 在下载服务器搭建教程之前，请搜索下visa信用卡申请条件，随便说句visa借记卡办理限制要低得多；你在办一张中国银行的普通银联借記卡。在银联卡里买美元，转账到visa卡；填写visa信用卡时会暂时扣除1美元，已验证该卡是否有效，所以生成器方案已不可行，再阅读有官方背景所代微软运营的Azure云服务对翻墙的整改；如今相关管制越来越严重，所以建议还是备份几篇文章较好，了解相关知识。<br>
 
@@ -63,3 +62,5 @@
 在telegram发现了一个提供大量免费电子书下载的kindle书群,以及作者GitHub项目，分享给大家。
 * telegram群组： https://t.me/zebook
 * github项目：https://github.com/zebook/zebook
+
+最后，有必要爱国上网时，不使用任何国产杀毒软件、任何国产浏览器，干部要员用iphone也不用ZTE，道理不多说，大家都懂得。
