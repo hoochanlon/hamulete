@@ -6,7 +6,7 @@
 
 #### 前言
 
-我好像明白了什么...disgusting！bollocks,damn it！
+我好像明白了什么...Disgusting！Bollocks！有问题或有新的好的网址请发issues，关于issue请参考这个模板，谢谢
 
 #### 相关维基
 
