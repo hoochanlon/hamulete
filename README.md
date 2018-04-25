@@ -2,22 +2,22 @@
 
 **仅面向海外华人用户，中国境内居民禁止使用，并请立即关闭本网站！分享仅进行科研学习，切勿用于其他用途。**
 
-## 一句温暖的问候
+# 一句温暖的问候
 
 **辛苦了！看完这篇README即将进入真正的全球互联网。**
 
-### 前言
+# 前言
 
 我好像明白了什么...Disgusting！Bollocks！有问题或有不错的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)，谢谢；关于[感谢者Md](https://github.com/loremwalker/WebSiteUseful/blob/master/CONTRIBUTING.md)
 
-### 相关维基
+# 相关维基
 
 * [防火长城 wiki](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)
 * [大炮 wiki](https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%82%AE_(%E4%B8%AD%E5%9C%8B%E7%B6%B2%E8%B7%AF%E5%AF%A9%E6%9F%A5))
 * [cnnic wiki](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E4%BA%92%E8%81%AF%E7%B6%B2%E7%B5%A1%E4%BF%A1%E6%81%AF%E4%B8%AD%E5%BF%83)
 * [programthink wiki](https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%E7%9A%84%E5%8D%9A%E5%AE%A2)
 
-### 相关概略
+# 相关概略
 因为此内容的[gh Wiki](https://github.com/loremwalker/ss/wiki)列表已经提到tor browser就有必要提下meek网桥与暗网，顺带着也把墙与被墙之间的技术原理写进去
 
 * [51cto：GFW的工作原理与封锁技术和部分解决方法](http://blog.51cto.com/xwxhvip/1939675)
@@ -36,24 +36,24 @@
 * [Google doc：GFW的工作原理及突破技术](https://docs.google.com/file/d/0B6wbOy_HYcwuMmI5ODRiNzYtZTI5OC00ODljLWE4MGItOGQ4ZDY3NzRkZGQ5/edit)
 
 
-### 新手上互联网奇技淫巧
+# 新手上互联网奇技淫巧
 
 * 分享网址或软件下载网址被dns劫持、污染与封锁ip相对来说越来越少
 * free爱国上网核弹级保密(封锁)以及打通任督二脉(专业知识)的双重难度
 * 以上两点所以你需要了解[厉害了我的国github英文版](https://github.com/github/gov-takedowns/tree/78775b09e64d85f08547287cab204b48b2491192)与[上网技巧](https://github.com/loremwalker/WebSiteUseful/blob/master/shawshank.md)多了解了解
 
-### 新手入门教程下载地址：  
+# 新手入门教程下载地址：  
 [局域网毒盘极速下载](https://pan.baidu.com/s/1z6bKBbFKJH1nXWnqWNF0xQ#list/path=%2F)  
 [蓝奏和谐快速下载1(客户端使用)](https://pan.lanzou.com/b225070/)    
 [蓝奏和谐快速下载2(服务器搭建)](https://pan.lanzou.com/b225071/)    
 ### YouTube在线观看地址
 [连接互联网教程集合，部分教程内容较小无法上传优土](https://www.youtube.com/playlist?list=PLaqijSgvuFAGMRwaClk8BeUHejFq49A65)
 
-### 总览
+# 总览
 
  :point_right: [打开gh wiki你会发现更多，Clone in desktop即可下载全部内容](https://github.com/loremwalker/ss/wiki)<br>
 
-### 注意事项
+# 注意事项
 
 在下载服务器搭建教程之前，请搜索下visa信用卡申请条件，随便说句visa借记卡办理限制要低得多；你在办一张中国银行的普通银联借記卡。在银联卡里买美元，转账到visa卡；填写visa信用卡时会暂时扣除1美元，已验证该卡是否有效，所以生成器方案已不可行，再阅读有官方背景所代微软运营的Azure云服务对翻墙的整改；如今相关管制越来越严重，所以建议还是备份几篇文章较好，了解相关知识。<br>
 
@@ -63,7 +63,7 @@
 
 最后补充一句，有必要爱国上网不使用任何国产杀毒软件、浏览器，干部要员用iphone也不用ZTE，道理不多说，大家都懂。
 
-## kindle电子书telegram小书圈
+# kindle电子书telegram小书圈
 在telegram发现了一个提供大量免费电子书下载的kindle书群,以及作者GitHub项目，分享给大家。
 * telegram群组： https://t.me/zebook
 * github项目：https://github.com/zebook/zebook
