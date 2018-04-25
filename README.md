@@ -38,6 +38,8 @@
 
 #### 新手上互联网奇技淫巧
 
+* free爱国上网核弹级保密(封锁)以及打通任督二脉(专业知识)的双重难度
+
 建议打开[gh wiki](https://github.com/loremwalker/ss/wiki)或是下载教程之前，还是看看[厉害了，我的国GitHub官方英文版](https://github.com/github/gov-takedowns/tree/78775b09e64d85f08547287cab204b48b2491192)和[上网技巧](https://github.com/loremwalker/WebSiteUseful/blob/master/shawshank.md)比较好，多些认知与法门
 
 #### 新手入门教程下载地址：  
