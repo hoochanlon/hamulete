@@ -48,7 +48,7 @@
 [蓝奏和谐快速下载1(客户端使用)](https://pan.lanzou.com/b225070/)    
 [蓝奏和谐快速下载2(服务器搭建)](https://pan.lanzou.com/b225071/)    
 ### YouTube在线观看地址
-[连接互联网教程集合](https://www.youtube.com/playlist?list=PLaqijSgvuFAGMRwaClk8BeUHejFq49A65)
+[连接互联网教程集合，部分教程内容较小无法上传优土](https://www.youtube.com/playlist?list=PLaqijSgvuFAGMRwaClk8BeUHejFq49A65)
 
 ### 总览
 
