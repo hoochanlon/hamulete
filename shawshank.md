@@ -31,28 +31,36 @@ meek有aws、ms在天朝很多公司使用服务，以至gfw不敢随便封公�
 ## 软件需求
 由于支持各种协议的爱国上网软件很多，这里列出比较有代表性的vpn、proxy工具
 
-### 由于前面说的，所以1-5这范围的软件只能救急用
+### 由于前面说的，所以1-4这范围的VPN只能救急用
 1. gatevpn
 2. openvpn
 3. psiphon
 4. whoer
-5. tor browser
 
-### 6-10集合中的软件，某些方面具有隐匿性与规避风险的措施，相对来说较快速较为常用
-6. shadowsocks
-7. shadowsocksR
-8. opera browser
-9. lantern
-10. betternet
+### 5-8集合中的软件，某些方面具有隐匿性与规避风险的措施，相对来说速度快为常用工具
+5. shadowsocks
+6. shadowsocksR
+7. lantern
+8. betternet
 
-### 11-15付费vpn的典型了速度很快，游戏加速也还不错，价钱相对较高
-11. VyprVPN
-12. AstrillVPN
-13. ComodoEasyVPN	
-14. SurfEasyVPN
-15. Windscribe
+### 9-13付费vpn的典型了速度很快，游戏加速也还不错，价钱相对较高
+9. VyprVPN
+10. AstrillVPN
+11. ComodoEasyVPN	
+12. SurfEasyVPN
+13. Windscribe
 
-**建议：PC上至少有2个或以上爱国上网软件比较好，推荐存在8个**
+### 浏览器与chrome扩展，14、16救急使用，15、17、18较常使用可必备
+14. tor browser
+15. opera browser
+16. setupVPN
+17. ininja
+18. Proxy SwitchyOmega
+
+**建议：
+* PC上至少有2个或以上爱国上网软件比较好，推荐存在8个
+* chrome扩展至少需要2个
+**
 
 
 ## 爱国上网奇技淫巧
