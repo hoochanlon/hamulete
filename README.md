@@ -40,7 +40,7 @@
 
 * 分享网址或软件下载网址被dns劫持、污染与封锁ip相对来说越来越少
 * free爱国上网核弹级保密(封锁)以及打通任督二脉(专业知识)的双重难度
-* 以上两点所以你需要了解[厉害了我的国github英文版](https://github.com/github/gov-takedowns/tree/78775b09e64d85f08547287cab204b48b2491192)与[上网技巧](https://github.com/loremwalker/WebSiteUseful/blob/master/shawshank.md)多了解了解
+* 以上两点所以你需要了解[厉害了我的国github英文版](https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md)与[上网技巧](https://github.com/loremwalker/WebSiteUseful/blob/master/shawshank.md)多了解了解
 
 ## 新手入门教程下载地址：  
 [局域网毒盘极速下载](https://pan.baidu.com/s/1z6bKBbFKJH1nXWnqWNF0xQ#list/path=%2F)  
