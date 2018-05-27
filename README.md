@@ -32,8 +32,8 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 
 ## todo
 
-[x] 计划将项目部署在ipfs中
-[x] 计划修订fq-book
+- [x] 计划将项目部署在ipfs中
+- [x] 计划修订fq-book
 
 
 
