@@ -32,15 +32,15 @@
 ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)；在telegram上，发现[kindle群组](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
 
 
-## IPFS永久资源
+## IPFS永久且不可更改的资源
 
-* [IPFS - 该项目中科学上网的有关网址](https://ipfs.io/ipfs/QmXN5wx61hiVi38evqH5D25k7C9UVMAW6qsPLwjfCiaYjJ/)
+* [该项目中科学上网的有关网址](https://ipfs.io/ipfs/QmXN5wx61hiVi38evqH5D25k7C9UVMAW6qsPLwjfCiaYjJ/)
   * 短链接：http://bit.ly/2J0yC0a
 
-* [IPFS - 《这本书能让你连接互联网》](https://ipfs.io/ipfs/QmdpbwTtVjCuyKnXCxK2erj8WngYzhew4vo27r2FUZZXtR)
+* [《这本书能让你连接互联网》](https://ipfs.io/ipfs/QmdpbwTtVjCuyKnXCxK2erj8WngYzhew4vo27r2FUZZXtR)
   * 短链接：http://bit.ly/2IXjBw5
 
-* [IPFS - 本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/Qmc8YDx1xHWM3sLT1urdwhmF8ADmBXnjYUHmufRNcwc5nL)
+* [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/Qmc8YDx1xHWM3sLT1urdwhmF8ADmBXnjYUHmufRNcwc5nL)
   * 短链接：http://bit.ly/2IYaRWr
 
 
