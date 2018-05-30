@@ -40,10 +40,9 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 * [《这本书能让你连接互联网》](https://ipfs.io/ipfs/QmbSLsRFjQsYt1FtHV7GWbfQTvctGJFJiKKZNSwjfXsjD6/)
   * 短链接：https://tinyurl.com/ybkp4eqv
 
-<!--
-* [本项目与书籍源码以及其他等资源]()
-  * 短链接：
--->
+* [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/Qma3FrjpP2YcgTCXVTy35bz5kTqQgSyBxn1FXx6ddopT7c)
+  * 短链接：https://tinyurl.com/y7revjwy
+
 
 
 
