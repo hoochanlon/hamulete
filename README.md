@@ -34,10 +34,8 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 
 ## IPFS永久资源
 
-* [IPFS-该项目中科学上网的有关网址](http://bit.ly/2J0yC0a)
-- [x] 计划修订fq-book
-
-
+* [IPFS-该项目中科学上网的有关网址](https://ipfs.io/ipfs/QmXN5wx61hiVi38evqH5D25k7C9UVMAW6qsPLwjfCiaYjJ/)
+  * 短链接：http://bit.ly/2J0yC0a
 
 
 
