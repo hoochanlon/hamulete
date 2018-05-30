@@ -22,7 +22,6 @@
 * https://fast.ishadowx.net
 * https://en.ss8.fun
 * http://freeoutline.org/zh
-* https://52ssr.cn
 * https://ss.ishadowx.com
 * http://webosss.com/tool/socket
 * https://www.nutgeek.com/ssshadowsocks
@@ -68,14 +67,16 @@
 * ye515430@gmail.com (yitianjianss)
 * ss@rohankdd.com (free-ss.site)
 
-<!--
-已失效
+
+## 已失效
+
 https://shadowsocksph.space
 https://free.4kvpn.com
 https://freess.pw
 https://doub.loan
 https://freemz.tk/t/5
+https://52ssr.cn
 http://www.honsuv.com/?post=90
- https://newdoub.com
--->
+https://newdoub.com
+
 
