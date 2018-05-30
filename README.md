@@ -38,7 +38,7 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
   * 短链接：http://bit.ly/2J0yC0a
 
 * [IPFS-《这本书能让你连接互联网》](https://ipfs.io/ipfs/QmdpbwTtVjCuyKnXCxK2erj8WngYzhew4vo27r2FUZZXtR)
-  * 短链接：
+  * 短链接：http://bit.ly/2IXjBw5
 
 
 <!--书中已经提到，工具总会有过时的一天，但方法却可以一直用于实践，且特别对如何免费科学上网基本上已经写得很全了-->
