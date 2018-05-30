@@ -12,8 +12,6 @@
 * https://www.portssh.com/
 * https://www.jetssh.com/
 * https://sshudp.com/
-* https://www.vpnjantit.com/
-* https://www.fastssh.com/page/softether-servers
 
 附工具下载
 
