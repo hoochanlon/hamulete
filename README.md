@@ -40,7 +40,7 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 * [IPFS - 《这本书能让你连接互联网》](https://ipfs.io/ipfs/QmdpbwTtVjCuyKnXCxK2erj8WngYzhew4vo27r2FUZZXtR)
   * 短链接：http://bit.ly/2IXjBw5
 
-* [IPFS - 本项目与书籍源码资源](http://bit.ly/2IYaRWr)
+* [IPFS - 本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/Qmc8YDx1xHWM3sLT1urdwhmF8ADmBXnjYUHmufRNcwc5nL)
  * 短链接：http://bit.ly/2IYaRWr
 
 
