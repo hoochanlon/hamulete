@@ -70,13 +70,13 @@
 
 ## 已失效
 
-https://shadowsocksph.space
-https://free.4kvpn.com
-https://freess.pw
-https://doub.loan
-https://freemz.tk/t/5
-https://52ssr.cn
-http://www.honsuv.com/?post=90
+https://shadowsocksph.space  
+https://free.4kvpn.com  
+https://freess.pw  
+https://doub.loan  
+https://freemz.tk/t/5  
+https://52ssr.cn  
+http://www.honsuv.com/?post=90  
 https://newdoub.com
 
 
