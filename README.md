@@ -46,13 +46,6 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 -->
 
 
-<!--书中已经提到，工具总会有过时的一天，但方法却可以一直用于实践，且特别对如何免费科学上网基本上已经写得很全了-->
-
-<!--方式与技巧
-
-* [如何部署gitbook本书，以便离线阅读](https://github.com/loremwalker/fq-book/tree/gh-pages)
-* [基于gitbook发布《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)
--->
 
 
 <!--
