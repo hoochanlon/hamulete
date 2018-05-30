@@ -41,7 +41,7 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
   * 短链接：http://bit.ly/2IXjBw5
 
 * [IPFS - 本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/Qmc8YDx1xHWM3sLT1urdwhmF8ADmBXnjYUHmufRNcwc5nL)
- * 短链接：http://bit.ly/2IYaRWr
+  * 短链接：http://bit.ly/2IYaRWr
 
 
 <!--书中已经提到，工具总会有过时的一天，但方法却可以一直用于实践，且特别对如何免费科学上网基本上已经写得很全了-->
