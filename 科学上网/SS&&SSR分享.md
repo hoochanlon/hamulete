@@ -21,7 +21,6 @@
 
 * https://fast.ishadowx.net
 * https://en.ss8.fun
-* https://5l44.pw/
 * http://freeoutline.org/zh
 * https://ss.ishadowx.com
 * http://webosss.com/tool/socket
@@ -32,6 +31,7 @@
 ## 待定项
 
 * https://freessr.win
+* https://5l44.pw/
 * https://www.flyzy2005.com/fan-qiang/shadowsocks/free-ss-account/
 * https://biulink.xyz
 * http://www.ssrfx.com
