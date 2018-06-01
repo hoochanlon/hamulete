@@ -21,6 +21,7 @@
 
 * https://fast.ishadowx.net
 * https://en.ss8.fun
+* https://5l44.pw/
 * http://freeoutline.org/zh
 * https://ss.ishadowx.com
 * http://webosss.com/tool/socket
