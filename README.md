@@ -40,8 +40,8 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 * [《这本书能让你连接互联网》](https://ipfs.io/ipfs/QmagfFvXqPm7rkYvAn9Nty2peCQb87xzfMNBz3qJC6465b/)
   * 短链接：https://tinyurl.com/ycsv3mx3
 
-* [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/Qma3FrjpP2YcgTCXVTy35bz5kTqQgSyBxn1FXx6ddopT7c)
-  * 短链接：https://tinyurl.com/y7revjwy
+* [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/QmfJ4fVidT8K2SAwYeps7nESuh8qetTv8osGzRLisAdk2u)
+  * 短链接：https://tinyurl.com/y7rn5msj
 
 
 
