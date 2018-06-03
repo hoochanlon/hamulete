@@ -37,8 +37,8 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 * [该项目中科学上网的有关网址](https://ipfs.io/ipfs/QmbBEnXvpmgqTc7pMKAS2bvuMqPywfb9P8k4jhDn98WqpE/)
   * 短链接：https://tinyurl.com/yaz5fk6p
 
-* [《这本书能让你连接互联网》](https://ipfs.io/ipfs/QmagfFvXqPm7rkYvAn9Nty2peCQb87xzfMNBz3qJC6465b/)
-  * 短链接：https://tinyurl.com/ycsv3mx3
+* [《这本书能让你连接互联网》](http://ipfs.io/ipfs/QmVjsmq5T25H7uUgNiE9FaEqb2jXLButQsdVcyBv9Dorz4)
+  * 短链接：https://tinyurl.com/y8jmwmws
 
 * [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/QmfJ4fVidT8K2SAwYeps7nESuh8qetTv8osGzRLisAdk2u)
   * 短链接：https://tinyurl.com/y7rn5msj
