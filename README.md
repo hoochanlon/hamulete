@@ -41,7 +41,7 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
   * 短链接：https://tinyurl.com/y8jmwmws
 
 * [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/QmXiNySNyhJRB7L2xy78nw9ykAYrhf15b8PrQppdevFkzb)
-  * 短链接：
+  * 短链接：https://tinyurl.com/yddnpfwa
 
 
 
