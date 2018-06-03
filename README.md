@@ -40,14 +40,17 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 * [《这本书能让你连接互联网》](http://ipfs.io/ipfs/QmVjsmq5T25H7uUgNiE9FaEqb2jXLButQsdVcyBv9Dorz4)
   * 短链接：https://tinyurl.com/y8jmwmws
 
-* [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/QmfJ4fVidT8K2SAwYeps7nESuh8qetTv8osGzRLisAdk2u)
-  * 短链接：https://tinyurl.com/y7rn5msj
+
 
 
 
 
 
 <!--
+
+* [本项目与书籍源码以及其他等资源]()
+  * 短链接：
+
 ## 政治敏感
 
 关于墙作的恶实在太多了，懒得再说了，注释算了，看着实在不和谐，面对一个无下限的光伟正还能说什么呢？
