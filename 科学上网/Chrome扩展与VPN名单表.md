@@ -13,9 +13,6 @@ chrome代理插件|使用限制|
 |[skyZip proxy](https://nynex.de/tools/)|完全免费|
 |[ip unblock](http://ipunblock.com/)|完全免费|
 |[ininja Free Proxy](https://ininja.org)|完全免费|
-|[opera](https://www.opera.com/zh-cn)|完全免费|
-|[tor](https://www.torproject.org)|完全免费|
-
 
 ## VPN名单
 vpn|使用限制|
