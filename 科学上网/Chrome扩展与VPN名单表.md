@@ -9,6 +9,7 @@ chrome代理插件|使用限制|
 |[windscribe](https://chn.windscribe.com)|10G流量限制|
 |[privatix](https://privatix.com/)|免费|
 |[tuxler](https://tuxler.com/)|免费|
+|[setupvpn](https://setupvpn.com/)|免费|
 |[Better net](http://betternet.co/)|完全免费|
 |[skyZip proxy](https://nynex.de/tools/)|完全免费|
 |[ip unblock](http://ipunblock.com/)|完全免费|
