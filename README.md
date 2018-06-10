@@ -40,14 +40,14 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 * [《这本书能让你连接互联网》](https://ipfs.io/ipfs/QmPMx7hAanXSeTYY1xfVgiJyVZE1KLJTgiA1UXXYaHUqF7/)
   * 短链接：https://tinyurl.com/y7nhswog
 
-* [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/QmenvuU56cmfLnpphjdzWrPuvc484kbja7fLCsXaiJoU7q)
-  * 短链接：https://tinyurl.com/yc2u7upp
+
 
 
 
 <!--
 
-
+* [本项目与书籍源码以及其他等资源]()
+  * 短链接：
 
 ## 政治敏感
 
