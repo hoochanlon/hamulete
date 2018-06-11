@@ -34,8 +34,8 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 
 ## IPFS永久且不可更改的资源
 
-* [该项目中科学上网的有关网址](https://ipfs.io/ipfs/QmSiGAPMgkczaJTVAAwdAsTyZ5UT8evnVsNzpJ4z3scjit/)
-  * 短链接：https://tinyurl.com/yb4tjntx
+* [该项目中科学上网的有关网址](https://ipfs.io/ipfs/QmS994t3wJbMURtFq5ui3s8eJLGYoZtYHyG7kKGysmjh8z/)
+  * 短链接：https://tinyurl.com/ycqnkgc6
 
 * [《这本书能让你连接互联网》](https://ipfs.io/ipfs/QmQWRWNCdkusRG2Be4kggRcFEE6nmKhd4NpE4Dg1jx1Fwv/)
   * 短链接：https://tinyurl.com/y8b2n8bk
