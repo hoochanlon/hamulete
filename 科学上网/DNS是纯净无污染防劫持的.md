@@ -3,3 +3,5 @@
 * https://baidns.cn/
 
 * https://pdomo.me/
+
+* https://tuna.moe/help/dns/
