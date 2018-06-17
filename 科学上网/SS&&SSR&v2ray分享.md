@@ -15,7 +15,10 @@
 
 ### v2ray
 
-如果不嫌麻烦更安全的话，使用v2ray生成器将shadowsocks配置可以转换成v2ray的配置文件
+https://v2ray.cat/
+
+v2ray的账号分享站点目前较少
+
 
 ## 可用站点
 
