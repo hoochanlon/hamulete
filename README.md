@@ -29,7 +29,10 @@
 
 这一切的一切都在基于docsify生成的[《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/loremwalker/fq-book)进行相关部署。
 
-ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)；在telegram上，发现[kindle群组](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
+ps：
+* 关于项目作者的个人博客 https://loremwalker.github.io
+* 如有疑问或好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)
+* 在telegram上，发现[kindle群组](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
 
 
 ## IPFS永久且不可更改的资源
@@ -42,7 +45,6 @@ ps：如有疑问或好的网址请发issues，关于[issue请参考这个模板
 
 * [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/QmYJ3orhWEJfpCCQr3BDLBCsMT6EFnDz1bnAjrMeQ7qdy7)
   * 短链接：https://tinyurl.com/ydxylng9
-
 
 
 <!--
