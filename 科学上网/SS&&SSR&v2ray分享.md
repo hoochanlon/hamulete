@@ -25,6 +25,7 @@ v2ray的账号分享站点目前较少
 * https://fast.ishadowx.net
 * https://shadowsocksr.cat/
 * https://en.ss8.fun
+* https://ss.freess.org/
 * http://freeoutline.org/zh
 * https://ss.ishadowx.com
 * http://webosss.com/tool/socket
