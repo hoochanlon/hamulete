@@ -4,7 +4,7 @@
  * https://g.zmirrordemo.com
  * https://www.gotype.tk
  * http://www.hlhmf.com/
- * https://cn.bing.com/translator/
+ 
 
 ## YouTube
 * https://ytb-pc.zmirrordemo.com
