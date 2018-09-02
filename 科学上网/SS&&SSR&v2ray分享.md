@@ -19,10 +19,6 @@ https://v2ray.cat/
 
 v2ray的账号分享站点目前较少
 
-## 搜索相似的网站
-
-https://www.similarsites.com
-
 ## 可用站点
 
 * https://fast.ishadowx.net
@@ -77,6 +73,9 @@ https://www.similarsites.com
 * ye515430@gmail.com (yitianjianss)
 * ss@rohankdd.com (free-ss.site)
 
+## 搜索相似的网站
+
+https://www.similarsites.com
 
 ## 已失效
 
