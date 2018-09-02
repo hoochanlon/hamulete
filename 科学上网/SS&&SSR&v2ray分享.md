@@ -13,7 +13,7 @@
 
 提示Application error，是由于访问量占用内存溢出或因各项服务流量耗尽而停止服务
 
-## 如果遇到打不开的站点请参考这个教程
+## 如果遇到打不开的站点请参考这个教程（推荐）
 
 * https://loremwalker.github.io/fq-book
 * https://loremwalker.github.io/fq-book/#/dns&hosts/dnscrypt
@@ -30,7 +30,6 @@ v2ray的账号分享站点目前较少
 * https://shadowsocksr.cat/
 * https://en.ss8.fun
 * https://ss.freess.org/
-* http://freeoutline.org/zh
 * https://ss.ishadowx.com
 * http://webosss.com/tool/socket
 * https://www.nutgeek.com/ssshadowsocks
@@ -62,9 +61,11 @@ v2ray的账号分享站点目前较少
 * https://doub.io 
 * https://free-ss.site
 * https://global.ishadowx.net
+* http://www.52ssr.net/
 * http://i.wuw.red 
 * https://freess.cx
 * https://free.yitianjianss.com
+* http://freeoutline.org/zh
 
 ## ssr订阅源
 * https://www.nutgeek.cn/newsubscribe/
