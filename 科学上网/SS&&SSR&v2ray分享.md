@@ -15,7 +15,6 @@
 
 ## 如果遇到打不开的站点请参考这个教程（推荐）
 
-* https://loremwalker.github.io/fq-book
 * https://loremwalker.github.io/fq-book/#/dns&hosts/dnscrypt
 
 ### v2ray
