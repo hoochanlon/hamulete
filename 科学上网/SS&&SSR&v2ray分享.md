@@ -19,6 +19,9 @@ https://v2ray.cat/
 
 v2ray的账号分享站点目前较少
 
+## 搜索相似的网站
+
+https://www.similarsites.com
 
 ## 可用站点
 
