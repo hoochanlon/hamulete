@@ -13,9 +13,9 @@
 
 提示Application error，是由于访问量占用内存溢出或因各项服务流量耗尽而停止服务
 
-## 如果遇到打不开的站点请参考这个教程（推荐）
+### 如果遇到打不开的站点请参考这个教程（推荐）
 
-* https://loremwalker.github.io/fq-book/#/dns&hosts/dnscrypt
+ https://loremwalker.github.io/fq-book/#/dns&hosts/dnscrypt
 
 ### v2ray
 
