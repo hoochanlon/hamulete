@@ -18,3 +18,4 @@ Kindle电子书：
 
 * http://127.0.0.1:43110/1NzWeweqJ32aRVdM5UzFnYCszuvG5xV3vS
 
+[关于为什么是127.0.0.1，请看这里，也请自行了解零网，不要发起不必要的issue](https://github.com/loremwalker/WebSiteUseful/issues/8)
