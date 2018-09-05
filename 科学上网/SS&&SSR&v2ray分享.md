@@ -54,6 +54,7 @@ v2ray的账号分享站点目前较少
 
 ## 科学访问
 * https://www.ssrshare.com
+* https://fangeqiang.com/408.html
 * https://get.ishadowx.net
 * https://get.freess.today
 * https://tool.ssrshare.com/tool/free_ssr
