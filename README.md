@@ -46,28 +46,18 @@ ps：
 * [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/QmYJ3orhWEJfpCCQr3BDLBCsMT6EFnDz1bnAjrMeQ7qdy7)
   * 短链接：https://tinyurl.com/ydxylng9
 
+## 致谢
 
-<!--
+没有他们可能这个 repo 以及 book 也许做不成如今的样子，也不可能得到这么多的关注，再此本人表示感谢：
 
+* Charles Xu、 zc-zh-001 在 heroku 平台上搭建项目网站期间提供的帮助
+* onplus 对 v2hero 简化教程的建议并提到 v2hero 项目 issues 上
+* ssrshare版主提供的论坛平台进行推广
+* ImLaoD 对此项目的关注以及建议
+* jasonliul 提供的一些 v2ray 或 SSH 账号的网址
+* 长期提供免费稳定账号资源的相关站长
+* 豆豆兵tech在youtube视频中对此项目的推荐
+* 安全乐谷的关注（已在GitHub互粉）以及部分内容收录进博客
+* 还有我的学生对 book 中的项目提交的反馈
 
-
-## 政治敏感
-
-关于墙作的恶实在太多了，懒得再说了，注释算了，看着实在不和谐，面对一个无下限的光伟正还能说什么呢？
-
-GFW
-
-[防火长城-维基百科](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)
-
-BBC新闻
-
-[普京利用中国防火墙技术控制俄罗斯网络](http://www.bbc.com/zhongwen/simp/china/2016/11/161129_russia_china_internet)
-
-知识讨论
-
-<s>[知乎：VPN与DNS 有什么联系？有什么区别？](https://www.zhihu.com/question/37647950)</s>
-
-github管理员删除公告
-
-[中国互联网协会要求github删除相关政治人物信息](https://github.com/github/gov-takedowns/blob/78775b09e64d85f08547287cab204b48b2491192/China/2016/2016-06-08-programthink-zhao.md)
--->
+对此十分的感谢
