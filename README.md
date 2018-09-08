@@ -52,10 +52,9 @@ ps：
 
 * Charles Xu、 zc-zh-001 在 heroku 平台上搭建项目网站期间提供的帮助
 * onplus 对 v2hero 简化教程的建议并提到 v2hero 项目 issues 上
-* ssrshare版主提供的论坛平台进行推广
+* ssrshare版主提供的论坛平台进行推广，还有其他长期提供免费账号的相关站长
 * ImLaoD 对此项目的关注以及建议
 * jasonliul 提供的一些 v2ray 或 SSH 账号的网址
-* 长期提供免费稳定账号资源的相关站长
 * 豆豆兵tech在youtube视频中对此项目的推荐
 * 安全乐谷的关注（已在GitHub互粉）以及部分内容收录进博客
 * 还有我的学生对 book 中的项目提交的反馈
