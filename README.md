@@ -58,6 +58,6 @@ ps：
 * onplus 对 v2hero 简化教程的建议并提到 v2hero 项目 issues 上
 * ssrshare版主提供的论坛平台进行推广，还有其他长期提供免费账号的相关站长
 * ImLaoD 对此项目的关注以及建议，jasonliul 提供的一些 v2ray 或 SSH 账号的网址
-* 还有我的学生 rrn21833 对 book 中的项目提交的反馈
+* 千狐工作室 kilofox 和我的学生 rrn21833 对 book 的试读及搭建发布项目操作进行的反馈
 
 对此表示再次的十分感谢，谢谢你们
