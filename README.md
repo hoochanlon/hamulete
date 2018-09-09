@@ -48,7 +48,7 @@ ps：
 
 ## 致谢
 
-没有他们可能这个 repo 以及 book 也许做不成如今的样子，也不可能得到这么多的关注，再此本人表示感谢：
+没有他们可能这个 repo 以及 book 也许做不成如今的样子，也不可能得到这么多的关注，本人在此表示感谢：
 
 * kindle群组 zebook 群主在此项目早期接受我的request pull合作编写README.md
 * slack 的 donaldnromero 提供无条件的文档支持
