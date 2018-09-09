@@ -50,7 +50,7 @@ ps：
 
 没有他们可能这个 repo 以及 book 也许做不成如今的样子，也不可能得到这么多的关注，本人在此表示感谢：
 
-* kindle群组 zebook 群主在书群项目接受我的request pull合作编写README.md并推广此 repo
+* zebook 群主在kindle书群项目接受我的request pull合作编写README.md并推广此 repo
 * slack 的 donaldnromero 提供无条件的文档支持
 * 豆豆兵tech在youtube视频中对此项目的推荐
 * 安全乐谷的关注（已在GitHub互粉）以及部分内容收录进博客
