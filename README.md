@@ -32,7 +32,7 @@ btw，每天时常进行书籍的整理与归纳，还有负责打扫卫生可�
 这一切的一切都在基于docsify生成的[《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/loremwalker/fq-book)进行相关部署。
 
 ps：
-* 访问项目作者的[个人博客](https://loremwalker.github.io)或<a href="mailto:loremwalker.hotmail.com">发送邮件@me</a>
+* 访问[项目作者的个人博客](https://loremwalker.github.io)或<a href="mailto:loremwalker.hotmail.com">发送邮件@me</a>
 * 如有疑问或好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)
 * 在telegram上，发现[kindle电子读书会](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
 
