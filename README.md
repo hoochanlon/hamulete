@@ -50,7 +50,7 @@ ps：
 
 没有他们可能这个 repo 以及 book 也许做不成如今的样子，也不可能得到这么多的关注，再此本人表示感谢：
 
-* kindle电子读书会电报群主 zebook 在项目早期的request pull合作编写md
+* kindle电子读书会电报群主 zebook 在项目早期的request pull合作编写README.md
 * 豆豆兵tech在youtube视频中对此项目的推荐
 * 安全乐谷的关注（已在GitHub互粉）以及部分内容收录进博客
 * Charles Xu、 zc-zh-001 在 heroku 平台上搭建项目网站期间提供的帮助
