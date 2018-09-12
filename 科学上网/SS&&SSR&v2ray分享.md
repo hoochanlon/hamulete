@@ -13,6 +13,10 @@
 
 提示Application error，是由于访问量占用内存溢出或因各项服务流量耗尽而停止服务
 
+### 关于爬虫站点
+
+搭建的ss分享爬虫站点所爬取到的部分免费账号存在付费代理宣传内容，请自行分辨，谨防被骗
+
 ### 如果遇到打不开的站点请参考这个教程（推荐）
 
  https://loremwalker.github.io/fq-book/#/dns&hosts/dnscrypt
