@@ -74,6 +74,10 @@ v2ray的账号分享站点目前较少
 * http://share-shadowsocksr.herokuapp.com/subscribe?valid=1
 * https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
 
+## telegram
+
+https://t.me/freeshadowsock
+
 ## 分享邮箱
 * toyoooooooooooo@gmail.com (doub.io)
 * ye515430@gmail.com (yitianjianss)
