@@ -78,6 +78,7 @@ v2ray的账号分享站点目前较少
 
 https://t.me/freeshadowsock  
 https://t.me/gyjclub  
+https://t.me/joinchat/AAAAAEvnT-th4YKBWoUjFw
 
 ## 分享邮箱
 * toyoooooooooooo@gmail.com (doub.io)
