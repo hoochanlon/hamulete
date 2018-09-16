@@ -47,7 +47,6 @@ v2ray的账号分享站点目前较少
 * http://www.ssrfx.com
 * http://www.vpn168.tk
 * https://pdf-lib.org/Home/Details/2638
-* https://github.com/ssstk/freess
 
 ## 镜像站点
 
