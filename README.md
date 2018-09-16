@@ -32,7 +32,7 @@ btw，因每天时常进行书籍的整理与归纳，还有负责打扫卫生�
 这一切的一切都在基于docsify生成的[《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/loremwalker/fq-book)进行相关部署。
 
 ps：
-* 访问[项目作者的个人博客](https://loremwalker.github.io)或<a href="mailto:loremwalker.hotmail.com">发送邮件@me</a>
+* 访问[项目作者的个人博客](https://loremwalker.github.io)
 * 如有疑问或好的网址请发issues，关于[issue请参考这个模板](https://github.com/loremwalker/WebSiteUseful/blob/master/ISSUE_TEMPLATE.md)
 * 在telegram上，发现[kindle电子读书会](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
 * [repo 的测试性说明](/Test/测试性说明.md)
@@ -50,6 +50,66 @@ ps：
   * 短链接：https://tinyurl.com/ydxylng9
 
 ## 致谢
+
+感谢以下诸位对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助。若是愿意加入此名单中，<a href="mailto:loremwalker.hotmail.com">可发送邮件@me</a>
+
+
+
+<a href="https://github.com/zc-zh-001">
+    <img src="https://avatars3.githubusercontent.com/u/34836102?s=400&v=4" width="50px">
+</a> 
+
+<a href="https://github.com/xiaomingdaily">
+    <img src="https://avatars0.githubusercontent.com/u/17198976?s=400&v=4" width="50px">
+</a>
+
+<a href="https://github.com/the0demiurge">
+    <img src="https://avatars2.githubusercontent.com/u/11363529?s=400&v=4" width="50px">
+</a>
+
+<a href="https://github.com/zebook">
+    <img src="https://avatars2.githubusercontent.com/u/37998749?s=400&v=4" width="50px">
+</a> 
+
+<a href="https://github.com/onplus">
+    <img src="https://avatars0.githubusercontent.com/u/31188782?s=400&v=4" width="50px">
+</a>
+
+
+<a href="https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg">
+    <img src="https://yt3.ggpht.com/a-/AN66SAyME4VUGayP4FFwaOXZ6Y--vhZco5ur2o1GAw=s288-mo-c-c0xffffffff-rj-k-no" width="50px">
+</a>
+
+<a href="https://www.ssrshare.com/threads/pac.527/">
+    <img src="https://www.ssrshare.com/data/avatars/l/0/1.jpg?1519809172" width="50px">
+</a> 
+
+<a href="https://github.com/jasonliul">
+    <img src="https://avatars2.githubusercontent.com/u/2461165?s=400&v=4" width="50px">
+</a>
+
+<a href="https://github.com/ImLaoD">
+    <img src="https://avatars3.githubusercontent.com/u/10679055?s=400&v=4" width="50px">
+</a>
+
+<a href="https://github.com/rrn21833">
+    <img src="https://avatars2.githubusercontent.com/u/37966911?s=400&v=4" width="50px">
+</a>
+
+<a href="https://github.com/kilofox">
+    <img src="https://avatars0.githubusercontent.com/u/1018625?s=400&v=4" width="50px">
+</a>
+
+
+<a href="https://github.com/w568w">
+    <img src="https://avatars3.githubusercontent.com/u/8389787?s=400&v=4" width="50px">
+</a>
+
+<a href="https://github.com/loremwalker">
+    <img src="https://avatars1.githubusercontent.com/u/35732922?s=400&u=860437c0da02d577fdd546c8f3bfd305539c388f&v=4" width="50px">
+</a>
+
+
 <!--
 
 没有他们可能这个 repo 以及 book 也许做不成如今的样子，也不可能得到这么多的关注，本人在此表示感谢：
