@@ -31,7 +31,6 @@ v2ray的账号分享站点目前较少
 
 * https://fast.ishadowx.net
 * https://shadowsocksr.cat/
-* https://en.ss8.fun
 * https://ss.freess.org/
 * https://ss.ishadowx.com
 * http://webosss.com/tool/socket
@@ -41,7 +40,6 @@ v2ray的账号分享站点目前较少
 
 ## 待定项
 
-* https://freessr.win
 * http://zgqx.gq/
 * https://5l44.pw/
 * https://www.flyzy2005.com/fan-qiang/shadowsocks/free-ss-account/
@@ -102,6 +100,7 @@ https://doub.loan
 https://freemz.tk/t/5  
 https://52ssr.cn  
 http://www.honsuv.com/?post=90  
-https://newdoub.com
-
-
+https://newdoub.com  
+https://en.ss8.fun  
+https://freessr.win  
+ 
