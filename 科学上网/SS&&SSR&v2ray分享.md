@@ -39,7 +39,6 @@ v2ray的账号分享站点目前较少
 
 ## 待定项
 
-* http://zgqx.gq/
 * https://5l44.pw/
 * https://www.flyzy2005.com/fan-qiang/shadowsocks/free-ss-account/
 * https://biulink.club/
