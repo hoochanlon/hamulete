@@ -48,7 +48,6 @@ v2ray的账号分享站点目前较少
 
 * https://www.flyzy2005.com/fan-qiang/shadowsocks/free-ss-account/
 * https://biulink.club/
-* http://www.ssrfx.com
 * https://pdf-lib.org/Home/Details/2638
 
 ## 镜像站点
@@ -108,3 +107,4 @@ https://en.ss8.fun
 https://freessr.win  
 http://www.vpn168.tk
 https://5l44.pw/
+http://www.ssrfx.com
