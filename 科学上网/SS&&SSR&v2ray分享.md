@@ -22,6 +22,10 @@
 可解DNS污染，对封IP的站点无效，ss分享站点被封ip的可能性，感觉也倾向性也开始...已经很大了
 
  https://loremwalker.github.io/fq-book/#/dns&hosts/dnscrypt
+ 
+如果斩草除根是不是该这样呢？
+
+https://loremwalker.github.io/fq-book/#/append/get-method
 
 ### v2ray
 
