@@ -63,7 +63,7 @@ v2ray的账号分享站点目前较少
 * https://free-ss.site
 * https://global.ishadowx.net
 * http://www.52ssr.net/
-* http://i.wuw.red 
+* https://www.wuwweb.com/
 * https://freess.cx
 * https://free.yitianjianss.com
 * http://freeoutline.org/zh
