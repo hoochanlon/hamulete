@@ -30,7 +30,7 @@ v2ray的账号分享站点目前较少
 ## 可用站点
 
 * https://fast.ishadowx.net
-* https://shadowsocksr.cat/
+
 * https://ss.freess.org/
 * https://ss.ishadowx.com
 * http://webosss.com/tool/socket
@@ -92,6 +92,7 @@ https://www.similarsites.com
 
 ## 已失效
 
+https://shadowsocksr.cat/
 https://shadowsocksph.space  
 https://free.4kvpn.com  
 https://freess.pw  
