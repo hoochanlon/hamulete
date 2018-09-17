@@ -88,8 +88,8 @@ https://www.similarsites.com
 
 ## 已失效
 
-https://freess.cx
-https://shadowsocksr.cat/
+https://freess.cx  
+https://shadowsocksr.cat/  
 https://shadowsocksph.space  
 https://free.4kvpn.com  
 https://freess.pw  
