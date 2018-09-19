@@ -54,6 +54,7 @@ v2ray的账号分享站点目前较少
 * https://gdmi.weebly.com/3118523398online.html
 * https://pdf-lib.org/Home/Details/2638
 * https://freessr.win
+* https://blog.mxpkx.com/index.php/archives/118/
 
 ## 镜像站点
 
