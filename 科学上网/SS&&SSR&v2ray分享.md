@@ -30,6 +30,7 @@ https://loremwalker.github.io/fq-book/#/append/get-method
 ### v2ray
 
 https://v2ray.cat/
+https://v2ray.party/
 
 v2ray的账号分享站点目前较少
 
@@ -39,15 +40,16 @@ v2ray的账号分享站点目前较少
 * https://ss.freess.org/
 * https://ss.ishadowx.com
 * http://webosss.com/tool/socket
+* https://free.gyteng.com/
 * https://www.nutgeek.com/ssshadowsocks
 * https://share-shadowsocksr.herokuapp.com
 * https://share-shadowsocks.herokuapp.com 
 
 ## 待定项
 
-
-* https://www.flyzy2005.com/fan-qiang/shadowsocks/free-ss-account/
 * https://biulink.club/
+* https://www.flyzy2005.com/fan-qiang/shadowsocks/free-ss-account/
+* https://gdmi.weebly.com/3118523398online.html
 * https://pdf-lib.org/Home/Details/2638
 
 ## 镜像站点
