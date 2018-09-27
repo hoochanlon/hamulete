@@ -9,3 +9,11 @@
 ## 代理网址服务器列表
 * http://free-proxy.cz
 * http://www.freeproxylists.net
+* http://free-proxy-list.net
+* http://www.my-proxy.com/free-proxy-list.html
+* http://www.proxylists.net
+* http://sockslist.net
+* http://www.myiptest.com/staticpages/index.php/Free-SOCKS5-SOCKS4-Proxy-lists.html
+* http://www.proxyfire.net/index.php?pageid=ProxyLists
+* http://www.proxytm.com/index.html
+* http://www.samair.ru/proxy
