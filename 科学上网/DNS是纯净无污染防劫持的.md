@@ -4,6 +4,8 @@
 
 * http://www.freenom.world/zh/index.html
 
+* https://www.opendns.com/
+
 * https://dns.yandex.com/
 
 * https://www.publicdns.xyz/public/puntcat.html
