@@ -2,6 +2,8 @@
 
 * https://1.1.1.1/
 
+* http://www.freenom.world/zh/index.html
+
 * https://www.publicdns.xyz/public/puntcat.html
 
 * https://pdomo.me/
