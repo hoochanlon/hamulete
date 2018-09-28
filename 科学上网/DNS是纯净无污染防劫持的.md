@@ -4,6 +4,8 @@
 
 * http://www.freenom.world/zh/index.html
 
+* https://dns.yandex.com/
+
 * https://www.publicdns.xyz/public/puntcat.html
 
 * https://pdomo.me/
