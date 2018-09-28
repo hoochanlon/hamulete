@@ -4,6 +4,8 @@
 * https://www.anyproxy.cn
 * https://www.anyproxy.top (挂了)
 * https://cn.bing.com/translator/ (挂了)
+* https://proxy.zagon.net.pe
+* https://unblocksite.site/
 
 
 ## 代理网址服务器列表
