@@ -4,6 +4,8 @@
 
 * http://www.chromeliulanqi.com/
 
+* http://www.chrome.hk.cn/
+
 
 ## chrome扩展下载
 
