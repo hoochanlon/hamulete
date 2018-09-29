@@ -116,5 +116,5 @@ ps：
 
 ## 友情链接
 
-* [蚂蚁下载站 chrome原版镜像下载站](http://www.chromeliulanqi.com/)
+* [蚂蚁下载站 chrome原版镜像下载](http://www.chromeliulanqi.com/)
 
