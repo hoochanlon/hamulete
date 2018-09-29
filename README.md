@@ -114,21 +114,7 @@ ps：
     <img src="https://avatars1.githubusercontent.com/u/35732922?s=400&u=860437c0da02d577fdd546c8f3bfd305539c388f&v=4" width="50px">
 </a>
 
+## 友情链接
 
-<!--
+* [蚂蚁下载站 chrome原版镜像下载站](http://www.chromeliulanqi.com/)
 
-没有他们可能这个 repo 以及 book 也许做不成如今的样子，也不可能得到这么多的关注，本人在此表示感谢：
-
-* zebook 群主在kindle书群项目接受我的request pull合作编写README.md并推广此 repo
-* donaldnromero 在 slack 平台上提供无条件的文档支持
-* 豆豆兵tech在youtube视频中对此项目的推荐
-* 安全乐谷的关注（已在GitHub互粉）以及部分内容收录进博客
-* Charles Xu、 zc-zh-001 在 heroku 平台上搭建项目网站期间提供的帮助
-* onplus 对 v2hero 简化教程的建议并提到 v2hero 项目 issues 上
-* ssrshare版主提供的论坛平台进行推广，还有其他长期提供免费账号的相关站长
-* ImLaoD 对此项目的关注以及建议，jasonliul 提供的一些 v2ray 或 SSH 账号的网址
-* 千狐工作室创办人 kilofox 和我的学生 rrn21833 对 book 的试读及搭建发布项目操作进行的反馈
-
-对此表示再次的十分感谢，谢谢你们
-
--->
