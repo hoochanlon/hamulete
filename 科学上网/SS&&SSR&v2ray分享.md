@@ -75,6 +75,7 @@ v2ray的账号分享站点目前较少
 * https://www.wuwweb.com/
 * https://free.yitianjianss.com
 * http://freeoutline.org/zh
+* https://www.puffss.com/
 
 ## ssr订阅源
 * https://www.nutgeek.cn/newsubscribe/
