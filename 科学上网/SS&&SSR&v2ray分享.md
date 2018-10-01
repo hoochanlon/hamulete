@@ -55,6 +55,7 @@ v2ray的账号分享站点目前较少
 * https://pdf-lib.org/Home/Details/2638
 * https://freessr.win
 * https://blog.mxpkx.com/index.php/archives/118/
+* http://freefq.com/ss/
 
 ## 镜像站点
 
