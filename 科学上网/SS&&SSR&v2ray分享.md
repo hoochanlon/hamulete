@@ -74,7 +74,6 @@ v2ray的账号分享站点目前较少
 * http://www.52ssr.net/
 * https://www.wuwweb.com/
 * https://free.yitianjianss.com
-* http://freeoutline.org/zh
 * https://www.puffss.com/
 
 ## ssr订阅源
@@ -114,3 +113,4 @@ https://en.ss8.fun
 http://www.vpn168.tk  
 https://5l44.pw/  
 http://www.ssrfx.com  
+http://freeoutline.org/zh
