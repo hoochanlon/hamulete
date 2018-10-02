@@ -1,3 +1,7 @@
+## 示例教程
+
+https://loremwalker.github.io/fq-book/#/browse/chrome
+
 ## chrome下载
 
 * https://repo.fdzh.org/chrome/exe/
