@@ -51,6 +51,7 @@ v2ray的账号分享站点目前较少
 
 ## 待定项
 
+* https://www.vpn168.net
 * https://biulink.club/
 * https://www.flyzy2005.com/fan-qiang/shadowsocks/free-ss-account/
 * http://www.scdark.cn/?p=363
