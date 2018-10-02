@@ -48,6 +48,7 @@ v2ray的账号分享站点目前较少
 * https://www.nutgeek.com/ssshadowsocks
 * https://share-shadowsocksr.herokuapp.com
 * https://share-shadowsocks.herokuapp.com 
+* https://www.freevpn.pw/zh-cn/
 
 ## 待定项
 
