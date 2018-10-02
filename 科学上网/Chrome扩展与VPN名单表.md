@@ -1,6 +1,8 @@
 
 ## chrome代理插件清单
 
+可能因政策调整，使用限制的策略会发生变化，以下仅供参考
+
 chrome代理插件|使用限制|
 |:-:|:-:|
 |[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)|需要有服务器支持并手动配置参数|
