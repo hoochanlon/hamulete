@@ -49,6 +49,20 @@ v2ray的账号分享站点目前较少
 * https://share-shadowsocksr.herokuapp.com
 * https://share-shadowsocks.herokuapp.com 
 * https://www.freevpn.pw/zh-cn/
+* https://www.ssrshare.com
+* https://fangeqiang.com/408.html
+* https://get.ishadowx.net
+* https://get.freess.today
+* https://tool.ssrshare.com/tool/free_ssr
+* https://doub.io 
+* https://free-ss.site
+* https://global.ishadowx.net
+* http://www.52ssr.net/
+* https://www.wuwweb.com/
+* https://free.yitianjianss.com
+* https://www.puffss.com/
+
+
 
 ## 待定项
 
@@ -67,6 +81,7 @@ v2ray的账号分享站点目前较少
 * https://trial.ssbit.win
 * http://free-ss.tk
 
+<!--
 ## 科学访问
 * https://www.ssrshare.com
 * https://fangeqiang.com/408.html
@@ -80,7 +95,7 @@ v2ray的账号分享站点目前较少
 * https://www.wuwweb.com/
 * https://free.yitianjianss.com
 * https://www.puffss.com/
-
+-->
 ## ssr订阅源
 * https://www.nutgeek.cn/newsubscribe/
 * https://prom-php.herokuapp.com/cloudfra_ssr.txt
