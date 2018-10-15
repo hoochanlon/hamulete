@@ -35,7 +35,7 @@ https://loremwalker.github.io/fq-book/#/append/get-method
 
 v2ray的账号分享站点目前较少
 
-## 可用站点
+## 请参考fq-book中的教程再访问如下站点
 
 * https://fast.ishadowx.net
 * http://52ss.fun/
