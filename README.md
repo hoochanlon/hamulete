@@ -52,7 +52,7 @@ ps：
 
 ## 致谢
 
-感谢以下诸位对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助。若是愿意加入此名单中，<a href="mailto:loremwalker.hotmail.com">可发送邮件@me</a>
+感谢以下诸位对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助。</a>
 
 
 
