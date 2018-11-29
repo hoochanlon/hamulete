@@ -31,6 +31,7 @@ https://loremwalker.github.io/fq-book/#/append/get-method
 
 * https://v2ray.cat/ 
 * https://v2ray.party/
+* https://v2fire.tk/
 * https://get.freev2ray.com/
 
 v2ray的账号分享站点目前较少
