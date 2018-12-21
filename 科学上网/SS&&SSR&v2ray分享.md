@@ -56,7 +56,6 @@ v2ray的账号分享站点目前较少
 * https://get.ishadowx.net
 * https://get.freess.today
 * https://tool.ssrshare.com/tool/free_ssr
-* https://doub.io 
 * https://free-ss.site
 * https://global.ishadowx.net
 * http://www.52ssr.net/
@@ -122,6 +121,7 @@ https://www.similarsites.com
 
 ## 已失效
 
+https://doub.io 
 https://freess.cx  
 https://shadowsocksph.space  
 https://free.4kvpn.com  
