@@ -89,7 +89,7 @@ ps：
     <img src="https://avatars2.githubusercontent.com/u/2461165?s=400&v=4" width="50px">
 </a>
 
-<a href="https://github.com/ImLaoD">
+<a href="https://github.com/AmazingDM">
     <img src="https://avatars3.githubusercontent.com/u/10679055?s=400&v=4" width="50px">
 </a>
 
