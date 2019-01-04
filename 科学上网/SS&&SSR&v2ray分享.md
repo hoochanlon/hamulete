@@ -70,6 +70,7 @@ v2ray的账号分享站点目前较少
 * https://www.vpn168.net
 * https://biulink.club/
 * https://www.flyzy2005.com/fan-qiang/shadowsocks/free-ss-account/
+* https://free.ss-ssr.com/
 * http://www.scdark.cn/?p=363
 * https://gdmi.weebly.com/3118523398online.html
 * https://pdf-lib.org/Home/Details/2638
