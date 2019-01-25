@@ -13,6 +13,8 @@ https://loremwalker.github.io/fq-book/#/browse/chrome
 
 ## chrome扩展下载
 
+* https://www.webappbus.com/res/crxhelp.zip
+
 * https://chrome-extension-downloader.com/
 
 * https://173app.com/chrome-ext
