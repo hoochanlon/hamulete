@@ -81,6 +81,10 @@ ps：
     <img src="https://yt3.ggpht.com/a-/AN66SAyME4VUGayP4FFwaOXZ6Y--vhZco5ur2o1GAw=s288-mo-c-c0xffffffff-rj-k-no" width="50px">
 </a>
 
+<a href="https://www.youtube.com/channel/UCKLhwl-rqnv1PhbYVekDGkg">
+    <img src="https://yt3.ggpht.com/a-/AAuE7mAW-yhARUMn32Z0uADVPFuCuitGSC2NH4KEug=s288-mo-c-c0xffffffff-rj-k-no" width="50px">
+</a>
+
 <a href="https://www.ssrshare.com/threads/pac.527/">
     <img src="https://www.ssrshare.com/data/avatars/l/0/1.jpg?1519809172" width="50px">
 </a> 
