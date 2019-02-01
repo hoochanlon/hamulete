@@ -98,13 +98,17 @@ v2ray的账号分享站点目前较少
 * https://free.yitianjianss.com
 * https://www.puffss.com/
 -->
+
+## v2ray订阅源
+
+* https://raw.githubusercontent.com/AmazingDM/sub/master/v2ray_ssrshare.com
+
 ## ssr订阅源
 * https://www.nutgeek.cn/newsubscribe/
 * https://prom-php.herokuapp.com/cloudfra_ssr.txt
 * http://share-shadowsocks.herokuapp.com/full/subscribe
 * http://share-shadowsocksr.herokuapp.com/subscribe?valid=1
-* https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com
-
+* https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
 ## telegram 订阅
 
 https://t.me/freeshadowsock  
