@@ -116,7 +116,7 @@ https://t.me/gyjclub
 https://t.me/joinchat/AAAAAEvnT-th4YKBWoUjFw
 
 ## 分享邮箱
-* toyoooooooooooo@gmail.com (doub.io)
+<s> * toyoooooooooooo@gmail.com (doub.io)</s>
 * ye515430@gmail.com (yitianjianss)
 * ss@rohankdd.com (free-ss.site)
 
