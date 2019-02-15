@@ -28,9 +28,9 @@
 https://loremwalker.github.io/fq-book/#/append/get-method
 
 
-## it makes no sense
+## 妙笔言
 
-* http://35.243.138.200/ 妙笔言
+* http://softpen.net 妙笔言
 
 ### v2ray
 
