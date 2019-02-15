@@ -110,6 +110,8 @@ v2ray的账号分享站点目前较少
 * http://share-shadowsocks.herokuapp.com/full/subscribe
 * http://share-shadowsocksr.herokuapp.com/subscribe?valid=1
 * https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
+* https://yzzz.ml/freessr
+
 ## telegram 订阅
 
 https://t.me/freeshadowsock  
