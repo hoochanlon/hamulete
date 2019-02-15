@@ -31,6 +31,7 @@ https://loremwalker.github.io/fq-book/#/append/get-method
 
 * https://v2ray.cat/ 
 * https://v2ray.party/
+* https://my.freev2ray.org/
 * https://v2fire.tk/
 * https://get.freev2ray.com/
 
