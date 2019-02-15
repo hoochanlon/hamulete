@@ -142,3 +142,9 @@ http://www.vpn168.tk
 https://5l44.pw/  
 http://www.ssrfx.com  
 http://freeoutline.org/zh
+
+## 付费保留（观察）
+
+可能到时候会用到的付费节点，虽然上网一直是白嫖，付费来说，个人用vpn的可能性更大些
+
+https://rixcloud.me/
