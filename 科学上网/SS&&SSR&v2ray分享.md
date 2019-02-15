@@ -27,6 +27,11 @@
 
 https://loremwalker.github.io/fq-book/#/append/get-method
 
+
+## it makes no sense
+
+* http://35.243.138.200/ 妙笔言
+
 ### v2ray
 
 * https://v2ray.cat/ 
@@ -63,7 +68,6 @@ v2ray的账号分享站点目前较少
 * https://www.wuwweb.com/
 * https://free.yitianjianss.com
 * https://www.puffss.com/
-
 
 
 ## 待定项
