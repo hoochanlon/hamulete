@@ -29,6 +29,6 @@ http://www.webappbus.com/applist.html
 
 ## 注
 
-针对 crx_header_invalid 的解决方案
+### 针对 crx_header_invalid 的解决方案
 
 crx扩展格式修改成rar压缩格式 -> 将解压出来的文件全部放在一个文件夹内，通过扩展程序 -> 加载已解压的扩展程序 -> 选中这整个文件夹，即可，are you understand?
