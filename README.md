@@ -24,19 +24,11 @@ btw，打杂时间不能及时地回复邮件，为此表示歉意，还请理�
 
 请看基于docsify生成的[《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/loremwalker/fq-book)进行相关部署。
 
+### IPFS永久且不可更改的资源(旧)
 
-
-
-## IPFS永久且不可更改的资源
-
-* [该项目中科学上网的有关网址](https://ipfs.io/ipfs/QmS994t3wJbMURtFq5ui3s8eJLGYoZtYHyG7kKGysmjh8z/)
-  * 短链接：https://tinyurl.com/ycqnkgc6
-
-* [《这本书能让你连接互联网》](https://ipfs.io/ipfs/QmQWRWNCdkusRG2Be4kggRcFEE6nmKhd4NpE4Dg1jx1Fwv/)
-  * 短链接：https://tinyurl.com/y8b2n8bk
-
-* [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/QmYJ3orhWEJfpCCQr3BDLBCsMT6EFnDz1bnAjrMeQ7qdy7)
-  * 短链接：https://tinyurl.com/ydxylng9
+* [该项目中科学上网的有关网址](https://tinyurl.com/ycqnkgc6)
+* [《这本书能让你连接互联网》](https://tinyurl.com/y8b2n8bk)
+* [本项目与书籍源码以及其他等资源](https://tinyurl.com/ydxylng9)
 
 ps：以及[书群的github项目](https://github.com/zebook/zebook)
 
