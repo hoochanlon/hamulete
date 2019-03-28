@@ -20,9 +20,9 @@ btw，打杂时间不能及时地回复邮件，为此表示歉意，还请理�
 ***would you like to be put on the waiting list for ....(X time)?***
 
 
-## 科学上网的方式
+## 科学上网
 
-请看基于docsify生成的[《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/loremwalker/fq-book)进行相关部署。
+请看基于docsify生成的[《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/loremwalker/fq-book)进行相关部署。尽管部分示例网站已过时，但会使方式后就不会拘泥于此了。（之所以说这句话，心有余而力不足）
 
 ### IPFS永久且不可更改的资源(旧)
 
