@@ -15,7 +15,7 @@
 ### 即将开放的 repo
 
 长期持续的互联网寒潮...**哀莫大于心死，已退出**；利用所剩无几互联网知识介绍关于IT泡沫孵化器。  
-***would you like to be put on the waiting list for ....(X time)?***
+***would you like to be put on the waiting list for X time?*** ***that's the dirty work***
 
 
 ## 科学上网
