@@ -117,18 +117,6 @@ v2ray的账号分享站点目前较少
 * https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
 * https://yzzz.ml/freessr
 
-## telegram 订阅
-
-https://t.me/freeshadowsock  
-https://t.me/gyjclub  
-https://t.me/TGSoBot?start=f_v  
-https://t.me/vpnchina  
-https://t.me/XRAcc
-https://t.me/TelMTProto
-https://t.me/apkdl_bot
-https://t.me/TgProxies
-https://t.me/zonghe_info
-
 
 ## 分享邮箱
 <s> * toyoooooooooooo@gmail.com (doub.io)</s>
