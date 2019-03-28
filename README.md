@@ -30,7 +30,7 @@ btw，打杂时间不能及时地回复邮件，为此表示歉意，还请理�
 * [《这本书能让你连接互联网》](https://tinyurl.com/y8b2n8bk)
 * [本项目与书籍源码以及其他等资源](https://tinyurl.com/ydxylng9)
 
-<pre>uos：早期推广的 [书群的github项目](github.com/zebook)，爱读书？看的各种漫画比专业书多得...呃...不想说了...</pre>
+<pre>uos：早期推广的 [书群的github项目](github.com/zebook)；i读书？看的各种漫画比专业书多得...呃...不想说了...</pre>
 
 ## 致谢
 
