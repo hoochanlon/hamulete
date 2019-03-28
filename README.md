@@ -117,7 +117,4 @@ ps：
     <img src="https://avatars1.githubusercontent.com/u/35732922?s=400&u=860437c0da02d577fdd546c8f3bfd305539c388f&v=4" width="50px">
 </a>
 
-## 友情链接
-
-* [飞蚂蚁chrome镜像下载站](http://www.chromeliulanqi.com/)
 
