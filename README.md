@@ -15,27 +15,11 @@
 btw，打杂时间不能及时地回复邮件，为此表示歉意，还请理解。
 
 
-## 科学上网
+## 科学上网的方式
 
-科学上网主要面临的问题：
+请看基于docsify生成的[《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/loremwalker/fq-book)进行相关部署。
 
-* 打不开VPN官网下载？   
-* 打不开ss账号分享网站？ 
-* 怎样及时获取镜像站点？   
-* 怎么使用ss、v2ray翻墙？   
-* 怎么使用SSH进行科学上网？  
-* 怎样获取chromeID下载代理插件？  
-* 如何免费建立无限容量存储翻墙工具的网盘？
-* 如何进入一些特殊的网络获取各类信息与资源？
-* 如何通过云平台建立以及部署自己的ss分享站点？  
-* 如何无需信用卡等各类信息，免费搭建拥有2T流量的SS服务器？
 
-这一切的一切都在基于docsify生成的[《这本书能让你连接互联网》](http://loremwalker.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/loremwalker/fq-book)进行相关部署。
-
-ps：
-* 访问[项目作者的个人博客](https://www.cnblogs.com/loremwalker/)
-* 在telegram上，发现[kindle电子读书会](https://t.me/zebook)，以及[书群的github项目](https://github.com/zebook/zebook)
-* [此repo 的说明](/Test/测试性说明.md)
 
 
 ## IPFS永久且不可更改的资源
@@ -48,6 +32,8 @@ ps：
 
 * [本项目与书籍源码以及其他等资源](https://ipfs.io/ipfs/QmYJ3orhWEJfpCCQr3BDLBCsMT6EFnDz1bnAjrMeQ7qdy7)
   * 短链接：https://tinyurl.com/ydxylng9
+
+ps：以及[书群的github项目](https://github.com/zebook/zebook)
 
 ## 致谢
 
