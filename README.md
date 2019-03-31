@@ -87,6 +87,9 @@
     <img src="https://avatars0.githubusercontent.com/u/1018625?s=400&v=4" width="50px">
 </a>
 
+<a href="https://github.com/max2max">
+    <img src="https://avatars1.githubusercontent.com/u/14960653?s=400&v=4" width="50px">
+</a>
 
 <a href="https://github.com/w568w">
     <img src="https://avatars3.githubusercontent.com/u/8389787?s=400&v=4" width="50px">
