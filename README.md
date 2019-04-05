@@ -14,10 +14,12 @@
 <!--1984年的动物庄园，我们的美丽新世界，冲出你的窗口 ! The TianChao Fart's Searching for Meaning-->
 一些实用与娱乐性质的网址仅为个人需求及经验收集，不可能且无法面面俱到；某些领域方面的论坛、文明友爱的社区、相关专业的网址与下载站点等等也没必要收录，通过谷歌搜索排名靠前的都在圈内挺有名的。***btw***，不能及时地回复email或telegram，为此表示歉意，谢谢。
 
-### 即将开放的 REPO
+### <s>即将开放的 REPO</s>
 
 长期持续的互联网寒潮...**哀莫大于心死，已退出**；利用所剩无几互联网知识介绍关于IT泡沫孵化器。  
 ***would you like to be put on the waiting list for X time?*** ***oh,man! that's the dirty work***
+
+**概览IT泡沫孵化器repo现已放出：https://github.com/loremwalker/LostMandarin**
 
 
 ## 科学上网
