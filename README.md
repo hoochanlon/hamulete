@@ -19,7 +19,7 @@
 长期持续的互联网寒潮...**哀莫大于心死，已退出**；利用所剩无几互联网知识介绍关于IT泡沫孵化器。  
 ***would you like to be put on the waiting list for X time?*** ***oh,man! that's the dirty work***
 
-**概览IT泡沫孵化器repo现已放出：https://github.com/loremwalker/LostMandarin**
+**找工作与就业黑名单及此机构运作方式概览repo现已放出：https://github.com/loremwalker/LostMandarin**
 
 
 ## 科学上网
