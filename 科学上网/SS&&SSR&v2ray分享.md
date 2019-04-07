@@ -28,10 +28,6 @@
 https://loremwalker.github.io/fq-book/#/append/get-method
 
 
-## 妙笔言
-
-* http://softpen.net 妙笔言
-
 ### v2ray
 
 * https://v2ray.cat/ 
@@ -46,6 +42,7 @@ v2ray的账号分享站点目前较少
 
 * http://ssr.wangzhan.gq/
 * https://fast.ishadowx.net
+* http://softpen.net 
 * http://52ss.fun/
 * https://free0.gyteng.com/
 * http://shadowsocks.hk/
