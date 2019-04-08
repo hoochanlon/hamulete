@@ -1,4 +1,6 @@
 # ***WebSiteUseful***（冲出你的窗口）
+[![Backers on Open Collective](https://opencollective.com/WebSiteUseful/backers/badge.svg)](#backers)
+[![Sponsors on Open Collective](https://opencollective.com/WebSiteUseful/sponsors/badge.svg)](#sponsors) 
 
 ![](https://raw.githubusercontent.com/loremwalker/WebSiteUseful/master/Test/%E5%86%B2%E5%87%BA%E4%BD%A0%E7%9A%84%E7%AA%97%E5%8F%A3.png)
 <h1 align="center"> 免责声明 </h1>
@@ -107,3 +109,33 @@
 
 
 <!--tomato 翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载，获取及使用教程请看：https://github.com/loremwalker/fq-book-->
+
+## Contributors
+
+This project exists thanks to all the people who contribute. 
+<a href="https://github.com/loremwalker/WebSiteUseful/graphs/contributors"><img src="https://opencollective.com/WebSiteUseful/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/WebSiteUseful#backer)]
+
+<a href="https://opencollective.com/WebSiteUseful#backers" target="_blank"><img src="https://opencollective.com/WebSiteUseful/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/WebSiteUseful#sponsor)]
+
+<a href="https://opencollective.com/WebSiteUseful/sponsor/0/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/WebSiteUseful/sponsor/1/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/WebSiteUseful/sponsor/2/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/WebSiteUseful/sponsor/3/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/WebSiteUseful/sponsor/4/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/WebSiteUseful/sponsor/5/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/WebSiteUseful/sponsor/6/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/WebSiteUseful/sponsor/7/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/WebSiteUseful/sponsor/8/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/WebSiteUseful/sponsor/9/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/9/avatar.svg"></a>
+
+
