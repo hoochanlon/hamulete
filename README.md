@@ -115,7 +115,7 @@
 This project exists thanks to all the people who contribute. 
 <a href="https://github.com/loremwalker/WebSiteUseful/graphs/contributors"><img src="https://opencollective.com/WebSiteUseful/contributors.svg?width=890&button=false" /></a>
 
-
+<!--
 ## Backers
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/WebSiteUseful#backer)]
@@ -138,4 +138,5 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/WebSiteUseful/sponsor/8/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/WebSiteUseful/sponsor/9/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/9/avatar.svg"></a>
 
+-->
 
