@@ -112,7 +112,7 @@
 
 ## Contributors
 
-<!--This project exists thanks to all the people who contribute. -->
+This project exists thanks to all the people who contribute.
 <a href="https://github.com/loremwalker/WebSiteUseful/graphs/contributors"><img src="https://opencollective.com/WebSiteUseful/contributors.svg?width=890&button=false" /></a>
 
 <!--
