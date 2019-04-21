@@ -113,6 +113,7 @@ v2ray的账号分享站点目前较少
 * http://share-shadowsocksr.herokuapp.com/subscribe?valid=1
 * https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
 * https://yzzz.ml/freessr
+* https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
 
 
 ## 分享邮箱
