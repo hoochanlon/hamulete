@@ -16,7 +16,7 @@
 <!--1984年的动物庄园，我们的美丽新世界，冲出你的窗口 ! The TianChao Fart's Searching for Meaning-->
 一些实用与娱乐性质的网址仅为个人需求及经验收集，不可能且无法面面俱到；某些领域方面的论坛、文明友爱的社区、相关专业的网址与下载站点等等也没必要收录，通过谷歌搜索排名靠前的都在圈内挺有名的。***btw***，不能及时地回复email或telegram，为此表示歉意，谢谢。
 
-### PS
+### 特别推荐
 
 只顾翻出来看外面的世界，是不够的，社会上还有中介、诈骗、培训、传销等公司各种套路我们，o(╥﹏╥)o (╯‵□′)╯︵┻━┻； **找工作及就业的公司黑名单repo：https://github.com/loremwalker/LostMandarin**
 
@@ -31,7 +31,7 @@
 * [《这本书能让你连接互联网》](https://tinyurl.com/y8b2n8bk)
 * [本项目与书籍源码以及其他等资源](https://tinyurl.com/ydxylng9)
 
-<pre>uos：早期推广的 [书群的github项目](github.com/zebook)；i读书？看的各种漫画比专业书多得...呃...不想说了...</pre>
+<pre>s：早期推广的 [书群的github项目](github.com/zebook)；i读书？看的各种漫画比专业书多得...呃...不想说了...</pre>
 
 ## 致谢
 
