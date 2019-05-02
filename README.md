@@ -16,12 +16,9 @@
 <!--1984年的动物庄园，我们的美丽新世界，冲出你的窗口 ! The TianChao Fart's Searching for Meaning-->
 一些实用与娱乐性质的网址仅为个人需求及经验收集，不可能且无法面面俱到；某些领域方面的论坛、文明友爱的社区、相关专业的网址与下载站点等等也没必要收录，通过谷歌搜索排名靠前的都在圈内挺有名的。***btw***，不能及时地回复email或telegram，为此表示歉意，谢谢。
 
-### <s>即将开放的 REPO</s>
+### PS
 
-长期持续的互联网寒潮...**哀莫大于心死，已退出**；利用所剩无几互联网知识介绍关于IT泡沫孵化器。  
-***would you like to be put on the waiting list for X time?*** ***oh,man! that's the dirty work***
-
-**找工作与就业黑名单及此机构运作方式概览repo现已放出：https://github.com/loremwalker/LostMandarin**
+只顾翻出来看外面的世界，是不够的，社会上还有中介、诈骗、培训、传销等公司各种套路我们，o(╥﹏╥)o (╯‵□′)╯︵┻━┻； **找工作及就业的公司黑名单repo：https://github.com/loremwalker/LostMandarin**
 
 
 ## 科学上网
@@ -137,6 +134,13 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/WebSiteUseful/sponsor/7/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/7/avatar.svg"></a>
 <a href="https://opencollective.com/WebSiteUseful/sponsor/8/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/WebSiteUseful/sponsor/9/website" target="_blank"><img src="https://opencollective.com/WebSiteUseful/sponsor/9/avatar.svg"></a>
+
+
+### <s>即将开放的 REPO</s>
+
+长期持续的互联网寒潮...**哀莫大于心死，已退出**；利用所剩无几互联网知识介绍关于IT泡沫孵化器。  
+***would you like to be put on the waiting list for X time?*** ***oh,man! that's the dirty work***
+
 
 -->
 
