@@ -112,6 +112,7 @@ v2ray的账号分享站点目前较少
 * http://share-shadowsocks.herokuapp.com/full/subscribe
 * http://share-shadowsocksr.herokuapp.com/subscribe?valid=1
 * https://raw.githubusercontent.com/AmazingDM/sub/master/ssrshare.com
+* https://github.com/liesauer/Free-SS-SSR
 * https://yzzz.ml/freessr
 * https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
 
@@ -145,6 +146,6 @@ http://freeoutline.org/zh
 
 ## 付费保留（观察）
 
-可能到时候会用到的付费节点，虽然上网一直是白嫖，付费来说，个人用vpn的可能性更大些
+可能到时候会用到的付费节点，虽然翻墙一直是蹭网，付费来说，个人用vpn的可能性更大些
 
 https://rixcloud.me/
