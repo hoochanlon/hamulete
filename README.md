@@ -18,7 +18,7 @@
 
 ### 特别推荐
 
-只顾翻出来看外面的世界是不够的，社会上还有中介、诈骗、培训、传销等公司各种套路我们。因此，特别制作了关于此类公司的运作流程、用例需求、利用PUA人性操控术来谋利的报告及黑名单的repo：[LostMandarin](https://github.com/loremwalker/LostMandarin)
+只顾翻出来看外面的世界是不够的，社会上还有中介、诈骗、培训、传销等公司各种套路我们。因此，特别制作了关于此类公司的运作流程、用例需求、利用PUA人性操控术来谋利的报告及黑名单的repo：[LostMandarin](https://github.com/loremwalker/LostMandarin) ;有兴趣的话，支持一下打赏个star，非常感谢你们!
 
 
 ## 科学上网
