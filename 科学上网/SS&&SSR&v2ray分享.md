@@ -41,6 +41,7 @@ v2ray的账号分享站点目前较少
 ## 请参考fq-book中的教程再访问如下站点
 
 * http://ssr.wangzhan.gq/
+* https://lncn.org/
 * https://fast.ishadowx.net
 * http://softpen.net 
 * http://52ss.fun/
