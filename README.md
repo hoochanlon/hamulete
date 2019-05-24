@@ -18,7 +18,7 @@
 
 ### 由衷之言
 
-学历不是很高找工作及实习实为不易，又被培训欺诈招转培，培训过后再找工作又被招聘歧视，这是一个真实而重要的社会问题；如果本项目对你有帮助的话，希望大家能star支持一下 [github/LostMandarin](https://github.com/loremwalker/LostMandarin) 项目，能帮到更多的应届和实习新人吧 ，非常感谢你们!
+学历不是很高找工作及实习实为不易，又被培训欺诈招转培，培训过后再找工作又被招聘歧视，这是一个真实而重要的社会问题；如果本项目对你有帮助的话，还请大家能star支持一下 [github/LostMandarin](https://github.com/loremwalker/LostMandarin) 项目，希望能帮到更多的应届和实习新人吧 ，非常感谢你们!
 
 
 ## 科学上网
