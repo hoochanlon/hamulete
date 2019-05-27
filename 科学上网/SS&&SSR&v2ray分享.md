@@ -67,7 +67,7 @@ v2ray的账号分享站点目前较少
 * http://www.52ssr.net/
 * https://www.wuwweb.com/
 * https://free.yitianjianss.com
-* https://www.puffss.com/
+
 
 
 ## 待定项
@@ -130,7 +130,8 @@ https://www.similarsites.com
 
 ## 已失效
 
-https://doub.io 
+https://doub.io   
+https://www.puffss.com/
 https://freess.cx  
 https://shadowsocksph.space  
 https://free.4kvpn.com  
