@@ -18,7 +18,7 @@
 
 ### 新作之谈
 
-学历不是很高找工作及实习实为不易，又被培训欺诈招转培，培训过后再找工作又被招聘歧视，这是一个真实而重要的社会问题；如果本项目对你有帮助的话，还请大家能star [LostMandarin](https://github.com/loremwalker/LostMandarin) 项目、支持下[Google文档《失落的满大林》精简预览版](https://drive.google.com/file/d/1D8CeLVmxZ-m2wYcNmSWjYb75VjbyPL12/view?usp=sharing)，共同帮助到更多的应届和实习新人，我将创作的更好 ，非常谢谢你们!
+学历不是很高找工作及实习实为不易，又被培训欺诈招转培，培训过后再找工作又被招聘歧视，这是一个真实而重要的社会问题；若本项目对你有帮助的话，还请大家能star [LostMandarin](https://github.com/loremwalker/LostMandarin) 项目、支持下[Google文档《失落的满大林》精简预览版](https://drive.google.com/file/d/1D8CeLVmxZ-m2wYcNmSWjYb75VjbyPL12/view?usp=sharing)，共同帮助到更多的应届和实习新人，我将创作的更好 ，非常谢谢你们!
 
 
 ## 科学上网
