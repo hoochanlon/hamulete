@@ -16,6 +16,8 @@
 <!--1984年的动物庄园，我们的美丽新世界，冲出你的窗口 ! The TianChao Fart's Searching for Meaning-->
 一些实用与娱乐性质的网址仅为个人需求及经验收集，不可能且无法面面俱到；某些领域方面的论坛、文明友爱的社区、相关专业的网址与下载站点等等也没必要收录，通过谷歌搜索排名靠前的都在圈内挺有名的。***btw***，不能及时地回复email或telegram，为此表示歉意，谢谢。
 
+***[wiki WebSiteUseful](https://loremwalker.github.io/WebSiteUseful/)***
+
 ### 新作之谈
 
 学历不是很高找工作及实习实为不易，又被培训欺诈招转培，培训过后再找工作又被招聘歧视，这是一个真实而重要的社会问题；若本项目对你有帮助的话，还请大家能star [LostMandarin](https://github.com/loremwalker/LostMandarin) 项目、支持下[Google文档《失落的满大林》精简预览版](https://drive.google.com/file/d/1D8CeLVmxZ-m2wYcNmSWjYb75VjbyPL12/view?usp=sharing)，借此将持续更新完善用以创作得更好 ，一起共同帮助到更多的应届和实习新人，非常谢谢你们!
