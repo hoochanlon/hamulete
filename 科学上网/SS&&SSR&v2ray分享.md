@@ -43,6 +43,7 @@ v2ray的账号分享站点目前较少
 ## 请参考fq-book中的教程再访问如下站点
 
 * http://ssr.wangzhan.gq/
+* https://free.ss-ssr.com
 * https://ssrfree.tk/
 * https://lncn.org/
 * https://inssr.pro/free
