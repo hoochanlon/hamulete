@@ -1,6 +1,6 @@
 ## 使用须知
 
-**爱国上网前，建议阅读 [《这本书能让你连接互联网》](https://loremwalker.github.io/fq-book/)**
+**科学上网前，推荐阅读 [《这本书能让你连接互联网》](https://loremwalker.github.io/fq-book/)，并结合** ***WebSieUseful*** **相信定能有所收获**
 
 ### 待定项
 * 为贴子、博客或1-3个测试型的ss分享站点，可能存在长期未更新，有待观察
