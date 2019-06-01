@@ -19,7 +19,7 @@
 
 ### 如果遇到打不开的站点请参考这个教程
 
-可解DNS污染，对封IP的站点无效，ss分享站点被封ip的可能性，感觉也倾向性也开始...已经很大了
+可解DNS污染，对封IP的站点无效，ss分享站点被封ip的可能性，感觉也倾向性也开始...已经很大了(已经是了...)
 
  https://loremwalker.github.io/fq-book/#/dns&hosts/dnscrypt
  
