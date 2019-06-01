@@ -1,4 +1,6 @@
 ## 可用
+
+* https://jsproxy.tk
 * https://demo.glyptodon.com
 * https://www.rabb.it
 * https://weboas.is/
