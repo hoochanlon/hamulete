@@ -17,6 +17,7 @@ chrome代理插件|使用限制|
 |[ip unblock](http://ipunblock.com/)|完全免费|
 |[ininja Free Proxy](https://ininja.org)|完全免费|
 |[tunnello](https://tunnello.com)|免费|
+|[tunsafe](https://tunsafe.com/)|免费|
 
 ## VPN名单
 vpn|使用限制|
