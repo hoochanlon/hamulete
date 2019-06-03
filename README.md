@@ -102,7 +102,7 @@
     <img src="https://avatars1.githubusercontent.com/u/6618073?s=400&v=4" width="50px">
 </a>
 
-<a href="https://github.com/loremwalker">
+<a href="https://github.com/hoodiearon">
     <img src="https://avatars1.githubusercontent.com/u/35732922?s=400&u=860437c0da02d577fdd546c8f3bfd305539c388f&v=4" width="50px">
 </a>
 
