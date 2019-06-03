@@ -1,6 +1,5 @@
 # ***WebSiteUseful***（冲出你的窗口）
-[![Backers on Open Collective](https://opencollective.com/WebSiteUseful/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/WebSiteUseful/sponsors/badge.svg)](#sponsors) 
+
 
 ![](https://raw.githubusercontent.com/loremwalker/WebSiteUseful/master/Test/%E5%86%B2%E5%87%BA%E4%BD%A0%E7%9A%84%E7%AA%97%E5%8F%A3.png)
 <h1 align="center"> 免责声明 </h1>
@@ -140,9 +139,10 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ### <s>即将开放的 REPO</s>
 
-长期持续的互联网寒潮...**哀莫大于心死，已退出**；利用所剩无几互联网知识介绍关于IT泡沫孵化器。  
-***would you like to be put on the waiting list for X time?*** ***oh,man! that's the dirty work***
 
+
+[![Backers on Open Collective](https://opencollective.com/WebSiteUseful/backers/badge.svg)](#backers)
+[![Sponsors on Open Collective](https://opencollective.com/WebSiteUseful/sponsors/badge.svg)](#sponsors) 
 
 -->
 
