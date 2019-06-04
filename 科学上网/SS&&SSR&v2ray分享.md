@@ -45,6 +45,7 @@ v2ray的账号分享站点目前较少
 
 * http://ssr.wangzhan.gq/
 * https://free.ss-ssr.com
+* https://toolher.com/ss
 * https://ssrfree.tk/
 * https://lncn.org/
 * https://inssr.pro/free
