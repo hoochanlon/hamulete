@@ -32,7 +32,7 @@
 
 * [该项目中科学上网的有关网址](https://tinyurl.com/ycqnkgc6)
 * [《这本书能让你连接互联网》](https://tinyurl.com/y8b2n8bk)
-* [本项目与书籍源码以及其他等资源](https://tinyurl.com/ydxylng9
+* [本项目与书籍源码以及其他等资源](https://tinyurl.com/ydxylng9)
 
 </details>
 
