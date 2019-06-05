@@ -1,4 +1,4 @@
-# ***WebSiteUseful***（冲出你的窗口）
+# ***WebSiteOutlook***（冲出你的窗口）
 
 
 ![](https://raw.githubusercontent.com/loremwalker/WebSiteUseful/master/Test/%E5%86%B2%E5%87%BA%E4%BD%A0%E7%9A%84%E7%AA%97%E5%8F%A3.png)
@@ -15,7 +15,7 @@
 <!--1984年的动物庄园，我们的美丽新世界，冲出你的窗口 ! The TianChao Fart's Searching for Meaning-->
 一些实用与娱乐性质的网址仅为个人需求及经验收集，不可能且无法面面俱到；某些领域方面的论坛、文明友爱的社区、相关专业的网址与下载站点等等也没必要收录，通过谷歌搜索排名靠前的都在圈内挺有名的。***btw***，不能及时地回复email或telegram，为此表示歉意，谢谢。
 
-***[wiki WebSiteUseful](https://hoodiearon.github.io/WebSiteUseful/)***
+***[wiki WebSiteOutlook](https://hoodiearon.github.io/WebSiteOutlook/)***
 
 ### 新作之谈
 
