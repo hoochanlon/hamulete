@@ -2,9 +2,9 @@
 
 **科学上网前，推荐阅读 [《这本书能让你连接互联网》](https://hoodiearon.github.io/fq-book/)，并结合** ***WebSieUseful*** **相信定能有所收获**
 
-### 待定项
-* 为贴子、博客或1-3个测试型的ss分享站点，可能存在长期未更新，有待观察
-* 正常上网能访问的ss分享站点越来越少了，如果找不到满意的可去待定项看看
+### notice
+* 部分链接为贴子、博客或1-3个测试型的ss分享站点，也有可能存在长期未更新，有待观察
+* 封锁越来越严重，镜像站点失效频繁，更新的意义已经不是很大了...
 
 ### heroku的免费配额与限制
 * Network Bandwidth/流量: 2TB/month – Soft
@@ -80,11 +80,6 @@ v2ray的账号分享站点目前较少
 * http://www.52ssr.net/
 * https://www.wuwweb.com/
 * https://free.yitianjianss.com
-
-
-
-## 待定项
-
 * https://www.vpn168.net
 * https://www.go2free.xyz/
 * https://biulink.club/
