@@ -32,13 +32,13 @@
 * [《这本书能让你连接互联网》](https://tinyurl.com/y8b2n8bk)
 * [本项目与书籍源码以及其他等资源](https://tinyurl.com/ydxylng9)
 
-<pre>s：早期推广的 [书群的github项目](github.com/zebook)；i读书？看的各种漫画比专业书多得...呃...不想说了...</pre>
 
 ## 致谢
 
-感谢以下诸位对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助。</a>
+感谢对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助的所有人
 
 
+<!--
 
 <a href="https://github.com/zc-zh-001">
     <img src="https://avatars3.githubusercontent.com/u/34836102?s=400&v=4" width="50px">
@@ -105,3 +105,4 @@
     <img src="https://avatars1.githubusercontent.com/u/35732922?s=400&u=860437c0da02d577fdd546c8f3bfd305539c388f&v=4" width="50px">
 </a>
 
+-->
