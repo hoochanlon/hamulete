@@ -34,6 +34,10 @@
 * [《这本书能让你连接互联网》](https://tinyurl.com/y8b2n8bk)
 * [本项目与书籍源码以及其他等资源](https://tinyurl.com/ydxylng9)
 
+<pre>
+the real danger is that if we hear enough lies , then we no longer recognize the truth at all !
+</pre>
+
 </details>
 
 
