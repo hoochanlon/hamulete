@@ -44,6 +44,7 @@ v2ray的账号分享站点目前较少
 ## 请参考fq-book中的教程再访问如下站点
 
 * http://ssr.wangzhan.gq/
+* https://www.myexplor.me
 * https://github.com/free-ss/free-ss.site
 * http://nulastudio.org/Freedom/
 * https://www.youneed.win/free-ssr
