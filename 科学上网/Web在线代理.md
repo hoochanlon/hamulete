@@ -1,5 +1,6 @@
 ## 可用
 
+* https://proxybrowser.xyz/
 * https://jsproxy.tk
 * https://demo.glyptodon.com
 * https://www.rabb.it
