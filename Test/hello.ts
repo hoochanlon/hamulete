@@ -1,2 +1,2 @@
-const hello : string = "Hello World!"
+const hello : string = "Hello World"
 console.log(hello)
