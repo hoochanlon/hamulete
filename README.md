@@ -24,7 +24,7 @@
 
 ## 科学上网
 
-请看基于docsify生成的[《这本书能让你连接互联网》](http://.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/loremwalker/fq-book)进行相关部署。尽管部分示例网站已过时，但会使方式后就不会拘泥于此了。
+请看基于docsify生成的[《这本书能让你连接互联网》](http://hoodiearon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoodiearon/fq-book)进行相关部署。尽管部分示例网站已过时，但会使方式后就不会拘泥于此了。
 
 <details>
 <summary>IPFS永久且不可更改的资源 click me! </summary>
