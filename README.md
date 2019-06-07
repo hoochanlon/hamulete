@@ -34,9 +34,9 @@
 * [《这本书能让你连接互联网》](https://tinyurl.com/y8b2n8bk)
 * [本项目与书籍源码以及其他等资源](https://tinyurl.com/ydxylng9)
 
-<pre>
-the real danger is that if we hear enough lies , then we no longer recognize the truth at all !
-</pre>
+mood：
+
+WebSiteOutlook，到现在也只有一个加入编辑存储库板块内容的... 相关 issue 都没有一个是改进建议的...[fq-book](https://github.com/hoodiearon/fq-book) 基本都是问书籍部署配置的问题...也同样没有人提出改进建议...写吧，写吧，一直都是做些dirty work，反正都习惯了...
 
 </details>
 
