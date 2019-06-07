@@ -46,6 +46,8 @@ v2ray的账号分享站点目前较少
 
 特别说明：非socks代理，这是VPN!
 
+https://hoodiearon.github.io/fq-book/#/vpn/classical-vpn
+
 * https://tunsafe.com/
 * https://www.mullvad.net
 
