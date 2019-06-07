@@ -41,6 +41,14 @@ https://hoodiearon.github.io/fq-book/#/append/get-method
 
 v2ray的账号分享站点目前较少
 
+
+##  WireGuard
+
+特别说明：非socks代理，这是VPN!
+
+* https://tunsafe.com/
+* https://www.mullvad.net
+
 ## 请参考fq-book中的教程再访问如下站点
 
 * http://ssr.wangzhan.gq/
