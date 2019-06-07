@@ -26,18 +26,12 @@
 
 请看基于docsify生成的[《这本书能让你连接互联网》](http://.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/loremwalker/fq-book)进行相关部署。尽管部分示例网站已过时，但会使方式后就不会拘泥于此了。
 
-
 <details>
 <summary>IPFS永久且不可更改的资源 click me! </summary>
 
 * [该项目中科学上网的有关网址](https://tinyurl.com/ycqnkgc6)
 * [《这本书能让你连接互联网》](https://tinyurl.com/y8b2n8bk)
 * [本项目与书籍源码以及其他等资源](https://tinyurl.com/ydxylng9)
-
-mood：
-
-WebSiteOutlook，到现在也只有一个加入编辑存储库板块内容的... 相关 issue 都没有一个是改进建议的...[fq-book](https://github.com/hoodiearon/fq-book) 基本都是问书籍部署配置的问题...也同样没有人提出改进建议...写吧，写吧，一直都是做些dirty work，反正都习惯了...
-
 </details>
 
 
