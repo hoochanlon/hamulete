@@ -26,16 +26,6 @@
 
 请看基于docsify生成的[《这本书能让你连接互联网》](http://hoodiearon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoodiearon/fq-book)进行相关部署。尽管部分示例网站已过时，但会使方式后就不会拘泥于此了。
 
-<details>
-<summary>IPFS永久且不可更改的资源 click me! </summary>
-
-* [该项目中科学上网的有关网址](https://tinyurl.com/ycqnkgc6)
-* [《这本书能让你连接互联网》](https://tinyurl.com/y8b2n8bk)
-* [本项目与书籍源码以及其他等资源](https://tinyurl.com/ydxylng9)
-</details>
-
-
-
 ## 致谢
 
 感谢对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助的所有人:tada:
