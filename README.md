@@ -1,7 +1,7 @@
 # ***WebSiteOutlook***（冲出你的窗口）
 
-[![WebSiteOutlook](https://img.shields.io/badge/%F0%9F%93%96repo-WebSiteOutlook-brightgreen.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/WebSiteOutlook/)|[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoodiearon-lightgrey.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/)|[![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoodiearon@outlook.com)|[![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoodiearon)
-|:-:|:-:|:-:|:-:|
+[![WebSiteOutlook](https://img.shields.io/badge/%F0%9F%93%96repo-WebSiteOutlook-brightgreen.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/WebSiteOutlook/) [![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoodiearon-lightgrey.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/) [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoodiearon@outlook.com) [![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoodiearon)
+
 
 ![冲出你的窗口](https://user-images.githubusercontent.com/35732922/59146732-60dc0b00-8a24-11e9-8ede-d5660b01ce10.png)
 
