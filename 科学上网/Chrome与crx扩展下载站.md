@@ -6,6 +6,8 @@ https://hoodiearon.github.io/fq-book/#/browse/chrome
 
 * https://repo.fdzh.org/chrome/exe/
 
+* http://chromecj.com/
+
 * http://www.chromeliulanqi.com/
 
 * http://www.chrome.hk.cn/
