@@ -1,6 +1,6 @@
 ## 示例教程
 
-https://loremwalker.github.io/fq-book/#/browse/chrome
+https://hoodiearon.github.io/fq-book/#/browse/chrome
 
 ## chrome下载
 
