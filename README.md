@@ -31,7 +31,7 @@
 
 ## 推广
 
-* [free-ss.site](https://github.com/free-ss/free-ss.site)
+欢迎关注free-ss站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目
 
 
 <!--
