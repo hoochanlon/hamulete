@@ -1,7 +1,7 @@
 ## 可用
 
 * https://proxybrowser.xyz/
-* https://jsproxy.tk
+* https://github.com/EtherDream/jsproxy/
 * https://demo.glyptodon.com
 * https://www.rabb.it
 * https://weboas.is/
