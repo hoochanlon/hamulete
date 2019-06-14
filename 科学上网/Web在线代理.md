@@ -22,3 +22,4 @@
 * http://www.myiptest.com/staticpages/index.php/Free-SOCKS5-SOCKS4-Proxy-lists.html
 * http://www.proxyfire.net/index.php?pageid=ProxyLists
 * http://www.samair.ru/proxy
+* http://www.gatherproxy.com/
