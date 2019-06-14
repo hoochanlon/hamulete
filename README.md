@@ -29,6 +29,10 @@
 
 感谢对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助的所有人:tada:
 
+## 推广
+
+* [free-ss.site](https://github.com/free-ss/free-ss.site)
+
 
 <!--
 
