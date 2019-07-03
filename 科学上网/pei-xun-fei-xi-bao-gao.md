@@ -1,4 +1,4 @@
-# [培训机构分析报告（TI Analysis）]( https://hoodiearon.github.io/TI-Analysis/)
+# [培训机构分析报告（TI Analysis）]( https://hoodiearon.github.io/pei-xun-fei-xi-bao-gao)
 
 **<details><summary>关于培训机构诈骗内容</summary>**
 
