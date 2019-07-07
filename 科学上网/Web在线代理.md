@@ -3,6 +3,7 @@
 * https://proxybrowser.xyz/
 * https://github.com/EtherDream/jsproxy/
 * https://demo.glyptodon.com
+* http://webproxy.to/
 * https://www.rabb.it
 * https://weboas.is/
 * https://www.anyproxy.cn
