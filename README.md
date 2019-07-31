@@ -20,7 +20,7 @@
 
 ***btw***，不能及时地回复email或telegram，为此表示歉意，谢谢。
 
-***[wiki WebSiteOutlook](https://hoodiearon.github.io/WebSiteOutlook/)***
+***[wiki WebOutlook](https://hoodiearon.github.io/WebOutlook/)***
 
 ## 科学上网
 
