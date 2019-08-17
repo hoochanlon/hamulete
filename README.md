@@ -20,9 +20,7 @@
 
 ***btw***，不能及时地回复email或telegram，为此表示歉意，谢谢。
 
-***[wiki WebOutlook](https://hoodiearon.github.io/WebOutlook/)***
-
-***[TI-Analysis](https://github.com/apachecn/TI-Analysis)***
+***[wiki WebOutlook](https://hoodiearon.github.io/WebOutlook/)*** 
 
 ## 科学上网
 
@@ -34,7 +32,7 @@
 
 ---
 
-**友情小推广：欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目**
+**友情小推广：欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目，同时也自推广所写的产业分析论文 ***[TI-Analysis](https://github.com/apachecn/TI-Analysis)*** ** 😀
 
 
 <!--
