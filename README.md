@@ -16,9 +16,9 @@
 
 ## 说在前面
 <!--1984年的动物庄园，我们的美丽新世界，冲出你的窗口 ! The TianChao Fart's Searching for Meaning-->
-正如你所见，此 repo 本身并不提供任何的资料，采集的信息仅为网上收集；某些领域方面的论坛、文明友爱的社区、相关专业的网址与下载站点等等，没必要全全收录，通过谷歌搜索排名靠前的都在圈内挺有名的。
+正如你所见，此 repo 本身并不提供任何的资料，采集的信息仅为网上收集；某些领域方面的论坛、文明友爱的社区、相关专业的网址与下载站点等等，没必要全全收录，通过谷歌搜索排名靠前的都在圈内挺有名的。不能及时地回复email或telegram，为此表示歉意，谢谢。
 
-***btw***，不能及时地回复email或telegram，为此表示歉意，谢谢。
+感谢对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助的所有人:tada:
 
 ***[wiki WebOutlook](https://hoodiearon.github.io/WebOutlook/)*** 
 
@@ -26,13 +26,9 @@
 
 请看基于docsify生成的[《这本书能让你连接互联网》](http://hoodiearon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoodiearon/fq-book)进行相关部署。
 
-## 致谢大家们
+## 友情小推广
 
-感谢对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助的所有人:tada:
-
----
-
-**友情小推广：欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目，同时也自推广所写的产业分析论文** ***[apachecn/TI-Analysis](https://github.com/apachecn/TI-Analysis)***  😀
+**欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目，同时也自推广所写的产业分析论文** ***[apachecn/TI-Analysis](https://github.com/apachecn/TI-Analysis)***  😀
 
 
 <!--
