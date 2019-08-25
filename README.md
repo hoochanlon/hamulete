@@ -1,12 +1,12 @@
-# ***WebOutlook***
+# ***w3-goto-world***
 
 [![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoodiearon-lightgrey.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/) [![hotmail](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoodiearon@outlook.com) [![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoodiearon)
 
 <!--![](https://i.loli.net/2019/06/01/5cf1f55f3b5ae83085.png)-->
 
-本项目是由 **[hoodiearon(佚名的代称)](https://github.com/hoodiearon)** 基于 [Github](https://github.com) 所创建的各类网站收集内存库，最初只是作为方便个人使用书签向导，随着社会不断发展，连接被镰刀锤阻断的互联网的需求越来越高，***于是 [WebOutlook](https://github.com/hoodiearon/WebSiteUseful) 由个人书签库转向成桥接互联网的 REPO***。
+本项目是由 **[hoodiearon(佚名的代称)](https://github.com/hoodiearon)** 基于 [Github](https://github.com) 所创建的各类网站收集内存库，最初只是作为方便个人使用书签向导，随着社会不断发展，连接被镰刀锤阻断的互联网的需求越来越高，***于是 [w3-goto-world](https://github.com/hoodiearon/w3-goto-world) 由个人书签库转向成桥接互联网的 REPO***。
 
-那时的[VPN](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF)、[Proxy](https://zh.wikipedia.org/zh-hans/%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8)，远没有如今繁多，更别说爬虫了；较多数人而言能进行科学上网，的确不是一件易事。当时我能进行互联也是学习了[逗比](https://dbgjd.com/toyo.html)， 可以说 **[toyo](https://dbgjd.com/toyo.html)** 是我的网络启蒙导师，也很感谢 weirch 在逗比的影响下创建了 ***[free-ss.site](https://free-ss.site)*** 着实帮助了很多人；也因这些原由完善 ***WebSiteOutlook*** 与著写[《这本书能让你连接互联网》](https://github.com/hoodiearon/fq-book)，身边的也曾劝过：自己方便就行，就算是帮到别人也是费力不讨好的事。和 [《这本书》](https://github.com/hoodiearon/fq-book) 一样，我也知道 ***it's dirty work***。
+那时的[VPN](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF)、[Proxy](https://zh.wikipedia.org/zh-hans/%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8)，远没有如今繁多，更别说爬虫了；较多数人而言能进行科学上网，的确不是一件易事。当时我能进行互联也是学习了[逗比](https://dbgjd.com/toyo.html)， 可以说 **[toyo](https://dbgjd.com/toyo.html)** 是我的网络启蒙导师，也很感谢 weirch 在逗比的影响下创建了 ***[free-ss.site](https://free-ss.site)*** 着实帮助了很多人；也因这些原由完善 ***w3-goto-world*** 与著写[《这本书能让你连接互联网》](https://github.com/hoodiearon/fq-book)，身边的也曾劝过：自己方便就行，就算是帮到别人也是费力不讨好的事。和 [《这本书》](https://github.com/hoodiearon/fq-book) 一样，我也知道 ***it's dirty work***。
 
 在身旁多数不被看好境遇下，**一个人、一台破旧的笔记本、KOF2K1** 就这样不断的想尽各种办法收集资料及自学，边动手加以验证，同时记录下步骤校对及创作着。那时每天的大多时间都投入到这些事情，忙的很晚，有时也会通宵收集内容或是写作。
 
