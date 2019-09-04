@@ -53,7 +53,6 @@ https://hoodiearon.github.io/fq-book/#/vpn/classical-vpn
 
 ## 请参考fq-book中的教程再访问如下站点
 
-* http://ssr.wangzhan.gq/
 * https://www.myexplor.me
 * https://github.com/free-ss/free-ss.site
 * http://nulastudio.org/Freedom/
@@ -149,7 +148,7 @@ https://hoodiearon.github.io/fq-book/#/vpn/classical-vpn
 https://www.similarsites.com
 
 ## 已失效
-
+http://ssr.wangzhan.gq/   
 https://doub.io   
 https://www.puffss.com/
 https://freess.cx  
