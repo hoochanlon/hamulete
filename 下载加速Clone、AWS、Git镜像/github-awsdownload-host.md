@@ -1,6 +1,6 @@
 ### host
 
-此host只为解除红色镰刀锤对GitHub（asw、ssh）下载的网络限制干扰
+将以下host复制进`C:\Windows\System32\drivers\etc\hosts`，再使用命令行(cmd) `ipconfig /flushdns`刷新dns缓存。
 
 ```
 ## GitHub Start
@@ -55,4 +55,4 @@
 ```
 附加速小工具：http://www.toolzl.com/tools/githubjiasu.html
 
-
+<!--此host只为解除红色镰刀锤对GitHub（asw、ssh）下载的网络限制干扰-->
