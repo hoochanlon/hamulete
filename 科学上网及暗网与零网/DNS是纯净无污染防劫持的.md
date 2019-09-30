@@ -16,6 +16,8 @@
 
 * http://www.alidns.com/setup/
 
+* 8.8.8.8
+
 待定
 
 * http://www.fundns.cn/
