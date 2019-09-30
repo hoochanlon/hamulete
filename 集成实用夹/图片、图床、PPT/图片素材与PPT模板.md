@@ -21,6 +21,8 @@
 
 ## PPT模板
 
+* http://www.hippter.com
+
 * http://www.ypppt.com
 
 * http://www.1ppt.com
