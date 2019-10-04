@@ -18,7 +18,7 @@
 <!--1984年的动物庄园，我们的美丽新世界，冲出你的窗口 ! The TianChao Fart's Searching for Meaning-->
 正如你所见，此 repo 本身并不提供任何的资料，采集的信息仅为网上收集；某些领域方面的论坛、文明友爱的社区、相关专业的网址与下载站点等等，没必要全全收录，通过谷歌搜索排名靠前的都在圈内挺有名的。不能及时地回复email或telegram，为此表示歉意，谢谢。
 
-感谢对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助的所有人:tada:
+感谢对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助的所有人🎉
 
 ***[w3-goto-world资源存储库 web版](https://hoodiearon.github.io/w3-goto-world/)***
 
@@ -33,6 +33,7 @@
 * [下载加速Clone、AWS、Git镜像](下载加速Clone、AWS、Git镜像/)
 * [软件分享及网页备份](软件分享及网页备份/)
 * [集成实用夹](集成实用夹/)
+* [科学上网、暗网、零网](科学上网、暗网、零网/)
 
 ## 友情小推广
 
@@ -40,8 +41,6 @@
 
 
 <!--
-
-* [科学上网及暗网与零网](科学上网及暗网与零网/)
 
 
 <a href="https://github.com/zc-zh-001">

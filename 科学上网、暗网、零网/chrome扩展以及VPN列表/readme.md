@@ -1,5 +1,4 @@
-
-## chrome代理插件清单
+### chrome代理插件清单
 
 可能因政策调整，使用限制的策略会发生变化，以下仅供参考
 
@@ -19,7 +18,7 @@ chrome代理插件|使用限制|
 |[tunnello](https://tunnello.com)|免费|
 |[tunsafe](https://tunsafe.com/)|免费|
 
-## VPN名单
+### VPN列表
 vpn|使用限制|
 |:-:|:-:|
 |[AstrillVPN](https://www.astrill.com/home)|付费|
@@ -42,7 +41,7 @@ vpn|使用限制|
 |[Cisco Anyconnect](https://www.cisco.com/c/en/us/support/security/anyconnect-secure-mobility-client/tsd-products-support-series-home.html)|需要提供服务器账户|
 
 
-附录
+### 附录
 
 vpn配置站点
 
@@ -50,6 +49,8 @@ vpn配置站点
 * https://www.vpnbook.com/freevpn
 * https://www.freeopenvpn.org/en/connect.php
 * https://www.vpnjantit.com/free-softether.html
+
+
 
 
 <!--

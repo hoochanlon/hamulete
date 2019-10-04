@@ -1,8 +1,20 @@
-## 使用教程
+###  WireGuard
 
-https://loremwalker.github.io/fq-book/#/proxy/SSH-Tunnel
+两篇使用教程：
 
-## 网站
+https://hoodiearon.github.io/fq-book/#/vpn/classical-vpn  
+https://hoodiearon.github.io/fq-book/#/vpn/wireguard
+
+站点：
+
+* https://tunsafe.com/
+* https://www.mullvad.net
+* https://cryptostorm.is/wireguard
+
+### SSH 
+
+使用教程：https://loremwalker.github.io/fq-book/#/proxy/SSH-Tunnel
+
 
 * https://skyssh.com
 * https://sshdropbear.net/
@@ -22,9 +34,7 @@ https://loremwalker.github.io/fq-book/#/proxy/SSH-Tunnel
 * https://sshkit.com/
 * http://www.monthlyssh.com/ssh
 
-## 附工具下载
-
-* https://www.bitvise.com/ssh-client-download
+附工具下载：https://www.bitvise.com/ssh-client-download
 
 <!--
 * https://contassh.com/
