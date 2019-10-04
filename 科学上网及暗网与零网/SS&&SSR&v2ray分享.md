@@ -50,6 +50,8 @@ https://hoodiearon.github.io/fq-book/#/vpn/classical-vpn
 
 * https://tunsafe.com/
 * https://www.mullvad.net
+* https://cryptostorm.is/wireguard
+
 
 ## 请参考fq-book中的教程再访问如下站点
 
