@@ -26,7 +26,7 @@
 
 
 
-## 科学上网
+## 资源目录
 
 科学上网请看基于docsify生成的[《这本书能让你连接互联网》](http://hoodiearon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoodiearon/fq-book)进行相关部署。
 
