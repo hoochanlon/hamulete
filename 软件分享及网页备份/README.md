@@ -11,6 +11,13 @@
 * https://archive.org/web/
 * https://www.domaintools.com/
 
+### 相似站点查询
+
+* http://www.similarsitesearch.com/cn/
+* http://www.similarsites.com/
+* http://www.xmarks.com/
+
+
 ### 博客安利向
 
 * https://www.hack520.com
