@@ -29,7 +29,7 @@
 科学上网请看基于docsify生成的[《这本书能让你连接互联网》](http://hoodiearon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoodiearon/fq-book)进行相关部署。
 
 * [下载加速Clone、AWS、Git镜像](下载加速Clone、AWS、Git镜像/)
-
+* [软件分享及网页备份](软件分享及网页备份/)
 
 ## 友情小推广
 
@@ -40,7 +40,6 @@
 
 * [下载加速Clone、AWS、Git镜像](下载加速Clone、AWS、Git镜像/)
 * [科学上网及暗网与零网](科学上网及暗网与零网/)
-* [软件分享及网页备份](软件分享及网页备份/)
 * [集成实用夹](集成实用夹/)
 
 <a href="https://github.com/zc-zh-001">
