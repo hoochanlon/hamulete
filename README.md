@@ -20,6 +20,8 @@
 
 感谢对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助的所有人:tada:
 
+***[w3-goto-world资源存储库 web版](https://hoodiearon.github.io/w3-goto-world/)***
+
 ***[wiki w3-goto-world](https://github.com/hoodiearon/w3-goto-world/wiki/w3-goto-world-wiki)*** 
 
 
