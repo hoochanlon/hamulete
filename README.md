@@ -32,6 +32,7 @@
 
 * [下载加速Clone、AWS、Git镜像](下载加速Clone、AWS、Git镜像/)
 * [软件分享及网页备份](软件分享及网页备份/)
+* [集成实用夹](集成实用夹/)
 
 ## 友情小推广
 
@@ -40,9 +41,8 @@
 
 <!--
 
-* [下载加速Clone、AWS、Git镜像](下载加速Clone、AWS、Git镜像/)
 * [科学上网及暗网与零网](科学上网及暗网与零网/)
-* [集成实用夹](集成实用夹/)
+
 
 <a href="https://github.com/zc-zh-001">
     <img src="https://avatars3.githubusercontent.com/u/34836102?s=400&v=4" width="50px">
