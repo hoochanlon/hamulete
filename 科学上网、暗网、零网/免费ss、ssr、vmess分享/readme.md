@@ -40,6 +40,7 @@ https://hoodiearon.github.io/fq-book/#/append/get-method
 * https://my.freev2ray.org/
 * https://v2fire.tk/
 * https://get.freev2ray.com/
+* https://freev2.org
 
 v2ray的账号分享站点目前较少
 
