@@ -141,6 +141,7 @@ v2ray的账号分享站点目前较少
 * https://t.me/TgProxies
 * https://t.me/zonghe_info
 * https://t.me/youmtp
+* https://t.me/outlinex
 
 
 
