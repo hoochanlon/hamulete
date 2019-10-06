@@ -19,3 +19,4 @@
 * https://www.up-4.net
 * https://mega.nz
 * https://drop.me
+* https://send.firefox.com/
