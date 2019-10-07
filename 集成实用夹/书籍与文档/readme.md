@@ -1,6 +1,7 @@
 ### 电子书
 
 * https://www.owllook.net/
+* https://itpanda.net/book
 * https://epubw.com/102850.html
 * http://www.gutenberg.org
 * https://sobooks.cc
