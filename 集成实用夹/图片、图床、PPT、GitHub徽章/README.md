@@ -3,6 +3,10 @@
 * https://www.deviantart.com
 * http://sc.chinaz.com/tupian
 
+### 无损放大
+
+https://bigjpg.com/
+
 ### favicon.ico
 
 * http://www.easyicon.net
