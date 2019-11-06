@@ -7,3 +7,11 @@
 * [在线视频下载与网课资源](在线视频下载与网课资源/)
 * [分析辅助图](分析辅助图/)
 * [影响体验的text](影响体验的text/)
+
+
+### 书签（便于集中式保存）
+
+* https://www.listango.com
+* https://atavi.com
+* https://papaly.com
+* https://usepanda.com/
