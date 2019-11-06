@@ -14,6 +14,7 @@
 ### 书签（便于集中式保存）
 
 * https://www.listango.com
+* https://saved.io
 * https://atavi.com
 * https://papaly.com
-* https://usepanda.com/
+* https://usepanda.com
