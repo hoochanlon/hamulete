@@ -4,8 +4,7 @@
 * [翻墙DNS、Google镜像](翻墙DNS、Google镜像/)
 * [chrome扩展以及VPN列表](chrome扩展以及VPN列表/)
 * [web代理与翻墙浏览器](web代理与翻墙浏览器/)
-* [tunsafe、wireguard配置分享](tunsafe、wireguard配置分享/)
-* [初入社会的防坑私货](初入社会的防坑私货/)
+* [tunsafe、wireguard、SSH](tunsafe、wireguard、SSH/)
 
 附：
 
