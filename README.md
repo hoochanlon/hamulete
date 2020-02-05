@@ -1,6 +1,6 @@
 # ***w3-goto-world***（冲出你的窗口）
 
-[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoodiearon-lightgrey.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/) [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) [![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoodiearon) [![stars](https://img.shields.io/github/stars/hoodiearon/w3-goto-world.svg?style=social)](https://github.com/hoodiearon/w3-goto-world)
+[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/) [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) [![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoodiearon) [![stars](https://img.shields.io/github/stars/hoochanlon/w3-goto-world.svg?style=social)](https://github.com/hoochanlon/w3-goto-world)
 
 
 ![冲出你的窗口](https://user-images.githubusercontent.com/35732922/59146732-60dc0b00-8a24-11e9-8ede-d5660b01ce10.png)
@@ -20,15 +20,15 @@
 
 感谢对此 repo 及 book 的推广及建议、项目平台的搭建及测试、pull request、issue 等相关建设性的帮助的所有人🎉
 
-***[w3-goto-world资源存储库 web版](https://hoodiearon.github.io/w3-goto-world/)***
+***[w3-goto-world资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)***
 
-***[wiki w3-goto-world](https://github.com/hoodiearon/w3-goto-world/wiki/w3-goto-world-wiki)*** 
+***[wiki w3-goto-world](https://github.com/hoochanlon/w3-goto-world/wiki/w3-goto-world-wiki)*** 
 
 
 
 ## 资源目录
 
-科学上网请看基于docsify生成的[《这本书能让你连接互联网》](http://hoodiearon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoodiearon/fq-book)进行相关部署。
+科学上网请看基于docsify生成的[《这本书能让你连接互联网》](http://hoochanlon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoochanlon/fq-book)进行相关部署。
 
 * [下载加速Clone、AWS、Git镜像](下载加速Clone、AWS、Git镜像/)
 * [软件分享及网页备份](软件分享及网页备份/)
