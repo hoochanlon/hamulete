@@ -2,8 +2,8 @@
 
 两篇使用教程：
 
-https://hoodiearon.github.io/fq-book/#/vpn/classical-vpn  
-https://hoodiearon.github.io/fq-book/#/vpn/wireguard
+https://hoochanlon.github.io/fq-book/#/vpn/classical-vpn  
+https://hoochanlon.github.io/fq-book/#/vpn/wireguard
 
 站点：
 
@@ -13,7 +13,7 @@ https://hoodiearon.github.io/fq-book/#/vpn/wireguard
 
 ### SSH 
 
-使用教程：https://loremwalker.github.io/fq-book/#/proxy/SSH-Tunnel
+使用教程：https://hoochanlon.github.io/fq-book/#/proxy/SSH-Tunnel
 
 
 * https://skyssh.com
