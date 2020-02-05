@@ -17,7 +17,7 @@
 
 代理服务器列表的使用
 
-https://hoodiearon.github.io/fq-book/#/only/gatherproxy
+https://hoochanlon.github.io/fq-book/#/only/gatherproxy
 
 * http://free-proxy.cz
 * http://www.freeproxylists.net
@@ -32,7 +32,7 @@ https://hoodiearon.github.io/fq-book/#/only/gatherproxy
 
 ### 浏览器
 
-使用示例：https://loremwalker.github.io/fq-book/#/browse/puffin
+使用示例：https://hoochanlon.github.io/fq-book/#/browse/puffin
 
 * [UPX Unblock Websites](https://softstribe.com/app/pc/download-install-net-upx-proxy-browser-windows-mac-os)
 * [i2p](https://geti2p.net/zh/download)
