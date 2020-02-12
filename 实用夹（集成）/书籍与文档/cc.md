@@ -1,1 +1,0 @@
-*  http://creativecommons.net.cn/licenses/licenses_exp/
