@@ -3,7 +3,7 @@
 [![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/) [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) [![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoochanlon) [![stars](https://img.shields.io/github/stars/hoochanlon/w3-goto-world.svg?style=social)](https://github.com/hoochanlon/w3-goto-world)
 
 
-![冲出你的窗口](https://user-images.githubusercontent.com/35732922/59146732-60dc0b00-8a24-11e9-8ede-d5660b01ce10.png)
+![冲出你的窗口](https://raw.githubusercontent.com/hoochanlon/w3-goto-world/master/.github/%E5%86%B2%E5%87%BA%E4%BD%A0%E7%9A%84%E7%AA%97%E5%8F%A3.png)
 
 <h1 align="center"> 免责声明 </h1>
 
