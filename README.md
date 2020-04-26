@@ -28,7 +28,9 @@
 
 ## 资源目录
 
-科学上网请看基于docsify生成的[《这本书能让你连接互联网》](http://hoochanlon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoochanlon/fq-book)进行相关部署。对计算机软硬件、办公自动化不熟悉的朋友可阅读[《桌面运维管理指南》](https://github.com/hoochanlon/helpdesk-manual)，该书也可作为计算机爱好者的参考手册，还有面试就业、防培训社会工程文章也收录其中，应届实习新人面对社会工作生活，也能从中受益。
+对计算机软硬件、办公自动化不熟悉的朋友可阅读[《桌面运维管理指南》](https://github.com/hoochanlon/helpdesk-manual)，该书也可作为计算机爱好者的参考手册，还有面试就业、防培训社会工程文章也收录其中，应届实习新人面对社会工作生活，也能从中受益，欢迎大家 star。
+
+科学上网请看基于docsify生成的[《这本书能让你连接互联网》](http://hoochanlon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoochanlon/fq-book)进行相关部署。
 
 * [下载加速Clone、AWS、Git镜像](下载加速Clone、AWS、Git镜像/)
 * [软件分享及网页备份](软件分享及网页备份/)
