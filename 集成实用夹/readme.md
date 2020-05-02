@@ -9,6 +9,7 @@
 * [在线视频下载与网课资源](在线视频下载与网课资源/)
 * [分析辅助图](分析辅助图/)
 * [影响体验的text](影响体验的text/)
+* [在线上传小文件](https://catbox.moe/)
 * [PC故障疑难解答|桌面运维](https://hoochanlon.github.io/desktop-manual/)
 
 
