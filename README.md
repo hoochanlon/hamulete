@@ -28,7 +28,7 @@
 
 ## 资源目录
 
-对计算机软硬件、办公自动化不熟悉的朋友可阅读[《桌面运维管理指南》](https://github.com/hoochanlon/helpdesk-manual)，该书也可作为计算机爱好者的参考手册，还有面试就业、防培训社会工程文章也收录其中，应届实习新人面对社会工作生活，也能从中受益，欢迎大家 star。
+对计算机软硬件、办公自动化不熟悉的朋友可阅读[《桌面运维管理指南》](https://github.com/hoochanlon/helpdesk-manual)，还有面试就业、防培训社会工程文章也收录其中，也可作为一本转职IT或IT求职者的快速就业指南，欢迎大家 star [helpdesk-manual](https://github.com/hoochanlon/helpdesk-manual)项目。
 
 科学上网请看基于docsify生成的[《这本书能让你连接互联网》](http://hoochanlon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoochanlon/fq-book)进行相关部署。
 
