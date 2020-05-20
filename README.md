@@ -37,7 +37,7 @@
 * [集成实用夹](集成实用夹/)
 * [科学上网、暗网、零网](https://github.com/hoochanlon/ss-ssr-vmess-proxy)
 
-**科学上网更新转移至 [ss-ssr-vmess-proxy](https://github.com/hoochanlon/ss-ssr-vmess-proxy)！**
+**科学上网更新转移至 [vpn-proxy-share](https://github.com/hoochanlon/vpn-proxy-share)！**
 
 ## 友情小推广
 
