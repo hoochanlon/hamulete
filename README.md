@@ -37,8 +37,10 @@
 * [集成实用夹](集成实用夹/)
 * [科学上网、暗网、零网](科学上网、暗网、零网/)
 
+**科学上网更新转移至 [ss-ssr-vmess-proxy](https://github.com/hoochanlon/ss-ssr-vmess-proxy)，敬请关注！**
+
 ## 友情小推广
 
-**欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目，同时也自推广书籍** ***[《桌面运维管理指南》](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)***  😀
+欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目，同时也自推广书籍[《桌面运维管理指南》](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html) 😀
 
 <!--🍅冲出你的窗口，Git镜像、Clone 及AWS下载加速、FREE SS/SSR/VMESS、WireGuard配置分享、IPFS、暗网等其他资源存储库-->
