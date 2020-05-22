@@ -35,7 +35,7 @@
 * [下载加速Clone、AWS、Git镜像](下载加速Clone、AWS、Git镜像/)
 * [软件分享及网页备份](软件分享及网页备份/)
 * [集成实用夹](集成实用夹/)
-* [科学上网、暗网、零网](https://github.com/hoochanlon/ss-ssr-vmess-proxy)
+* [科学上网、暗网、零网](科学上网、暗网、零网/)
 
 ## 友情小推广
 
