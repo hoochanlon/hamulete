@@ -1,4 +1,4 @@
-* [免费ss、ssr、vmess分享](/免费ss、ssr、vmess分享/)
+* [免费ss、ssr、vmess分享](免费ss、ssr、vmess分享/)
 * [零网与暗网](零网与暗网/)
 * [爱国上网APP](爱国上网APP/)
 * [翻墙DNS、Google镜像](翻墙DNS、Google镜像/)
