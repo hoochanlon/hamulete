@@ -28,7 +28,7 @@
 
 ## 资源目录
 
-[2020全球疫情](https://zh.wikipedia.org/zh-hans/2019冠状病毒病疫情)影响下各行业发展放缓，大专及以下的较低学历，而又无工作经验的应届、往届生及转行新人在这双重不利因素的就业逆境下，有必要了解存在于社会找工作中“[“招转培”](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)的[培训PUA模式借贷欺诈](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html#%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%AF%B9pua%E5%BA%94%E7%94%A8%E8%B0%83%E6%9F%A5)，并对[HR初级面试官](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html)的言行举止进行换位思考分析解读。
+[2020全球疫情](https://zh.wikipedia.org/zh-hans/2019冠状病毒病疫情)影响下各行业发展放缓，大专及以下的较低学历，而又无工作经验的应届、往届生及转行新人在这双重不利因素的就业逆境下，有必要了解存在于社会找工作中“[“招转培”](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html)的[培训PUA模式借贷欺诈](https://hoochanlon.github.io/helpdesk-manual/notice/ti-analysis.html#%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%AF%B9pua%E5%BA%94%E7%94%A8%E8%B0%83%E6%9F%A5)，并对[HR初级面试官](https://hoochanlon.github.io/helpdesk-manual/notice/interview.html)的进行换位思考及职业分析。
 
 科学上网请看基于docsify生成的[《这本书能让你连接互联网》](http://hoochanlon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoochanlon/fq-book)进行相关部署。
 
