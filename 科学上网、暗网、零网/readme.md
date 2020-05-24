@@ -6,7 +6,7 @@
 * [chrome扩展以及VPN列表](chrome扩展以及VPN列表/)
 * [web代理与翻墙浏览器](web代理与翻墙浏览器/)
 * [tunsafe、wireguard、SSH](tunsafe、wireguard、SSH/)
-* [从电脑零基础到就业入职IT方向工程师 欢迎star 《桌面运维管理指南》](https://github.com/hoochanlon/helpdesk-manual)
+* [反欺骗研究 社会工程学 欢迎star 《桌面运维管理指南》特别篇：社会工程](https://hoochanlon.github.io/helpdesk-manual/)
 
 附：
 
