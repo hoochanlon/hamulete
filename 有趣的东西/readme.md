@@ -4,7 +4,7 @@
 * [自己在动漫中的样子](https://selfie2anime.com/)
 * [拍马屁生成器](https://chp.shadiao.app/)
 * [小黄人举牌生成器](http://upuptoyou.com)
-* [假装Windows升级](http://fakeupdate.net/)
+* [假装Windows升级](http://fakeupdate.net/) （摸鱼）
 * [虚伪截图](https://fakes.netlify.app/#/sina/simple)
 * [回形针手册](https://ipaperclip.net/)
 * [文字云图片](https://wordart.com/)
