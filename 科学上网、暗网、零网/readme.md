@@ -1,5 +1,6 @@
 * [免费ss、ssr、vmess分享](免费ss、ssr、vmess分享/)
 * [零网与暗网](零网与暗网/)
+* [用来加速的host](用来加速的host/)
 * [爱国上网APP](爱国上网APP/)
 * [翻墙DNS、Google镜像](翻墙DNS、Google镜像/)
 * [chrome扩展以及VPN列表](chrome扩展以及VPN列表/)
