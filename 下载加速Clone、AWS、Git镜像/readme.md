@@ -10,6 +10,8 @@ https://npm.taobao.org/mirrors/git-for-windows/
 
 详情 [关于Github克隆及下载过慢的解决方案](https://hoochanlon.github.io/note/2019/10-01/4ee4554a.html)
 
+**如果某条hosts的IP、域名变更，而又没及时更新容易引发浏览器的连接错误重置指向，造成站点无法访问**
+
 ```
 ## GitHub Start
 
