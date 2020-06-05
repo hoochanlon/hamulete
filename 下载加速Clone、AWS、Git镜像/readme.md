@@ -12,6 +12,10 @@ https://npm.taobao.org/mirrors/git-for-windows/
 
 **如果某条hosts的IP、域名变更，而又没及时更新容易引发浏览器的连接错误重置指向，造成站点无法访问**
 
+ <details><summary>** 该host文件已过期！** </summary>
+
+
+
 ```
 ## GitHub Start
 
@@ -63,6 +67,9 @@ https://npm.taobao.org/mirrors/git-for-windows/
 
 ## GitHub End
 ```
+
+    </details>
+
 附加速小工具：http://www.toolzl.com/tools/githubjiasu.html
 
 <!--
