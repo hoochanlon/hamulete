@@ -68,13 +68,15 @@ https://npm.taobao.org/mirrors/git-for-windows/
 ## GitHub End
 ```
 
-    </details>
+</details>
 
 附加速小工具：http://www.toolzl.com/tools/githubjiasu.html
 
 <!--
 
 **说在前面：这些问题都可以使用VPN直接解决，但由于红朝特殊环境，找到合适性价比的VPN又是一件比较困难的事，更不用说免费的了，而且免费的基本都赶尽杀绝了...**
+
+-->
 
 ## Github 下载过慢处理（releases）
 
@@ -118,6 +120,3 @@ git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
 ```
 
 
-
-
--->
