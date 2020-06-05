@@ -12,6 +12,8 @@ https://npm.taobao.org/mirrors/git-for-windows/
 
 **如果某条hosts的IP、域名变更，而又没及时更新容易引发浏览器的连接错误重置指向，造成站点无法访问**
 
+详情 [GitHub RST与Git SSL_ERR_SYSCALL综合分析](https://hoochanlon.github.io/note/2020/06-06/74ae1ae6.html)
+
  <details><summary>** 该host文件已废弃，仅作植入IP-DNS映射，阻断联网实验！** </summary>
 
 
