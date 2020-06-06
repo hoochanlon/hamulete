@@ -1,5 +1,6 @@
 ### Google Play 爱国上网APP
 
+* [手机蚂蚁](https://b.lausera.com/c-1/a-agWjQ/)
 * [Turbo VPN ](https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn&hl=zh_CN)
 * [UPX Proxy](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh_CN)
 * [灯塔-FreeVPN](https://play.google.com/store/apps/details?id=com.qq.network&hl=zh_CN)
