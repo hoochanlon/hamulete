@@ -1,4 +1,4 @@
-***短链接：http://8rr.co/6stM ***
+***短链接：http://8rr.co/6stM***
 
 ### git下载
 
