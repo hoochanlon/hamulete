@@ -1,0 +1,28 @@
+### git
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/hoochanlon/private.git //远程链接
+git push -u origin master
+
+git checkout gh-pages //切换分支
+git checkout -b gh-pages //创建并切换分支
+git push origin branch-name //直接push 到repo的相关分支
+
+git branch -r -d origin/branch-name //删除分支
+git push origin :branch-name //删除远程分支
+
+git fetch --all //指令是下载远程仓库最新内容，不做合并
+git reset --hard origin/master  //指令把HEAD指向master最新版本
+git pull //合并
+
+git remote set-url origin repo.git //修改远程仓库地址
+
+### npm
+
+npm login
+npm pulish
+npm unpublish pkg --force
+
+[npm增删改](https://segmentfault.com/a/1190000017479985)
