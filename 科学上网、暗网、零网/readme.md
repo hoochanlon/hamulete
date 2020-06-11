@@ -1,3 +1,5 @@
+短连接： http://dwz.date/aZK2
+
 * [免费ss、ssr、vmess分享](免费ss、ssr、vmess分享/)
 * [零网与暗网](零网与暗网/)
 * [用来加速的host](用来加速的host/)
