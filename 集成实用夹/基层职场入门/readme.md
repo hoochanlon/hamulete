@@ -16,3 +16,4 @@
 
 * [资本主义越来越猖狂了么？](https://www.zhihu.com/question/392938234)
 * [为什么最近有这么多关于资本家的评论？](https://www.zhihu.com/question/396383768/answer/1247633041)
+* [资本家是如何骂人的？](https://www.zhihu.com/question/392362882)
