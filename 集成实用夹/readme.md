@@ -11,6 +11,7 @@
 * [分析辅助图](分析辅助图/)
 * [影响体验的text](影响体验的text/)
 * [在线上传小文件](https://catbox.moe/)
+* [各类awesome名单](https://github.com/sindresorhus/awesome)
 
 
 
