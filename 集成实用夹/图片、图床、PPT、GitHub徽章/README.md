@@ -33,6 +33,7 @@ https://bigjpg.com/
 * https://shields.io/
 * https://emojipedia.org/ 
 * https://getemoji.com
+* https://github.com/FortAwesome/Font-Awesome
 
 ### PPT模板
 
