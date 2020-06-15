@@ -13,9 +13,15 @@ https://bigjpg.com/
 
 ### 图片转为ASCII
 
-* https://tools.kalvinbg.cn/
+* http://patorjk.com/software/taag
+* http://www.network-science.de/ascii
 * http://picascii.com
 * http://www.makepic.net/Tool/Image2ascii.html
+* http://www.degraeve.com/img2txt.php
+* http://life.chacuo.net/convertphoto2char
+* http://asciiflow.com
+* https://tools.kalvinbg.cn/
+
 
 ### 图床
 
