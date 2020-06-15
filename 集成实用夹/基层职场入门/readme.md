@@ -8,7 +8,7 @@
 * [实习经历](https://github.com/lazyparser/survivial-manual-for-interns/blob/master/article)
 * [极简主义团队管理操作手册](https://github.com/lazyparser/minimalist-team-leader)
 
-> 现在码农们有什么xx商城项目，一看就是培训机构出来的 —— 鲁迅 🤣
+> 现在码农们有什么xx商城项目，一看十有八九就是培训机构出来的 —— 鲁迅 🤣
 
 * [企业OA项目](https://github.com/o2oa/o2oa)
 * [远程办公任务协作项目](https://github.com/a54552239/pearProject)
