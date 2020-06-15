@@ -12,6 +12,8 @@ https://bigjpg.com/
 * http://www.easyicon.net
 
 ### 图片转为ASCII
+
+* https://tools.kalvinbg.cn/
 * http://picascii.com
 * http://www.makepic.net/Tool/Image2ascii.html
 
