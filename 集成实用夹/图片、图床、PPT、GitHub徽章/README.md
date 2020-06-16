@@ -10,6 +10,8 @@ https://bigjpg.com/
 ### favicon.ico
 
 * http://www.easyicon.net
+* http://www.zhutizhijia.net/sbzz/
+* http://www.xitongzhijia.net/sbzz/2001.html
 
 ### 图片转为ASCII
 
