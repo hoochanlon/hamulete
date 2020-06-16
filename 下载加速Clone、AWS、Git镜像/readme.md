@@ -100,7 +100,7 @@ https://npm.taobao.org/mirrors/git-for-windows/
 2. 记录下查询到的IP地址，并添加进入`C:\Windows\System32\drivers\etc\Hosts`文件
 3. 运行`cmd`输入`ipconfig /flushdns` 指令刷新系统DNS
 
-也可试试Github加速下载 https://toolwa.com/github/
+我们也可利用[jsDelivr](https://www.jsdelivr.com) CDN加速进行下载文件，也可借此搭建访问速度加快的图床；还有一个站点加速下载也可试试：https://toolwa.com/github/
 
 ## Git Clone 克隆过慢改进
 
