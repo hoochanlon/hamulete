@@ -1,1 +1,7 @@
+https://cdn.jsdelivr.net/gh/user/repo@version/file
 
+复制链接填入相应的参数，即可完成CDN加速：
+
+* user : github用户名
+* repo : 存储需要访问资源的仓库名
+* version ：版本号
