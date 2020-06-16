@@ -1,3 +1,2 @@
 *.js linguist-language=java;
 *.v linguist-language=java;
-*.rtf linguist-language=java
