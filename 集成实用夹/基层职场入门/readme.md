@@ -13,13 +13,19 @@
 * [企业OA项目](https://github.com/o2oa/o2oa)
 * [远程办公任务协作项目](https://github.com/a54552239/pearProject)
 
-### 异闻启示录
-
-* [知乎专栏-日本最强软饭男，富婆包养月入百万的故事...](https://zhuanlan.zhihu.com/p/146547991)（PUA、家政、服务、商业化）
-* [马赛克日本-电影解读](https://zhuanlan.zhihu.com/p/102478772)（法律、社会、经济、人性）
-
 ### 资本主义讨论
 
 * [资本主义越来越猖狂了么？](https://www.zhihu.com/question/392938234)
 * [为什么最近有这么多关于资本家的评论？](https://www.zhihu.com/question/396383768/answer/1247633041)
 * [资本家是如何骂人的？](https://www.zhihu.com/question/392362882)
+
+
+### 启发性思考
+
+* [有哪些圈子里才知道的小秘密？](https://www.zhihu.com/question/49502870)
+* [知乎专栏-日本最强软饭男，富婆包养月入百万的故事...](https://zhuanlan.zhihu.com/p/146547991)（PUA、家政、服务、商业化）
+* [马赛克日本-电影解读](https://zhuanlan.zhihu.com/p/102478772)（法律、社会、经济、人性）
+* [中国现在的课本里，是否真的还有“万恶的资本主义”和“美国人民生活在水深火热之中”这两句？](https://www.zhihu.com/question/43686132)
+
+
+
