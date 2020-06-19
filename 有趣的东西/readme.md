@@ -1,16 +1,22 @@
 
+### student
+
 * [考试酷](https://www.examcoo.com/index/ku)
 * [文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html)
-* [自己在动漫中的样子](https://selfie2anime.com/)
+* [Text to Handwriting(手写抄作业)](https://github.com/saurabhdaware/text-to-handwriting)
 * [拍马屁生成器](https://chp.shadiao.app/)
+* [猫咪论文](https://lunwen.im/)
+* [书籍下载](https://book.tstrs.me/)
+
+### interesting
+
+* [自己在动漫中的样子](https://selfie2anime.com/)
 * [小黄人举牌生成器](http://upuptoyou.com)
 * [假装Windows升级](http://fakeupdate.net/) （摸鱼）
 * [虚伪截图](https://fakes.netlify.app/#/sina/simple)
 * [回形针手册](https://ipaperclip.net/)
 * [文字云图片](https://wordart.com/)
 * [背景消除](https://www.remove.bg/zh)
-* [猫咪论文](https://lunwen.im/)
-* [书籍下载](https://book.tstrs.me/)
 * [白噪音](https://raining.fm/#)
 * [火狐私密文件分享](https://send.firefox.com/)
 * [「标签式」 文件资料 管理利器](http://www.taglyst.com/)
