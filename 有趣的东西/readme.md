@@ -11,6 +11,7 @@
 ### interesting
 
 * [自己在动漫中的样子](https://selfie2anime.com/)
+* [键盘钢琴家](https://github.com/WarpPrism/AutoPiano)
 * [小黄人举牌生成器](http://upuptoyou.com)
 * [假装Windows升级](http://fakeupdate.net/) （摸鱼）
 * [虚伪截图](https://fakes.netlify.app/#/sina/simple)
