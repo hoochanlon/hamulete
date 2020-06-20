@@ -8,6 +8,7 @@
 * [猫咪论文](https://lunwen.im/)
 * [书籍下载](https://book.tstrs.me/)
 * [算法站点 OI-wiki](https://github.com/OI-wiki/OI-wiki)
+* [算法题解模板](https://github.com/greyireland/algorithm-pattern/)
 
 ### interesting
 
