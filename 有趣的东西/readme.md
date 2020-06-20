@@ -7,6 +7,7 @@
 * [拍马屁生成器](https://chp.shadiao.app/)
 * [猫咪论文](https://lunwen.im/)
 * [书籍下载](https://book.tstrs.me/)
+* [算法站点 OI-wiki](https://github.com/OI-wiki/OI-wiki)
 
 ### interesting
 
