@@ -1,5 +1,5 @@
 
-***短链接：http://8rr.co/9t8e ***
+***短链接：http://8rr.co/9t8e***
 
 ### student
 
