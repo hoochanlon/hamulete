@@ -1,4 +1,6 @@
 
+***短链接：http://8rr.co/9t8e ***
+
 ### student
 
 * [考试酷](https://www.examcoo.com/index/ku)
