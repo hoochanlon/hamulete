@@ -14,7 +14,7 @@
 * [华东师范大学《数据思维与实践》](https://github.com/neolee/wop-ecnu-pub)
 
 
-### book &
+### book & social
 
 * [你读过哪些令你有跪感的书？](https://www.zhihu.com/question/310681355/answer/999792279)
 * [有哪些大家不说，但需要知道的社会常识？](https://www.zhihu.com/question/331082099/answer/1286116041)
