@@ -12,6 +12,7 @@
 * [算法站点 OI-wiki](https://github.com/OI-wiki/OI-wiki)
 * [算法题解模板](https://github.com/greyireland/algorithm-pattern/)
 * [华东师范大学《数据思维与实践》](https://github.com/neolee/wop-ecnu-pub)
+* [refactoring.guru设计模式](https://refactoring.guru/)
 
 
 ### book & social
