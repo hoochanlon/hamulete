@@ -18,6 +18,7 @@
 ### book & social
 
 * [你读过哪些令你有跪感的书？](https://www.zhihu.com/question/310681355/answer/999792279)
+* [高中生最近看《乌合之众》里谈到应试教育，可是如果我不上学我现在能做什么？那现在努力的意义又是什么呢?](https://www.zhihu.com/question/391671684/answer/1201494550)
 * [有哪些大家不说，但需要知道的社会常识？](https://www.zhihu.com/question/331082099/answer/1286116041)
 
 ### interesting
