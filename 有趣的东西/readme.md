@@ -20,6 +20,9 @@
 * [你读过哪些令你有跪感的书？](https://www.zhihu.com/question/310681355/answer/999792279)
 * [高中生最近看《乌合之众》里谈到应试教育，可是如果我不上学我现在能做什么？那现在努力的意义又是什么呢?](https://www.zhihu.com/question/391671684/answer/1201494550)
 * [有哪些大家不说，但需要知道的社会常识？](https://www.zhihu.com/question/331082099/answer/1286116041)
+* [现在的年轻人是真的丧失了思考能力？还是只是选择了沉默不发声？](https://www.zhihu.com/question/402542831/answer/1301241054)
+* [如何解决思维混乱、讲话没条理的情况？](https://www.zhihu.com/question/30173526/answer/1076704287)
+* [就中国而言，近代到今最伟大的人是谁？](https://www.zhihu.com/question/371931317)
 
 ### interesting
 
