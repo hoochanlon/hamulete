@@ -23,6 +23,7 @@
 * [现在的年轻人是真的丧失了思考能力？还是只是选择了沉默不发声？](https://www.zhihu.com/question/402542831/answer/1301241054)
 * [如何解决思维混乱、讲话没条理的情况？](https://www.zhihu.com/question/30173526/answer/1076704287)
 * [就中国而言，近代到今最伟大的人是谁？](https://www.zhihu.com/question/371931317)
+* [马云说他招人不要清北毕业的，事实真是这样吗？](https://zhuanlan.zhihu.com/p/36745191)
 
 ### interesting
 
