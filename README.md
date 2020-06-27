@@ -28,10 +28,6 @@
 
 ## 资源目录
 
-新书 [《桌面运维管理指南》](https://hoochanlon.github.io/helpdesk-guide/)已发布，新增特别篇社会工程章节，防“招转培”[培训机构PUA运营模式借贷欺诈套路](https://hoochanlon.github.io/helpdesk-guide/notice/ti-analysis.html#%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%AF%B9pua%E5%BA%94%E7%94%A8%E8%B0%83%E6%9F%A5)，并[换位思考解读HR](https://hoochanlon.github.io/helpdesk-guide/notice/interview.html#hr%E7%9A%84%E8%AE%A4%E7%9F%A5%E5%81%8F%E5%B7%AE%E5%BD%92%E5%9B%A0)，反欺骗研究，社会工程学入门实践。低学历应届及无经验往届生、转行新人求职就业，也能从中受益。
-
-欢迎Star & fork [helpdesk-guide](https://github.com/hoochanlon/helpdesk-guide) 项目！
-
 科学上网请看基于docsify生成的[《这本书能让你连接互联网》](http://hoochanlon.github.io/fq-book)；若需本地阅读，请下载[此书源码](https://github.com/hoochanlon/fq-book)进行相关部署。
 
 * [下载加速Clone、AWS、Git镜像](下载加速Clone、AWS、Git镜像/)
@@ -43,4 +39,4 @@
 
 欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目，同时也自推广书籍[《桌面运维管理指南》](https://hoochanlon.github.io/helpdesk-guide/) 😀
 
-<!--🍅冲出你的窗口，Git镜像、Clone 及AWS下载加速、FREE SS/SSR/VMESS、WireGuard配置分享、IPFS、暗网等其他资源存储库-->
+
