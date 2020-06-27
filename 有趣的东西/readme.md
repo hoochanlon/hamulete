@@ -29,6 +29,7 @@
 * [NHK纪录片揭露的真相：为什么贫困家庭养出的孩子更贫困？](https://zhuanlan.zhihu.com/p/31642342)
 * http://www.yinwang.org
 * https://github.com/Terminus2049/Terminus2049.github.io
+* https://zhuanlan.zhihu.com/p/103019666
 
 
 ### interesting
