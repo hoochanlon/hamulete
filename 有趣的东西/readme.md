@@ -24,6 +24,7 @@
 * [如何解决思维混乱、讲话没条理的情况？](https://www.zhihu.com/question/30173526/answer/1076704287)
 * [就中国而言，近代到今最伟大的人是谁？](https://www.zhihu.com/question/371931317)
 * [马云说他招人不要清北毕业的，事实真是这样吗？](https://zhuanlan.zhihu.com/p/36745191)
+* [辞职后较长的空窗期里你都做了些什么？](https://www.zhihu.com/question/349948052)
 
 ### interesting
 
