@@ -1,6 +1,6 @@
 # ***w3-goto-world***（冲出你的窗口）
 
-[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/) [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) [![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoochanlon) [![stars](https://img.shields.io/github/stars/hoochanlon/w3-goto-world.svg?style=social)](https://github.com/hoochanlon/w3-goto-world)
+[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/) [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) [![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoochanlon) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)[![stars](https://img.shields.io/github/stars/hoochanlon/w3-goto-world.svg?style=social)](https://github.com/hoochanlon/w3-goto-world)
 
 
 ![冲出你的窗口](https://raw.githubusercontent.com/hoochanlon/w3-goto-world/master/.github/%E5%86%B2%E5%87%BA%E4%BD%A0%E7%9A%84%E7%AA%97%E5%8F%A3.png)
