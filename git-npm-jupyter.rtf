@@ -12,6 +12,7 @@ git push origin branch-name //直接push 到repo的相关分支
 
 git branch -r -d origin/branch-name //删除分支
 git push origin :branch-name //删除远程分支
+git rm -r --cached mydir  //删除mydir文件夹，-n 即为展示不删除
 
 git fetch --all //指令是下载远程仓库最新内容，不做合并
 git reset --hard origin/master  //指令把HEAD指向master最新版本
