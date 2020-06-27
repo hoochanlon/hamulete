@@ -25,6 +25,7 @@
 * [就中国而言，近代到今最伟大的人是谁？](https://www.zhihu.com/question/371931317)
 * [马云说他招人不要清北毕业的，事实真是这样吗？](https://zhuanlan.zhihu.com/p/36745191)
 * [辞职后较长的空窗期里你都做了些什么？](https://www.zhihu.com/question/349948052)
+* [NHK纪录片揭露的真相：为什么贫困家庭养出的孩子更贫困？](https://zhuanlan.zhihu.com/p/31642342)
 
 ### interesting
 
