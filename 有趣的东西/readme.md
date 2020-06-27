@@ -27,6 +27,9 @@
 * [辞职后较长的空窗期里你都做了些什么？](https://www.zhihu.com/question/349948052)
 * [NHK纪录片揭露的真相：为什么贫困家庭养出的孩子更贫困？](https://zhuanlan.zhihu.com/p/31642342)
 * [奶头乐理论](https://www.zhihu.com/topic/20003320/intro)
+* https://github.com/Terminus2049/Terminus2049.github.io
+* http://www.yinwang.org/
+
 
 ### interesting
 
