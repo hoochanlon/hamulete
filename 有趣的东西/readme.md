@@ -29,6 +29,8 @@
 * [NHK纪录片揭露的真相：为什么贫困家庭养出的孩子更贫困？](https://zhuanlan.zhihu.com/p/31642342)
 * [企业家们为什么要不停地挣钱？](https://www.zhihu.com/question/343114996/answer/1002729893)
 * [社会学和心理学角度上来说，为什么暴乱会有如此强的「传染性」？](https://www.zhihu.com/question/398135057/answer/1293187760)
+* [国内有没有适合青少年观看的性教育视频？](https://www.zhihu.com/question/47016153/answer/1260433889)
+
 * http://www.yinwang.org
 * https://github.com/Terminus2049/Terminus2049.github.io
 * https://zhuanlan.zhihu.com/p/103019666
