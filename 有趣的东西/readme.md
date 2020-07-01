@@ -31,10 +31,13 @@
 * [社会学和心理学角度上来说，为什么暴乱会有如此强的「传染性」？](https://www.zhihu.com/question/398135057/answer/1293187760)
 * [国内有没有适合青少年观看的性教育视频？](https://www.zhihu.com/question/47016153/answer/1260433889)
 
+### blog
+
 * http://www.yinwang.org
 * https://github.com/Terminus2049/Terminus2049.github.io
 * https://zhuanlan.zhihu.com/p/103019666
-
+* https://keepgrowup.com.tw/making-thinking-visible
+* https://data.leafwind.tw/the-importance-of-multi-dimension-thinking-b5dcb18309f4
 
 ### interesting
 
