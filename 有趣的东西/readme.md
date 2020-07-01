@@ -15,21 +15,26 @@
 * [refactoring.guru设计模式](https://refactoring.guru/)
 
 
-### book & social
+
+### stu & emp
 
 * [你读过哪些令你有跪感的书？](https://www.zhihu.com/question/310681355/answer/999792279)
 * [高中生最近看《乌合之众》里谈到应试教育，可是如果我不上学我现在能做什么？那现在努力的意义又是什么呢?](https://www.zhihu.com/question/391671684/answer/1201494550)
+* [马云说他招人不要清北毕业的，事实真是这样吗？](https://zhuanlan.zhihu.com/p/36745191)
+* [企业家们为什么要不停地挣钱？](https://www.zhihu.com/question/343114996/answer/1002729893)
+* [辞职后较长的空窗期里你都做了些什么？](https://www.zhihu.com/question/349948052)
+
+### social
+
 * [有哪些大家不说，但需要知道的社会常识？](https://www.zhihu.com/question/331082099/answer/1286116041)
 * [现在的年轻人是真的丧失了思考能力？还是只是选择了沉默不发声？](https://www.zhihu.com/question/402542831/answer/1301241054)
 * [如何解决思维混乱、讲话没条理的情况？](https://www.zhihu.com/question/30173526/answer/1076704287)
-* [就中国而言，近代到今最伟大的人是谁？](https://www.zhihu.com/question/371931317)
-* [马云说他招人不要清北毕业的，事实真是这样吗？](https://zhuanlan.zhihu.com/p/36745191)
-* [辞职后较长的空窗期里你都做了些什么？](https://www.zhihu.com/question/349948052)
-* [奶头乐理论百科及话题](https://www.zhihu.com/topic/20003320/intro)
+* [为什么有的人没有阶级意识？](https://www.zhihu.com/question/48343079)
 * [NHK纪录片揭露的真相：为什么贫困家庭养出的孩子更贫困？](https://zhuanlan.zhihu.com/p/31642342)
-* [企业家们为什么要不停地挣钱？](https://www.zhihu.com/question/343114996/answer/1002729893)
-* [社会学和心理学角度上来说，为什么暴乱会有如此强的「传染性」？](https://www.zhihu.com/question/398135057/answer/1293187760)
 * [国内有没有适合青少年观看的性教育视频？](https://www.zhihu.com/question/47016153/answer/1260433889)
+* [社会学和心理学角度上来说，为什么暴乱会有如此强的「传染性」？](https://www.zhihu.com/question/398135057/answer/1293187760)
+* [奶头乐理论百科及话题](https://www.zhihu.com/topic/20003320/intro)
+* [就中国而言，近代到今最伟大的人是谁？](https://www.zhihu.com/question/371931317)
 
 ### blog
 
