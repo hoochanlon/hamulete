@@ -24,6 +24,8 @@
 * [企业家们为什么要不停地挣钱？](https://www.zhihu.com/question/343114996/answer/1002729893)
 * [辞职后较长的空窗期里你都做了些什么？](https://www.zhihu.com/question/349948052)
 * [在学习工作中，怎么样休息才能让自己满血复活、恢复精力和斗志？](https://www.sohu.com/a/359352030_120113465)
+* [经常看书的人和不看书的人有什么区别？](https://www.zhihu.com/question/61176539/answer/187144723)
+* [看电视和看书有什么区别？为什么？](https://www.zhihu.com/question/20847575/answer/16581385)
 
 ### social
 
