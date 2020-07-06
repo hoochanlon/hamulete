@@ -2,7 +2,7 @@
 ***短链接：http://8rr.co/9t8e***
 
 ### student
-
+* [预防近视题库](http://www.haoword.com/syfanwen/shijuankaojuan/525814.htm)
 * [考试酷](https://www.examcoo.com/index/ku)
 * [文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html)
 * [Text to Handwriting(手写抄作业)](https://github.com/saurabhdaware/text-to-handwriting)
