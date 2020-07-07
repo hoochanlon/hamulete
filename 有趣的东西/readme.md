@@ -38,6 +38,7 @@
 * [为什么有的人没有阶级意识？](https://www.zhihu.com/question/48343079)
 * [NHK纪录片揭露的真相：为什么贫困家庭养出的孩子更贫困？](https://zhuanlan.zhihu.com/p/31642342)
 * [社会学和心理学角度上来说，为什么暴乱会有如此强的「传染性」？](https://www.zhihu.com/question/398135057/answer/1293187760)
+* [戾气太重，怎么才能变得平和？](https://www.zhihu.com/question/33970971/answer/57776266)
 * [奶头乐理论百科及话题](https://www.zhihu.com/topic/20003320/intro)
 * [《不努力好像也没关系》「がんばらない」人生相談 南無そのまんま・そのまんま](https://zhuanlan.zhihu.com/p/110709256)
 * [就中国而言，近代到今最伟大的人是谁？](https://www.zhihu.com/question/371931317)
