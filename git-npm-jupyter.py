@@ -16,7 +16,10 @@ git rm -r --cached mydir  //删除mydir文件夹，-n 即为展示不删除
 
 git fetch --all //指令是下载远程仓库最新内容，不做合并
 git reset --hard origin/master  //指令把HEAD指向master最新版本
-git pull //合并
+git pull //强行合并
+git fetch //下载远程仓库内容/（不同的下载，相同的留下）兼容
+git merge //合并
+
 
 git remote set-url origin repo.git //修改远程仓库地址
 
