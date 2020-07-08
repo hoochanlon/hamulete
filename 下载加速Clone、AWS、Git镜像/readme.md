@@ -106,6 +106,10 @@ https://npm.taobao.org/mirrors/git-for-windows/
  ```
 4. 运行`cmd`输入`ipconfig /flushdns` 指令刷新系统DNS
 
+### tip
+
+chrome 扩展 [GitHub加速](https://chrome.google.com/webstore/detail/github%E5%8A%A0%E9%80%9F/mfnkflidjnladnkldfonnaicljppahpg/related?hl=zh-CN) + IDM/FDM 🤣
+
 我们也可利用[jsDelivr](https://www.jsdelivr.com) CDN加速进行下载文件，也可借此搭建访问速度加快的图床；还有站点加速下载也可试试：
 * https://toolwa.com/github/
 * http://g.widyun.com/
