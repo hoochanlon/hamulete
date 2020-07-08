@@ -105,6 +105,13 @@ https://npm.taobao.org/mirrors/git-for-windows/
 * https://shrill-pond-3e81.hunsh.workers.dev/
 * http://www.toolzl.com/tools/githubjiasu.html
 
+添加 aws host
+
+```
+219.76.4.4 s3.amazonaws.com
+219.76.4.4 github-cloud.s3.amazonaws.com
+```
+
 
 ## Git Clone 克隆过慢改进
 
