@@ -97,14 +97,14 @@ https://npm.taobao.org/mirrors/git-for-windows/
     ```
 
 2. 记录下查询到的IP地址，并添加进入`C:\Windows\System32\drivers\etc\Hosts`文件
-3. 运行`cmd`输入`ipconfig /flushdns` 指令刷新系统DNS
-4. 添加 aws host
+
+3. 添加 aws host
 
  ```
  219.76.4.4 s3.amazonaws.com
  219.76.4.4 github-cloud.s3.amazonaws.com
  ```
-
+4. 运行`cmd`输入`ipconfig /flushdns` 指令刷新系统DNS
 
 我们也可利用[jsDelivr](https://www.jsdelivr.com) CDN加速进行下载文件，也可借此搭建访问速度加快的图床；还有站点加速下载也可试试：
 * https://toolwa.com/github/
