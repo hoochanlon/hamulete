@@ -29,6 +29,9 @@
 * [在学习工作中，怎么样休息才能让自己满血复活、恢复精力和斗志？](https://www.sohu.com/a/359352030_120113465)
 * [经常看书的人和不看书的人有什么区别？](https://www.zhihu.com/question/61176539/answer/187144723)
 * [看电视和看书有什么区别？为什么？](https://www.zhihu.com/question/20847575/answer/16581385)
+* [互联网app怎样获取我们隐私的？](https://www.zhihu.com/zvideo/1262363836977438720)
+* [结构性失业](https://www.zhihu.com/topic/20388021/intro)
+* [人是怎么废掉的](https://www.zhihu.com/question/43607087/answer/1278952750)
 
 ### social
 
@@ -39,7 +42,7 @@
 * [NHK纪录片揭露的真相：为什么贫困家庭养出的孩子更贫困？](https://zhuanlan.zhihu.com/p/31642342)
 * [社会学和心理学角度上来说，为什么暴乱会有如此强的「传染性」？](https://www.zhihu.com/question/398135057/answer/1293187760)
 * [戾气太重，怎么才能变得平和？](https://www.zhihu.com/question/33970971/answer/57776266)
-* [奶头乐理论百科及话题](https://www.zhihu.com/topic/20003320/intro)
+* [奶头乐理论百科及话题](https://www.zhihu.com/topic/2000ta3320/intro)
 * [《不努力好像也没关系》「がんばらない」人生相談 南無そのまんま・そのまんま](https://zhuanlan.zhihu.com/p/110709256)
 * [就中国而言，近代到今最伟大的人是谁？](https://www.zhihu.com/question/371931317)
 
