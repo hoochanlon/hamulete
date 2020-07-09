@@ -46,6 +46,9 @@
 * [《不努力好像也没关系》「がんばらない」人生相談 南無そのまんま・そのまんま](https://zhuanlan.zhihu.com/p/110709256)
 * [就中国而言，近代到今最伟大的人是谁？](https://www.zhihu.com/question/371931317)
 
+### NO IQ
+
+* [如何与地位比你高的人搞好关系？](https://www.zhihu.com/question/31507757/answer/1222467538)
 
 ### blog
 
