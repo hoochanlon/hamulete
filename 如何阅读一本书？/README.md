@@ -7,3 +7,5 @@
 * [是什么让你开始放下手机去读书？](https://www.zhihu.com/question/303137880/answer/737715741)
 * [上班族如何安排时间才能每天都早起、读书、跑步、冥想？](https://www.zhihu.com/question/28042735/answer/75661653)
 * [假日书单 | 一天只有24小时，为什么他们总有时间读书？](http://www.voicer.me/archives/74470) (什么场景适合读什么样的书)
+* [佚名-终于找到阅读速度慢的原因了！](yiboyingyu.com/article/117.html)
+* [sohu-阅读速度慢、看书少，是因为你不知道这些 ](https://www.sohu.com/a/123288573_507568)
