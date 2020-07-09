@@ -32,6 +32,7 @@
 * [互联网app怎样获取我们隐私的？](https://www.zhihu.com/zvideo/1262363836977438720)
 * [结构性失业](https://www.zhihu.com/topic/20388021/intro)
 * [人是怎么废掉的](https://www.zhihu.com/question/43607087/answer/1278952750)
+* [HR 是怎么面试 HR 的？](https://www.zhihu.com/question/22210196/answer/840817248)
 
 ### social
 
