@@ -1,10 +1,14 @@
 
 ***短链接：http://8rr.co/9t8e***
 
-### student
+### edu
 * [预防近视题库](http://www.haoword.com/syfanwen/shijuankaojuan/525814.htm)
 * [国内有没有适合青少年观看的性教育视频？](https://www.zhihu.com/question/47016153/answer/1260433889)
 * [朱一旦X罗翔 bilibili-被培训“招转培”套路诈骗，请拿起法律的武器！](https://www.bilibili.com/video/BV1ga4y1e7Z1)
+* [11张《不良教养方式》](https://zhuanlan.zhihu.com/p/157183332)
+
+### stu
+
 * [考试酷](https://www.examcoo.com/index/ku)
 * [文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html)
 * [练习书法字体生成器](http://www.diyiziti.com/)
