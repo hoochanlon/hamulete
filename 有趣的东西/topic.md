@@ -26,11 +26,12 @@
 * [就中国而言，近代到今最伟大的人是谁？](https://www.zhihu.com/question/371931317)
 
 
-### minzu
+### social2 （minzu）
 
 * [medium入驻作者-网文5篇](https://medium.com/@programthink/%E6%AF%8F%E5%91%A8%E8%BD%AC%E8%BD%BD-%E5%85%B3%E4%BA%8E%E6%9C%9D%E5%BB%B7%E5%AF%B9%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E7%9A%84%E5%BF%BD%E6%82%A0-%E7%BD%91%E6%96%875%E7%AF%87-89ea959e9c8b)
 * [Luterngun-究竟谁才被洗脑了-matters](https://matters.news/@Luterngun/%E7%A9%B6%E7%AB%9F%E8%B0%81%E6%89%8D%E8%A2%AB%E6%B4%97%E8%84%91%E4%BA%86-zdpuAtPN59NmjFjDuMD6ALZwf2HVZgLRnqiE88jZXdZQfxJhL)
 * [为什么有些人可以被狭隘的爱国主义和民族主义洗脑？](https://www.zhihu.com/question/23695139/answer/609499575)
+* [上海社会科学院-民族主义为什么行得通](http://www.shekebao.com.cn/shekebao/n440/n447/u1ai14602.html)
 
 ### iq00
 
