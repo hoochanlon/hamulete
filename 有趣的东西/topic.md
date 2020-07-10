@@ -34,6 +34,9 @@
 * [上海社会科学院-民族主义为什么行得通](http://www.shekebao.com.cn/shekebao/n440/n447/u1ai14602.html)
 * [bbc-中国的中兴联想风波](https://www.bbc.com/zhongwen/simp/chinese-news-44193123)
 * [为什么我们会爱国？](https://nei.st/medium/nautilus/why-were-patriotic)
+* [隐秘自恋者](https://wiki.mbalib.com/wiki/%E9%9A%90%E7%A7%98%E8%87%AA%E6%81%8B%E8%80%85)
+* [mba-个人主义](https://wiki.mbalib.com/wiki/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E4%B9%89) 
+* [wiki-个人主义](https://zh.wikipedia.org/wiki/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E4%B9%89)
 
 ### iq00
 
