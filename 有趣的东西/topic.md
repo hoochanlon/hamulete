@@ -1,1 +1,39 @@
-# 
+### stu & emp
+
+* [你读过哪些令你有跪感的书？](https://www.zhihu.com/question/310681355/answer/999792279)
+* [高中生最近看《乌合之众》里谈到应试教育，可是如果我不上学我现在能做什么？那现在努力的意义又是什么呢?](https://www.zhihu.com/question/391671684/answer/1201494550)
+* [马云说他招人不要清北毕业的，事实真是这样吗？](https://zhuanlan.zhihu.com/p/36745191)
+* [企业家们为什么要不停地挣钱？](https://www.zhihu.com/question/343114996/answer/1002729893)
+* [辞职后较长的空窗期里你都做了些什么？](https://www.zhihu.com/question/349948052)
+* [在学习工作中，怎么样休息才能让自己满血复活、恢复精力和斗志？](https://www.sohu.com/a/359352030_120113465)
+* [经常看书的人和不看书的人有什么区别？](https://www.zhihu.com/question/61176539/answer/187144723)
+* [看电视和看书有什么区别？为什么？](https://www.zhihu.com/question/20847575/answer/16581385)
+* [互联网app怎样获取我们隐私的？](https://www.zhihu.com/zvideo/1262363836977438720)
+* [结构性失业](https://www.zhihu.com/topic/20388021/intro)
+* [人是怎么废掉的](https://www.zhihu.com/question/43607087/answer/1278952750)
+* [HR 是怎么面试 HR 的？](https://www.zhihu.com/question/22210196/answer/840817248)
+
+### social
+
+* [有哪些大家不说，但需要知道的社会常识？](https://www.zhihu.com/question/331082099/answer/1286116041)
+* [现在的年轻人是真的丧失了思考能力？还是只是选择了沉默不发声？](https://www.zhihu.com/question/402542831/answer/1301241054)
+* [如何解决思维混乱、讲话没条理的情况？](https://www.zhihu.com/question/30173526/answer/1076704287)
+* [为什么有的人没有阶级意识？](https://www.zhihu.com/question/48343079)
+* [NHK纪录片揭露的真相：为什么贫困家庭养出的孩子更贫困？](https://zhuanlan.zhihu.com/p/31642342)
+* [社会学和心理学角度上来说，为什么暴乱会有如此强的「传染性」？](https://www.zhihu.com/question/398135057/answer/1293187760)
+* [奶头乐理论百科及话题](https://www.zhihu.com/topic/2000ta3320/intro)
+* [《不努力好像也没关系》「がんばらない」人生相談 南無そのまんま・そのまんま](https://zhuanlan.zhihu.com/p/110709256)
+* [就中国而言，近代到今最伟大的人是谁？](https://www.zhihu.com/question/371931317)
+
+### NO IQ
+
+* [如何与地位比你高的人搞好关系？](https://www.zhihu.com/question/31507757/answer/1222467538)
+* [戾气太重，怎么才能变得平和？](https://www.zhihu.com/question/33970971/answer/57776266)
+
+### blog
+
+* http://www.yinwang.org
+* https://github.com/Terminus2049/Terminus2049.github.io
+* https://zhuanlan.zhihu.com/p/103019666
+* https://keepgrowup.com.tw/making-thinking-visible
+* https://data.leafwind.tw/the-importance-of-multi-dimension-thinking-b5dcb18309f4
