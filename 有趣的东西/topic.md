@@ -33,6 +33,7 @@
 * [为什么有些人可以被狭隘的爱国主义和民族主义洗脑？](https://www.zhihu.com/question/23695139/answer/609499575)
 * [上海社会科学院-民族主义为什么行得通](http://www.shekebao.com.cn/shekebao/n440/n447/u1ai14602.html)
 * [bbc-中国的中兴联想风波](https://www.bbc.com/zhongwen/simp/chinese-news-44193123)
+* [为什么我们会爱国？](https://nei.st/medium/nautilus/why-were-patriotic)
 
 ### iq00
 
