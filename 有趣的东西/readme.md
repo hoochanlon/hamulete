@@ -1,9 +1,6 @@
 
 ***短链接：http://8rr.co/9t8e***
 
-
-***[...](topic.md)***
-
 ### edu
 * [预防近视题库](http://www.haoword.com/syfanwen/shijuankaojuan/525814.htm)
 * [国内有没有适合青少年观看的性教育视频？](https://www.zhihu.com/question/47016153/answer/1260433889)
@@ -42,3 +39,6 @@
 * [萌娘表情包](http://moe.005.tv/4663.html)
 * [QQ的原创表情捕获](https://blog.csdn.net/TragicGuy/article/details/49360575)
 * [无损放大](https://bigjpg.com/)
+
+
+***[...](topic.md)***
