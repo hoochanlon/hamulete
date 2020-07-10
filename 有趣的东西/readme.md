@@ -2,7 +2,7 @@
 ***短链接：http://8rr.co/9t8e***
 
 
-***[no more in nohina](topic.md)***
+***这个社会究竟是怎样的呢？每个人都有自己的理解，又或许我们都在路上，一直在探究着找寻着每个人心中的“真正答案”...：[no more in nohina](topic.md)***
 
 ### edu
 * [预防近视题库](http://www.haoword.com/syfanwen/shijuankaojuan/525814.htm)
