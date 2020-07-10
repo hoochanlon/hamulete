@@ -16,6 +16,7 @@
 ### social
 
 * [有哪些大家不说，但需要知道的社会常识？](https://www.zhihu.com/question/331082099/answer/1286116041)
+* [一个年轻人为什么毫无欲望？](https://www.zhihu.com/question/401505026/answer/1315052238)
 * [现在的年轻人是真的丧失了思考能力？还是只是选择了沉默不发声？](https://www.zhihu.com/question/402542831/answer/1301241054)
 * [如何解决思维混乱、讲话没条理的情况？](https://www.zhihu.com/question/30173526/answer/1076704287)
 * [为什么有的人没有阶级意识？](https://www.zhihu.com/question/48343079)
