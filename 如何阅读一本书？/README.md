@@ -10,7 +10,14 @@
 * [假日书单 | 一天只有24小时，为什么他们总有时间读书？](http://www.voicer.me/archives/74470) (什么场景适合读什么样的书)
 * [佚名-终于找到阅读速度慢的原因了！](yiboyingyu.com/article/117.html)
 * [sohu-阅读速度慢、看书少，是因为你不知道这些 ](https://www.sohu.com/a/123288573_507568)
+* [sohu-做注意力的主人，拒绝干扰你可以这样做 | 欧美新书推荐 ](https://www.sohu.com/a/353916558_268656?qq-pf-to=pcqq.group)
 
 ### focus
 
 * [悠读文学网](https://www.yooread.net/) （非暴力沟通）
+
+### list
+
+* 《共情的力量》
+* 《非暴力沟通》
+* 《Indistractable : How to Control Your Attention and Choose Your Life》
