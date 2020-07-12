@@ -46,5 +46,9 @@
 * [QQ的原创表情捕获](https://blog.csdn.net/TragicGuy/article/details/49360575)
 * [无损放大](https://bigjpg.com/)
 
+### stone
+
+* [想起了平湖美宜佳老板说的加盟结合这篇文章的一些思考罢了](https://www.sohu.com/a/339964034_100217212)
+* [3分钟让你了解日本动画产业核心问题所在——Anitama迷你解第十四期](https://www.bilibili.com/video/BV1eJ411x7Ea?t=89)
 
 ***[...](topic.md)***
