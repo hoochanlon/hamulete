@@ -14,10 +14,13 @@
 
 ### focus
 
-* [悠读文学网](https://www.yooread.net/) （非暴力沟通）
+#### 快感补偿机制
+
+* [在学习工作中，怎么样休息才能让自己满血复活、恢复精力和斗志？ ](https://www.sohu.com/a/359352030_120113465)
+* [有哪些读书学不来，却很重要的素质？](https://www.zhihu.com/question/28626263/answer/186872277)
 
 ### list
 
 * 《共情的力量》
-* 《非暴力沟通》
+* [可读全本 《非暴力沟通》](https://www.yooread.net/)
 * 《Indistractable : How to Control Your Attention and Choose Your Life》
