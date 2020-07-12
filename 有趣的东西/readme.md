@@ -5,6 +5,8 @@
 * [预防近视题库](http://www.haoword.com/syfanwen/shijuankaojuan/525814.htm)
 * [经常喝饮料真的对身体不好吗？](https://www.zhihu.com/question/26071846)
 * [人在年轻的时候，最核心的能力是什么？](https://www.zhihu.com/question/303482683/answer/1288919133)
+* [有哪些读书学不来，却很重要的素质？](https://www.zhihu.com/question/28626263/answer/186872277)
+* [没学历怎么样才能提升自己？](https://www.zhihu.com/question/343940327)
 * [烟瘾很大的人，完全戒烟后是什么感觉？](https://www.zhihu.com/question/28509001/answer/592466247)
 * [国内有没有适合青少年观看的性教育视频？](https://www.zhihu.com/question/47016153/answer/1260433889)
 * [朱一旦X罗翔 bilibili-被培训“招转培”套路诈骗，请拿起法律的武器！](https://www.bilibili.com/video/BV1ga4y1e7Z1)
