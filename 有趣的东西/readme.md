@@ -4,6 +4,7 @@
 ### edu
 * [预防近视题库](http://www.haoword.com/syfanwen/shijuankaojuan/525814.htm)
 * [经常喝饮料真的对身体不好吗？](https://www.zhihu.com/question/26071846)
+* [一个女生该有哪些优秀习惯？](https://www.zhihu.com/question/279174065/answer/533469724)
 * [人在年轻的时候，最核心的能力是什么？](https://www.zhihu.com/question/303482683/answer/1288919133)
 * [有哪些读书学不来，却很重要的素质？](https://www.zhihu.com/question/28626263/answer/186872277)
 * [没学历怎么样才能提升自己？](https://www.zhihu.com/question/343940327)
