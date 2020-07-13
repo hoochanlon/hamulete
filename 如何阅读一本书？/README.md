@@ -18,6 +18,7 @@
 
 * [在学习工作中，怎么样休息才能让自己满血复活、恢复精力和斗志？ ](https://www.sohu.com/a/359352030_120113465)
 * [有哪些读书学不来，却很重要的素质？](https://www.zhihu.com/question/28626263/answer/186872277)
+* [心理补偿机制下的人们是怎么生活的？](http://www.zhiwiki.com/index.php/2019/09/09/psychological-compensation-mechanism/)
 
 ### list
 
