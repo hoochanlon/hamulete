@@ -1,3 +1,9 @@
+### addict
+
+* [上瘾话题](https://www.zhihu.com/topic/19593511/hot)
+* [色戒（非电影）分析](https://www.zhihu.com/question/305419233/answer/938454358)
+* [瘾，和“习惯“是一样的吗？](https://www.zhihu.com/question/22573936)
+
 ### stu & emp
 
 * [你读过哪些令你有跪感的书？](https://www.zhihu.com/question/310681355/answer/999792279)
