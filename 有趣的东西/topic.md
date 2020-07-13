@@ -1,6 +1,6 @@
 ### addict
 
-* [上瘾话题](https://www.zhihu.com/topic/19593511/hot)
+* [上瘾话题](https://www.zhihu.com/topic/19593511/hot) （这个命题实在太大了，建议根据需求逐步分解，如下示例）
 * [色戒（非电影）分析](https://www.zhihu.com/question/305419233/answer/938454358)
 * [瘾，和“习惯“是一样的吗？](https://www.zhihu.com/question/22573936)
 
