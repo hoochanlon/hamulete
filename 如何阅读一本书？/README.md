@@ -4,6 +4,7 @@
 
 * [学习读书的时候想全部弄懂，速度很慢。请问是陷入了什么误区？](https://www.zhihu.com/question/30438569)
 * [看书速度很慢怎么办？](https://www.zhihu.com/question/21098453)
+* [怎样缩短学习周期？](https://www.zhihu.com/question/28346593)
 * [普通人的阅读速度是每小时多少字？](https://www.zhihu.com/question/20327487)
 * [如何避免间歇性堕落?](https://www.zhihu.com/question/388686475/answer/1226820130)
 * [查理芒格推荐的100个思维模型！（吐血整理，推荐收藏！）](https://zhuanlan.zhihu.com/p/88395113)
@@ -24,6 +25,7 @@
 
 * [沉迷于小说、电视剧、游戏的心理根源是什么？](https://zhuanlan.zhihu.com/p/76256418)
 * [总是沉迷于电视剧?](https://www.xinli001.com/qa/100071065)
+* [为什么嗑瓜子可以嗑半个小时甚至一个小时以上，看书学习却不可以？](https://www.zhihu.com/question/28184567)
 
 ## 阅读清单
 
