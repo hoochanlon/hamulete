@@ -18,8 +18,8 @@
 
 ### temp
 
-
 * [主持人临场应变能力案例及分析](http://www.bjdcfy.com/zhuchi/zcrlcybal/2017-9/1015196.html)
+* [怎样锻炼口才和临场应变能力？](https://www.zhihu.com/question/268108258/answer/333085965)
 
 ### stu
 
