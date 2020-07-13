@@ -15,6 +15,12 @@
 * [11张《不良教养方式》](https://zhuanlan.zhihu.com/p/157183332)
 * [如何辨认身边的聪明人？](https://www.zhihu.com/question/28484672/answer/1193742743)
 
+
+### temp
+
+
+* [主持人临场应变能力案例及分析](http://www.bjdcfy.com/zhuchi/zcrlcybal/2017-9/1015196.html)
+
 ### stu
 
 * [考试酷](https://www.examcoo.com/index/ku)
