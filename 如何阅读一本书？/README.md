@@ -12,15 +12,16 @@
 * [sohu-阅读速度慢、看书少，是因为你不知道这些 ](https://www.sohu.com/a/123288573_507568)
 * [sohu-做注意力的主人，拒绝干扰你可以这样做 | 欧美新书推荐 ](https://www.sohu.com/a/353916558_268656?qq-pf-to=pcqq.group)
 
-### focus
-
-#### 快感补偿机制
+## 快感补偿机制
 
 * [在学习工作中，怎么样休息才能让自己满血复活、恢复精力和斗志？ ](https://www.sohu.com/a/359352030_120113465)
 * [有哪些读书学不来，却很重要的素质？](https://www.zhihu.com/question/28626263/answer/186872277)
 * [心理补偿机制下的人们是怎么生活的？](http://www.zhiwiki.com/index.php/2019/09/09/psychological-compensation-mechanism/)
 
-### list
+## fall 
+
+
+## list
 
 * 《共情的力量》
 * [可读全本 《非暴力沟通》](https://www.yooread.net/)
