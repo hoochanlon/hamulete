@@ -1,8 +1,4 @@
-### addict
 
-* [上瘾话题](https://www.zhihu.com/topic/19593511/hot) （这个命题实在太大了，建议根据需求逐步分解，如下示例）
-* [色戒（非电影）分析](https://www.zhihu.com/question/305419233/answer/938454358)
-* [瘾，和“习惯“是一样的吗？](https://www.zhihu.com/question/22573936)
 
 ### stu & emp
 
@@ -19,6 +15,12 @@
 * [结构性失业](https://www.zhihu.com/topic/20388021/intro)
 * [人是怎么废掉的](https://www.zhihu.com/question/43607087/answer/1278952750)
 * [HR 是怎么面试 HR 的？](https://www.zhihu.com/question/22210196/answer/840817248)
+
+### addict
+
+* [上瘾话题](https://www.zhihu.com/topic/19593511/hot) （这个命题实在太大了，建议根据需求逐步分解，如下示例）
+* [色戒（非电影）分析](https://www.zhihu.com/question/305419233/answer/938454358)
+* [瘾，和“习惯“是一样的吗？](https://www.zhihu.com/question/22573936)
 
 ### social
 
