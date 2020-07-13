@@ -21,7 +21,7 @@
 ## fall 
 
 
-## list
+## 阅读清单
 
 * 《共情的力量》
 * [可读全本 《非暴力沟通》](https://www.yooread.net/)
