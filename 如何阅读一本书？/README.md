@@ -25,6 +25,7 @@
 
 * [沉迷于小说、电视剧、游戏的心理根源是什么？](https://zhuanlan.zhihu.com/p/76256418)
 * [总是沉迷于电视剧?](https://www.xinli001.com/qa/100071065)
+* [嗑瓜子理论与定步速效应](https://liushun.help/blog/2018/10/21/%E5%97%91%E7%93%9C%E5%AD%90%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9A%E6%AD%A5%E9%80%9F%E6%95%88%E5%BA%94/)
 * [为什么嗑瓜子可以嗑半个小时甚至一个小时以上，看书学习却不可以？](https://www.zhihu.com/question/28184567)
 
 ## 阅读清单
