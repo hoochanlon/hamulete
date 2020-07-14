@@ -55,6 +55,7 @@
 * [隐秘自恋者](https://wiki.mbalib.com/wiki/%E9%9A%90%E7%A7%98%E8%87%AA%E6%81%8B%E8%80%85)
 * [mba-个人主义](https://wiki.mbalib.com/wiki/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E4%B9%89) 
 * [wiki-个人主义](https://zh.wikipedia.org/wiki/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E4%B9%89)
+* [拓展元能力](https://www.zhihu.com/question/389410657/answer/1227003500)
 
 
 ### blog
