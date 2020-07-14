@@ -50,6 +50,7 @@
 * [回形针手册](https://ipaperclip.net/)
 * [文字云图片](https://wordart.com/)
 * [背景消除](https://www.remove.bg/zh)
+* [在线图片表情包编辑器](https://www.iloveimg.com/zh-cn/)
 * [白噪音](https://raining.fm/#)
 * [火狐私密文件分享](https://send.firefox.com/)
 * [「标签式」 文件资料 管理利器](http://www.taglyst.com/)
