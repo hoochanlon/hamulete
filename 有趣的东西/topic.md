@@ -6,6 +6,7 @@
 * [高中生最近看《乌合之众》里谈到应试教育，可是如果我不上学我现在能做什么？那现在努力的意义又是什么呢?](https://www.zhihu.com/question/391671684/answer/1201494550)
 * [马云说他招人不要清北毕业的，事实真是这样吗？](https://zhuanlan.zhihu.com/p/36745191)
 * [企业家们为什么要不停地挣钱？](https://www.zhihu.com/question/343114996/answer/1002729893)
+* [程序员为什么越老越贬值的厉害？](https://www.zhihu.com/question/405340750/answer/1335797331)
 * [如何评价深扒蒙牛伊利文章](https://www.zhihu.com/question/406067988) （鸿茅药酒、南京应用技术学校学生群众反抗事件会不会重演呢？）
 * [辞职后较长的空窗期里你都做了些什么？](https://www.zhihu.com/question/349948052)
 * [在学习工作中，怎么样休息才能让自己满血复活、恢复精力和斗志？](https://www.sohu.com/a/359352030_120113465)
