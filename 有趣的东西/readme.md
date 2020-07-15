@@ -62,7 +62,7 @@
 ### stone
 
 * [想起了平湖美宜佳老板说的加盟结合这篇文章的一些思考罢了](https://www.sohu.com/a/339964034_100217212)
-* [3分钟让你了解日本动画产业核心问题所在——Anitama迷你解第十四期](https://www.bilibili.com/video/BV1eJ411x7Ea?t=89)
-* [为什么很多毕业生不愿意去做销售，甚至感到丢人？](https://www.zhihu.com/question/22187212/answer/620894833) (工作后的对于“贩卖成功学”、“不自知”的观点认同)
+* [3分钟让你了解日本动画产业核心问题所在-看起来欣欣向荣的产业，真的是健康发展，就业形势大好吗？](https://www.bilibili.com/video/BV1eJ411x7Ea?t=89)
+* [为什么很多毕业生不愿意去做销售，甚至感到丢人？-工作后的对于“贩卖成功学”、“不自知”的观点认同](https://www.zhihu.com/question/22187212/answer/620894833) 
 
 ***[...](topic.md)***
