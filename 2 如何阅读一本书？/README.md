@@ -38,10 +38,11 @@
 * [为什么嗑瓜子可以嗑半个小时甚至一个小时以上，看书学习却不可以？](https://www.zhihu.com/question/28184567)
 
 
-## 过来人
+## 反思
 
 * [[LifeHack 6] Esor Huang - 計畫愈縝密，生活愈隨興](https://www.playpcesor.com/2016/03/lifehack-6.html) (关于周密计划与随性而为的对比及思考)
 * [sohu-不要等到生活为难你时，才来后悔过去太安逸](https://www.sohu.com/a/407687055_188950)
+* [“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”](https://program-think.blogspot.com/2012/01/stockdale-paradox.html)
 
 
 ## 逻辑命题逆否论
