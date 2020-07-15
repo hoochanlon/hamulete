@@ -42,7 +42,13 @@
 
 * [[LifeHack 6] Esor Huang - 計畫愈縝密，生活愈隨興](https://www.playpcesor.com/2016/03/lifehack-6.html) (关于周密计划与随性而为的对比及思考)
 * [sohu-不要等到生活为难你时，才来后悔过去太安逸](https://www.sohu.com/a/407687055_188950)
-* [“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”](https://program-think.blogspot.com/2012/01/stockdale-paradox.html)
+* [斯托克代尔悖论的启示](https://www.jianshu.com/p/005d8e001518)
+
+最后，斯托克代尔总结说：
+
+* 这是一个非常重要的教训——你不能把信念和原则搞混。
+* 信念是：你一定能获得成功——这个信念千万不可失去。
+* 原则是：你一定要面对最残忍的现实——无论它们是什么。
 
 
 ## 逻辑命题逆否论
