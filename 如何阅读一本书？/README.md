@@ -9,6 +9,7 @@
 
 * [如何像毛泽东一样读懂历史？](https://www.ershicimi.com/p/0bf9eaa9aff4502e5e221fb189385e59)
 * [用通俗易懂的例子说明形而上学？](https://www.zhihu.com/question/62510150)
+* [形而上学 （思想政治术语与西方哲学里的“形而上学”存在意思差异）](https://baike.baidu.com/item/%E5%BD%A2%E8%80%8C%E4%B8%8A%E5%AD%A6/24609368)
 
 ### basic
 
