@@ -2,9 +2,16 @@
 
 ---
 
+
 ## 如何阅读
 
+### metaphysics
+
 * [如何像毛泽东一样读懂历史？](https://www.ershicimi.com/p/0bf9eaa9aff4502e5e221fb189385e59)
+* [用通俗易懂的例子说明形而上学？](https://www.zhihu.com/question/62510150)
+
+### basic
+
 * [学习读书的时候想全部弄懂，速度很慢。请问是陷入了什么误区？](https://www.zhihu.com/question/30438569)
 * [看书速度很慢怎么办？](https://www.zhihu.com/question/21098453)
 * [怎样缩短学习周期？](https://www.zhihu.com/question/28346593)
@@ -18,18 +25,19 @@
 * [sohu-阅读速度慢、看书少，是因为你不知道这些 ](https://www.sohu.com/a/123288573_507568)
 * [sohu-做注意力的主人，拒绝干扰你可以这样做 | 欧美新书推荐 ](https://www.sohu.com/a/353916558_268656?qq-pf-to=pcqq.group)
 
+
+
+
 ## 快感补偿机制
 
 * [在学习工作中，怎么样休息才能让自己满血复活、恢复精力和斗志？ ](https://www.sohu.com/a/359352030_120113465)
 * [有哪些读书学不来，却很重要的素质？](https://www.zhihu.com/question/28626263/answer/186872277)
 * [心理补偿机制下的人们是怎么生活的？](http://www.zhiwiki.com/index.php/2019/09/09/psychological-compensation-mechanism/)
-
-## fall 
-
 * [沉迷于小说、电视剧、游戏的心理根源是什么？](https://zhuanlan.zhihu.com/p/76256418)
 * [总是沉迷于电视剧?](https://www.xinli001.com/qa/100071065)
 * [嗑瓜子理论与定步速效应](https://liushun.help/blog/2018/10/21/%E5%97%91%E7%93%9C%E5%AD%90%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9A%E6%AD%A5%E9%80%9F%E6%95%88%E5%BA%94/)
 * [为什么嗑瓜子可以嗑半个小时甚至一个小时以上，看书学习却不可以？](https://www.zhihu.com/question/28184567)
+
 
 ## 过来人
 
