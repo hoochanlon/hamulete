@@ -30,6 +30,11 @@
 * [嗑瓜子理论与定步速效应](https://liushun.help/blog/2018/10/21/%E5%97%91%E7%93%9C%E5%AD%90%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9A%E6%AD%A5%E9%80%9F%E6%95%88%E5%BA%94/)
 * [为什么嗑瓜子可以嗑半个小时甚至一个小时以上，看书学习却不可以？](https://www.zhihu.com/question/28184567)
 
+## 过来人
+
+* [[LifeHack 6] Esor Huang - 計畫愈縝密，生活愈隨興](https://www.playpcesor.com/2016/03/lifehack-6.html)
+* [sohu-不要等到生活为难你时，才来后悔过去太安逸](https://www.sohu.com/a/407687055_188950)
+
 ## 阅读清单
 
 * 《共情的力量》
