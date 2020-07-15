@@ -27,8 +27,6 @@
 * [sohu-做注意力的主人，拒绝干扰你可以这样做 | 欧美新书推荐 ](https://www.sohu.com/a/353916558_268656?qq-pf-to=pcqq.group)
 
 
-
-
 ## 快感补偿机制
 
 * [在学习工作中，怎么样休息才能让自己满血复活、恢复精力和斗志？ ](https://www.sohu.com/a/359352030_120113465)
@@ -45,11 +43,11 @@
 * [[LifeHack 6] Esor Huang - 計畫愈縝密，生活愈隨興](https://www.playpcesor.com/2016/03/lifehack-6.html) (关于周密计划与随性而为的对比及思考)
 * [sohu-不要等到生活为难你时，才来后悔过去太安逸](https://www.sohu.com/a/407687055_188950)
 
-## 阅读清单
 
-* 《共情的力量》
-* [可读全本 《非暴力沟通》](https://www.yooread.net/)
-* 《Indistractable : How to Control Your Attention and Choose Your Life》
+## 逻辑命题逆否论
+
+* [原命题为真,则逆命题为假,否命题为假,逆否命题为真.一直是死记硬背的,我想知道是怎么得出这些结论的?](https://www.zybang.com/question/47cf17c9b6288f550aa9f199a7d74797.html)
+* [命题的否定和否命题区别是什么](https://zhidao.baidu.com/question/1113220468043090099.html)
 
 ---
 知乎是获取普及类专业知识和消磨时间的好地方，但绝对不是“寻求现实”的好地方。
