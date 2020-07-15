@@ -32,7 +32,7 @@
 
 ## 过来人
 
-* [[LifeHack 6] Esor Huang - 計畫愈縝密，生活愈隨興](https://www.playpcesor.com/2016/03/lifehack-6.html)
+* [[LifeHack 6] Esor Huang - 計畫愈縝密，生活愈隨興](https://www.playpcesor.com/2016/03/lifehack-6.html) (关于周密计划与随性而为的对比及思考)
 * [sohu-不要等到生活为难你时，才来后悔过去太安逸](https://www.sohu.com/a/407687055_188950)
 
 ## 阅读清单
