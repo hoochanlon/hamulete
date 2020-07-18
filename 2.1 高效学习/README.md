@@ -1,10 +1,8 @@
-### 背书
+### 背书写字
+
 
 * [如何在一个月内，背完高中 3500 个单词？](https://www.zhihu.com/question/289599760/answer/1251782590)+《看图学英语》、《培生》
 * [怎么背书最有效率？](https://www.zhihu.com/question/21540418/answer/187556776)
-
-### 写字
-
 * [你有什么值得分享的高效学习方法？](https://www.zhihu.com/question/50343728/answer/409389787)
 
 ### 方法论
@@ -15,7 +13,6 @@
 * [Topbook的回答 康纳尔笔记法](https://www.zhihu.com/question/50343728/answer/554529926)
 * [你有什么值得分享的高效学习方法？（习惯养成计划制定）](https://www.zhihu.com/question/50343728/answer/228142789)
 * [Heisenberg的回答-启发式习惯，非绝对坚持](https://www.zhihu.com/question/50343728/answer/611428233)
-
 
 ### 应试战术
 
@@ -44,3 +41,11 @@
 
 * [18个面试经典问题（面试必考，建议收藏）](https://www.zhihu.com/question/24192778/answer/639241489)
 * [面试必知14个最难回答问题（面试常考，建议收藏！）](https://zhuanlan.zhihu.com/p/67676322)
+
+---
+
+### 家庭
+
+* [原生家庭很糟糕是种什么体验？](https://www.zhihu.com/question/266244165/answer/339282447)
+* [如何摆脱原生家庭造成的人格缺陷？](https://www.zhihu.com/question/291784243/answer/509020322)
+* [清华北大的学生大都来自什么样的家庭？](https://www.zhihu.com/question/355080364/answer/949959508)
