@@ -31,6 +31,15 @@
 * [蔓小叨的回答 (阅读理解)](https://www.zhihu.com/question/274655257/answer/1130701673)
 * [山石寻的回答 (应试技巧的目的)](https://www.zhihu.com/question/274655257/answer/1103281398)
 
+
+#### khina 父母官考试
+
+* [公务员考试考什么科目及内容，要测试考生什么相关能力？](https://zhuanlan.zhihu.com/p/24997678)
+* [分享一些准备公务员考试的小技巧](https://zhuanlan.zhihu.com/p/107286890)
+* [请问公务员刷题是用什么书？](https://www.zhihu.com/question/394929402/answer/1241384455)
+* [你有什么特别实用的公务员考试技巧？](https://www.zhihu.com/question/381335450/answer/1094776054)
+* [如何在一个月内有效的复习公务员考试？](https://www.zhihu.com/question/341532242/answer/831593165)
+
 ### 面试
 
 * [18个面试经典问题（面试必考，建议收藏）](https://www.zhihu.com/question/24192778/answer/639241489)
