@@ -23,6 +23,7 @@
 
 * [金木吒吒的回答 如何学习只影响效率，但如何思考却影响未来。](https://www.zhihu.com/question/19930474/answer/963115349)
 * [空谷的回答（共同经历过教学不好的老师的问题）](https://www.zhihu.com/question/19930474/answer/27310387)
+* [青年大爆炸的回答 (语文技巧)](https://www.zhihu.com/question/311672493/answer/1130133923)
 * [有哪些考试的蒙题诀窍？ 蒙题 （心理战术）](https://www.zhihu.com/question/23978413/answer/26303745)
 
 
