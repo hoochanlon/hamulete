@@ -37,7 +37,7 @@
 * [你有什么特别实用的公务员考试技巧？](https://www.zhihu.com/question/381335450/answer/1094776054)
 * [如何在一个月内有效的复习公务员考试？](https://www.zhihu.com/question/341532242/answer/831593165)
 
-### 面试
+### 面试套路
 
 * [18个面试经典问题（面试必考，建议收藏）](https://www.zhihu.com/question/24192778/answer/639241489)
 * [面试必知14个最难回答问题（面试常考，建议收藏！）](https://zhuanlan.zhihu.com/p/67676322)
