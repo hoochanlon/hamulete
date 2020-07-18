@@ -49,3 +49,4 @@
 * [原生家庭很糟糕是种什么体验？](https://www.zhihu.com/question/266244165/answer/339282447)
 * [如何摆脱原生家庭造成的人格缺陷？](https://www.zhihu.com/question/291784243/answer/509020322)
 * [清华北大的学生大都来自什么样的家庭？](https://www.zhihu.com/question/355080364/answer/949959508)
+* [父母“自以为正确”的行为带偏孩子产生的10种性格特征](https://zhuanlan.zhihu.com/p/56214811)
