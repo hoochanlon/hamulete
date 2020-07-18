@@ -8,7 +8,10 @@
 * [chrome扩展以及VPN列表](chrome扩展以及VPN列表/)
 * [web代理与翻墙浏览器](web代理与翻墙浏览器/)
 * [tunsafe、wireguard、SSH](tunsafe、wireguard、SSH/)
-* [反欺骗研究 社会工程学 欢迎star 《桌面运维管理指南》特别篇：社会工程](https://hoochanlon.github.io/helpdesk-manual/)
+* [免费内网穿透服务及搭建免费内网穿透服务器的方法](https://www.lu8.win/)
+* [ngrok](https://ngrok.com/)
+* [SAKURA FRP](https://www.natfrp.com/)
+* [DDNS](https://www.duckdns.org/)
 
 附：
 
