@@ -15,6 +15,7 @@
 * [影响体验的text](影响体验的text/)
 * [在线上传小文件](https://catbox.moe/)
 * [各类awesome名单](https://github.com/sindresorhus/awesome)
+* [github-readme-stats card](https://github.com/anuraghazra/github-readme-stats)
 
 
 
