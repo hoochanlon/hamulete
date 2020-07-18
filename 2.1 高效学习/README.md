@@ -26,6 +26,10 @@
 * [青年大爆炸的回答 (语文技巧)](https://www.zhihu.com/question/311672493/answer/1130133923)
 * [有哪些考试的蒙题诀窍？ 蒙题 （心理战术）](https://www.zhihu.com/question/23978413/answer/26303745)
 
+高考有哪些应试技巧？
+
+* [蔓小叨的回答 (阅读理解)](https://www.zhihu.com/question/274655257/answer/1130701673)
+* [山石寻的回答 (应试技巧的目的)](https://www.zhihu.com/question/274655257/answer/1103281398)
 
 ### 面试
 
