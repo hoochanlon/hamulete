@@ -8,6 +8,8 @@
 
 > 参考 [为什么喜欢「思考人生」的人比较容易得抑郁症并伴有自杀倾向？](https://www.zhihu.com/question/20783406)
 
+* [戾气太重，怎么才能变得平和？](https://www.zhihu.com/question/33970971/answer/57776266)
+
 ### 如何控制自己的思考？二则
 
 * [反复论证，自认习惯执行，详情看回答](https://www.zhihu.com/question/21961293/answer/577436136)
