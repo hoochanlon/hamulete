@@ -6,16 +6,20 @@
 * [怎么做人做事算是得体？](https://dhh.dahe.cn/con/0525088400)\n",
 * [360doc-心理学家：这三种情况下，对亲情感到厌恶属于一种正常的心理](http://www.360doc.com/content/19/0601/11/37341805_839597711.shtml)
 
-#### e
+#### yin
 
 * [常爱说「废话」及爱抱怨的人，都是抱着什么心态的？](https://www.zhihu.com/question/22811035)
 * [知乎日报-爱抱怨的人，都是抱着什么心态的？](https://www.zhihu.com/question/22811035/answer/31413064)
 * [知乎-倾诉与抱怨有区别吗？](https://www.zhihu.com/question/24573922/answer/32048982)
-* [知乎-人为什么会愤怒或生气？](https://www.zhihu.com/question/20222339)
 * [知乎-情商高的人都怎样发脾气？](https://www.zhihu.com/question/24314797)
 * [怎样的言行举止可以反映一个人的教养和内涵？](https://www.zhihu.com/question/27871104/answer/45664502)
 * [知乎-作为一名成年人，被父母打了，如何调整心态？](https://www.zhihu.com/question/40984913/answer/555662959)
 * [知乎-面对从童年持续至今的家庭暴力如何调整心态走出阴影？](https://www.zhihu.com/question/31277152/answer/51423535)
+
+#### yang
+
+* [知乎-人为什么会愤怒或生气？](https://www.zhihu.com/question/20222339)
+* [如何评价 2019 年 1 月新番动画《辉夜大小姐想让人告白 天才们的恋爱头脑战》？](https://www.zhihu.com/question/307529881/answer/615682870)
 
 
 ### 维度
