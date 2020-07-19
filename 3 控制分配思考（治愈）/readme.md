@@ -5,6 +5,12 @@
 * [我见过情商最高的行为，就是凡事有分寸感](https://kuaibao.qq.com/s/20190813A0PES700?refer=spider) 
 * [怎么做人做事算是得体？](https://dhh.dahe.cn/con/0525088400)\n",
 * [360doc-心理学家：这三种情况下，对亲情感到厌恶属于一种正常的心理](http://www.360doc.com/content/19/0601/11/37341805_839597711.shtml)
+
+#### e
+
+* [常爱说「废话」及爱抱怨的人，都是抱着什么心态的？](https://www.zhihu.com/question/22811035)
+* [知乎日报-爱抱怨的人，都是抱着什么心态的？](https://www.zhihu.com/question/22811035/answer/31413064)
+* [知乎-倾诉与抱怨有区别吗？](https://www.zhihu.com/question/24573922/answer/32048982)
 * [知乎-人为什么会愤怒或生气？](https://www.zhihu.com/question/20222339)
 * [知乎-情商高的人都怎样发脾气？](https://www.zhihu.com/question/24314797)
 * [怎样的言行举止可以反映一个人的教养和内涵？](https://www.zhihu.com/question/27871104/answer/45664502)
