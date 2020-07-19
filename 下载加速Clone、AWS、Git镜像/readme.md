@@ -75,7 +75,7 @@ https://npm.taobao.org/mirrors/git-for-windows/
 </details>
 
 
-## raw/avatars.githubusercontent.com 头像及源码格式无法访问
+## raw/avatars.githubusercontent.com 无法解析
 
 除了host外，还可以配置国内知名的dns进行解析；因为1.1.1.1不一定好使，所以就用国内的。
 
