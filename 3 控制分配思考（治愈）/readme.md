@@ -1,24 +1,28 @@
-### 避免抑郁
+### 情绪管理
 
-抑郁证的人是思考的巨人，行动的矮子。
-
-他们自我批评不遗余力，然后得过且过。
-
-他们在梦想和现实间挣扎，徘徊，所做的全部努力就是攻击自己。
-
-> 参考 [为什么喜欢「思考人生」的人比较容易得抑郁症并伴有自杀倾向？](https://www.zhihu.com/question/20783406)
-
+* [为什么喜欢「思考人生」的人比较容易得抑郁症并伴有自杀倾向？](https://www.zhihu.com/question/20783406) （个人觉得实际上是否命题）
 * [戾气太重，怎么才能变得平和？](https://www.zhihu.com/question/33970971/answer/57776266)
+* [我见过情商最高的行为，就是凡事有分寸感](https://kuaibao.qq.com/s/20190813A0PES700?refer=spider) 
+* [怎么做人做事算是得体？](https://dhh.dahe.cn/con/0525088400)\n",
+* [360doc-心理学家：这三种情况下，对亲情感到厌恶属于一种正常的心理](http://www.360doc.com/content/19/0601/11/37341805_839597711.shtml)
+* [知乎-人为什么会愤怒或生气？](https://www.zhihu.com/question/20222339)
+* [知乎-情商高的人都怎样发脾气？](https://www.zhihu.com/question/24314797)
+* [怎样的言行举止可以反映一个人的教养和内涵？](https://www.zhihu.com/question/27871104/answer/45664502)
+* [知乎-作为一名成年人，被父母打了，如何调整心态？](https://www.zhihu.com/question/40984913/answer/555662959)
+* [知乎-面对从童年持续至今的家庭暴力如何调整心态走出阴影？](https://www.zhihu.com/question/31277152/answer/51423535)
+
+
+### 维度
+
+* [一个人如何多维度思考问题? 梦想家、实干家、批判家、调整方案执行](https://www.jianshu.com/p/b1a3ea921e83)
+* [主题式教学](https://www.edb.gov.hk/attachment/tc/curriculum-development/cross-kla-studies/gs-primary/teacher-edu-program/20150117-1.pdf)
+* [多維思考的重要性](https://data.leafwind.tw/the-importance-of-multi-dimension-thinking-b5dcb18309f4)
+* [知识体系—思考空间的五个维度](https://dy.163.com/article/EFSIPRHS05364HA9.html)
+* [乔布斯的4种经典思维模式](https://xueqiu.com/2524803655/126735858)
 
 ### 如何控制自己的思考？二则
 
 * [反复论证，自认习惯执行，详情看回答](https://www.zhihu.com/question/21961293/answer/577436136)
 * [虽有目的，但不评判，此时此刻](https://www.zhihu.com/question/21961293/answer/569839196)
 * [引伸 多巴胺（客观因素）](https://www.zhihu.com/question/29692934/answer/845610471)
-
-
-### 避免过度消费
-
-吃馒头和吃烤鸭有什么分别呢？都是填饱肚子，为何人们去追求吃烤鸭，而不是馒头呢？最终得到的都是一样的，不过一时口腹之欲，有意思？
-
-4个问题
+* [简单心理uni-如何培养共情能力？](https://www.zhihu.com/question/24440657/answer/463431187)
