@@ -26,7 +26,7 @@
 * [知识体系—思考空间的五个维度](https://dy.163.com/article/EFSIPRHS05364HA9.html)
 * [乔布斯的4种经典思维模式](https://xueqiu.com/2524803655/126735858)
 
-### 如何控制自己的思考？二则
+### 如何控制自己的思考？
 
 * [反复论证，自认习惯执行，详情看回答](https://www.zhihu.com/question/21961293/answer/577436136)
 * [虽有目的，但不评判，此时此刻](https://www.zhihu.com/question/21961293/answer/569839196)
