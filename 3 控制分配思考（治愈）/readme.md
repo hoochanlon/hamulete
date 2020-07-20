@@ -10,9 +10,10 @@
 
 * [知乎-作为一名成年人，被父母打了，如何调整心态？](https://www.zhihu.com/question/40984913/answer/555662959)
 * [知乎-面对从童年持续至今的家庭暴力如何调整心态走出阴影？](https://www.zhihu.com/question/31277152/answer/51423535)
-* [怎样降低或完全摆脱原生家庭对自己的负面影响？](https://www.zhihu.com/question/29220666/answer/574374739)
-* [如何摆脱原生家庭造成的人格缺陷？](https://www.zhihu.com/question/291784243/answer/509020322) (大时代的共同经历)
-
+* [如何摆脱原生家庭造成的人格缺陷？](https://www.zhihu.com/question/291784243/answer/509020322) 
+* [怎样降低或完全摆脱原生家庭对自己的负面影响？](https://www.zhihu.com/question/29220666/answer/574374739)(大时代的共同经历)
+* [怎样降低或完全摆脱原生家庭对自己的负面影响？ ](https://www.zhihu.com/question/29220666/answer/1322011878) (习得性无助)
+* [怎样降低或完全摆脱原生家庭对自己的负面影响？ ](https://www.zhihu.com/question/29220666/answer/162899608) (正向发挥)
 
 ### yin/yang
 
