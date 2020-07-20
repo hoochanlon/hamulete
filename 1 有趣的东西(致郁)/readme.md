@@ -5,7 +5,6 @@
 * [预防近视题库](http://www.haoword.com/syfanwen/shijuankaojuan/525814.htm)
 * [经常喝饮料真的对身体不好吗？](https://www.zhihu.com/question/26071846)
 * [一个女生该有哪些优秀习惯？](https://www.zhihu.com/question/279174065/answer/533469724)
-* [女装是怎么兴起的?](https://www.zhihu.com/question/330597884/answer/724994282)
 * [为什么我感受到现在很多人会有仇富心态，厌恶资本家？](https://www.zhihu.com/question/391794083/answer/1207009615)
 * [「巴纳姆效应」是什么意思？](https://www.zhihu.com/question/304058717)
 * [人在年轻的时候，最核心的能力是什么？](https://www.zhihu.com/question/303482683/answer/1288919133)
