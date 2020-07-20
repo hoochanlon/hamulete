@@ -35,6 +35,7 @@
 * [多維思考的重要性](https://data.leafwind.tw/the-importance-of-multi-dimension-thinking-b5dcb18309f4)
 * [知识体系—思考空间的五个维度](https://dy.163.com/article/EFSIPRHS05364HA9.html)
 * [乔布斯的4种经典思维模式](https://xueqiu.com/2524803655/126735858)
+* [零和博弈：降维打击 or 升维反击](https://baijiahao.baidu.com/s?id=1663787177093799453&wfr=spider&for=pc)
 
 ### 如何控制自己的思考？
 
