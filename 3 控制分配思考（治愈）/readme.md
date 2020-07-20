@@ -43,5 +43,6 @@
 * [虽有目的，但不评判，此时此刻](https://www.zhihu.com/question/21961293/answer/569839196)
 * [引伸 多巴胺（客观因素）](https://www.zhihu.com/question/29692934/answer/845610471)
 * [简单心理uni-如何培养共情能力？](https://www.zhihu.com/question/24440657/answer/463431187)
+* [“有一种累,叫胡思乱想”|大脑过度思考让你发挥失常](https://www.xinli001.com/info/100462390)
 
 [斯托克代尔悖论 信念与原则问题](https://www.jianshu.com/p/8647b8fa5f8d)
