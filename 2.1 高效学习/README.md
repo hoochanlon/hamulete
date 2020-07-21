@@ -18,6 +18,8 @@
 * [你有什么值得分享的高效学习方法？（习惯养成计划制定）](https://www.zhihu.com/question/50343728/answer/228142789)
 * [Heisenberg的回答-启发式习惯，非绝对坚持](https://www.zhihu.com/question/50343728/answer/611428233)
 * [超强的学习能力是怎样练就的？](https://www.zhihu.com/question/35103080/answer/802025901)
+* [番茄工作法的优点和缺陷都有哪些？- 关于方法的个人适用性问题](https://www.zhihu.com/question/20390242/answer/677741349)
+
 
 ### 应试战术
 
