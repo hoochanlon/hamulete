@@ -58,6 +58,7 @@
 * [如何让孩子战胜学习中的“高原现象？](https://www.wukong.com/answer/6643925837206782221/)
 * [三种方式带你走出“心理高原期”](http://wjw.hubei.gov.cn/bmdt/ztzl/fkxxgzbdgrfyyq/jkkp/202004/t20200405_2205827.shtml)
 * [教师如何度过高原期](https://baike.baidu.com/item/%E9%AB%98%E5%8E%9F%E6%9C%9F)
+* [在学习工作中，怎么样休息才能让自己满血复活、恢复精力和斗志？ ](https://www.sohu.com/a/359352030_120113465)
 
 ---
 
