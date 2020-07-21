@@ -50,6 +50,15 @@
 
 ---
 
+### 学习高原现象
+
+* [学习高原现象](https://wiki.mbalib.com/wiki/%E5%AD%A6%E4%B9%A0%E9%AB%98%E5%8E%9F%E7%8E%B0%E8%B1%A1)
+* [如何让孩子战胜学习中的“高原现象？](https://www.wukong.com/answer/6643925837206782221/)
+* [三种方式带你走出“心理高原期”](http://wjw.hubei.gov.cn/bmdt/ztzl/fkxxgzbdgrfyyq/jkkp/202004/t20200405_2205827.shtml)
+* []()
+
+---
+
 ### 家庭
 
 * [原生家庭很糟糕是种什么体验？](https://www.zhihu.com/question/266244165/answer/339282447)
