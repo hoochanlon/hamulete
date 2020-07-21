@@ -44,5 +44,6 @@
 * [引伸 多巴胺（客观因素）](https://www.zhihu.com/question/29692934/answer/845610471)
 * [简单心理uni-如何培养共情能力？](https://www.zhihu.com/question/24440657/answer/463431187)
 * [“有一种累,叫胡思乱想”|大脑过度思考让你发挥失常](https://www.xinli001.com/info/100462390)
+* [MBA智库 学习高原现象](https://wiki.mbalib.com/wiki/%E5%AD%A6%E4%B9%A0%E9%AB%98%E5%8E%9F%E7%8E%B0%E8%B1%A1)
 
 [斯托克代尔悖论 信念与原则问题](https://www.jianshu.com/p/8647b8fa5f8d)
