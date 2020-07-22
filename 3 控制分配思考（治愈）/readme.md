@@ -7,6 +7,7 @@
 * [我见过情商最高的行为，就是凡事有分寸感](https://kuaibao.qq.com/s/20190813A0PES700?refer=spider) 
 * [怎么做人做事算是得体？](https://dhh.dahe.cn/con/0525088400)\n",
 * [360doc-心理学家：这三种情况下，对亲情感到厌恶属于一种正常的心理](http://www.360doc.com/content/19/0601/11/37341805_839597711.shtml)
+* [mba 垃圾人定律](https://wiki.mbalib.com/wiki/%E5%9E%83%E5%9C%BE%E4%BA%BA%E5%AE%9A%E5%BE%8B)
 
 ### 原生家庭
 
