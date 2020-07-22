@@ -12,9 +12,11 @@
 * https://github.com/zebook/zebook
 * https://www.academia.edu
 * https://bookboon.com
+* https://github.com/lossme/TencentComicBook 
 * https://www.free-ebooks.net/
 * http://freecomputerbooks.com
-*  https://issuu.com
+* https://issuu.com
+
 
 ### 文档文库
 
