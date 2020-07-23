@@ -5,7 +5,7 @@
 * [sohu-《刻意练习》作者艾利克森逝世，是他告诉我们：其实天才并不存在 ](https://www.sohu.com/a/408979671_661493)
 * [wikihow-如何增加血清素](https://zh.wikihow.com/%E5%A2%9E%E5%8A%A0%E8%A1%80%E6%B8%85%E7%B4%A0#_note-3)
 * [中国数字科技馆-多巴胺、血清素、内啡肽……这些物质决定幸福](https://baijiahao.baidu.com/s?id=1600767706403689722&wfr=spider&for=pc)
-* [洗澡的最佳时间是什么时候？晚上什么时间洗澡最好](http://www.5h.com/ys/14104.html)
-* [一天中什么时候洗澡最好？](https://tv.sohu.com/v/dXMvMzM4NDUwNzYwLzEyOTkzMTM2NS5zaHRtbA==.html)
+* [5h-洗澡的最佳时间是什么时候？晚上什么时间洗澡最好](http://www.5h.com/ys/14104.html)
+* [bright side-一天中什么时候洗澡最好？](https://tv.sohu.com/v/dXMvMzM4NDUwNzYwLzEyOTkzMTM2NS5zaHRtbA==.html)
 
 焦虑反而不利于我们专心学习，也容易导致我们记忆、思考神经衰退；但我们保持三点其实就好了：总结、实践、优化
