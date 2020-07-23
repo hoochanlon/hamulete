@@ -15,7 +15,7 @@
 * [朱一旦X罗翔 bilibili-被培训“招转培”套路诈骗，请拿起法律的武器！](https://www.bilibili.com/video/BV1ga4y1e7Z1)
 * [11张《不良教养方式》](https://zhuanlan.zhihu.com/p/157183332)
 * [如何辨认身边的聪明人？](https://www.zhihu.com/question/28484672/answer/1193742743)
-
+* [存量经济时代企业增长的“零和博弈”](https://news.qudong.com/article/580801.shtml)
 
 ### temp
 
