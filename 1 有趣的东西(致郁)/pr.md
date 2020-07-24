@@ -21,4 +21,4 @@ sum
 * [从商业互吹看“夸夸群”的前世今生！ ](https://zhuanlan.zhihu.com/p/59366552)
 * [我如何看待“大佬”这类说法 —— 对身边大陆学生口头话语的观察与思考-matters](https://hardbin.com/ipfs/QmXpksHmTdkMB5LHSZ2hhdujRXEQRf8rePazVW5SB1wmAV)
 
-批注：圈子社交，互相恭相互确立话语权的过程，被舔的压力释放
+批注：圈子社交，互相恭相互确立话语权的过程，被舔的压力释放、期待反馈
