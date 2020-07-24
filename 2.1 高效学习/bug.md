@@ -4,6 +4,7 @@
 
 * [如何看待河北高考一分一档线理科600分排到三万多名？（换个环境）](https://www.zhihu.com/question/408486539/answer/1356665205)
 * [同上](https://www.zhihu.com/question/408486539)
+* [从制度的权衡方向的回答](https://www.zhihu.com/question/408486539/answer/1357743090)
 
 <div align="center">
 	<img src="https://i.loli.net/2020/07/23/pi4jGZBIulNqtYH.jpg" width="550">
