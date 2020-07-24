@@ -49,6 +49,9 @@
 * [为什么我们会爱国？](https://nei.st/medium/nautilus/why-were-patriotic)
 * [为什么总有人喜欢为资本家辩护？](https://www.zhihu.com/question/402574881)
 * [什么是置换营销?](https://wiki.mbalib.com/wiki/%E7%BD%AE%E6%8D%A2%E8%90%A5%E9%94%80)
+* [如何评价中国青年报发布这样的信息?](https://www.zhihu.com/question/406486171)
+* [涓滴效应](https://baike.baidu.com/item/%E6%B6%93%E6%BB%B4%E6%95%88%E5%BA%94/10866999?fr=aladdin)
+
 
 ### iq00
 
