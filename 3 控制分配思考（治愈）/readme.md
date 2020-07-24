@@ -37,6 +37,7 @@
 * [知识体系—思考空间的五个维度](https://dy.163.com/article/EFSIPRHS05364HA9.html)
 * [乔布斯的4种经典思维模式](https://xueqiu.com/2524803655/126735858)
 * [零和博弈：降维打击 or 升维反击](https://baijiahao.baidu.com/s?id=1663787177093799453&wfr=spider&for=pc)
+* [日常生活中最常见的十大逻辑陷阱！你也被“套路”了吗？](https://www.jianshu.com/p/efedc6ca75a2)
 
 ### 如何控制自己的思考？
 
