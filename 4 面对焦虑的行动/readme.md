@@ -11,6 +11,7 @@
 * [bright side-一天中什么时候洗澡最好？](https://tv.sohu.com/v/dXMvMzM4NDUwNzYwLzEyOTkzMTM2NS5zaHRtbA==.html)
 * [@Nikko- 《非暴力沟通》解读-ipfs](https://hardbin.com/ipfs/QmZKrjrFdCYvJXBLv5zUJKtm61AasJMCXDKhMDrHXyyYGe)
 * [@Nikko- 《非暴力沟通》解读](https://matters.news/@Nikko/%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%8F%98%E5%BD%BC%E6%AD%A4-%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97-zdpuB3HP7Af7jafiC9a3RfVBxVk6wT2jXjW6zbt9N5129orLp)
+* [今天人们陷入意义危机 要有远见超越未见 ｜十三邀之许倬云](https://v.qq.com/x/cover/mzc0020019dz35p/p307602x7ny.html)
 
 焦虑反而不利于我们专心学习，也容易导致我们记忆、思考神经衰退；选择把晚上思考的精力投入到白天的工作中 ，激活血清素。不过这也让我随即想到：这也就是“网上的一些程序员”老是提及撸多伤身、“来一发”、“要被榨干了”的重要原因之一吧。
 
