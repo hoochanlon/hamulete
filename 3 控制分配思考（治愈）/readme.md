@@ -8,7 +8,7 @@
 * [怎么做人做事算是得体？](https://dhh.dahe.cn/con/0525088400)\n",
 * [360doc-心理学家：这三种情况下，对亲情感到厌恶属于一种正常的心理](http://www.360doc.com/content/19/0601/11/37341805_839597711.shtml)
 * [mba 垃圾人定律](https://wiki.mbalib.com/wiki/%E5%9E%83%E5%9C%BE%E4%BA%BA%E5%AE%9A%E5%BE%8B)
-* [2019，matters | 我的年度問卷](https://hardbin.com/ipfs/QmUW2VQFfTL5EmLMiBEScFjLTESK3jmcWDMLz8Y9PpmTaQ)
+* [2019，matters | 我的年度問卷-李借之](https://hardbin.com/ipfs/QmUW2VQFfTL5EmLMiBEScFjLTESK3jmcWDMLz8Y9PpmTaQ)
 
 ### 原生家庭
 
@@ -27,7 +27,7 @@
 * [知乎-情商高的人都怎样发脾气？](https://www.zhihu.com/question/24314797)
 * [怎样的言行举止可以反映一个人的教养和内涵？](https://www.zhihu.com/question/27871104/answer/45664502)
 * [知乎-人为什么会愤怒或生气？](https://www.zhihu.com/question/20222339)
-* [如何评价 2019 年 1 月新番动画《辉夜大小姐想让人告白 天才们的恋爱头脑战》？](https://www.zhihu.com/question/307529881/answer/615682870)
+* [如何评价 2019 年 1 月新番动画《辉夜大小姐想让人告白 天才们的恋爱头脑战》？](https://www.zhihu.com/question/307529881/answer/615682870) 批注：心理学方向回答
 
 
 ### 维度
