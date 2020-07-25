@@ -2,6 +2,7 @@
 
 ### stu & emp
 
+
 * [键盘政治问题-马监工](https://www.bilibili.com/video/BV1Jh411o7N5?from=search&seid=465489295480733385)
 * [你读过哪些令你有跪感的书？](https://www.zhihu.com/question/310681355/answer/999792279)
 * [高中生最近看《乌合之众》里谈到应试教育，可是如果我不上学我现在能做什么？那现在努力的意义又是什么呢?](https://www.zhihu.com/question/391671684/answer/1201494550)
@@ -25,6 +26,7 @@
 
 ### social
 
+* [老鼠人 《happiness》](https://www.bilibili.com/video/BV1At411Y7Wt/?spm_id_from=333.788.videocard.0)
 * [有哪些大家不说，但需要知道的社会常识？](https://www.zhihu.com/question/331082099/answer/1286116041)
 * [一个年轻人为什么毫无欲望？](https://www.zhihu.com/question/401505026/answer/1315052238)
 * [现在的年轻人是真的丧失了思考能力？还是只是选择了沉默不发声？](https://www.zhihu.com/question/402542831/answer/1301241054)
