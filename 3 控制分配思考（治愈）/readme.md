@@ -48,5 +48,6 @@
 * [简单心理uni-如何培养共情能力？](https://www.zhihu.com/question/24440657/answer/463431187)
 * [“有一种累,叫胡思乱想”|大脑过度思考让你发挥失常](https://www.xinli001.com/info/100462390)
 * [MBA智库 学习高原现象](https://wiki.mbalib.com/wiki/%E5%AD%A6%E4%B9%A0%E9%AB%98%E5%8E%9F%E7%8E%B0%E8%B1%A1)
+* [MBA智库-结构化思维](https://wiki.mbalib.com/wiki/%E7%BB%93%E6%9E%84%E5%8C%96%E6%80%9D%E7%BB%B4)
 
 [斯托克代尔悖论 信念与原则问题](https://www.jianshu.com/p/8647b8fa5f8d)
