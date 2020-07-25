@@ -2,6 +2,7 @@
 
 ### stu & emp
 
+* [键盘政治问题-马监工](https://www.bilibili.com/video/BV1Jh411o7N5?from=search&seid=465489295480733385)
 * [你读过哪些令你有跪感的书？](https://www.zhihu.com/question/310681355/answer/999792279)
 * [高中生最近看《乌合之众》里谈到应试教育，可是如果我不上学我现在能做什么？那现在努力的意义又是什么呢?](https://www.zhihu.com/question/391671684/answer/1201494550)
 * [企业家们为什么要不停地挣钱？](https://www.zhihu.com/question/343114996/answer/1002729893)
