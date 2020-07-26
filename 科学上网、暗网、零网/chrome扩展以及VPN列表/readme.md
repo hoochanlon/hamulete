@@ -5,6 +5,7 @@
 chrome代理插件|使用限制|
 |:-:|:-:|
 |[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)|需要有服务器支持并手动配置参数|
+|[Ghelper](http://googlehelper.net/)|通过连接chrome商店，下载VPN插件|
 |[Google访问助手](http://www.ggfwzs.com/)|需要设置360主页且只能访问Google服务|
 |[SurfEasyVPN](https://www.surfeasy.com)| 500M流量|
 |[windscribe](https://chn.windscribe.com)|10G流量限制|
