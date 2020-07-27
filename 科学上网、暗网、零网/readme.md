@@ -21,3 +21,4 @@
 * origin：https://github.com/gorhill/uBlock
 * 百度药丸: https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&tn=baidu&wd=百度药丸插件
 * 域名申请：https://www.kocpc.com.tw/archives/180195
+* 简悦阅读模式（屏蔽广告）：https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll/related?hl=zh-CN
