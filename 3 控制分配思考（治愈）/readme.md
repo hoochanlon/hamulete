@@ -50,4 +50,9 @@
 * [MBA智库 学习高原现象](https://wiki.mbalib.com/wiki/%E5%AD%A6%E4%B9%A0%E9%AB%98%E5%8E%9F%E7%8E%B0%E8%B1%A1)
 * [MBA智库-结构化思维](https://wiki.mbalib.com/wiki/%E7%BB%93%E6%9E%84%E5%8C%96%E6%80%9D%E7%BB%B4)
 
+### 社会
+
+* [马克斯·韦伯的《新教伦理与资本主义精神》怎么样？](https://www.zhihu.com/question/20081841/answer/1295049872)
+* [为什么同样是压力大的两个人，一个会得抑郁，一个没事？](https://www.zhihu.com/question/60946217/answer/1296280250)
+
 [斯托克代尔悖论 信念与原则问题](https://www.jianshu.com/p/8647b8fa5f8d)
