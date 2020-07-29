@@ -5,6 +5,7 @@
 ---
 
 * [sohu-为什么想得少的人，通常不容易焦虑？](https://www.sohu.com/a/152341570_661493)
+* [你为什么一闲下来就会焦虑？| 周末分享 ](https://www.sohu.com/a/226889029_99981833)
 * [bilibili-精神焦虑？四大原则教你自救](https://www.bilibili.com/read/cv6521310)
 * [sohu-《刻意练习》作者艾利克森逝世，是他告诉我们：其实天才并不存在 ](https://www.sohu.com/a/408979671_661493)
 * [wikihow-如何增加血清素](https://zh.wikihow.com/%E5%A2%9E%E5%8A%A0%E8%A1%80%E6%B8%85%E7%B4%A0#_note-3)
