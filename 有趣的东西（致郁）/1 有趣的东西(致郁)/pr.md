@@ -2,6 +2,7 @@
 
 ### 公关
 
+* [【最全】解读肖战的背后资本，我再也不想做肖战的视频了！！！](https://www.bilibili.com/video/BV1tE411K7h3?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1596539564&unique_k=w6ywx1)
 * [如何做好危机公关？](https://www.zhihu.com/question/21923215)
 
 sum
