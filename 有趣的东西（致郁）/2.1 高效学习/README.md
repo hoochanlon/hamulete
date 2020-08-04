@@ -39,6 +39,7 @@
 * [Heisenberg的回答-启发式习惯，非绝对坚持](https://www.zhihu.com/question/50343728/answer/611428233)
 * [超强的学习能力是怎样练就的？](https://www.zhihu.com/question/35103080/answer/802025901)
 * [番茄工作法的优点和缺陷都有哪些？- 关于方法的个人适用性问题](https://www.zhihu.com/question/20390242/answer/677741349)
+* [伦敦大学国王学院医学生：我是如何连续高效学习4个小时的](https://www.bilibili.com/video/BV1Kf4y1d7YQ?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1596560099&unique_k=kX3lTA)
 
 
 ### 应试战术
