@@ -48,6 +48,7 @@ v2ray的账号分享站点目前较少
 
 * https://www.myexplor.me
 * https://github.com/free-ss/free-ss.site
+* https://node.umelabs.dev/
 * https://gdmi.weebly.com/3118523398online.html
 * https://vpncn.blogspot.com/
 * http://nulastudio.org/Freedom/
