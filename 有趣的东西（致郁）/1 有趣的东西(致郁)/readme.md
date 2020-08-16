@@ -7,6 +7,7 @@
 * [经常喝饮料真的对身体不好吗？](https://www.zhihu.com/question/26071846)
 * [一个女生该有哪些优秀习惯？](https://www.zhihu.com/question/279174065/answer/533469724)
 * [为什么我感受到现在很多人会有仇富心态，厌恶资本家？](https://www.zhihu.com/question/391794083/answer/1207009615)
+* [资本家已经拥有大量资产了，为什么还要剥削无产阶级？](https://www.zhihu.com/question/320073567)
 * [「巴纳姆效应」是什么意思？](https://www.zhihu.com/question/304058717)
 * [人在年轻的时候，最核心的能力是什么？](https://www.zhihu.com/question/303482683/answer/1288919133)
 * [有哪些读书学不来，却很重要的素质？](https://www.zhihu.com/question/28626263/answer/186872277)
