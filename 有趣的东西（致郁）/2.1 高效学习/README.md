@@ -22,6 +22,12 @@
 
 * [蛋蛋赞-为什么感觉大学的数学教材总是以比较难理解的方式来讲述？(1)](https://www.twoeggz.com/wenda/10987885.html)
 
+逆转裁判
+
+* [有些人上课睡觉，但怎么成绩还是很好?](https://zhidao.baidu.com/question/47300423.html?qq-pf-to=pcqq.c2c)
+* [什么样的人学习效果最差？](https://www.zhihu.com/question/305792030/answer/589663139)
+* [为什么有些人除了上课时间以外都没有学习，成绩却还是很好？](https://www.zhihu.com/question/47977442/answer/109041102)
+
 ### 背书写字
 
 
