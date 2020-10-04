@@ -1,10 +1,17 @@
-***短链接：http://8rr.co/6stM***
+
 
 ### git下载
 
 使用淘宝源加快国内git下载
 
 https://npm.taobao.org/mirrors/git-for-windows/
+
+npm/yarn下载组件方面，均可使用淘宝镜像
+
+```
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+yarn config set registry https://registry.npm.taobao.org
+```
 
 ### host
 
