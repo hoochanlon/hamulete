@@ -4,6 +4,7 @@
 
 * [为什么喜欢「思考人生」的人比较容易得抑郁症并伴有自杀倾向？](https://www.zhihu.com/question/20783406) （个人觉得实际上是否命题）
 * [戾气太重，怎么才能变得平和？](https://www.zhihu.com/question/33970971/answer/57776266)
+* [在校学生如何正确认知社会？/大学生步入社会后，思想可能受到哪些冲击？/有哪些中国社会的现实有一部分学生还没意识到？](https://www.zhihu.com/question/26631336/answer/33539893)
 * [我见过情商最高的行为，就是凡事有分寸感](https://kuaibao.qq.com/s/20190813A0PES700?refer=spider) 
 * [怎么做人做事算是得体？](https://dhh.dahe.cn/con/0525088400)
 * [360doc-心理学家：这三种情况下，对亲情感到厌恶属于一种正常的心理](http://www.360doc.com/content/19/0601/11/37341805_839597711.shtml)
