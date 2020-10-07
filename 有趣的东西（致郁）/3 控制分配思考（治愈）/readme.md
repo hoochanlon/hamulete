@@ -55,5 +55,7 @@
 
 * [马克斯·韦伯的《新教伦理与资本主义精神》怎么样？](https://www.zhihu.com/question/20081841/answer/1295049872)
 * [为什么同样是压力大的两个人，一个会得抑郁，一个没事？](https://www.zhihu.com/question/60946217/answer/1296280250)
-
-[斯托克代尔悖论 信念与原则问题](https://www.jianshu.com/p/8647b8fa5f8d)
+* [斯托克代尔悖论 信念与原则问题](https://www.jianshu.com/p/8647b8fa5f8d)
+* [bilibili-那些正在毁掉年轻人的“贫困陷阱”！【歌白】](https://www.bilibili.com/video/BV15y4y1y7XA/)
+* [bilibili-为什么你没办法说服老一辈？很可能你才是错的那个人！——论村社理性](https://www.bilibili.com/video/BV1ET4y1c7Wi)
+* [bilibili-追求幸福不是人生的意义！颠覆你的思维，如何拥有成功人生？](https://www.bilibili.com/video/BV1754y1m71r)
