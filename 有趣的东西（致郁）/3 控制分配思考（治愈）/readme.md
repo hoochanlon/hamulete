@@ -40,6 +40,8 @@
 * [乔布斯的4种经典思维模式](https://xueqiu.com/2524803655/126735858)
 * [零和博弈：降维打击 or 升维反击](https://baijiahao.baidu.com/s?id=1663787177093799453&wfr=spider&for=pc)
 * [日常生活中最常见的十大逻辑陷阱！你也被“套路”了吗？](https://www.jianshu.com/p/efedc6ca75a2)
+* [为什么发达国家的普通劳动者收入比发展中国家的同行高很多？](https://www.zhihu.com/question/424070082/answer/1506036476)
+* [为什么人们可以一边骂 996 一边歌颂华为？](https://www.zhihu.com/question/397839610/answer/1475570715)
 
 ### 如何控制自己的思考？
 
