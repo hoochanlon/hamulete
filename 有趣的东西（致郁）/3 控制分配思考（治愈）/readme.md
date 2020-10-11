@@ -42,6 +42,7 @@
 * [日常生活中最常见的十大逻辑陷阱！你也被“套路”了吗？](https://www.jianshu.com/p/efedc6ca75a2)
 * [为什么发达国家的普通劳动者收入比发展中国家的同行高很多？](https://www.zhihu.com/question/424070082/answer/1506036476)
 * [为什么人们可以一边骂 996 一边歌颂华为？](https://www.zhihu.com/question/397839610/answer/1475570715)
+* [罗斯福总统为什么拒绝马云的福报](https://zhuanlan.zhihu.com/p/262034378?utm_source=qq&utm_medium=social&utm_oi=891439890716307456)
 
 ### 如何控制自己的思考？
 
