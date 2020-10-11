@@ -1,6 +1,6 @@
 
 
-### git下载
+## git下载
 
 使用淘宝源加快国内git下载
 
@@ -158,3 +158,30 @@ git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
 ```
 
+## sum
+
+下载无非三个问题：
+* 镜像源
+* 代理&VPN，以及hosts
+* 包、库文件的互相对应的版本
+
+### python 下载加速
+
+由于部分项目需用到python，因附pip下载加速；`pip install 想要安装文件 -i 镜像源地址` 指令格式，以镜像源安装。
+
+例：安装jupyter `pip install jupyter - i http://mirrors.aliyun.com/pypi/simple/`
+
+国内常用pip源：
+
+* 清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
+* 中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple/
+* 阿里云 http://mirrors.aliyun.com/pypi/simple/
+* 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/
+* 豆瓣  http://pypi.douban.com/simple/
+
+设定默认值，一劳永逸
+
+```
+pip install pip -U
+pip config set global.index-url https://pypi.douban.com/simple/
+```
