@@ -15,7 +15,7 @@ yarn config set registry https://registry.npm.taobao.org
 
 ### host
 
-将以下host复制进`C:\Windows\System32\drivers\etc\hosts`，再使用命令行输入`ipconfig /flushdns`刷新dns缓存。目的：此host只为解除GFW对GitHub（asw、ssh）下载及克隆的网络限制干扰
+将以下host复制进`C:\Windows\System32\drivers\etc\hosts`，再使用命令行输入`ipconfig /flushdns`刷新dns缓存。目的：此host只为解除GFW对GitHub（asw、ssh）下载及克隆的网络限制干扰（不排除服务器吞吐、光缆受地理限制等原因）
 
 详情 [关于Github克隆及下载过慢的解决方案](https://hoochanlon.github.io/note/2019/10-01/4ee4554a.html)
 
