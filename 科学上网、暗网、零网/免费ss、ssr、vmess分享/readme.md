@@ -31,6 +31,12 @@
 
 https://hoochanlon.github.io/fq-book/#/append/get-method
 
+### chip
+
+* https://52bp.org/index.html
+* https://iyideng.cloud/
+* https://www.duyaoss.com/page/1/
+* https://jichang.fanqiangdang.com/
 
 ### v2ray
 
