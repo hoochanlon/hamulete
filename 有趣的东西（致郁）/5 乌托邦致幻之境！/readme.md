@@ -5,3 +5,4 @@
 * [如何看待10.26日央视新闻公众号文章《早安，“打工人”!》? - Serendipity的回答 - 知乎（解构角度）](https://www.zhihu.com/question/427373923/answer/1545982644)
 * [如何看待10.26日央视新闻公众号文章《早安，“打工人”!》?](https://www.zhihu.com/question/427373923/answer/1544106399)
 * [为什么劝人花钱的花呗广告，总让人很不舒服？](https://zhuanlan.zhihu.com/p/268022714)
+* [大多数中产阶级终将返贫，中产的真相就是受过良好教育的无产](https://zhuanlan.zhihu.com/p/121647100)
