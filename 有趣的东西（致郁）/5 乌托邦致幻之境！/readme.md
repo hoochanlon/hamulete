@@ -9,3 +9,4 @@
 * [BBC跟拍54年，揭露教育残酷真相：究竟是什么，在决定孩子的命运?](http://www.360doc.com/content/20/1008/09/52906961_939386992.shtml)
 * [为什么有的人没有阶级意识？](https://www.zhihu.com/question/48343079/answer/1150915048)
 * [为什么长辈都觉得去垄断行业国企好，工作稳定，而去私企就不靠谱？ - 王子君的回答 - 知乎](https://www.zhihu.com/question/33273396/answer/133140400)
+* [如何评价温铁军教授的成本转嫁理论？ - shensheng的回答 - 知乎](https://www.zhihu.com/question/38920983/answer/117800283)
