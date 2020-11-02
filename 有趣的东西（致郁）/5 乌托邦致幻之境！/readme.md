@@ -1,5 +1,7 @@
 《1984》、《美丽的新世界》、《毛泽东选集》
 
+* [应届生参加工作，什么事情越早知道越好？-知乎](https://www.zhihu.com/question/407372614/answer/1460998074)
+* [零经验的人都是怎么转行的？](https://www.zhihu.com/question/24105566/answer/937593110)
 * [管培生真的是个很坑的职位吗？ - 张行云的回答 - 知乎](https://www.zhihu.com/question/300310754/answer/1169747507)
 * [刷了几天“打工人”的梗，你却还不肯称我一声“无产阶级同志”](https://zhuanlan.zhihu.com/p/270218685)
 * [如何看待10.26日央视新闻公众号文章《早安，“打工人”!》? - Serendipity的回答 - 知乎（解构角度）](https://www.zhihu.com/question/427373923/answer/1545982644)
@@ -10,3 +12,5 @@
 * [为什么有的人没有阶级意识？](https://www.zhihu.com/question/48343079/answer/1150915048)
 * [为什么长辈都觉得去垄断行业国企好，工作稳定，而去私企就不靠谱？ - 王子君的回答 - 知乎](https://www.zhihu.com/question/33273396/answer/133140400)
 * [如何评价温铁军教授的成本转嫁理论？ - shensheng的回答 - 知乎](https://www.zhihu.com/question/38920983/answer/117800283)
+* [阿里巴巴创始人马云在央视节目中表示，自己特别欣赏年轻人放下架子，敢去做快递小哥，这个话有什么问题吗？](https://www.zhihu.com/question/413761496/answer/1415035372)
+
