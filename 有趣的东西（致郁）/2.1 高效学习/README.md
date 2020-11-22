@@ -18,13 +18,23 @@
 * [悟空问答-你是否认同，一些大学教材，被人故意的编得晦涩难懂？-五道口的颜学姐的回答](https://www.wukong.com/answer/6751350054239338759/)
 * [悟空问答-你是否认同，一些大学教材，被人故意的编得晦涩难懂？-一叶知秋的回答](https://www.wukong.com/answer/6751569417928179976/)
 
+培训机构是什么样子
+
+* [为什么，这几年教育培训机构频繁倒闭？-(割韭菜、融资吸血、行业诈骗角度)](https://www.zhihu.com/question/400677363/answer/1575132486)
+* [为什么，这几年教育培训机构频繁倒闭？（行业收益角度）](https://www.zhihu.com/question/400677363/answer/1565973359)
+
 以学生的角度
 
+* [现在的老师真的懂教育吗？](https://www.zhihu.com/question/421324999/answer/1504155378)
 * [蛋蛋赞-为什么感觉大学的数学教材总是以比较难理解的方式来讲述？(1)](https://www.twoeggz.com/wenda/10987885.html)
+* [为什么有很多学生在老师讲课的时候什么都懂，但是做题却不会做？(知识的联系)](https://www.zhihu.com/question/21990278/answer/21579298)
+* [为什么有很多学生在老师讲课的时候什么都懂，但是做题却不会做？（看和做是两回事）](https://www.zhihu.com/question/21990278/answer/1228502826)
+
 
 逆转裁判
 
 * [有些人上课睡觉，但怎么成绩还是很好?](https://zhidao.baidu.com/question/47300423.html?qq-pf-to=pcqq.c2c)
+* [为什么有很多学生在老师讲课的时候什么都懂，但是做题却不会做？](https://www.zhihu.com/question/21990278/answer/124329890)
 * [什么样的人学习效果最差？](https://www.zhihu.com/question/305792030/answer/589663139)
 * [为什么有些人除了上课时间以外都没有学习，成绩却还是很好？](https://www.zhihu.com/question/47977442/answer/109041102)
 
