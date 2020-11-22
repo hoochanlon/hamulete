@@ -16,6 +16,15 @@
 * [阿里巴巴创始人马云在央视节目中表示，自己特别欣赏年轻人放下架子，敢去做快递小哥，这个话有什么问题吗？(国家立场)](https://www.zhihu.com/question/413761496/answer/1407018743?utm_source=hot_content_share&utm_medium=all)
 * [如何看待四部门联合对蚂蚁集团实际控制人马云、董事长井贤栋、总裁胡晓明进行监管约谈？](https://www.zhihu.com/question/428515455/answer/1556270496)
 * [消费主义陷阱是怎样把年轻人拉入深渊的？](https://b23.tv/eqHXik)
+
+***ren***
+
 * [为什么当领导的不能把话说明白？](https://www.zhihu.com/question/342579123/answer/1399693374)
 * [为什么有人特别排斥人口普查？（屁民与大局）](https://www.zhihu.com/question/425762411/answer/1551810771)
 * [面试的时候，销售经理让你把一瓶矿泉水卖 300 元，你会怎么应对？](https://www.zhihu.com/question/64028409/answer/1541388173)
+* [如何提高聊天能力?](https://www.zhihu.com/question/29461563/answer/1219627708)
+* [如何提高聊天能力?（二）](https://www.zhihu.com/question/29461563/answer/1324775916)
+* [一文让你读懂合伙人制度](https://zhuanlan.zhihu.com/p/86941111)
+* [人生的第一次觉醒是在什么时候？是什么让你突然觉醒！？](https://www.zhihu.com/question/42077394/answer/93531765)
+* [如何在早期识别团队中的高潜力员工?(培养角度)](https://www.zhihu.com/question/22391644/answer/194883128)
+* [如何在早期识别团队中的高潜力员工?(发现角度)](https://www.zhihu.com/question/22391644/answer/1068379877)
