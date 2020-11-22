@@ -17,3 +17,5 @@
 * [如何看待四部门联合对蚂蚁集团实际控制人马云、董事长井贤栋、总裁胡晓明进行监管约谈？](https://www.zhihu.com/question/428515455/answer/1556270496)
 * [消费主义陷阱是怎样把年轻人拉入深渊的？](https://b23.tv/eqHXik)
 * [为什么当领导的不能把话说明白？](https://www.zhihu.com/question/342579123/answer/1399693374)
+* [为什么有人特别排斥人口普查？（屁民与大局）](https://www.zhihu.com/question/425762411/answer/1551810771)
+* [面试的时候，销售经理让你把一瓶矿泉水卖 300 元，你会怎么应对？](https://www.zhihu.com/question/64028409/answer/1541388173)
