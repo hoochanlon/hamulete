@@ -28,3 +28,9 @@
 * [人生的第一次觉醒是在什么时候？是什么让你突然觉醒！？](https://www.zhihu.com/question/42077394/answer/93531765)
 * [如何在早期识别团队中的高潜力员工?(培养角度)](https://www.zhihu.com/question/22391644/answer/194883128)
 * [如何在早期识别团队中的高潜力员工?(发现角度)](https://www.zhihu.com/question/22391644/answer/1068379877)
+
+
+***ziben gunxueqiu***
+
+* [蚂蚁给穷人挖了深坑，但被国家给制止了](https://mp.weixin.qq.com/s/QlsfWz8qyfcMcFZAxCDYTg)
+* [如何看待成都蛋壳公寓办公室人去楼空，维权房东被告知只能线上处理？反映了 O2O 租房市场哪些问题？](https://www.zhihu.com/question/431790244/answer/1592788706)
