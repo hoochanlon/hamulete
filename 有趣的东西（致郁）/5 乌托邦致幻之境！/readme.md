@@ -20,6 +20,7 @@
 ***ren***
 
 * [为什么当领导的不能把话说明白？](https://www.zhihu.com/question/342579123/answer/1399693374)
+* [工人离开资本家 能活下去吗？](https://www.zhihu.com/question/409550392)
 * [为什么在美国人人可以持枪但国家却不怕他们造反呢？](https://www.zhihu.com/answer/1459910393) （反屠龙之术·分化）
 * [为什么在美国人人可以持枪但国家却不怕他们造反呢？](https://www.zhihu.com/question/291094201/answer/1508891353)（地方军队与平民角度）
 * [为什么有人特别排斥人口普查？（屁民与大局）](https://www.zhihu.com/question/425762411/answer/1551810771)
