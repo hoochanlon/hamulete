@@ -91,6 +91,9 @@ yarn config set registry https://registry.npm.taobao.org
 * 腾讯DNS：119.29.29.29、182.254.116.116
 
 
+### 攻击者可能试图从 xxx.github.io 窃取你的信息
+
+更改为如上提供的百度、阿里、腾讯DNS，再用`ipconfig/flushdns` 刷新缓存
 
 <!--
 
