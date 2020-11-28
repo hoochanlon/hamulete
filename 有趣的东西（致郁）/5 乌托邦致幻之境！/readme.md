@@ -20,7 +20,7 @@
 ***ren***
 
 * [为什么当领导的不能把话说明白？](https://www.zhihu.com/question/342579123/answer/1399693374)
-* [为什么在美国人人可以持枪但国家却不怕他们造反呢？ - 知乎](https://www.zhihu.com/answer/1459910393)
+* [为什么在美国人人可以持枪但国家却不怕他们造反呢？](https://www.zhihu.com/answer/1459910393) （反屠龙之术·分化）
 * [为什么有人特别排斥人口普查？（屁民与大局）](https://www.zhihu.com/question/425762411/answer/1551810771)
 * [面试的时候，销售经理让你把一瓶矿泉水卖 300 元，你会怎么应对？](https://www.zhihu.com/question/64028409/answer/1541388173)
 * [如何提高聊天能力?](https://www.zhihu.com/question/29461563/answer/1219627708)
