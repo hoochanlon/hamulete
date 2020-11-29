@@ -91,7 +91,7 @@ yarn config set registry https://registry.npm.taobao.org
 * 腾讯DNS：119.29.29.29、182.254.116.116
 
 
-### net:err_cert_authority_invalid
+### NET::ERR_CERT_AUTHORITY_INVALID
 
 浏览器会额外提示：攻击者可能试图从 xxx.github.io 窃取你的信息，此服务器无法证明它是 xxx.github.io；你的计算机的操作系统不信任它的安全证书。这可能是由配置错误或者有攻击者截获你的连接而导致的。当继续访问时又会403。
 
