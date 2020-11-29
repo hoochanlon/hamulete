@@ -39,3 +39,5 @@
 * [如何看待成都蛋壳公寓办公室人去楼空，维权房东被告知只能线上处理？反映了 O2O 租房市场哪些问题？](https://www.zhihu.com/question/431790244/answer/1592788706)
 * [为什么感觉中国人月薪过万很普遍了？](https://www.zhihu.com/question/309415265)
 * [为什么很多人辛劳一生，仍然生活在社会底层？](https://www.zhihu.com/question/39997502/answer/181765009)
+* [阶层固化是怎么回事？](https://zhuanlan.zhihu.com/p/62009656)
+* [谈谈「富不过三代」和「阶层固化」](https://zhuanlan.zhihu.com/p/25231656)
