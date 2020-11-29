@@ -10,6 +10,7 @@
 
 * [战拖五大步](https://zhuanlan.zhihu.com/p/88059192)
 * [如何克服严重的拖延症？](https://www.zhihu.com/question/20357585)
+* [所谓的「干货」真的有用吗？](https://www.zhihu.com/question/53471531/answer/137607742)
 
 ### 教材
 
