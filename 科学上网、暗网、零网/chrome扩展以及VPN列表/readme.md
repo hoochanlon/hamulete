@@ -50,8 +50,7 @@ vpn配置站点
 * https://www.vpnbook.com/freevpn
 * https://www.freeopenvpn.org/en/connect.php
 * https://www.vpnjantit.com/free-softether.html
-
-
+* https://www.samsock.com/windows.html
 
 
 <!--
