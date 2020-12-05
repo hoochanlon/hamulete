@@ -31,6 +31,7 @@
 * [人生的第一次觉醒是在什么时候？是什么让你突然觉醒！？](https://www.zhihu.com/question/42077394/answer/93531765)
 * [如何在早期识别团队中的高潜力员工?(培养角度)](https://www.zhihu.com/question/22391644/answer/194883128)
 * [如何在早期识别团队中的高潜力员工?(发现角度)](https://www.zhihu.com/question/22391644/answer/1068379877)
+* [心理学家乔丹·皮特森：大多数人没听过「普莱斯定律」，于是瞎焦虑 - Dr. Jordan B Peterson](https://www.bilibili.com/video/BV17v411r7Ei?p=1&share_medium=android&share_plat=android&share_source=QQ&share_tag=s_i&timestamp=1607171787&unique_k=3M3V54)
 
 
 ***ziben gunxueqiu***
