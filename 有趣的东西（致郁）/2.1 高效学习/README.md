@@ -24,6 +24,7 @@
 * [为什么，这几年教育培训机构频繁倒闭？-(割韭菜、融资吸血、行业诈骗角度)](https://www.zhihu.com/question/400677363/answer/1575132486)
 * [为什么，这几年教育培训机构频繁倒闭？（行业收益角度）](https://www.zhihu.com/question/400677363/answer/1565973359)
 
+
 以学生的角度
 
 * [现在的老师真的懂教育吗？](https://www.zhihu.com/question/421324999/answer/1504155378)
@@ -108,3 +109,8 @@
 * [如何摆脱原生家庭造成的人格缺陷？](https://www.zhihu.com/question/291784243/answer/509020322)
 * [清华北大的学生大都来自什么样的家庭？](https://www.zhihu.com/question/355080364/answer/949959508)
 * [父母“自以为正确”的行为带偏孩子产生的10种性格特征](https://zhuanlan.zhihu.com/p/56214811)
+
+
+### 小学生
+
+[如何看待小学生跳楼，留字条称「活得太累了」？](https://www.zhihu.com/question/435042476/answer/1630734523)
