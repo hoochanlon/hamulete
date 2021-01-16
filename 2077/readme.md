@@ -9,3 +9,12 @@
 * 质量渗透效应 https://www.zhihu.com/question/437181397/answer/1663670296
 
 * 社会主义  https://www.zhihu.com/question/302242038/answer/672306039
+
+---
+
+* 书籍PPT资源
+
+* http://www.cmpedu.com/ziyuans/index.htm 机工
+* http://51eds.com/tdjy/shiro/index.action 铁道出版社
+* https://www.ryjiaoyu.com/resource 人邮
+* http://www.tupwk.com.cn/downpage/ 清华大学出版社
