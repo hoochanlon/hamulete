@@ -25,3 +25,4 @@
 
 * [为什么谣言漏洞百出，仍会有人相信？](https://www.zhihu.com/question/421213801/answer/1657958120)
 * [为何进行科学辟谣如此困难？](https://www.zhihu.com/question/284455334/answer/471332341)
+* [如何看待深圳小学生作文称理想是当一名房东收租？反映了哪些现实？](https://www.zhihu.com/question/439658655)
