@@ -10,6 +10,8 @@
 
 * 社会主义  https://www.zhihu.com/question/302242038/answer/672306039
 
+* 存钱指南  https://www.bilibili.com/video/BV1Uy4y1e7vk
+
 ---
 
 * 书籍PPT资源
