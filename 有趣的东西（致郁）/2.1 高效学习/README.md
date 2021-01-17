@@ -47,6 +47,10 @@
 * [怎么背书最有效率？](https://www.zhihu.com/question/21540418/answer/187556776)
 * [你有什么值得分享的高效学习方法？](https://www.zhihu.com/question/50343728/answer/409389787)
 
+### 极·八股取士
+
+* [从人民日报扒了两种写作文套](https://www.bilibili.com/video/BV1Jy4y1H7wb)
+
 ### 方法论
 
 有哪些让人欲罢不能的学习方法？
