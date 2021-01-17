@@ -20,3 +20,8 @@
 * http://51eds.com/tdjy/shiro/index.action 铁道出版社
 * https://www.ryjiaoyu.com/resource 人邮
 * http://www.tupwk.com.cn/downpage/ 清华大学出版社
+
+---
+
+* [为什么谣言漏洞百出，仍会有人相信？](https://www.zhihu.com/question/421213801/answer/1657958120)
+* [为何进行科学辟谣如此困难？](https://www.zhihu.com/question/284455334/answer/471332341)
