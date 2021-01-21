@@ -72,6 +72,7 @@
 * [空谷的回答（共同经历过教学不好的老师的问题）](https://www.zhihu.com/question/19930474/answer/27310387)
 * [青年大爆炸的回答 (语文技巧)](https://www.zhihu.com/question/311672493/answer/1130133923)
 * [有哪些考试的蒙题诀窍？ 蒙题 （心理战术）](https://www.zhihu.com/question/23978413/answer/26303745)
+* [知乎专栏-交卷前一刻，为啥总能把答案改错呢？什么原因、怎么解决？速看](https://zhuanlan.zhihu.com/p/158869499)
 
 [2020 高考失利了怎么办？ - 羔羊先生的回答 - 知乎](https://www.zhihu.com/question/405808949/answer/1356781609)
 
@@ -79,6 +80,7 @@
 
 * [蔓小叨的回答 (阅读理解)](https://www.zhihu.com/question/274655257/answer/1130701673)
 * [山石寻的回答 (应试技巧的目的)](https://www.zhihu.com/question/274655257/answer/1103281398)
+* [为什么会做的题目总是做不对？](https://www.zhihu.com/question/312768511/answer/602319174)
 
 [高中生最近看《乌合之众》里谈到应试教育，可是如果我不上学我现在能做什么？那现在努力的意义又是什么呢? (社会分层)](https://www.zhihu.com/question/391671684/answer/1201494550)
 
