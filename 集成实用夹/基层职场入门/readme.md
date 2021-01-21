@@ -1,7 +1,4 @@
-### 求职面试分析HR及解读企业用人需求、解构培训及外包运营
 
-* [《桌面运维管理指南》 职场社会工程学 专题](https://hoochanlon.github.io/helpdesk-guide)
-* [知识图谱-概念与技术](https://github.com/tywee/knowledge-graph)
 
 ### 实习经历与团队管理
 
@@ -12,6 +9,7 @@
 
 * [企业OA项目](https://github.com/o2oa/o2oa)
 * [远程办公任务协作项目](https://github.com/a54552239/pearProject)
+* [知识图谱-概念与技术](https://github.com/tywee/knowledge-graph)
 
 ### 资本主义讨论
 
