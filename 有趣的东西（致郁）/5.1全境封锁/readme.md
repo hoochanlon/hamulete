@@ -6,3 +6,5 @@
 * 中国应不应该提高社会福利？ https://www.zhihu.com/question/305342010
 * 体制内福利信用贷款参考 https://zhuanlan.zhihu.com/p/26339485
 * 2020年福利政策大汇总 https://zhuanlan.zhihu.com/p/136479701
+* 为什么国企只招应届生？ https://www.zhihu.com/question/21691811/answer/1674484897
+* 为什么这么多人考公务员？https://www.zhihu.com/question/26526364/answer/1689251416
