@@ -14,9 +14,14 @@
 * [DDNS](https://www.duckdns.org/)
 * [FreeSSL](https://freessl.cn/)
 
-附：
+SS
 
-* MAC SS https://github.com/yanue/V2rayU
+* MAC v2 https://github.com/yanue/V2rayU
+* win https://github.com/shadowsocks/shadowsocks-windows
+* mac https://github.com/shadowsocks/ShadowsocksX-NG
+
+附
+
 * 连接chrome商店的好帮手：http://googlehelper.net/
 * switchyomega：https://github.com/FelisCatus/SwitchyOmega
 * origin：https://github.com/gorhill/uBlock
