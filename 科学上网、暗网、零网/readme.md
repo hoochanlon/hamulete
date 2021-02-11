@@ -16,6 +16,7 @@
 
 附：
 
+* MAC SS https://github.com/yanue/V2rayU
 * 连接chrome商店的好帮手：http://googlehelper.net/
 * switchyomega：https://github.com/FelisCatus/SwitchyOmega
 * origin：https://github.com/gorhill/uBlock
