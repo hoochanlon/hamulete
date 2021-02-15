@@ -4,7 +4,7 @@
 
 * 资本 https://www.zhihu.com/question/296893426/answer/1626254399
 
-* 公务员上岸 https://bbs.qzzn.com/
+* 公务员上岸 https://bbs.qzzn.com/ https://github.com/kuriv/civil-service-exam 知识导图
 
 * 做题家 https://www.zhihu.com/question/385751094
 
