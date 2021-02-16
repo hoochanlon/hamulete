@@ -48,4 +48,4 @@
 欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目，同时也自推广书籍[《由驻场桌维到内部业务运营》](https://hoochanlon.github.io/helpdesk-guide/) 😀
 
 
-![Stargazers over time](https://starchart.cc/hoochanlon/starcharts.svg)](https://starchart.cc/hoochanlon/w3-goto-world)
+![Stargazers over time](https://starchart.cc/hoochanlon/starcharts.svg)
