@@ -22,6 +22,8 @@
 
 * 存钱指南  https://www.bilibili.com/video/BV1Uy4y1e7vk
 
+* 独立思考 https://www.zhihu.com/question/20364224/answer/1731470699
+
 ---
 
 * 书籍PPT资源
