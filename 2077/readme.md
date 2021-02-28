@@ -38,3 +38,10 @@
 * [为什么谣言漏洞百出，仍会有人相信？](https://www.zhihu.com/question/421213801/answer/1657958120)
 * [为何进行科学辟谣如此困难？](https://www.zhihu.com/question/284455334/answer/471332341)
 * [如何看待深圳小学生作文称理想是当一名房东收租？反映了哪些现实？](https://www.zhihu.com/question/439658655)
+
+---
+
+* [为什么法律条文还是不够通俗易懂?](https://iask.sina.com.cn/b/2651309.html)
+* [为什么国外小说读起来变扭](https://wenku.baidu.com/view/34ae779c6bec0975f465e2f3.html)
+* [为什么翻译腔那么好笑？到底什么是翻译腔？](http://fanyi-app.baidu.com/static/passage/2020-01/2020-01-25/003/)
+
