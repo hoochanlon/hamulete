@@ -2,6 +2,8 @@
 
 * 隐私收集 https://github.com/ffffffff0x/Digital-Privacy
 
+* 管理资源8 https://www.glzy8.com/ 
+
 * 资本 https://www.zhihu.com/question/296893426/answer/1626254399
 
 * 公务员上岸 https://bbs.qzzn.com/ https://github.com/kuriv/civil-service-exam 知识导图
