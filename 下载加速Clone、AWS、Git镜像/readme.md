@@ -163,7 +163,7 @@ $ git clone --depth=1  https://github.com/你的用户名/你的repo.git
 
 `--depth=1` 表示只下载最近一次的版本，使用浅复制可以大大减少下载的数据量，这样即使在红色网络环境下，也可以快速的获得代码；若之后想获取完整历史信息，可以使用指令 `$ git fetch --unshallow`
 
-git ssh方面: https://github.zhlh6.cn 加快速度。
+git ssh方面: https://github.zhlh6.cn/ 加快速度。
 
 ### 代理方案
 
@@ -174,6 +174,16 @@ git config --global https.proxy 'socks5://127.0.0.1:1080'
 # 取消代理
 git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
+
+# mac 终端
+
+export http_proxy="socks5://127.0.0.1:1080"
+export https_proxy="socks5://127.0.0.1:1080"
+
+## 在 .bashrc 或 .zshrc 中设置
+alias setproxy="export ALL_PROXY=socks5://127.0.0.1:1080"
+alias unsetproxy="unset ALL_PROXY"
+
 ```
 
 反向代理加速 —— Static CDN，用来加载图片、内容等：
