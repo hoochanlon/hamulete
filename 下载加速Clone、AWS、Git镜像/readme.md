@@ -1,6 +1,13 @@
+## github镜像地址
+
+网速慢或被封锁，在这个镜像地址登录访问、下载也是可以的。
+
+* https://github.com.cnpmjs.org/
+* https://hub.fastgit.org
 
 
-## git下载
+
+### git下载
 
 使用淘宝源加快国内git下载
 
@@ -12,6 +19,10 @@ npm/yarn下载组件方面，均可使用淘宝镜像
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 yarn config set registry https://registry.npm.taobao.org
 ```
+
+
+
+
 
 ### host
 
@@ -152,6 +163,8 @@ $ git clone --depth=1  https://github.com/你的用户名/你的repo.git
 
 `--depth=1` 表示只下载最近一次的版本，使用浅复制可以大大减少下载的数据量，这样即使在红色网络环境下，也可以快速的获得代码；若之后想获取完整历史信息，可以使用指令 `$ git fetch --unshallow`
 
+git ssh方面: https://github.zhlh6.cn 加快速度。
+
 ### 代理方案
 
 ```
@@ -162,6 +175,12 @@ git config --global https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
 ```
+
+反向代理加速 —— Static CDN，用来加载图片、内容等：
+
+* raw.githubusercontent.com 替换raw.staticdn.net
+
+
 
 ## sum
 
