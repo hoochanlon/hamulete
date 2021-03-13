@@ -167,6 +167,8 @@ git ssh方面: https://github.zhlh6.cn/ 加快速度。
 
 ### 代理方案
 
+***git***
+
 ```
 # 代理设置
 git config --global http.proxy 'socks5://127.0.0.1:1080'
@@ -174,6 +176,13 @@ git config --global https.proxy 'socks5://127.0.0.1:1080'
 # 取消代理
 git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
+
+```
+
+
+***mac***
+
+```
 
 # mac 终端
 
@@ -183,8 +192,23 @@ export https_proxy="socks5://127.0.0.1:1080"
 ## 在 .bashrc 或 .zshrc 中设置
 alias setproxy="export ALL_PROXY=socks5://127.0.0.1:1080"
 alias unsetproxy="unset ALL_PROXY"
+```
+
+
+***openssh***
 
 ```
+
+# github ssh 配置
+## https://help.github.com/articles/using-ssh-over-the-https-port/
+
+# HTTP 代理
+ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
+
+# socks5 代理
+ ProxyCommand nc -v -x 127.0.0.1:1080 %h %p
+```
+
 
 反向代理加速 —— Static CDN，用来加载图片、内容等：
 
