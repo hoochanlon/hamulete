@@ -26,6 +26,8 @@ https://fakegoat.com/aaa/
 
 * 独立思考 https://www.zhihu.com/question/20364224/answer/1731470699
 
+https://www.weadmin.com/freeware
+
 ---
 
 * 书籍PPT资源
