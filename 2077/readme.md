@@ -1,3 +1,5 @@
+https://fakegoat.com/aaa/
+
 * 今日热榜 https://tophub.today/
 
 * 隐私收集 https://github.com/ffffffff0x/Digital-Privacy
