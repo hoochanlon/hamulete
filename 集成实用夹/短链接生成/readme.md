@@ -10,3 +10,9 @@
 * http://snipurl.com/
 
 * https://tr.im/
+
+* https://yww.uy
+
+* https://git.io
+
+* https://u.nu
