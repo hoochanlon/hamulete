@@ -19,6 +19,7 @@
 
 ***ren***
 
+* [井柏然、包贝尔、何炅方因网上的恶性造谣报警，发生了什么？有哪些细节值得关注？ - 执子之手赠于他手的回答 - 知乎](https://www.zhihu.com/question/477113254/answer/2039782539)
 * [为什么当领导的不能把话说明白？](https://www.zhihu.com/question/342579123/answer/1399693374)
 * [工人离开资本家 能活下去吗？](https://www.zhihu.com/question/409550392)
 * [为什么在美国人人可以持枪但国家却不怕他们造反呢？](https://www.zhihu.com/answer/1459910393) （反屠龙之术·分化）
