@@ -6,6 +6,7 @@
 * [预防近视题库](http://www.haoword.com/syfanwen/shijuankaojuan/525814.htm)
 * [经常喝饮料真的对身体不好吗？](https://www.zhihu.com/question/26071846)
 * [一个女生该有哪些优秀习惯？](https://www.zhihu.com/question/279174065/answer/533469724)
+* [如何看待女子将 10 年校园欺凌经历做成桌游？遭遇校园欺凌该怎么做？](https://www.zhihu.com/question/480022438)
 * [为什么我感受到现在很多人会有仇富心态，厌恶资本家？](https://www.zhihu.com/question/391794083/answer/1207009615)
 * [资本家已经拥有大量资产了，为什么还要剥削无产阶级？](https://www.zhihu.com/question/320073567)
 * [「巴纳姆效应」是什么意思？](https://www.zhihu.com/question/304058717)
