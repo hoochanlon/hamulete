@@ -45,9 +45,7 @@
 
 ## 友情小推广
 
-欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目
-
-同时也自推广书籍[《桌维网管实典》](https://hoochanlon.github.io/helpdesk-guide/) 、[《解读文稿思考项目管理》](https://github.com/hoochanlon/reading-pm-by-lib)😀
+欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目 😀
 
 
 
