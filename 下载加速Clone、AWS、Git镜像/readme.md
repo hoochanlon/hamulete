@@ -11,13 +11,13 @@
 
 使用淘宝源加快国内git下载
 
-https://npm.taobao.org/mirrors/git-for-windows/
+https://npmmirror.com/mirrors/git-for-windows/
 
 npm/yarn下载组件方面，均可使用淘宝镜像
 
 ```
-npm install -g cnpm --registry=https://registry.npm.taobao.org
-yarn config set registry https://registry.npm.taobao.org
+npm install -g cnpm --registry=https://registry.npmmirror.com
+yarn config set registry https://registry.npmmirror.com
 ```
 
 
