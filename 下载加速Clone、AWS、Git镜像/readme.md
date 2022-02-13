@@ -1,9 +1,8 @@
-## github镜像地址
+## GitHub 镜像地址
 
-网速慢或被封锁，在这个镜像地址登录访问、下载也是可以的。
+网速慢或被封锁，在这个镜像地址访问、下载也是可以的。
 
-* https://github.com.cnpmjs.org/
-* https://hub.fastgit.org
+* https://hub.fastgit.xyz
 
 
 
