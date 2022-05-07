@@ -44,3 +44,8 @@
 * [为什么很多人辛劳一生，仍然生活在社会底层？](https://www.zhihu.com/question/39997502/answer/181765009)
 * [阶层固化是怎么回事？](https://zhuanlan.zhihu.com/p/62009656)
 * [谈谈「富不过三代」和「阶层固化」](https://zhuanlan.zhihu.com/p/25231656)
+
+
+***shanghai***
+
+https://www.zhihu.com/question/531554861 疫情相关等敏感话题
