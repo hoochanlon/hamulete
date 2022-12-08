@@ -91,7 +91,7 @@ yarn config set registry https://registry.npmmirror.com
 
 </details>
 
-<details><summary>** 新GitHub hosts ** </summary>
+<details><summary>** 新GitHub hosts 转自 [ineo6/hosts](https://github.com/ineo6/hosts) ，这部分可算有人做了 ** </summary>
 
 
 ```
