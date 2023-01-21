@@ -3,7 +3,7 @@
 [![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/) [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) [![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoochanlon) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)[![stars](https://img.shields.io/github/stars/hoochanlon/w3-goto-world.svg?style=social)](https://github.com/hoochanlon/w3-goto-world)
 
 
-![冲出你的窗口](https://s3.jpg.cm/2020/07/16/Uu9br.png)
+![冲出你的窗口](https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png)
 
 <h1 align="center"> 免责声明 </h1>
 
@@ -41,5 +41,4 @@
 * [面对焦虑的行动](4%20面对焦虑的行动/)
 
 
-有趣的东西其实是思想观点聚流，但需要具备较强的独立深度思考能力，把所见所闻信息转化为自己受用的知识；期间还要考虑人文环境及时势、概率、谬误偏差等，这本身就是困难的一件事。(2022.12.8 更)就信息整合这块，《睡前消息》确实做得不错，从了解消息到提出问题，提出问题的期间搜集资料，根据资料提出自己的建议，老实说很可以了。这些文件夹的命名什么的，本身做这事来说，都是那时候犯中二病的心劲做的，也无所谓了。另外附上 [其中一些读书笔记目录](https://github.com/hoochanlon/tetyou)，看书笔记的整理，更新较慢，基本上一两月更。
-
+有趣的东西其实是思想观点聚流，但需要具备较强的独立深度思考能力，把所见所闻信息转化为自己受用的知识；期间还要考虑人文环境及时势、概率、谬误偏差等，这本身就是困难的一件事。(2022.12.8 更)就信息整合这块，《睡前消息》确实做得不错，从了解消息到提出问题，提出问题的期间搜集资料，根据资料提出自己的建议，老实说很可以了。这些文件夹的命名什么的，本身做这事来说，都是那时候犯中二病的心劲做的，18年；不过也无所谓了。
