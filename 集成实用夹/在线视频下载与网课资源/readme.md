@@ -10,6 +10,9 @@
 ### 网课资源 
 
 * http://www.dxzy163.com
+* http://coursade.com
+* https://www.yxgapp.com
+* https://www.khanacademy.org
 * https://www.mvyxws.com
 * https://www.jw.org/cmn-hans/
 
