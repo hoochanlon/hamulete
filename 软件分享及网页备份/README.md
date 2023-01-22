@@ -5,9 +5,11 @@ https://www.zhihu.com/question/51309695
 
 ### 软件分享
 
-* https://github.com/Awesome-Windows/Awesome
-* https://www.iplaysoft.com
+
+* https://ruancang.net
+* https://www.qijishow.com
 * https://www.slant.co
+* https://github.com/Awesome-Windows/Awesome
 * https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn
 
 
