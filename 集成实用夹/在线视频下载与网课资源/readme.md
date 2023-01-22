@@ -10,6 +10,7 @@
 ### 网课资源 
 
 * http://www.dxzy163.com
+* http://1nami.com
 * http://coursade.com
 * https://www.yxgapp.com
 * https://www.khanacademy.org
