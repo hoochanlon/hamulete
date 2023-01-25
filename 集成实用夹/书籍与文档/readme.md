@@ -8,6 +8,8 @@
 教育信息化 https://www.jyxxh.cn
 框框大学 https://www.kkdaxue.com
 类z库 clibrary.top
+中国古哲 https://ctext.org
+词典论坛 https://forum.freemdict.com
 ```
 
 ### 电子书
