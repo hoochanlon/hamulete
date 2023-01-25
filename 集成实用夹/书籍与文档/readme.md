@@ -12,6 +12,7 @@
 
 ### 电子书
 
+* https://clibrary.top
 * https://ctext.org/zhs
 * https://www.owllook.net/
 * https://itpanda.net/book
