@@ -14,6 +14,7 @@
 
 * https://kf369.cn
 * https://ailongmiao.com
+* https://s.b-hu.org/lite/
 * https://233heji.com
 
 ### 软件分享
