@@ -7,7 +7,7 @@
 |EZUbaidu|[极下解析](https://dupan.ink)、[克隆窝](https://www.kelongwo.com)、[文档下载助手](https://imwcr.cn/api/GetDocumentText/)、[稻壳阅读器](http://www.daokeyuedu.com)、[Yoco](https://www.52pojie.cn/thread-1678456-1-1.html)|
 |KOUGUBA| [Watt Toolkit](https://steampp.net)、[SwitchHosts](https://github.com/oldj/SwitchHosts)、[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy) 、[DownGit](https://minhaskamal.github.io/DownGit/#/home)|
 |BUIPIENU| [westworld](mailto:info@westworldss.com)、[samsocks](https://www.samsock.com)、[glados](https://github.com/glados-network/)、[proton](https://protonvpn.com) |
-|Windows|[HelloWindows](https://hellowindows.cn)、[OfficeToolPlus](https://otp.landian.vip)、[WinRAR Reg](https://www.zaera.cn/2542.html winrar)|
+|Windows|[HelloWindows](https://hellowindows.cn)、[OfficeToolPlus](https://otp.landian.vip)、[WinRAR Reg](https://www.zaera.cn/2542.html)|
 
 ### 网页导航
 
