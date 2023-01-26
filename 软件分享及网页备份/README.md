@@ -1,11 +1,13 @@
 ### 工具集合表
 
-|Easyuse|       [龙喵导航](https://ailongmiao.com)、[库房369](https://kf369.cn)、[s.b-hu.org](https://s.b-hu.org/lite/)                                    |
+|Start|       [龙喵导航](https://ailongmiao.com)、[库房369](https://kf369.cn)、[s.b-hu.org](https://s.b-hu.org/lite/)                                    |
 | :-----------: | :----------------------------------------------------------: |
-|Toolbox|          <a href="https://github.com/hoochanlon/tetyou/blob/master/CHEATSHEET.md" target="_blank" >Shell小抄</a> <a href="https://www.explainshell.com">Shell语法分析</a> [linux指令速查](https://wangchujiang.com/linux-command/) |
+|Shell|          <a href="https://github.com/hoochanlon/tetyou/blob/master/CHEATSHEET.md" target="_blank" >Shell小抄</a> <a href="https://www.explainshell.com">Shell语法分析</a> [linux指令速查](https://wangchujiang.com/linux-command/) |
 |Software|[V2方圆](https://www.v2fy.com/)、[麦可房子](https://www.macfz.com)、[423down](https://www.423down.com)、[digit77](https://www.digit77.com/iosapps/)、[序幕游戏](xumugame.com)|
+|EZUbaidu|[极下解析](https://dupan.ink)、[克隆窝](https://www.kelongwo.com)、[文档下载助手](https://imwcr.cn/api/GetDocumentText/)、[稻壳阅读器](http://www.daokeyuedu.com)、[Yoco](https://www.52pojie.cn/thread-1678456-1-1.html)|
 |KOUGUBA| [Watt Toolkit](https://steampp.net)、[SwitchHosts](https://github.com/oldj/SwitchHosts)、[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy) 、[DownGit](https://minhaskamal.github.io/DownGit/#/home)|
 |BUIPIENU| [westworld](mailto:info@westworldss.com)、[samsocks](https://www.samsock.com)、[glados](https://github.com/glados-network/)、[proton](https://protonvpn.com) |
+
 
 
 ### 网页导航
