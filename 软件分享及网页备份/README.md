@@ -13,6 +13,7 @@
 
 * https://kf369.cn
 * https://ailongmiao.com
+* http://ilxdh.com
 * https://s.b-hu.org/lite/
 * https://233heji.com
 
