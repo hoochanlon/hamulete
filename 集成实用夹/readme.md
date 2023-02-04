@@ -1,5 +1,11 @@
 短链接：http://33h.co/e2ED
 
+## API
+
+* https://api.aa1.cn
+* https://github.com/public-apis/public-apis
+
+
 ## 目录
 
 * [基层职场入门](基层职场入门/)
@@ -43,7 +49,7 @@
 |Software|[V2方圆](https://www.v2fy.com/)、[麦可房子](https://www.macfz.com)、[423down](https://www.423down.com)、[digit77](https://www.digit77.com/iosapps/)、[序幕游戏](xumugame.com)|[克隆窝](https://www.kelongwo.com)、[文档下载助手](https://imwcr.cn/api/GetDocumentText/)、[稻壳阅读器](http://www.daokeyuedu.com)、[Yoco](https://www.52pojie.cn/thread-1678456-1-1.html)|
 |ELUOSI| [byrut.org](https://byrut.org/)、[Rutracker.org](https://Rutracker.org)、[softoroom.org](https://softoroom.org)、[俄罗斯](http://www.zhuoju.xyz/thread-135154-1-1.html) |
 |KOUGUBA| [Watt Toolkit](https://steampp.net)、[SwitchHosts](https://github.com/oldj/SwitchHosts)、[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy) 、[DownGit](https://minhaskamal.github.io/DownGit/#/home)|
-|BUIPIENU| [westworld](mailto:info@westworldss.com)、[samsocks](https://www.samsock.com)、[aurora](https://arr007.network)、[glados](https://github.com/glados-network/)、[proton](https://protonvpn.com) |
+|BUIPIENU| [westworld](mailto:info@westworldss.com)、[samsocks](https://www.samsock.com)、[aurora](https://arr007.network)、[zgq](http://domain.zgqinc.gq)、[proton](https://protonvpn.com) |
 
 * [电脑软件（例如 Adobe、Autodesk）为什么那么容易被破解？-zhihu](https://www.zhihu.com/question/356008082)
 * [软件破解原理.happylife1527的博客-csdn](https://blog.csdn.net/happylife1527/article/details/8079278)
