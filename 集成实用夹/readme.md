@@ -47,7 +47,7 @@
 
 * [电脑软件（例如 Adobe、Autodesk）为什么那么容易被破解？-zhihu](https://www.zhihu.com/question/356008082)
 * [软件破解原理.happylife1527的博客-csdn](https://blog.csdn.net/happylife1527/article/details/8079278)
-* [【吾爱破解原创】 玩玩破解，写给新人看（第一集）](https://www.52pojie.cn/thread-1358649-1-1.html)
+* [【吾爱破解】【yyhd 原创】 玩玩破解，写给新人看（第一集）](https://www.52pojie.cn/thread-1358649-1-1.html)
 * [破解教程_-破解收费软件的方法-20220531213131.doc-原创力文档](https://max.book118.com/html/2022/0531/6203202015004153.shtm)
 * [萌新学逆向：Crackme入门之基础操作分析-成长的对话](http://www.wendaok.cn/post/1500.html)
 * [423down](https://www.423down.com)、[懒得勤快](https://masuit.com)、[胡萝卜周](https://www.zhihu.com/question/530078477/answer/2458656992)、[大眼仔](http://www.dayanzai.me)、[驿站网](https://www.yzw12.com)、[卓聚社区-俄罗斯盗版收集](http://www.zhuoju.xyz/thread-135154-1-1.html)、[中文汉化](http://h.shanse8.com)、[阿虚同学](https://www.axutongxue.com)
