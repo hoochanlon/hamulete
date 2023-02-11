@@ -43,14 +43,14 @@
 
 ### Windows/Office下载
 
-https://www.sysmini.com/
-https://windsys.win
-https://www.microsoft.com/zh-cn/software-download/
-http://y-os.net/
-https://latest10.win/
-https://msdn.itellyou.cn/
-https://hellowindows.cn/
-https://www.imsdn.cn/
+* https://www.sysmini.com/
+* https://windsys.win （装机爱好者定制，类似于常见的纯净版的ghost）
+* https://www.microsoft.com/zh-cn/software-download/
+* http://y-os.net/
+* https://latest10.win/
+* https://msdn.itellyou.cn/
+* https://hellowindows.cn/
+* https://www.imsdn.cn/
 
 
 ### 软件分享
