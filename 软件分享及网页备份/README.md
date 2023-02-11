@@ -25,6 +25,42 @@
 
 🧰&nbsp;<a href="https://tool.lu" target="_blank">在线工具箱</a>&nbsp;<a href="https://www.iamwawa.cn" target="_blank">蛙蛙工具</a>&nbsp;<a href="https://c.runoob.com" target="_blank">菜鸟工具</a>&nbsp;<a href="https://www.67tool.com" target="_blank">即刻工具</a>&nbsp;<a href="https://udown.vip" target="_blank">优蛋网盘链接解析</a>
 
+### winPE
+
+- [winpe](https://www.wepe.com.cn)
+- [edgeless PE](https://home.edgeless.top/) 、[hotpe](https://www.hotpe.top/)、[cowpe](http://cowpe.myzwq.cn/)、[firpe](http://www.firpe.cn/)
+- [Hiren’s BootCD PE](https://www.hirensbootcd.org/download/)
+- [diskinternal boot-cd](https://www.diskinternals.com/boot-cd/features/)
+* [csdn-揭密win7pe制作全过程](https://blog.csdn.net/ln_zdl/article/details/38537249)
+* [腾讯云-WinPE制作介绍](https://cloud.tencent.com/developer/article/1609617)
+
+### 驱动下载
+
+* [SamDrivers](http://driveroff.net/sam)
+* [DriverPack ](https://driverpack.io/zh-cn)
+* [3dp](http://www.3dpchip.com/3dp/chip.php?driver=dp_bench)
+* [安兔兔-驱动天使](http://www.qudongtianshi.com)
+
+### Windows/Office下载
+
+https://www.sysmini.com/
+https://windsys.win
+https://www.microsoft.com/zh-cn/software-download/
+http://y-os.net/
+https://latest10.win/
+https://msdn.itellyou.cn/
+https://hellowindows.cn/
+https://www.imsdn.cn/
+
+
+### 软件分享
+
+* https://ruancang.net
+* https://www.qijishow.com
+* https://www.slant.co
+* https://github.com/Awesome-Windows/Awesome
+* https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn
+
 
 ### 网页导航
 
@@ -34,14 +70,6 @@
 * https://s.b-hu.org/lite/
 * https://233heji.com
 
-### 软件分享
-
-
-* https://ruancang.net
-* https://www.qijishow.com
-* https://www.slant.co
-* https://github.com/Awesome-Windows/Awesome
-* https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn
 
 
 ### 网页备份
