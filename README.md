@@ -2,8 +2,10 @@
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)[![stars](https://img.shields.io/github/stars/hoochanlon/w3-goto-world.svg?style=social)](https://github.com/hoochanlon/w3-goto-world)
 
+</a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/mof2.PNG" width="270 " height="270" /></a><a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/mof1.PNG" width="270 " height="270" />
 
 <!--![冲出你的窗口](https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png)-->
+
 
 <h1 align="center"> 免责声明 </h1>
 
