@@ -44,6 +44,7 @@
 ### 驱动下载
 
 * [SamDrivers](http://driveroff.net/sam)
+* [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer/releases/latest.)
 * [DriverPack ](https://driverpack.io/zh-cn)
 * [3dp](http://www.3dpchip.com/3dp/chip.php?driver=dp_bench)
 * [安兔兔-驱动天使](http://www.qudongtianshi.com)
