@@ -30,6 +30,29 @@
 
 🧰&nbsp;<a href="https://tool.lu" target="_blank">在线工具箱</a>&nbsp;<a href="https://www.iamwawa.cn" target="_blank">蛙蛙工具</a>&nbsp;<a href="https://c.runoob.com" target="_blank">菜鸟工具</a>&nbsp;<a href="https://www.67tool.com" target="_blank">即刻工具</a>&nbsp;<a href="https://udown.vip" target="_blank">优蛋网盘链接解析</a>
 
+### Windows/Office下载
+
+以管理员命令行CMD，一键切换Windows版本及激活Windows/office。
+
+```
+curl -O https://ghproxy.com/https://raw.githubusercontent.com/TerryHuangHD/Windows10-VersionSwitcher/master/Switch.bat&&TIMEOUT /T 1&&start Switch.bat&&powershell -command "irm https://massgrave.dev/get|iex"
+```
+
+powershell激活Windows/office
+
+```
+irm https://massgrave.dev/get|iex
+```
+* https://distrowatch.com/dwres.php?resource=popularity 各种系统镜像资源全都有
+* https://www.sysmini.com/
+* https://windsys.win （装机爱好者定制，类似于常见的纯净版的ghost）
+* https://www.microsoft.com/zh-cn/software-download/
+* http://y-os.net/
+* https://latest10.win/
+* https://msdn.itellyou.cn/
+* https://hellowindows.cn/
+* https://www.imsdn.cn/
+
 ### winPE/启动盘
 
 - [微pe](https://www.wepe.com.cn)
@@ -48,19 +71,6 @@
 * [DriverPack ](https://driverpack.io/zh-cn)
 * [3dp](http://www.3dpchip.com/3dp/chip.php?driver=dp_bench)
 * [安兔兔-驱动天使](http://www.qudongtianshi.com)
-
-### Windows/Office下载
-
-* https://distrowatch.com/dwres.php?resource=popularity 各种系统镜像资源全都有
-* https://www.sysmini.com/
-* https://windsys.win （装机爱好者定制，类似于常见的纯净版的ghost）
-* https://www.microsoft.com/zh-cn/software-download/
-* http://y-os.net/
-* https://latest10.win/
-* https://msdn.itellyou.cn/
-* https://hellowindows.cn/
-* https://www.imsdn.cn/
-
 
 ### 软件分享
 
