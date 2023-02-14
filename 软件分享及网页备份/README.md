@@ -30,7 +30,7 @@
 
 🧰&nbsp;<a href="https://tool.lu" target="_blank">在线工具箱</a>&nbsp;<a href="https://www.iamwawa.cn" target="_blank">蛙蛙工具</a>&nbsp;<a href="https://c.runoob.com" target="_blank">菜鸟工具</a>&nbsp;<a href="https://www.67tool.com" target="_blank">即刻工具</a>&nbsp;<a href="https://udown.vip" target="_blank">优蛋网盘链接解析</a>
 
-### Windows/Office下载
+### Windows/Office激活
 
 以管理员命令行CMD，一键切换Windows版本及激活Windows/office。
 
@@ -43,6 +43,9 @@ powershell激活Windows/office
 ```
 irm https://massgrave.dev/get|iex
 ```
+
+### Windows/Office下载
+
 * https://distrowatch.com/dwres.php?resource=popularity 各种系统镜像资源全都有
 * https://www.sysmini.com/
 * https://windsys.win （装机爱好者定制，类似于常见的纯净版的ghost）
