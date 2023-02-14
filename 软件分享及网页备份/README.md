@@ -72,7 +72,7 @@ irm https://massgrave.dev/get|iex
 * [SamDrivers](http://driveroff.net/sam)
 * [DriverPack ](https://driverpack.io/zh-cn)
 * [3dp](http://www.3dpchip.com/3dp/chip.php?driver=dp_bench)
-* [chemicalfiber/Anti-DrvCeo](https://github.com/chemicalfiber/Anti-DrvCeo) （封装系统可，DIY系统总裁）
+* [chemicalfiber/Anti-DrvCeo](https://github.com/chemicalfiber/Anti-DrvCeo) （DIY总裁封装等，去广告，删捆绑）
 * [安兔兔-驱动天使](http://www.qudongtianshi.com)
 
 ### 软件分享
