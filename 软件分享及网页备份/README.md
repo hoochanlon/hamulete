@@ -32,7 +32,7 @@
 
 ### Windows/Office激活
 
-快速开启smb1，记得重启电脑
+快速开启smb1，记得重启电脑，`-Y` 是立即重启。(抛瓦鞋袄,即pwsh)
 
 ```
 Enable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol -A -N
