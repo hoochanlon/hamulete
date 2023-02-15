@@ -32,6 +32,12 @@
 
 ### Windows/Office激活
 
+快速开启smb1，记得重启电脑
+
+```
+Enable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol -A -N
+```
+
 以管理员命令行CMD，一键切换Windows版本及激活Windows/office。
 
 ```
