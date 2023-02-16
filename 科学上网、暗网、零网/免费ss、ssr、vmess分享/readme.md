@@ -52,8 +52,9 @@ v2ray的账号分享站点目前较少
 
 ### 请参考fq-book中的教程再访问如下站点
 
-
+* https://domain.zgqinc.gq
 * https://www.myexplor.me
+* https://zgq-inc.github.io/homepage/
 * https://github.com/free-ss/free-ss.site
 * https://node.umelabs.dev/
 * https://gdmi.weebly.com/3118523398online.html
@@ -185,8 +186,3 @@ https://5l44.pw/
 http://www.ssrfx.com  
 http://freeoutline.org/zh
 
-### 付费保留（观察）
-
-可能到时候会用到的付费节点，虽然翻墙一直是蹭网，付费来说，个人用vpn的可能性更大些
-
-https://rixcloud.me/
