@@ -33,8 +33,9 @@ https://hoochanlon.github.io/fq-book/#/append/get-method
 ### 请参考fq-book中的教程再访问如下站点
 
 * https://domain.zgqinc.gq
-* https://www.myexplor.me
+* https://www.similarsites.com
 * https://zgq-inc.github.io/homepage/
+* https://www.myexplor.me
 * https://52bp.org
 * https://iyideng.cloud/
 * https://www.duyaoss.com/page/1/
@@ -150,31 +151,5 @@ https://hoochanlon.github.io/fq-book/#/append/get-method
 
 
 
-### 分享邮箱
-<s> * toyoooooooooooo@gmail.com (doub.io)</s>
-* ye515430@gmail.com (yitianjianss)
-* ss@rohankdd.com (free-ss.site)
 
-### 搜索相似的网站
-
-https://www.similarsites.com
-
-### 已失效
-http://ssr.wangzhan.gq/   
-https://doub.io   
-https://www.puffss.com/
-https://freess.cx  
-https://shadowsocksph.space  
-https://free.4kvpn.com  
-https://freess.pw  
-https://doub.loan  
-https://freemz.tk/t/5  
-https://52ssr.cn  
-http://www.honsuv.com/?post=90  
-https://newdoub.com  
-https://en.ss8.fun  
-http://www.vpn168.tk  
-https://5l44.pw/  
-http://www.ssrfx.com  
-http://freeoutline.org/zh
 
