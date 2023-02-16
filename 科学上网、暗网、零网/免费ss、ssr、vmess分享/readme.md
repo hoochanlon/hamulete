@@ -25,21 +25,20 @@
 
 可解DNS污染，对封IP的站点无效，ss分享站点被封ip的可能性，感觉也倾向性也开始...已经很大了(已经是了...)
 
- https://hoochanlon.github.io/fq-book/#/dns&hosts/dnscrypt
- 
-如果斩草除根是不是该这样呢？
+https://hoochanlon.github.io/fq-book/#/dns&hosts/dnscrypt
 
 https://hoochanlon.github.io/fq-book/#/append/get-method
 
-### chip
 
+### 请参考fq-book中的教程再访问如下站点
+
+* https://domain.zgqinc.gq
+* https://www.myexplor.me
+* https://zgq-inc.github.io/homepage/
 * https://52bp.org
 * https://iyideng.cloud/
 * https://www.duyaoss.com/page/1/
 * https://jichang.fanqiangdang.com/
-
-### v2ray
-
 * https://connect.freev2ray.org/
 * https://v2ray.cat/ 
 * https://v2ray.party/
@@ -47,14 +46,6 @@ https://hoochanlon.github.io/fq-book/#/append/get-method
 * https://v2fire.tk/
 * https://get.freev2ray.com/
 * https://freev2.org
-
-v2ray的账号分享站点目前较少
-
-### 请参考fq-book中的教程再访问如下站点
-
-* https://domain.zgqinc.gq
-* https://www.myexplor.me
-* https://zgq-inc.github.io/homepage/
 * https://github.com/free-ss/free-ss.site
 * https://node.umelabs.dev/
 * https://gdmi.weebly.com/3118523398online.html
@@ -133,6 +124,7 @@ v2ray的账号分享站点目前较少
 * https://raw.githubusercontent.com/AmazingDM/sub/master/v2ray_ssrshare.com
 
 ### ssr订阅源
+
 * https://www.nutgeek.cn/newsubscribe/
 * https://prom-php.herokuapp.com/cloudfra_ssr.txt
 * http://share-shadowsocks.herokuapp.com/full/subscribe
