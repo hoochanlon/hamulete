@@ -1,3 +1,6 @@
+
+/*# 后缀名随意的script。#*/
+
 ### git
 
 '''git init
