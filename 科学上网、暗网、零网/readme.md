@@ -6,7 +6,7 @@
 * [爱国上网APP](爱国上网APP/)
 * [翻墙DNS、Google镜像](翻墙DNS、Google镜像/)
 * [chrome扩展以及VPN列表](chrome扩展以及VPN列表/)
-* [web代理与翻墙浏览器](web代理与翻墙浏览器/)
+* [web代理与浏览器](web代理与浏览器/)
 * [tunsafe、wireguard、SSH](tunsafe、wireguard、SSH/)
 * [免费内网穿透服务及搭建免费内网穿透服务器的方法](https://www.lu8.win/)
 * [ngrok](https://ngrok.com/)
