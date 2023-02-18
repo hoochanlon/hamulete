@@ -33,6 +33,7 @@ https://hoochanlon.github.io/fq-book/#/append/get-method
 ### 请参考fq-book中的教程再访问如下站点
 
 * https://domain.zgqinc.gq
+* https://github.com/freefq/free
 * https://www.similarsites.com
 * https://zgq-inc.github.io/homepage/
 * https://www.myexplor.me
