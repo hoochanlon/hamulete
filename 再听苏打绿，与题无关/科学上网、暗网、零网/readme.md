@@ -1,26 +1,18 @@
 **(No longer maintained owing to the lack of sufficient free ss accounts)**
 
-短连接： http://dwz.date/aZK2
 
-* [免费ss、ssr、vmess分享](免费ss、ssr、vmess分享/)
-* [零网与暗网](零网与暗网/)
-* [用来加速的host](用来加速的host/)
-* [爱国上网APP](爱国上网APP/)
-* [翻墙DNS、Google镜像](翻墙DNS、Google镜像/)
-* [chrome扩展以及VPN列表](chrome扩展以及VPN列表/)
-* [web代理与浏览器](web代理与浏览器/)
-* [tunsafe、wireguard、SSH](tunsafe、wireguard、SSH/)
-* [免费内网穿透服务及搭建免费内网穿透服务器的方法](https://www.lu8.win/)
-* [ngrok](https://ngrok.com/)
-* [SAKURA FRP](https://www.natfrp.com/)
-* [DDNS](https://www.duckdns.org/)
-* [FreeSSL](https://freessl.cn/)
 
-SS
 
+* https://www.lu8.win/
+* https://ngrok.com/
+* https://www.natfrp.com/
+* https://github.com/limbopro/Adblock4limbo
+* https://www.duckdns.org/
+* https://freessl.cn/
 * MAC v2 https://github.com/yanue/V2rayU
 * win https://github.com/shadowsocks/shadowsocks-windows
 * mac https://github.com/shadowsocks/ShadowsocksX-NG
+
 
 附
 
