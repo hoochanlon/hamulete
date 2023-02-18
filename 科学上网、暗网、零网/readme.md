@@ -1,3 +1,5 @@
+**(No longer maintained owing to the lack of sufficient free ss accounts)**
+
 短连接： http://dwz.date/aZK2
 
 * [免费ss、ssr、vmess分享](免费ss、ssr、vmess分享/)
