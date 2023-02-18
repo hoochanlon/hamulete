@@ -1,39 +1,23 @@
-### 免费ss/ssr/vmess分享
+部分ss免费账号存在付费代理宣传内容，请自行分辨，谨防被骗。
 
-### 使用须知
-
-**科学上网前，推荐阅读 [《这本书能让你连接互联网》](https://hoochanlon.github.io/fq-book/)，并结合** ***WebSieUseful*** **相信定能有所收获**
-
-### notice
-* 部分链接为贴子、博客或1-3个测试型的ss分享站点，也有可能存在长期未更新，有待观察
-* 封锁越来越严重，镜像站点失效频繁，更新的意义已经不是很大了...
-
-### heroku的免费配额与限制
-* Network Bandwidth/流量: 2TB/month – Soft
-* Shared DB processing/并发数: Max 200msec per second CPU time – Soft
-* Dyno RAM usage/使用运行内存: 512MB – Hard
-* Slug Size/存储空间: 300MB – Hard
-* Request Length/请求时间: 30 seconds – Hard
-
-提示Application error，是由于访问量占用内存溢出或因各项服务流量耗尽而停止服务
-
-### 关于爬虫站点
-
-搭建的ss分享爬虫站点所爬取到的部分免费账号存在付费代理宣传内容，请自行分辨，谨防被骗
-
-### 如果遇到打不开的站点请参考这个教程
-
-可解DNS污染，对封IP的站点无效，ss分享站点被封ip的可能性，感觉也倾向性也开始...已经很大了(已经是了...)
-
-https://hoochanlon.github.io/fq-book/#/dns&hosts/dnscrypt
-
-https://hoochanlon.github.io/fq-book/#/append/get-method
-
-
-### 请参考fq-book中的教程再访问如下站点
+<!--
+* heroku的免费配额与限制
+  * Network Bandwidth/流量: 2TB/month – Soft
+  * Shared DB processing/并发数: Max 200msec per second CPU time – Soft
+  * Dyno RAM usage/使用运行内存: 512MB – Hard
+  * Slug Size/存储空间: 300MB – Hard
+  * Request Length/请求时间: 30 seconds – Hard
+  * 提示Application error，是由于访问量占用内存溢出或因各项服务流量耗尽而停止服务。
+-->
 
 * https://domain.zgqinc.gq
 * https://github.com/freefq/free
+* https://www.lu8.win/
+* https://ngrok.com/
+* https://www.natfrp.com/
+* https://github.com/limbopro/Adblock4limbo
+* https://www.duckdns.org/
+* https://freessl.cn/
 * https://www.similarsites.com
 * https://zgq-inc.github.io/homepage/
 * https://www.myexplor.me
@@ -99,14 +83,8 @@ https://hoochanlon.github.io/fq-book/#/append/get-method
 * https://freessr.win
 * https://blog.mxpkx.com/index.php/archives/118/
 * http://freefq.com/ss/
-
-### 镜像站点
-
 * https://trial.ssbit.win
 * http://free-ss.tk
-
-<!--
-## 科学访问
 * https://www.ssrshare.com
 * https://fangeqiang.com/408.html
 * https://get.ishadowx.net
@@ -119,14 +97,7 @@ https://hoochanlon.github.io/fq-book/#/append/get-method
 * https://www.wuwweb.com/
 * https://free.yitianjianss.com
 * https://www.puffss.com/
--->
-
-### v2ray订阅源
-
 * https://raw.githubusercontent.com/AmazingDM/sub/master/v2ray_ssrshare.com
-
-### ssr订阅源
-
 * https://www.nutgeek.cn/newsubscribe/
 * https://prom-php.herokuapp.com/cloudfra_ssr.txt
 * http://share-shadowsocks.herokuapp.com/full/subscribe
@@ -135,9 +106,6 @@ https://hoochanlon.github.io/fq-book/#/append/get-method
 * https://github.com/liesauer/Free-SS-SSR
 * https://yzzz.ml/freessr
 * https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
-
-### telegram 订阅
-
 * https://t.me/freeshadowsock  
 * https://t.me/gyjclub  
 * https://t.me/TGSoBot?start=f_v  
@@ -149,7 +117,9 @@ https://hoochanlon.github.io/fq-book/#/append/get-method
 * https://t.me/zonghe_info
 * https://t.me/youmtp
 * https://t.me/outlinex
-
+* MAC v2 https://github.com/yanue/V2rayU
+* win https://github.com/shadowsocks/shadowsocks-windows
+* mac https://github.com/shadowsocks/ShadowsocksX-NG
 
 
 
