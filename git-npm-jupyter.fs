@@ -1,3 +1,4 @@
+'''
 (*
 
 ### git
@@ -50,6 +51,7 @@ example：
 
 `pip install scrapy -i https://pypi.tuna.tsinghua.edu.cn/simple`
 
-`pip3 install jupyter -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com`'''
+`pip3 install jupyter -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com`
 
 *)
+'''
