@@ -2,10 +2,6 @@
 
 https://www.baiduwp.com/
 
-fucing mandarin! 可恶的中文普通话学习 艹
-
-* http://www.atool9.com/hanzi2pinyin.php
-
 
 ip 地址查询
 
