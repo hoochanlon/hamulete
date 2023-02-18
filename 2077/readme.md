@@ -50,3 +50,8 @@ https://www.weadmin.com/freeware
 * [为什么国外小说读起来变扭](https://wenku.baidu.com/view/34ae779c6bec0975f465e2f3.html)
 * [为什么翻译腔那么好笑？到底什么是翻译腔？](http://fanyi-app.baidu.com/static/passage/2020-01/2020-01-25/003/)
 
+---
+
+“打杂桌面”、“极客”、“大佬”，呵呵；钱少事多离家远，位低权轻责任重。
+
+“X年经验”、“大厂500强”、“架构师”；复制粘贴加洗稿之流，卖课营销真专家。
