@@ -37,4 +37,12 @@
 
 fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是18年的事了，还是学生时期，失业一年多那会，犯中二病的心劲做的。现在看起来，不过也无所谓了...
 
+
+<p align="center">
+
+<br>
 感谢此对 repo 参与的所有人， 致我们逝去的青春 [the0demiurge/ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)，折腾不动了。🎉
+</p>
+<hr>
+
+
