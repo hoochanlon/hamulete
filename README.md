@@ -41,6 +41,7 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 <p align="center">
 
 <br>
-感谢此对 repo 参与的所有人， 致我们逝去的青春 <a href="https://github.com/the0demiurge/ShadowSocksShare">the0demiurge/ShadowSocksShare</a>，看来都折腾不动了🎉。😂🎉
+感谢此对 repo 参与的所有人， 致我们逝去的青春 <a href="https://github.com/the0demiurge/ShadowSocksShare">the0demiurge/ShadowSocksShare</a>，看来都折腾不动了
+🎉😂🎉
 </p>
 
