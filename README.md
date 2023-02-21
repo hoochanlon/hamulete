@@ -36,12 +36,28 @@
 
 fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是18年的事了，还是学生时期，失业一年多那会，犯傻劲做的。现在看起来，不过也无所谓了...
 
+---
 
+感谢对此 repo 参与的所有人， 致中二的青春 <a href="https://github.com/the0demiurge/ShadowSocksShare">the0demiurge/ShadowSocksShare</a>，看来都折腾不动了
+🎉😂🎉
+
+多多少少PR过的一些项目，这里列出部分吧，也许有用：
+
+* [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck)
+* [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)
+* [Lxxyx/LxxyxResume](https://github.com/Lxxyx/LxxyxResume)
+* [npcola/TI](https://github.com/npcola/TI)
+* [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
+
+stack overflow：[fatal: The current branch master has no upstream branch](https://stackoverflow.com/a/50134362)
+
+fail2ban: 
+
+<!--
 <hr>
 <p align="center">
 
 <br>
-感谢对此 repo 参与的所有人， 致逝去中二的青春 <a href="https://github.com/the0demiurge/ShadowSocksShare">the0demiurge/ShadowSocksShare</a>，看来都折腾不动了
-🎉😂🎉
 </p>
+-->
 
