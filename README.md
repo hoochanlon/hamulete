@@ -51,6 +51,7 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 
 stack overflow：[fatal: The current branch master has no upstream branch](https://stackoverflow.com/a/50134362)
 
+“大佬”全等于“你就是大名鼎鼎的V”(alias) 😂 真正的大佬都是线下潜水员（master）🤿
 
 <!--
 <hr>
