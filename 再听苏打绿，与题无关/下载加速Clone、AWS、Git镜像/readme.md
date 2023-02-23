@@ -4,8 +4,6 @@
 
 * https://hub.fastgit.xyz
 
-
-
 ### git下载
 
 使用淘宝源加快国内git下载
@@ -18,9 +16,6 @@ npm/yarn下载组件方面，均可使用淘宝镜像
 npm install -g cnpm --registry=https://registry.npmmirror.com
 yarn config set registry https://registry.npmmirror.com
 ```
-
-
-
 
 
 ### host
@@ -259,6 +254,10 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
 
 
 ## sum
+
+现在 gfw 都有自己应对机制。SNI干扰间歇性的，部分地区封一部分，另一地区放一部分。阻断是完全不能访问了。周期性的先减少用户使用，再慢慢关停。
+
+长期使用GitHub的人自然会折腾，不常用的，自然不去理会。
 
 下载无非三个问题：
 * 镜像源
