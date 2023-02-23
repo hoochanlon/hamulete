@@ -92,6 +92,7 @@ curl https://fastly.jsdelivr.net/gh/hoochanlon/Free-NTFS-for-Mac/nigate.sh > ~/P
 
 * https://ruancang.net
 * https://www.qijishow.com
+* http://lizhua.ysepan.com
 * https://www.slant.co
 * https://github.com/Awesome-Windows/Awesome
 * https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn
