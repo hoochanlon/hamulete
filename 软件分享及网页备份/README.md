@@ -91,6 +91,7 @@ curl https://fastly.jsdelivr.net/gh/hoochanlon/Free-NTFS-for-Mac/nigate.sh > ~/P
 ### 软件分享
 
 * https://ruancang.net
+* https://wgbqr.com/about.html
 * https://www.qijishow.com
 * http://lizhua.ysepan.com
 * https://www.slant.co
