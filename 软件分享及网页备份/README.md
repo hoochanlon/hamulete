@@ -50,10 +50,10 @@ powershell激活Windows/office
 irm https://massgrave.dev/get|iex
 ```
 
-MacBook支援NTFS指令，[Free-NTFS-for-Mac/FAQ](https://github.com/hoochanlon/Free-NTFS-for-Mac/issues)
+IDM激活
 
 ```
-curl https://fastly.jsdelivr.net/gh/hoochanlon/Free-NTFS-for-Mac/nigate.sh > ~/Public/nigate.sh && sudo -S mkdir -p /usr/local/bin && cd /usr/local/bin && sudo ln -s ~/Public/nigate.sh nigate.shortcut && echo "alias nigate='bash nigate.shortcut'" >> ~/.zshrc && osascript -e 'tell application "Terminal" to do script "nigate"'
+iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/IAS.ps1 | iex
 ```
 
 
