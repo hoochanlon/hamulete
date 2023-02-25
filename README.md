@@ -1,4 +1,4 @@
-# ***w3-goto-world***（冲出你的窗口）
+### ***Anita（Resource Base）***
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
@@ -17,7 +17,7 @@
 </p>
 <hr>
 
-***[w3-goto-world资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)***
+***[资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)***
 
 * [下载加速Clone、AWS、Git镜像](再听苏打绿，与题无关/下载加速Clone、AWS、Git镜像/)
 * [软件分享及网页备份](软件分享及网页备份/)
