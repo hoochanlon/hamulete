@@ -250,6 +250,32 @@ Kindle电子书：
 * https://thehiddenwiki.org/
 * http://www.deepwebwar.com/
 
+DNS
+
+* [ibm dns: 9.9.9.9](https://quad9.net/)
+* https://1.1.1.1/
+* http://www.freenom.world/zh/index.html
+* https://www.opendns.com/
+* https://dns.yandex.com/
+* https://www.publicdns.xyz/public/puntcat.html
+* https://pdomo.me/
+* https://tuna.moe/help/dns/
+* http://www.alidns.com/setup/
+* http://www.fundns.cn/
+* https://baidns.cn/
+
+镜像站
+
+* http://ac.scmor.com
+* https://google.jiongjun.cc
+* https://g.zmirrordemo.com
+* https://www.gotype.tk
+* http://www.hlhmf.com/
+* https://ytb-pc.zmirrordemo.com
+* https://youtube.speeder.cf/
+* http://wall.qiqiblog.cn
+
+
 
 web代理
 
