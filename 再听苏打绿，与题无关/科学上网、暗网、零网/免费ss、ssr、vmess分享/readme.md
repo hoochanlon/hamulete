@@ -12,6 +12,7 @@
 
 * https://domain.zgqinc.gq
 * https://github.com/freefq/free
+* https://github.com/QIN2DIM/V2RayCloudSpider
 * https://www.lu8.win/
 * https://ngrok.com/
 * https://www.natfrp.com/
