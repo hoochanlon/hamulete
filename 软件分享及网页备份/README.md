@@ -57,7 +57,7 @@ Office for Mac
 https://github.com/alsyundawy/Microsoft-Office-For-MacOS 
 ```
 
-IDM激活
+powershell激活IDM
 
 ```
 iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/IAS.ps1 | iex
