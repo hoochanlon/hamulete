@@ -193,28 +193,33 @@ SSH
 * https://www.bitvise.com/ssh-client-download
 * https://contassh.com
 
-
-
-chrome代理插件清单 可能因政策调整，使用限制的策略会发生变化，以下仅供参考
-
-chrome代理插件|使用限制|
+chrome代理插件||
 |:-:|:-:|
-|[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)|需要有服务器支持并手动配置参数|
-|[Ghelper](http://googlehelper.net/)|通过连接chrome商店，下载VPN插件|
-|[Google访问助手](http://www.ggfwzs.com/)|需要设置360主页且只能访问Google服务|
-|[SurfEasyVPN](https://www.surfeasy.com)| 500M流量|
-|[windscribe](https://chn.windscribe.com)|10G流量限制|
-|[privatix](https://privatix.com/)|免费|
-|[tuxler](https://tuxler.com/)|免费|
-|[setupvpn](https://setupvpn.com/)|免费|
-|[Better net](http://betternet.co/)|完全免费|
-|[skyZip proxy](https://nynex.de/tools/)|完全免费|
-|[ip unblock](http://ipunblock.com/)|完全免费|
-|[ininja Free Proxy](https://ininja.org)|完全免费|
-|[tunnello](https://tunnello.com)|免费|
-|[tunsafe](https://tunsafe.com/)|免费|
+|[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)|[Ghelper](http://googlehelper.net/)|
+|[Google访问助手](http://www.ggfwzs.com/)|[SurfEasyVPN](https://www.surfeasy.com)|
+|[windscribe](https://chn.windscribe.com)|[privatix](https://privatix.com/)|
+|[tuxler](https://tuxler.com/)|[setupvpn](https://setupvpn.com/)|
+|[Better net](http://betternet.co/)|[skyZip proxy](https://nynex.de/tools/)|
+|[ip unblock](http://ipunblock.com/)|[ininja Free Proxy](https://ininja.org)|
+|[tunnello](https://tunnello.com)|[tunsafe](https://tunsafe.com/)|
 
-vpn|使用限制|
+* [手机蚂蚁](https://b.lausera.com/c-1/a-agWjQ/)
+* [Turbo VPN ](https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn&hl=zh_CN)
+* [UPX Proxy](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh_CN)
+* [灯塔-FreeVPN](https://play.google.com/store/apps/details?id=com.qq.network&hl=zh_CN)
+* [老王梯子](https://play.google.com/store/apps/details?id=com.findtheway&hl=zh_CN)
+* [蜂鸟](https://play.google.com/store/apps/details?id=com.young.ss&hl=zh_CN)
+* [Secure VPN](https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn&hl=zh_CN)
+* [Hi VPN ](https://play.google.com/store/apps/details?id=com.ehawk.proxy.freevpn&hl=zh_CN)
+* [Snap VPN](https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpnpro&hl=zh_CN)
+* [TunSafe VPN](https://play.google.com/store/apps/details?id=com.tunsafe.app&hl=zh_CN)
+* [Samsung Max](https://play.google.com/store/apps/details?id=com.opera.max.global&hl=zh_CN)
+* [shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks&hl=zh_CN)
+* [v2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=zh_CN)
+* [免费翻墙帐号 ss 小飞机](https://play.google.com/store/apps/details?id=vpn.look.www.sharevpn&hl=zh_CN)
+* [Easy VPN](https://play.google.com/store/apps/details?id=easyvpn.free.vpn.unblock.proxy&hl=zh_CN)
+
+
 |:-:|:-:|
 |[AstrillVPN](https://www.astrill.com/home)|[VyprVPN](https://www.goldenfrog.com/zh/vyprvpn)|
 |[zenmate](https://zenmate.com/)|[nordvpn](https://nordvpn.com/zh/)|
