@@ -1,6 +1,6 @@
-### 零网
 
-[zeronet零网教程](https://hoochanlon.github.io/fq-book/#/browse/zeronet)
+
+[zeronet零网使用方式](https://hoochanlon.github.io/fq-book/#/browse/zeronet)
 
 零搜索：
 
@@ -23,9 +23,7 @@ Kindle电子书：
 * http://127.0.0.1:43110/1NzWeweqJ32aRVdM5UzFnYCszuvG5xV3vS
 
 
-### 暗网
-
-在进入暗网之前，不妨了解下 [深网和暗网的区别及基础扫盲](https://hoochanlon.github.io/fq-book/#/abc/darkweb)
+[深网和暗网的区别及基础扫盲](https://hoochanlon.github.io/fq-book/#/abc/darkweb)
 
 * https://thehiddenwiki.org/
 * http://www.deepwebwar.com/
