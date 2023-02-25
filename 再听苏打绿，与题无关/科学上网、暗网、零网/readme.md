@@ -18,26 +18,6 @@
 **
 
 
-
-**
-
-**免责声明**
-
-**(No longer maintained owing to the lack of sufficient free ss accounts)**
-
-**注意事项：
-
-**此 repo 本身并不提供任何的资料，所有内容仅为搬运。不保证可用，不保证速度，不保证安全，不保证隐私。**
-
-**本项目仅面向海外华人用户，中华人民共和国境内居民禁止使用，并请立即关闭！**
-
-**本项目所有类别网页、软件链接均来自网络，仅供科研、学习之用。 请用本项目分享的账号进行学习、科研，切勿用于其他任何用途。**
-
-**请于24小时之内删掉与本项目相关的一切内容，出现一切问题本 REPO CONTRIBUTORS 概不负责。**
-
-**
-
-
 <!--
 * heroku的免费配额与限制
   * Network Bandwidth/流量: 2TB/month – Soft
@@ -219,7 +199,7 @@ chrome代理插件||
 * [免费翻墙帐号 ss 小飞机](https://play.google.com/store/apps/details?id=vpn.look.www.sharevpn&hl=zh_CN)
 * [Easy VPN](https://play.google.com/store/apps/details?id=easyvpn.free.vpn.unblock.proxy&hl=zh_CN)
 
-
+|VPN||
 |:-:|:-:|
 |[AstrillVPN](https://www.astrill.com/home)|[VyprVPN](https://www.goldenfrog.com/zh/vyprvpn)|
 |[zenmate](https://zenmate.com/)|[nordvpn](https://nordvpn.com/zh/)|
