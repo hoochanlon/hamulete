@@ -50,6 +50,13 @@ powershell激活Windows/office
 irm https://massgrave.dev/get|iex
 ```
 
+
+Office for Mac
+
+```
+https://github.com/alsyundawy/Microsoft-Office-For-MacOS 
+```
+
 IDM激活
 
 ```
