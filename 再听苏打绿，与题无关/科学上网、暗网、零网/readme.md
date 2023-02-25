@@ -163,6 +163,38 @@ ss/ssr/vmess
 * mac https://github.com/shadowsocks/ShadowsocksX-NG
 * clash：https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/20201120%20.yml
 
+
+WireGuard
+
+
+* https://tunsafe.com/
+* https://www.mullvad.net
+* https://cryptostorm.is/wireguard
+
+SSH 
+
+* https://skyssh.com
+* https://sshdropbear.net/
+* https://speedssh.com/
+* https://fastssh.com/
+* https://www.mytunneling.com/
+* https://createssh.com/
+* https://bestvpnssh.com/
+* https://fullssh.com/
+* https://www.sshagan.net/
+* https://sshfree.net/
+* https://www.portssh.com/
+* https://www.jetssh.com/
+* https://sshudp.com/
+* http://cloudssh.us/
+* http://free-ssh.xyz/
+* https://sshkit.com/
+* http://www.monthlyssh.com/ssh
+* https://www.bitvise.com/ssh-client-download
+* https://contassh.com
+
+
+
 chrome代理插件清单 可能因政策调整，使用限制的策略会发生变化，以下仅供参考
 
 chrome代理插件|使用限制|
