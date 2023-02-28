@@ -138,6 +138,7 @@ iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/
 * https://www.nutgeek.com
 * https://masuit.com
 * https://www.mainblog.cn/145.html
+* https://www.yuque.com/feei/sig
 
 
 ### 文档存储
