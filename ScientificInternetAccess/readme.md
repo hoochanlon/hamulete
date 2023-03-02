@@ -31,7 +31,7 @@
  chatgpt
  
  * https://www.perplexity.ai （基于chatgpt的搜索引擎）
- * https://goobe.io （程序员的搜索）
+ * https://chatgpt.ddiu.io
  * https://github.com/varunshenoy/GraphGPT （自然语言生成流程图等知识图谱）
  * https://www.ooopn.com/tool/chatgpt/
  * https://chat.forchange.cn/
@@ -53,7 +53,7 @@
  * https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain?continueFlag=479d7d9702f68b553f084eda4e2f97fb
  * https://cway.top/post/1054.html
  * https://sms-activate.org
-
+ * https://goobe.io （程序员的搜索）
 
 IOS 圈X去广告规则收集 quantumultX rule collection
 
