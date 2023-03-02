@@ -51,8 +51,7 @@
  * https://gpt.chatapi.art
 
 
-
-IOS 圈X去广告规则收集 
+IOS 圈X去广告规则收集 quantumultX rule collection
 
 * https://github.com/zqzess/rule_for_quantumultX 
 * https://github.com/JQWS/GuangZhuiQuanX （新手友好教程）
