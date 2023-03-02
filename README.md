@@ -19,7 +19,7 @@
 
 ***[资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)***
 
-* [下载加速Clone、AWS、Git镜像](再听苏打绿，与题无关/下载加速Clone、AWS、Git镜像/)
+* [ScientificInternetAccess](ScientificInternetAccess/)
 * [软件分享及网页备份](软件分享及网页备份/)
 * [集成实用夹](集成实用夹/)
 * [有趣的东西(致郁)](1%20有趣的东西(致郁)/)
