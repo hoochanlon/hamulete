@@ -30,12 +30,15 @@
  
  chatgpt
  
+ * https://www.perplexity.ai （基于chatgpt的搜索引擎）
+ * https://github.com/varunshenoy/GraphGPT （自然语言生成流程图等知识图谱）
  * https://www.ooopn.com/tool/chatgpt/
  * https://chat.forchange.cn/
  * https://inspo.vip
  * https://gpt.tool00.com
  * https://www.chatgoo.com
  * https://aigcfun.com
+ * https://www.humata.ai （本地文件分析）
  * https://github.com/f/awesome-chatgpt-prompts
  * https://www.emergentmind.com
  * http://chat.h2ai.cn/home
@@ -46,9 +49,9 @@
  * https://aski.ai
  * https://learnprompting.org
  * https://poe.com/?ref=producthunt
+ * https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain?continueFlag=479d7d9702f68b553f084eda4e2f97fb
  * https://cway.top/post/1054.html
  * https://sms-activate.org
- * https://gpt.chatapi.art
 
 
 IOS 圈X去广告规则收集 quantumultX rule collection
