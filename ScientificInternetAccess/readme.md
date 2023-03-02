@@ -27,6 +27,28 @@
    * Request Length/请求时间: 30 seconds – Hard
    * 提示Application error，是由于访问量占用内存溢出或因各项服务流量耗尽而停止服务。
  -->
+ 
+ chatgpt
+ 
+ * https://www.ooopn.com/tool/chatgpt/
+ * https://chat.forchange.cn/
+ * https://inspo.vip
+ * https://gpt.tool00.com
+ * https://www.chatgoo.com
+ * https://aigcfun.com
+ * https://github.com/f/awesome-chatgpt-prompts
+ * https://www.emergentmind.com
+ * http://chat.h2ai.cn/home
+ * https://ai.askai.top
+ * https://askai.top/
+ * https://merlin.foyer.work/
+ * http://wenzhang.zhuluan.com/zh-cn/
+ * https://aski.ai
+ * https://learnprompting.org
+ * https://poe.com/?ref=producthunt
+ * https://cway.top/post/1054.html
+ * https://sms-activate.org
+ * https://gpt.chatapi.art
 
  ss/ssr/vmess
 
