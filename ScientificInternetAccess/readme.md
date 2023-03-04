@@ -37,6 +37,7 @@
  * https://chat.forchange.cn/
  * https://chat.bygpt.com
  * http://www.gptjx.com
+ * https://github.com/eon01/awesome-chatgpt
  * https://6om.net
  * https://inspo.vip
  * https://gpt.tool00.com
