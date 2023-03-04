@@ -30,12 +30,16 @@
  
  chatgpt
  
- * https://www.perplexity.ai （基于chatgpt的搜索引擎）
- * https://chatgpt.ddiu.io
- * https://github.com/varunshenoy/GraphGPT （自然语言生成流程图等知识图谱）
  * https://www.ooopn.com/tool/chatgpt/
  * https://chat.forchange.cn/
  * https://chat.bygpt.com
+ * https://chatgpt.ddiu.io
+ * https://github.com/varunshenoy/GraphGPT （自然语言生成流程图等知识图谱）
+ * https://www.perplexity.ai （基于chatgpt的搜索引擎）
+ * https://qigechatgpt.com
+ * https://chatgpt.lcc8.com
+ * https://ai.exacg.cc
+ * https://askai.ws
  * http://www.gptjx.com
  * https://github.com/eon01/awesome-chatgpt
  * https://6om.net
