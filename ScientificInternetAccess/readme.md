@@ -35,6 +35,9 @@
  * https://github.com/varunshenoy/GraphGPT （自然语言生成流程图等知识图谱）
  * https://www.ooopn.com/tool/chatgpt/
  * https://chat.forchange.cn/
+ * https://chat.bygpt.com
+ * http://www.gptjx.com
+ * https://6om.net
  * https://inspo.vip
  * https://gpt.tool00.com
  * https://www.chatgoo.com
@@ -54,6 +57,7 @@
  * https://cway.top/post/1054.html
  * https://sms-activate.org
  * https://goobe.io （程序员的搜索）
+ * https://www.cnblogs.com/csyh/p/chatgpt.html
 
 IOS 圈X去广告规则收集 quantumultX rule collection
 
