@@ -56,7 +56,6 @@
  * https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain?continueFlag=479d7d9702f68b553f084eda4e2f97fb
  * https://cway.top/post/1054.html
  * https://sms-activate.org
- * https://goobe.io （程序员的搜索）
  * https://www.cnblogs.com/csyh/p/chatgpt.html
 
 IOS 圈X去广告规则收集 quantumultX rule collection
@@ -70,6 +69,7 @@ IOS 圈X去广告规则收集 quantumultX rule collection
 * https://github.com/githubdulong/Script 
 * https://github.com/Peng-YM/QuanX
 * https://github.com/RuCu6/QuanX
+* https://goobe.io （程序员的搜索）
 
  ss/ssr/vmess
 
