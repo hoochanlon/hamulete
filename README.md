@@ -17,7 +17,7 @@
 </p>
 <hr>
 
-***[资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)，[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与S/V/C/QuanX网络链。***
+***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与S/V/C/QuanX网络链。***
 
 * [软件分享及网页备份](软件分享及网页备份/)
 * [集成实用夹](集成实用夹/)
@@ -27,6 +27,7 @@
 * [控制分配思考（治愈）](3%20控制分配思考（治愈）/)
 * [面对焦虑的行动](4%20面对焦虑的行动/)
 
+***[资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)***
 
 有趣的东西其实是思想观点聚流，但需要具备较强的独立深度思考能力，把所见所闻信息转化为自己受用的知识；期间还要考虑人文环境及时势、概率、谬误偏差等，这本身就是困难的一件事。就信息整合这块，《睡前消息》确实做得不错，从了解消息到提出问题，提出问题的期间搜集资料，根据资料提出自己的建议，老实说很可以了。
 
