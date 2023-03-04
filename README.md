@@ -17,9 +17,8 @@
 </p>
 <hr>
 
-***[资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)***
+***[资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)，[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与S/V/C/QuanX网络链。***
 
-* [ScientificInternetAccess](ScientificInternetAccess/)
 * [软件分享及网页备份](软件分享及网页备份/)
 * [集成实用夹](集成实用夹/)
 * [有趣的东西(致郁)](1%20有趣的东西(致郁)/)
