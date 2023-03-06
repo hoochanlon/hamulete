@@ -44,6 +44,7 @@ ban ip check  http://ip111.cn
  * https://askai.ws
  * http://www.gptjx.com
  * https://github.com/eon01/awesome-chatgpt
+ * https://github.com/runningcheese/Awesome-ChatGPT
  * https://6om.net
  * https://inspo.vip
  * https://gpt.tool00.com
