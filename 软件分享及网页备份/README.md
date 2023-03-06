@@ -97,6 +97,7 @@ iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/
 
 ### 软件分享
 
+* https://www.52pjb.net
 * https://ruancang.net
 * https://wgbqr.com/about.html
 * https://www.qijishow.com
