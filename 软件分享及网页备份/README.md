@@ -11,6 +11,7 @@
 * [萌新学逆向：Crackme入门之基础操作分析-成长的对话](http://www.wendaok.cn/post/1500.html)
 * [423down](https://www.423down.com)、[懒得勤快](https://masuit.com)、[胡萝卜周(RIP，感谢有你。)](https://www.zhihu.com/question/530078477/answer/2458656992)、[大眼仔](http://www.dayanzai.me)、[驿站网](https://www.yzw12.com)
 * [卓聚社区-俄罗斯盗版收集](http://www.zhuoju.xyz/thread-135154-1-1.html)、[中文汉化](http://h.shanse8.com)、[阿虚同学](https://www.axutongxue.com)
+* 养老编制的IE还是要的啦，连flash都有：https://download.cnet.com
 
 |Start| [龙喵导航](https://ailongmiao.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
 | :-----------: | :----------------------------------------------------------: |
