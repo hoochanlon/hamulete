@@ -66,6 +66,11 @@ ban ip check  http://ip111.cn
  * https://sms-activate.org
  * https://www.cnblogs.com/csyh/p/chatgpt.html
 
+
+iOS未越狱设备选择性地自动科学，且多款Shadowrocket规则带广告过滤功能
+
+* https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules
+
 IOS 圈X去广告规则收集 quantumultX rule collection
 
 * https://github.com/zqzess/rule_for_quantumultX 
