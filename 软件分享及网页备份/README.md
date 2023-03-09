@@ -12,7 +12,9 @@
 * [423down](https://www.423down.com)、[懒得勤快](https://masuit.com)、[胡萝卜周(RIP，感谢有你。)](https://www.zhihu.com/question/530078477/answer/2458656992)、[大眼仔](http://www.dayanzai.me)、[驿站网](https://www.yzw12.com)
 * [卓聚社区-俄罗斯盗版收集](http://www.zhuoju.xyz/thread-135154-1-1.html)、[中文汉化](http://h.shanse8.com)、[阿虚同学](https://www.axutongxue.com)
 * 养老编制的IE还是要的啦，连flash都有：https://download.cnet.com
-* 毛子，毛子，你真不得了，版权大山压不住你....: https://www.tntmac.com 、 https://lrepacks.net
+* 版权大山都压不住的野毛子
+  * https://www.tntmac.com 
+  * https://lrepacks.net
 
 |Start| [龙喵导航](https://ailongmiao.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
 | :-----------: | :----------------------------------------------------------: |
