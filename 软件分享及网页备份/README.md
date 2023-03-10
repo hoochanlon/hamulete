@@ -14,8 +14,9 @@
 * 养老编制的IE还是要的啦，连flash都有：https://download.cnet.com
 * bootser driver下载驱动加速：https://1.0.0.1
 * 版权大山都压不住的野毛子
-  * https://www.tntmac.com 
-  * https://lrepacks.net
+  * https://www.tntmac.com （Mac）
+  * https://lrepacks.net （win）
+  * https://byrut.org （game）
 
 |Start| [龙喵导航](https://ailongmiao.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
 | :-----------: | :----------------------------------------------------------: |
