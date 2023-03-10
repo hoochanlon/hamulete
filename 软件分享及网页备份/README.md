@@ -60,7 +60,7 @@ irm https://massgrave.dev/get|iex
 Office for Mac
 
 ```
-https://github.com/alsyundawy/Microsoft-Office-For-MacOS 
+sudo /usr/bin/osascript -e "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/hoochanlon/ihs-simple/main/serializer_office_for_mac2021.AppleScript)"
 ```
 
 powershell激活IDM
