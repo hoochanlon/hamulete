@@ -114,12 +114,21 @@ iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/
 
 ### 网页导航
 
+常规型：
+
 * https://kf369.cn
 * https://ailongmiao.com
 * http://ilxdh.com
 * https://s.b-hu.org/lite/
 * https://233heji.com
 
+镜像、DNS
+
+* https://aptx.ltd 
+
+图床
+
+* http://imgdh.com
 
 
 ### 网页备份
