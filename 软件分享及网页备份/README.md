@@ -23,7 +23,7 @@
 |Shell| <a href="http://bcn.bathome.net/s/tool/index.html?" target="_blank" >CMD查询</a>  <a href="https://www.educba.com/powershell-base64/" target="_blank" >EDUCBA</a> <a href="https://www.explainshell.com">Shell语法分析</a> [linux指令速查](https://wangchujiang.com/linux-command/) |
 |SHUXUE|[graph_editor](https://csacademy.com/app/graph_editor/)、[myscript](http://webdemo.myscript.com)、[geogebra](https://www.geogebra.org/geometry)|
 |WULIXUE|[上海交通大学物理实验中心开放式学习系统](https://pec.sjtu.edu.cn/ols/)|
-|HUAXUE| [复旦大学化学实验教学中心-化学品查询常用10大网站](http://www.ecce.fudan.edu.cn/a2/22/c5772a41506/page.htm) |
+|HUAXUE| [复旦大学化学实验教学中心](http://www.ecce.fudan.edu.cn/a2/22/c5772a41506/page.htm) |
 |KOUGUBA| [Watt Toolkit](https://steampp.net)、[SwitchHosts](https://github.com/oldj/SwitchHosts)、[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy) 、[DownGit](https://minhaskamal.github.io/DownGit/#/home)|
 
 
