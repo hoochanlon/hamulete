@@ -2,13 +2,8 @@
 <a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/titong.PNG" width="270 " height="270" /></a>
 
 
-### 工具集合表
+### 工具 链·表
 
-* [电脑软件（例如 Adobe、Autodesk）为什么那么容易被破解？-zhihu](https://www.zhihu.com/question/356008082)
-* [软件破解原理.happylife1527的博客-csdn](https://blog.csdn.net/happylife1527/article/details/8079278)
-* [【吾爱破解】【yyhd 原创】 玩玩破解，写给新人看（第一集）](https://www.52pojie.cn/thread-1358649-1-1.html)
-* [破解教程_-破解收费软件的方法-20220531213131.doc-原创力文档](https://max.book118.com/html/2022/0531/6203202015004153.shtm)
-* [萌新学逆向：Crackme入门之基础操作分析-成长的对话](http://www.wendaok.cn/post/1500.html)
 * [423down](https://www.423down.com)、[懒得勤快](https://masuit.com)、[胡萝卜周(RIP，感谢有你。)](https://www.zhihu.com/question/530078477/answer/2458656992)、[大眼仔](http://www.dayanzai.me)、[驿站网](https://www.yzw12.com)
 * 养老编制的IE还是要的啦，连flash都有：https://download.cnet.com
 * bootser driver下载驱动加速：https://1.0.0.1
@@ -36,13 +31,15 @@
 
 🧰&nbsp;<a href="https://tool.lu" target="_blank">在线工具箱</a>&nbsp;<a href="https://www.iamwawa.cn" target="_blank">蛙蛙工具</a>&nbsp;<a href="https://c.runoob.com" target="_blank">菜鸟工具</a>&nbsp;<a href="https://www.67tool.com" target="_blank">即刻工具</a>&nbsp;<a href="https://udown.vip" target="_blank">优蛋网盘链接解析</a>
 
+
 ### Windows/Office激活
 
-快速开启smb1，记得重启电脑，`-Y` 是立即重启。(抛瓦鞋袄,即pwsh)
+* [电脑软件（例如 Adobe、Autodesk）为什么那么容易被破解？-zhihu](https://www.zhihu.com/question/356008082)
+* [软件破解原理.happylife1527的博客-csdn](https://blog.csdn.net/happylife1527/article/details/8079278)
+* [【吾爱破解】【yyhd 原创】 玩玩破解，写给新人看（第一集）](https://www.52pojie.cn/thread-1358649-1-1.html)
+* [破解教程_-破解收费软件的方法-20220531213131.doc-原创力文档](https://max.book118.com/html/2022/0531/6203202015004153.shtm)
+* [萌新学逆向：Crackme入门之基础操作分析-成长的对话](http://www.wendaok.cn/post/1500.html)
 
-```
-Enable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol -A -N
-```
 
 以管理员命令行CMD，一键切换Windows版本及激活Windows/office。
 
@@ -67,6 +64,12 @@ powershell激活IDM
 
 ```
 iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/IAS.ps1 | iex
+```
+
+Powershell快速开启smb1，记得重启电脑，`-Y` 是立即重启。
+
+```
+Enable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol -A -N
 ```
 
 
