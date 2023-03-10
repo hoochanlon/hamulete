@@ -40,6 +40,11 @@
 * [破解教程_-破解收费软件的方法-20220531213131.doc-原创力文档](https://max.book118.com/html/2022/0531/6203202015004153.shtm)
 * [萌新学逆向：Crackme入门之基础操作分析-成长的对话](http://www.wendaok.cn/post/1500.html)
 
+powershell active
+
+```
+Set-ExecutionPolicy RemoteSigned
+```
 
 以管理员命令行CMD，一键切换Windows版本及激活Windows/office。
 
