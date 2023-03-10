@@ -58,13 +58,6 @@ powershell激活Windows/office
 irm https://massgrave.dev/get|iex
 ```
 
-
-Office for Mac
-
-```
-sudo /usr/bin/osascript -e "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/hoochanlon/ihs-simple/main/serializer_office_for_mac2021.AppleScript)"
-```
-
 powershell激活IDM
 
 ```
@@ -77,6 +70,11 @@ Powershell快速开启smb1，记得重启电脑，`-Y` 是立即重启。
 Enable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol -A -N
 ```
 
+Office for Mac
+
+```
+sudo /usr/bin/osascript -e "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/hoochanlon/ihs-simple/main/serializer_office_for_mac2021.AppleScript)"
+```
 
 ### Windows/Office下载
 
