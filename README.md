@@ -39,6 +39,7 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 
 * [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck)
 * [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)
+* [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 * [Lxxyx/LxxyxResume](https://github.com/Lxxyx/LxxyxResume)
 * [npcola/TI](https://github.com/npcola/TI)
 * [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
