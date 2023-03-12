@@ -47,7 +47,7 @@ stack overflow：[fatal: The current branch master has no upstream branch](https
 
 “大佬”全等于“你就是大名鼎鼎的V”(alias) 😂 真正的大佬都是线下潜水员（master）🤿
 
-## ***Star History ***
+## ***Star History***
 
 [![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/neijuan&type=Date)](https://star-history.com/#hoochanlon/neijuan&Date)
 
