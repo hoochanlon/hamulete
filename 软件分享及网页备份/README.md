@@ -12,7 +12,9 @@
   * https://lrepacks.net （win）
   * https://byrut.org （game）
 
-微软云主机实验室，白嫖两小时：https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1
+微软云主机实验室，白嫖两小时：
+
+https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1
 
 |Start| [龙喵导航](https://ailongmiao.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
 | :-----------: | :----------------------------------------------------------: |
