@@ -12,6 +12,8 @@
   * https://lrepacks.net （win）
   * https://byrut.org （game）
 
+微软云主机实验室，白嫖两小时：https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1
+
 |Start| [龙喵导航](https://ailongmiao.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
 | :-----------: | :----------------------------------------------------------: |
 |Shell| <a href="http://bcn.bathome.net/s/tool/index.html?" target="_blank" >CMD查询</a>  <a href="https://www.educba.com/powershell-base64/" target="_blank" >EDUCBA</a> <a href="https://www.explainshell.com">Shell语法分析</a> [linux指令速查](https://wangchujiang.com/linux-command/) |
