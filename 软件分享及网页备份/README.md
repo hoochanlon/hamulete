@@ -3,8 +3,6 @@
 
 ### 工具 链·表
 
-微软实验室，白嫖两小时云主机：https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1
-
 * [423down](https://www.423down.com)、[懒得勤快](https://masuit.com)、[胡萝卜周(RIP，感谢有你。)](https://www.zhihu.com/question/530078477/answer/2458656992)、[大眼仔](http://www.dayanzai.me)、[驿站网](https://www.yzw12.com)
 * 养老编制的IE还是要的啦，连flash都有：https://download.cnet.com
 * bootser driver下载驱动加速：https://1.0.0.1
@@ -36,6 +34,8 @@
 
 
 ### Windows/Office激活
+
+微软实验室，白嫖两小时云主机：https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1
 
 * [电脑软件（例如 Adobe、Autodesk）为什么那么容易被破解？-zhihu](https://www.zhihu.com/question/356008082)
 * [软件破解原理.happylife1527的博客-csdn](https://blog.csdn.net/happylife1527/article/details/8079278)
