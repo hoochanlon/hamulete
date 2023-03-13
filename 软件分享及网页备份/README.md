@@ -169,8 +169,9 @@ sudo /usr/bin/osascript -e "$(curl -fsSL https://ghproxy.com/https://raw.githubu
 
 ### 文档存储
 
-https://www.zhihu.com/question/51309695
-https://gfsoso.99lb.net/freecnki.html （文献、书籍下载）
+* https://www.zhihu.com/question/51309695
+* https://www.wxdown.org
+* https://gfsoso.99lb.net/freecnki.html （文献、书籍下载）
 
 <!--![ ](https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/titong.PNG)-->
 
