@@ -83,6 +83,7 @@ sudo /usr/bin/osascript -e "$(curl -fsSL https://ghproxy.com/https://raw.githubu
 ### Windows/Office下载
 
 * https://distrowatch.com/dwres.php?resource=popularity 各种系统镜像资源全都有
+* http://www.realqwh.cn （秋无痕，系统封装）
 * https://www.sysmini.com/
 * https://windsys.win （装机爱好者定制，类似于常见的纯净版的ghost）
 * https://www.microsoft.com/zh-cn/software-download/
