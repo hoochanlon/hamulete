@@ -338,6 +338,7 @@ IOS 圈X去广告规则收集 quantumultX rule collection
  web代理
 
  * https://proxybrowser.xyz/
+ * https://www.4everproxy.com
  * https://github.com/EtherDream/jsproxy/
  * https://demo.glyptodon.com
  * http://webproxy.to/
