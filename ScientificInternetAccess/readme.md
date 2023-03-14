@@ -36,6 +36,7 @@ ban ip check  http://ip111.cn
  * https://chat.forchange.cn/
  * https://chat.bygpt.com
  * https://chatgpt.ddiu.io
+ * https://freechatgpt.chat
  * https://github.com/varunshenoy/GraphGPT （自然语言生成流程图等知识图谱）
  * https://www.perplexity.ai （基于chatgpt的搜索引擎）
  * https://qigechatgpt.com
