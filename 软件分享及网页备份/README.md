@@ -11,7 +11,7 @@
   * https://www.tntmac.com （Mac）
   * https://lrepacks.net （win）
   * https://byrut.org （game）
-
+* 钢铁是怎样炼成的系统管理员：https://blog.simplix.info （Ukraine）
 
 
 |Start| [龙喵导航](https://ailongmiao.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
