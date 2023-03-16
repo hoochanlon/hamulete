@@ -85,25 +85,24 @@ sudo /usr/bin/osascript -e "$(curl -fsSL https://ghproxy.com/https://raw.githubu
 
 Windows
 
-http://www.realqwh.cn （秋无痕，系统封装）
-https://lvsexitong.com/21684.html （绿色系统网）
-https://kms.cangshui.net（KMS激活、镜像等）
-https://windsys.win （装机爱好者定制，类似于常见的纯净版的ghost）
-https://www.xitongku.com （各类Windows版本系统下载）
-https://www.microsoft.com/zh-cn/software-download/ （官方下载）
-http://y-os.net/
-https://latest10.win/
-https://msdn.itellyou.cn/
-https://hellowindows.cn/
-https://www.imsdn.cn/
-https://www.sysmini.com/
+* http://www.realqwh.cn （秋无痕，系统封装）
+* https://lvsexitong.com/21684.html （绿色系统网）
+* https://kms.cangshui.net（KMS激活、镜像等）
+* https://windsys.win （装机爱好者定制，类似于常见的纯净版的ghost）
+* https://www.xitongku.com （各类Windows版本系统下载）
+* https://www.microsoft.com/zh-cn/software-download/ （官方下载）
+* http://y-os.net/
+* https://latest10.win/
+* https://msdn.itellyou.cn/
+* https://hellowindows.cn/
+* https://www.imsdn.cn/
+* https://www.sysmini.com/
 
 各种系统镜像资源全都有，一把梭
 
-https://distrowatch.com/dwres.php?resource=popularity 
-macOS/Linux
-https://mrmacintosh.com/blog
-https://mirrors.cernet.edu.cn
+* https://distrowatch.com/dwres.php?resource=popularity 
+* https://mrmacintosh.com/blog
+* https://mirrors.cernet.edu.cn
 
 
 ### winPE/启动盘
