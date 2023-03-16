@@ -12,6 +12,7 @@
   * https://lrepacks.net （win）
   * https://byrut.org （game）
 * 钢铁是怎样炼成的系统管理员：https://blog.simplix.info （Ukraine）
+* 安全人员的信息流：https://i.hacking8.com
 
 
 |Start| [龙喵导航](https://ailongmiao.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
@@ -84,14 +85,16 @@ sudo /usr/bin/osascript -e "$(curl -fsSL https://ghproxy.com/https://raw.githubu
 
 * https://distrowatch.com/dwres.php?resource=popularity 各种系统镜像资源全都有
 * http://www.realqwh.cn （秋无痕，系统封装）
-* https://www.sysmini.com/
+* https://lvsexitong.com/21684.html （绿色系统）
 * https://windsys.win （装机爱好者定制，类似于常见的纯净版的ghost）
+* https://www.xitongku.com （各类Windows版本系统下载）
 * https://www.microsoft.com/zh-cn/software-download/
 * http://y-os.net/
 * https://latest10.win/
 * https://msdn.itellyou.cn/
 * https://hellowindows.cn/
 * https://www.imsdn.cn/
+* https://www.sysmini.com/
 
 ### winPE/启动盘
 
