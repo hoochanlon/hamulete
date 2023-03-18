@@ -13,7 +13,7 @@
   * https://byrut.org （game）
 * 钢铁是怎样炼成的系统管理员：https://blog.simplix.info （Ukraine）
 * 安全人员的信息流：https://i.hacking8.com
-* 贼酷zlibrary：http://zlibrary.ml
+* 贼酷zlibrary：http://zlibrary.ml https://zlib.pro 
 
 
 |Start| [龙喵导航](https://ailongmiao.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
@@ -182,6 +182,8 @@ Windows
 
 ### zlib
 
+* https://zlib.pro
+* https://pangniao.net/z-library-zui-xin-di-zhi.html
 * https://zbook.lol/
 * https://zlib.knat.network/
 * https://zlib.9farm.com/
