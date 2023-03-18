@@ -13,6 +13,7 @@
   * https://byrut.org （game）
 * 钢铁是怎样炼成的系统管理员：https://blog.simplix.info （Ukraine）
 * 安全人员的信息流：https://i.hacking8.com
+* 贼酷zlibrary：http://zlibrary.ml
 
 
 |Start| [龙喵导航](https://ailongmiao.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
@@ -178,6 +179,24 @@ Windows
 * https://masuit.com
 * https://www.mainblog.cn/145.html
 * https://www.yuque.com/feei/sig
+
+### zlib
+
+* https://zbook.lol/
+* https://zlib.knat.network/
+* https://zlib.9farm.com/
+* https://zlib.qtoh.xyz/
+* https://zlib.awesc.com/
+* https://book.vergedx.me/
+* https://zlib.pseudoyu.com/
+* https://read.liugezhou.online/
+* https://book-searcher.eu.org/
+* https://zlib.zwt.one/
+* https://zlib.missuo.me/
+* https://zlibrary.shuziyimin.org/
+* https://bk.hallowlib.org/
+* https://1lib.ink/
+* https://annas-archive.org/
 
 
 ### 文档存储
