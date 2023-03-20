@@ -25,7 +25,7 @@
 
 ## 俄罗斯软件
 
-* https://vsthemes.org
+* https://1soft-download.com
 * https://softoroom.org
 * https://rsload.net
 
