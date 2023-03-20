@@ -87,6 +87,7 @@ sudo /usr/bin/osascript -e "$(curl -fsSL https://ghproxy.com/https://raw.githubu
 Windows
 
 * http://www.realqwh.cn （秋无痕，系统封装）
+* http://www.jinhu.me/tag.asp (金狐)
 * https://lvsexitong.com/21684.html （绿色系统网）
 * https://kms.cangshui.net（KMS激活、镜像等）
 * https://windsys.win （装机爱好者定制，类似于常见的纯净版的ghost）
