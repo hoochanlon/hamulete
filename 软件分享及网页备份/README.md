@@ -7,10 +7,11 @@
 * 养老编制的IE还是要的啦，连flash都有：https://download.cnet.com
 * bootser driver下载驱动加速：https://1.0.0.1
 * github代码爬取：https://grep.app
-* 版权大山都压不住的野毛子
+* 版权大山都压不住的野毛子，带上 трещина 用谷歌搜破解
   * https://www.tntmac.com （Mac）
   * https://lrepacks.net （win）
   * https://byrut.org （game）
+  * https://softoroom.org
 * 钢铁是怎样炼成的系统管理员：https://blog.simplix.info （Ukraine）
 * 安全人员的信息流：https://i.hacking8.com
 * 贼酷zlibrary：http://zlibrary.ml https://zlib.pro 
