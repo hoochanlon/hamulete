@@ -5,7 +5,6 @@
 * https://api.aa1.cn
 * https://github.com/public-apis/public-apis
 
-
 ## 目录
 
 * [基层职场入门](基层职场入门/)
@@ -21,6 +20,12 @@
 * [在线上传小文件](https://catbox.moe/)
 * [各类awesome名单](https://github.com/sindresorhus/awesome)
 * [github-readme-stats card](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 注册表
+
+* https://registry-finder.com
+* https://kurtzimmermann.com/regcoolext_en.html
 
 
 ## 俄罗斯软件
