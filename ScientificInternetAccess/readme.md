@@ -34,6 +34,8 @@ ban ip check  http://ip111.cn
  
  * https://www.ooopn.com/tool/chatgpt/
  * https://chat.forchange.cn/
+ * https://openprompt.co
+ * https://chatbot.theb.ai
  * https://github.com/xx025/carrot
  * https://chat.bygpt.com
  * https://chatgpt.ddiu.io
