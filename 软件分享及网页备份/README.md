@@ -150,13 +150,11 @@ Windows
 * https://s.b-hu.org/lite/
 * https://233heji.com
 
-镜像、DNS
+镜像、DNS：https://aptx.ltd 
 
-* https://aptx.ltd 
+AI：https://www.aicangshu.net
 
-图床
-
-* http://imgdh.com
+图床：http://imgdh.com
 
 
 ### 网页备份
