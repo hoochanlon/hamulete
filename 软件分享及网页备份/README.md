@@ -38,7 +38,7 @@
 🧰&nbsp;<a href="https://tool.lu" target="_blank">在线工具箱</a>&nbsp;<a href="https://www.iamwawa.cn" target="_blank">蛙蛙工具</a>&nbsp;<a href="https://c.runoob.com" target="_blank">菜鸟工具</a>&nbsp;<a href="https://www.67tool.com" target="_blank">即刻工具</a>&nbsp;<a href="https://udown.vip" target="_blank">优蛋网盘链接解析</a>
 
 
-### Windows/Office激活
+### 预热
 
 微软实验室，白嫖两小时云主机：https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1
 
@@ -53,6 +53,11 @@ powershell active
 ```
 Set-ExecutionPolicy RemoteSigned
 ```
+
+### Windows/Office激活
+
+* [msguides-Easy ways to activate Windows 11 for FREE without a product key](https://msguides.com/windows-11)
+* https://massgrave.dev/get
 
 以管理员命令行CMD，一键切换Windows版本及激活Windows/office。
 
@@ -127,6 +132,39 @@ Windows
 * [3dp](http://www.3dpchip.com/3dp/chip.php?driver=dp_bench)
 * [chemicalfiber/Anti-DrvCeo](https://github.com/chemicalfiber/Anti-DrvCeo) （DIY总裁封装等，去广告，删捆绑）
 * [安兔兔-驱动天使](http://www.qudongtianshi.com)
+
+
+###  support flash
+
+Windows
+
+* 谷歌浏览器v87：https://chromium.cypress.io
+* 火狐浏览器v84：https://ftp.mozilla.org/pub/firefox/releases/84.0b8/mac/zh-CN/
+
+Mac
+
+* 谷歌浏览器v87，M1/Intel：https://chromium.cypress.io
+* 火狐浏览器v84， M1/Intel：https://ftp.mozilla.org/pub/firefox/releases/84.0b8/mac/zh-CN/
+
+flash
+
+* 魔改flash：https://github.com/CleanFlash/installer （DMCA ，将GitHub换成Gitlab）
+* Clean Flash Player builds：https://github.com/darktohka/clean-flash-builds
+
+
+### 真·IE内核浏览器
+
+* [世界之窗 v5版](http://www.theworld.cn/v5/download.html)
+* [myie（蚂蚁浏览器）](https://www.myie9.com)
+* [爱帆浏览器](http://www.avantbrowser.com) 
+* [神马浏览器](https://www.fenrir-inc.com/jp/)
+
+
+### 旧版软件保存网站
+
+* http://www.oldversion.com
+* https://www.filepuma.com
+* https://filehippo.com
 
 ### 软件分享
 
