@@ -35,8 +35,9 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 
 ---
 
-感谢对此 repo 参与的所有人， 致中二的青春 <a href="https://github.com/the0demiurge/ShadowSocksShare">the0demiurge/ShadowSocksShare</a>，看来都折腾不动了。入手GitHub这几年，自己呢多多少少也PR过其它的一些项目，这里列出部分吧，也许大家有用吧：
+感谢对此 repo 参与的所有人， 致中二的青春 <a href="https://github.com/the0demiurge/ShadowSocksShare">the0demiurge/ShadowSocksShare</a>，看来都折腾不动了。入手GitHub这几年，自己呢多多少少也PR、sponsored 过其它的一些项目，这里列出部分吧，也许大家有用吧：
 
+* [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 * [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck)
 * [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)
 * [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
