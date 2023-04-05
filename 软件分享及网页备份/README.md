@@ -195,6 +195,12 @@ AI：https://www.aicangshu.net
 图床：http://imgdh.com
 
 
+### BT与PT
+
+* [iecho.cc - PT 下载从入门到养老篇一：站点介绍及生存指南](https://iecho.cc/2019/01/09/PT-下载从入门到养老/)
+* [tellyousome - 主流的PT站点汇总](http://www.tellyousome.com/275.html)
+
+
 ### 网页备份
 
 * http://archive.is/
