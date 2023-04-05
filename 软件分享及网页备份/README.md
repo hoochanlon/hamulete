@@ -199,6 +199,7 @@ AI：https://www.aicangshu.net
 
 * [iecho.cc - PT 下载从入门到养老篇一：站点介绍及生存指南](https://iecho.cc/2019/01/09/PT-下载从入门到养老/)
 * [tellyousome - 主流的PT站点汇总](http://www.tellyousome.com/275.html)
+* https://torrentinvites.org/trackerlist.php
 
 
 ### 网页备份
