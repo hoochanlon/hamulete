@@ -33,6 +33,7 @@ ban ip check  http://ip111.cn
  chatgpt
  
  * https://www.ooopn.com/tool/chatgpt/
+ * https://lzw.me/x/chatgpt-sites/
  * https://chat.forchange.cn/
  * https://openprompt.co
  * https://chatbot.theb.ai
