@@ -154,6 +154,7 @@ flash
 
 ### 真·IE内核浏览器
 
+* https://github.com/ciao1092/IELauncher
 * [世界之窗 v5版](http://www.theworld.cn/v5/download.html)
 * [myie（蚂蚁浏览器）](https://www.myie9.com)
 * [爱帆浏览器](http://www.avantbrowser.com) 
