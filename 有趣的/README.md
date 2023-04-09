@@ -27,6 +27,7 @@
 * [东洋经济](https://toyokeizai.net/articles/-/648098?page=3)
 * [RIETI 独立行政法人经济产业研究所](https://www.rieti.go.jp/users/china-tr/jp/ssqs/220202ssqs.html)
 * [埼玉県立図書館](https://www.lib.pref.saitama.jp/reference/hint/cat/link-site.html)
+* [日本当代中国研究2011 - 早稲田大学](https://www.waseda.jp/prj-wiccs/wp/wp-content/uploads/2011/07/jscc2011.pdf)
 
 
 艺术·哲学
