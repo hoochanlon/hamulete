@@ -11,8 +11,11 @@
   * https://www.tntmac.com （Mac）
   * https://lrepacks.net （win）
   * https://byrut.org （game）
-  * https://softoroom.org
+  * https://softoroom.org （classical）
   * https://myfreeproject.com/soft/81-kmsauto-net-2016.html (KMS)
+  * https://keygenai.com/top.html （AI）
+  * https://cracksurl.com  （US）
+  * https://cracksversion.com  (海上马车夫)
 * 钢铁是怎样炼成的系统管理员：https://blog.simplix.info （Ukraine）
 * 安全人员的信息流：https://i.hacking8.com
 * 贼酷zlibrary：http://zlibrary.ml https://zlib.pro 
