@@ -28,6 +28,7 @@
 * [知乎-情商高的人都怎样发脾气？](https://www.zhihu.com/question/24314797)
 * [怎样的言行举止可以反映一个人的教养和内涵？](https://www.zhihu.com/question/27871104/answer/45664502)
 * [知乎-人为什么会愤怒或生气？](https://www.zhihu.com/question/20222339)
+* [论文网-浅谈我国当代财政基础理论研究进展](https://www.lunwendata.com/thesis/List_2.html)
 * [如何评价 2019 年 1 月新番动画《辉夜大小姐想让人告白 天才们的恋爱头脑战》？](https://www.zhihu.com/question/307529881/answer/615682870) 批注：心理学方向回答
 
 
