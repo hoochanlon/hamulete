@@ -17,15 +17,10 @@
 </p>
 <hr>
 
-***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与S/V/C/QuanX网络链。***
+***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与S/V/C/QuanX网络链。[有趣的](有趣的/) 行业研究报告的知识储备库。***
 
 * [软件分享及网页备份](软件分享及网页备份/)
 * [集成实用夹](集成实用夹/)
-* [有趣的东西(致郁)](1%20有趣的东西(致郁)/)
-* [如何阅读一本书？](2%20如何阅读一本书？/)
-* [高效学习(考试)](2.1%20高效学习/)
-* [控制分配思考（治愈）](3%20控制分配思考（治愈）/)
-* [面对焦虑的行动](4%20面对焦虑的行动/)
 
 ***[资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)***
 
