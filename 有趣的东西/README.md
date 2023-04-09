@@ -11,6 +11,7 @@
 * [毛泽东选集第五卷](https://it.scribd.com/document/23823142/毛泽东选集-第五卷-1967版#)
 * [毛泽东选集.第五卷（高清版）](https://github.com/woshizhd/book/blob/master/毛泽东选集/毛泽东选集.第五卷（高清版）.pdf)
 * [哲学史](http://www.zhexueshi.com/paper/204)
+* [南京大学-中国社会稳定研究网](https://shwd.nju.edu.cn/_upload/article/files/9b/b2/fdb11c28450a94cc7e8d4ea58880/81fc25d5-8ca0-450d-b4aa-052e40400656.pdf)
 
 院校
 
