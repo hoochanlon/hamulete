@@ -4,6 +4,7 @@
 
 * [实习经历](https://github.com/lazyparser/survivial-manual-for-interns/blob/master/article)
 * [极简主义团队管理操作手册](https://github.com/lazyparser/minimalist-team-leader)
+* [战地之王-人精训练师 以人资的视角看招聘](https://bluepload.unstable.life/8d3b5bw0.zip)
 
 > 现在码农们有什么xx商城项目，一看十有八九就是培训机构出来的 —— 鲁迅 🤣
 
