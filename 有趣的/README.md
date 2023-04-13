@@ -1,5 +1,11 @@
 社会学文献信息库
 
+八卦
+
+* [贴吧热议-哪些事上了大学才知道？](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=13099934&topic_name=哪些事上了大学才知道？)
+* [知乎-有哪些是你真正进入社会才懂得的道理？](https://www.zhihu.com/question/297880330/answers/updated)
+* [知乎-什么是有孩子之后才知道的事？](https://www.zhihu.com/question/456245328)
+
 中文
 
 * [中国社会保障学会](https://www.caoss.org.cn)
