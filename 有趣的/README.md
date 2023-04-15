@@ -9,6 +9,7 @@
 * [新修订的《征兵工作条例》公布，有哪些信息值得关注？- 知乎](https://www.zhihu.com/question/595309486/answer/2982887636)
 * [俄罗斯将启用电子征兵传票，严打逃避征兵者，如何评价该法案？将带来哪些影响？](https://www.zhihu.com/question/595107569)
 * [bilibili-吐槽暗黑不朽收获百万流量，我能赚多少？（中老年碎碎念）](https://www.bilibili.com/video/BV1MT41177Du)
+* [特工宇哥-揭露街头口罩骗局，骗子们的演技吊打流量明星](https://www.bilibili.com/video/BV16g4y1M7ce)
 * https://github.com/industry-report
 
 中文
@@ -24,9 +25,6 @@
 * [哲学史](http://www.zhexueshi.com/paper/204)
 * [南京大学-中国社会稳定研究网](https://shwd.nju.edu.cn/_upload/article/files/9b/b2/fdb11c28450a94cc7e8d4ea58880/81fc25d5-8ca0-450d-b4aa-052e40400656.pdf)
 
-微调
-
-* [特工宇哥-揭露街头口罩骗局，骗子们的演技吊打流量明星](https://www.bilibili.com/video/BV16g4y1M7ce)
 
 院校
 
