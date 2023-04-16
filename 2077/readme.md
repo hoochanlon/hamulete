@@ -45,6 +45,7 @@ https://www.weadmin.com/freeware
 * [如何看待深圳小学生作文称理想是当一名房东收租？反映了哪些现实？](https://www.zhihu.com/question/439658655)
 * [《毕业后的大多数》：毕业等同于失业？一部扎心而现实的纪录](https://www.bilibili.com/video/BV1ML411m76m)
 * [事关数千万人的工作，科技战的隐蔽阵地，工业软件开始艰难逆袭【虎学研究】](https://www.bilibili.com/video/BV1Ma4y1T79K)
+* [【睡前消息577】洛阳企业出走常州，谁应该反思？](https://www.bilibili.com/video/BV1nM411L7Ff)
 * [房价结束 11 连跌，1-2 月住宅均价涨 4.1%，销售面积增速大幅回升 26%，哪些信息值得关注？ - 知乎](https://www.zhihu.com/question/589762433)
 * [父亲受贿 1900 万，女儿实名举报行贿人，纪委已发布通报，哪些信息值得关注？如何看待此事？- 知乎](https://www.zhihu.com/question/594000010)
 * [特工宇哥-揭露街头口罩骗局，骗子们的演技吊打流量明星](https://www.bilibili.com/video/BV16g4y1M7ce)
