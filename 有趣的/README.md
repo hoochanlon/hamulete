@@ -10,6 +10,7 @@
 * [俄罗斯将启用电子征兵传票，严打逃避征兵者，如何评价该法案？将带来哪些影响？](https://www.zhihu.com/question/595107569)
 * [bilibili-吐槽暗黑不朽收获百万流量，我能赚多少？（中老年碎碎念）](https://www.bilibili.com/video/BV1MT41177Du)
 * [特工宇哥-揭露街头口罩骗局，骗子们的演技吊打流量明星](https://www.bilibili.com/video/BV16g4y1M7ce)
+* [【睡前消息576】新冠保险不赔钱 香港内地是一家](https://www.bilibili.com/video/BV1QP411U75p)
 * https://github.com/industry-report
 
 中文
