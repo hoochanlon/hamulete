@@ -16,6 +16,8 @@
   * https://keygenai.com/top.html （AI）
   * https://cracksurl.com  （US）
   * https://cracksversion.com  (海上马车夫)
+  * https://nsaneforums.com （海外破解）
+  * https://www.xda-developers.com （海外移动端破解）
 * 钢铁是怎样炼成的系统管理员：https://blog.simplix.info （Ukraine）
 * 安全人员的信息流：https://i.hacking8.com
 * 贼酷zlibrary：http://zlibrary.ml https://zlib.pro 
