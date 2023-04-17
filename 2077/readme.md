@@ -53,6 +53,7 @@ https://www.weadmin.com/freeware
 * [乔伊假装在现场 - 套路拆解 挑战评论员文章](https://www.bilibili.com/video/BV1s84y1T7Qh)
 * [CHEESE雪狐 - [教程]我要不说，谁能看出这是打印的](https://www.bilibili.com/video/BV1Rg4y1s7Jd/)
 * [小雨的名著时光 - 刘洵演技确实牛逼 ：那隐在角色背后的扫地僧](https://www.bilibili.com/video/BV1ka4y1T75q)
+* [csdn -【降维打击】解决加密视频录屏问题](https://blog.csdn.net/ViatorSun/article/details/119460571)
 
 ---
 
