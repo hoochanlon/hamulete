@@ -11,6 +11,7 @@
 * [bilibili-吐槽暗黑不朽收获百万流量，我能赚多少？（中老年碎碎念）](https://www.bilibili.com/video/BV1MT41177Du)
 * [特工宇哥-揭露街头口罩骗局，骗子们的演技吊打流量明星](https://www.bilibili.com/video/BV16g4y1M7ce)
 * [【睡前消息576】新冠保险不赔钱 香港内地是一家](https://www.bilibili.com/video/BV1QP411U75p)
+* [提桶旋风-导师网](https://www.mysupervisor.org/)
 * https://github.com/industry-report
 
 中文
