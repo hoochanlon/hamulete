@@ -31,30 +31,34 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 
 感谢对此 repo 参与的所有人， 致中二的青春 ，折腾不动了。入手GitHub这几年(仅限定在2023上半年)，自己呢多多少少也PR、sponsored 过其它的一些项目，这里列出部分吧，也许大家有用吧：
 
-**sponsored**
+### **sponsored & PR**
+
+#### 友情赞助
 
 * [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 * [indiff/qttabbar](https://github.com/indiff/qttabbar)
 
-**PR**
+#### PR
 
-Linux检测脚本与教程
+**Linux检测脚本与教程**
 
 * [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck)
 * [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) 
 
-镜像
+**镜像**
 
 * [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 
-简历
+**简历**
 
 * [Lxxyx/LxxyxResume](https://github.com/Lxxyx/LxxyxResume)
 * [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
 
-其他
+**其他（仅列举部分）**
 
 * [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)
+* [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
+* [jnv/lists](https://github.com/jnv/lists)
 
 stack overflow：[fatal: The current branch master has no upstream branch](https://stackoverflow.com/a/50134362)
 
