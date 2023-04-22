@@ -29,9 +29,9 @@
 
 中文文献较多的国家院校及图书馆
 
+* [新加坡国立大学图书馆书单文献库](https://libguides.nus.edu.sg/chineseeresources/theses)
 * [国立台湾图书馆](https://www.ntl.edu.tw/mp.asp?mp=1)
 * [国立清华大学图书馆](https://www.lib.nthu.edu.tw)
-* [新加坡国立大学图书馆书单文献库](https://libguides.nus.edu.sg/chineseeresources/theses)
 * [新加坡国立图书馆](https://eresources.nlb.gov.sg/Main)
 * [新加坡华语辅导谘商学会](http://www.ccss.sg/?page_id=77)
 * [马华文学图书馆](http://www.mcldl.com)
