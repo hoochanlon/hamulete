@@ -61,6 +61,13 @@ https://www.weadmin.com/freeware
 * [好看视频-马克龙步入中大体育馆 两句中文技惊四座](https://haokan.baidu.com/v?vid=17109160993171207724&backflow=1&pd=d_push&pagepd=d_push)
 * [微博 - #失业女生摆摊一天卖5块崩溃痛哭#](https://s.weibo.com/weibo?q=%23失业女生摆摊一天卖5块崩溃痛哭%23&t=31&band_rank=6&Refer=top)
 * [环球时报-浙大学生因辱华言论被拒录公务员，官方回应：目前该生已主动放弃名额](https://baijiahao.baidu.com/s?id=1763794613206049754&wfr=spider&for=pc)
+
+
+---
+
+* [当前社会的分化倾向与宣传的病理分析](https://www.modernchinastudies.org/us/issues/past-issues/98-mcs-2007-issue-4/1032-2012-01-05-15-35-22.html)
+* [关于阶层固化和社会割裂-应该了解什么-我们如何与未来相处](https://medium.com/@lionyoung1987/关于阶层固化和社会割裂-应该了解什么-我们如何与未来相处-⑩-城市-b9e6dfc7a290)
+* [社会凝聚力、社会解体与非法药物](https://www.incb.org/documents/Publications/AnnualReports/Thematic_chapters/Chinese/AR_2011_C_Chapter_I.pdf)
 * [跨国公司跨文化广告传播中的文化霸权](https://core.ac.uk/download/pdf/41436687.pdf)
 
 ---
