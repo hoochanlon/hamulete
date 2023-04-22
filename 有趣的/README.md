@@ -14,7 +14,7 @@
 * [提桶旋风-导师网](https://www.mysupervisor.org/)
 * https://github.com/industry-report
 
-中文
+近代、现代、后现代
 
 * [中国社会保障学会](https://www.caoss.org.cn)
 * [中国大百科全书](https://www.zgbk.com/ecph/words?SiteID=1&ID=110049&SubID=99529)
@@ -27,8 +27,7 @@
 * [哲学史](http://www.zhexueshi.com/paper/204)
 * [南京大学-中国社会稳定研究网](https://shwd.nju.edu.cn/_upload/article/files/9b/b2/fdb11c28450a94cc7e8d4ea58880/81fc25d5-8ca0-450d-b4aa-052e40400656.pdf)
 
-
-院校
+中文文献较多的国家院校及图书馆
 
 * [国立台湾图书馆](https://www.ntl.edu.tw/mp.asp?mp=1)
 * [国立清华大学图书馆](https://www.lib.nthu.edu.tw)
