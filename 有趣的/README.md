@@ -37,6 +37,7 @@
 * [马华文学图书馆](http://www.mcldl.com)
 * [台湾博硕论文加值系统](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dwebmge)
 * [台师大机构典藏系统](http://rportal.lib.ntnu.edu.tw/home)
+* [广西图书馆](http://www.gxlib.org.cn) 、 [浙江图书馆](https://www.zjlib.cn)
 * [教育部高等学校图书情报工作指导委员会](http://www.scal.edu.cn)
 * [浙江大学民生保障与公共治理研究中心](http://www.swg.zju.edu.cn/2022/1007/c17322a2643713/page.htm)
 
