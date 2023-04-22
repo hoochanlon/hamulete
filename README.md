@@ -29,7 +29,7 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 
 ---
 
-感谢对此 repo 参与的所有人， 致中二的青春 <a href="https://github.com/the0demiurge/ShadowSocksShare">the0demiurge/ShadowSocksShare</a>，看来都折腾不动了。入手GitHub这几年(仅限定在2023上半年)，自己呢多多少少也PR、sponsored 过其它的一些项目，这里列出部分吧，也许大家有用吧：
+感谢对此 repo 参与的所有人， 致中二的青春 ，折腾不动了。入手GitHub这几年(仅限定在2023上半年)，自己呢多多少少也PR、sponsored 过其它的一些项目，这里列出部分吧，也许大家有用吧：
 
 **sponsored**
 
@@ -38,12 +38,23 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 
 **PR**
 
+Linux检测脚本与教程
+
 * [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck)
 * [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) 
-* [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)
+
+镜像
+
 * [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
+
+简历
+
 * [Lxxyx/LxxyxResume](https://github.com/Lxxyx/LxxyxResume)
 * [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
+
+其他
+
+* [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)
 
 stack overflow：[fatal: The current branch master has no upstream branch](https://stackoverflow.com/a/50134362)
 
