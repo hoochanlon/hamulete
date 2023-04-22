@@ -26,6 +26,8 @@
 * [毛泽东选集.第五卷（高清版）](https://bluepload.unstable.life/selif/cp859q20.pdf)
 * [哲学史](http://www.zhexueshi.com/paper/204)
 * [南京大学-中国社会稳定研究网](https://shwd.nju.edu.cn/_upload/article/files/9b/b2/fdb11c28450a94cc7e8d4ea58880/81fc25d5-8ca0-450d-b4aa-052e40400656.pdf)
+* [教育部高等学校图书情报工作指导委员会](http://www.scal.edu.cn)
+* [浙江大学民生保障与公共治理研究中心](http://www.swg.zju.edu.cn/2022/1007/c17322a2643713/page.htm)
 
 中文文献较多的国家院校及图书馆
 
@@ -38,8 +40,6 @@
 * [新加坡华语辅导谘商学会](http://www.ccss.sg/?page_id=77)
 * [马华文学图书馆](http://www.mcldl.com)
 * [广西图书馆](http://www.gxlib.org.cn) 、 [浙江图书馆](https://www.zjlib.cn)
-* [教育部高等学校图书情报工作指导委员会](http://www.scal.edu.cn)
-* [浙江大学民生保障与公共治理研究中心](http://www.swg.zju.edu.cn/2022/1007/c17322a2643713/page.htm)
 
 日语文献
 
