@@ -32,6 +32,9 @@
 
 * [国立台湾图书馆](https://www.ntl.edu.tw/mp.asp?mp=1)
 * [国立清华大学图书馆](https://www.lib.nthu.edu.tw)
+* [新加坡国立大学书目](https://libguides.nus.edu.sg/chineseeresources/theses)
+* [新加坡国立图书馆](https://eresources.nlb.gov.sg/Main)
+* [新加坡华语辅导谘商学会](http://www.ccss.sg/?page_id=77)
 * [台湾博硕论文加值系统](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dwebmge)
 * [台师大机构典藏系统](http://rportal.lib.ntnu.edu.tw/home)
 * [教育部高等学校图书情报工作指导委员会](http://www.scal.edu.cn)
@@ -43,6 +46,7 @@
 * [RIETI 独立行政法人经济产业研究所](https://www.rieti.go.jp/users/china-tr/jp/ssqs/220202ssqs.html)
 * [埼玉県立図書館](https://www.lib.pref.saitama.jp/reference/hint/cat/link-site.html)
 * [日本当代中国研究2011 - 早稲田大学](https://www.waseda.jp/prj-wiccs/wp/wp-content/uploads/2011/07/jscc2011.pdf)
+* [学位論文検索サイト](https://www.asahi-net.or.jp/~gb4k-ktr/phd.htm)
 
 
 艺术·哲学
