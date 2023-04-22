@@ -60,6 +60,7 @@ https://www.weadmin.com/freeware
 * [好看视频-马克龙步入中大体育馆 两句中文技惊四座](https://haokan.baidu.com/v?vid=17109160993171207724&backflow=1&pd=d_push&pagepd=d_push)
 * [微博 - #失业女生摆摊一天卖5块崩溃痛哭#](https://s.weibo.com/weibo?q=%23失业女生摆摊一天卖5块崩溃痛哭%23&t=31&band_rank=6&Refer=top)
 * [环球时报-浙大学生因辱华言论被拒录公务员，官方回应：目前该生已主动放弃名额](https://baijiahao.baidu.com/s?id=1763794613206049754&wfr=spider&for=pc)
+* [跨国公司跨文化广告传播中的文化霸权](https://core.ac.uk/download/pdf/41436687.pdf)
 
 ---
 
