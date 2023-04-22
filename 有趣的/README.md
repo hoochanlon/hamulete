@@ -23,7 +23,7 @@
 * [毛泽东选集](https://www.marxists.org/chinese/maozedong/index.htm)
 * [中共安徽省委党校(安徽行政学院)-毛泽东选集](http://www.ahdx.gov.cn/defaultroot/upload/html/20160317185242833.pdf)
 * [毛泽东选集第五卷](https://it.scribd.com/document/23823142/毛泽东选集-第五卷-1967版#)
-* [毛泽东选集.第五卷（高清版）](https://github.com/woshizhd/book/blob/master/毛泽东选集/毛泽东选集.第五卷（高清版）.pdf)
+* [毛泽东选集.第五卷（高清版）](https://bluepload.unstable.life/selif/cp859q20.pdf)
 * [哲学史](http://www.zhexueshi.com/paper/204)
 * [南京大学-中国社会稳定研究网](https://shwd.nju.edu.cn/_upload/article/files/9b/b2/fdb11c28450a94cc7e8d4ea58880/81fc25d5-8ca0-450d-b4aa-052e40400656.pdf)
 
