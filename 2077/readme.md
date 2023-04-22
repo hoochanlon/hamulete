@@ -47,6 +47,7 @@ https://www.weadmin.com/freeware
 * [事关数千万人的工作，科技战的隐蔽阵地，工业软件开始艰难逆袭【虎学研究】](https://www.bilibili.com/video/BV1Ma4y1T79K)
 * [【睡前消息577】洛阳企业出走常州，谁应该反思？](https://www.bilibili.com/video/BV1nM411L7Ff)
 * [房价结束 11 连跌，1-2 月住宅均价涨 4.1%，销售面积增速大幅回升 26%，哪些信息值得关注？ - 知乎](https://www.zhihu.com/question/589762433)
+* [看完今年五一的调休通知，我人快没了【雪鸡观察局168】](https://www.bilibili.com/video/BV1nc411J7jj)
 * [父亲受贿 1900 万，女儿实名举报行贿人，纪委已发布通报，哪些信息值得关注？如何看待此事？- 知乎](https://www.zhihu.com/question/594000010)
 * [特工宇哥-揭露街头口罩骗局，骗子们的演技吊打流量明星](https://www.bilibili.com/video/BV16g4y1M7ce)
 * [好看视频-马克龙步入中大体育馆 两句中文技惊四座](https://haokan.baidu.com/v?vid=17109160993171207724&backflow=1&pd=d_push&pagepd=d_push)
