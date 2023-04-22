@@ -17,6 +17,8 @@
 </p>
 <hr>
 
+## ***Intro***
+
 ***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与S/V/C/QuanX网络链。***
 
 ***[有趣的](有趣的/) 行业研究报告的知识储备库。***
@@ -31,7 +33,7 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 
 感谢对此 repo 参与的所有人， 致中二的青春 ，折腾不动了。入手GitHub这几年(仅限定在2023上半年)，自己呢多多少少也PR、sponsored 过其它的一些项目，这里列出部分吧，也许大家有用吧：
 
-### **sponsored & PR**
+## ***sponsored & PR***
 
 #### 友情赞助
 
