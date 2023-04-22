@@ -43,7 +43,6 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 * [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)
 * [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 * [Lxxyx/LxxyxResume](https://github.com/Lxxyx/LxxyxResume)
-* [npcola/TI](https://github.com/npcola/TI)
 * [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
 
 stack overflow：[fatal: The current branch master has no upstream branch](https://stackoverflow.com/a/50134362)
