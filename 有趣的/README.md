@@ -14,8 +14,13 @@
 * [【睡前消息576】新冠保险不赔钱 香港内地是一家](https://www.bilibili.com/video/BV1QP411U75p)
 * [提桶旋风-导师网](https://www.mysupervisor.org/)
 * [前沿报告库](https://wk.askci.com)
-* [维基百科是可靠可信的学术资源吗](https://news.sciencenet.cn/htmlnews/2018/1/401585.shtm)
 * https://github.com/industry-report
+
+wiki
+
+* [维基百科是可靠可信的学术资源吗](https://news.sciencenet.cn/htmlnews/2018/1/401585.shtm)
+* [维基百科-保险](https://zh.wikipedia.org/wiki/保險)
+* [维基百科-柬埔寨人口贩卖事件](https://zh.wikipedia.org/zh-hans/柬埔寨人口販賣事件#造成影響)
 
 近代、现代、后现代（你以为的象牙塔，但很社科）
 
