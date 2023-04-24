@@ -15,7 +15,7 @@
 * [提桶旋风-导师网](https://www.mysupervisor.org/)
 * https://github.com/industry-report
 
-近代、现代、后现代
+近代、现代、后现代（你以为的象牙塔，但很社科）
 
 * [中国社会保障学会](https://www.caoss.org.cn)
 * [中国大百科全书](https://www.zgbk.com/ecph/words?SiteID=1&ID=110049&SubID=99529)
