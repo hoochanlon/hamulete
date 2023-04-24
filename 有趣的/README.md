@@ -13,6 +13,7 @@
 * [特工宇哥-【我之前举报的街头口罩骗局百万播放视频被下架了-哔哩哔哩】 ](https://b23.tv/c7BeAp3)
 * [【睡前消息576】新冠保险不赔钱 香港内地是一家](https://www.bilibili.com/video/BV1QP411U75p)
 * [提桶旋风-导师网](https://www.mysupervisor.org/)
+* [前沿报告库](https://wk.askci.com)
 * https://github.com/industry-report
 
 近代、现代、后现代（你以为的象牙塔，但很社科）
