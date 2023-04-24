@@ -19,9 +19,8 @@
 wiki
 
 * [维基百科是可靠可信的学术资源吗](https://news.sciencenet.cn/htmlnews/2018/1/401585.shtm)
-* [维基百科-保险](https://zh.wikipedia.org/wiki/保險)
-* [维基百科-柬埔寨人口贩卖事件](https://zh.wikipedia.org/zh-hans/柬埔寨人口販賣事件#造成影響)
-* [维基百科-教育](https://zh.wikipedia.org/wiki/教育)
+* [政策](https://zh.wikipedia.org/wiki/政策)、[教育](https://zh.wikipedia.org/wiki/教育)、[保险](https://zh.wikipedia.org/wiki/保險)
+* [柬埔寨人口贩卖事件](https://zh.wikipedia.org/zh-hans/柬埔寨人口販賣事件#造成影響)
 
 近代、现代、后现代（你以为的象牙塔，但很社科）
 
