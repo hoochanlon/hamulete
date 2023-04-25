@@ -23,6 +23,11 @@ wiki
 * [政府](https://zh.wikipedia.org/wiki/政府)、[审查](https://zh.wikipedia.org/wiki/审查制度)、[失业](https://zh.wikipedia.org/wiki/失業#对個人、家庭、社会和经济的影响)、[黑社会](https://zh.wikipedia.org/wiki/黑社會#在華人文化中)
 * [柬埔寨人口贩卖事件](https://zh.wikipedia.org/zh-hans/柬埔寨人口販賣事件#造成影響)
 
+if hr
+
+* [南京信息工程大学招聘](https://web.archive.org/web/20230425025024/https://rsc.nuist.edu.cn/2021/0419/c1097a175200/page.htm)
+* [中央党史和文献研究院所属企业2023年度面向全国高校毕业生公开招聘公告](https://web.archive.org/web/20230425025725/http://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202303/t20230308_496444.html)
+
 近代、现代、后现代（如果将目光聚焦在我们熟知的象牙塔其中的社科专业上会怎样呢？）
 
 * [中国社会保障学会](https://www.caoss.org.cn)
