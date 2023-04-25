@@ -25,10 +25,12 @@ wiki
 * [柬埔寨人口贩卖事件](https://zh.wikipedia.org/zh-hans/柬埔寨人口販賣事件#造成影響)
 * [台湾地区自外国移交逃犯制度研析](https://core.ac.uk/reader/343508740)
 
-if hr
+孔乙己
 
 * [南京信息工程大学招聘](https://web.archive.org/web/20230425025024/https://rsc.nuist.edu.cn/2021/0419/c1097a175200/page.htm)
 * [中央党史和文献研究院所属企业2023年度面向全国高校毕业生公开招聘公告](https://web.archive.org/web/20230425025725/http://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202303/t20230308_496444.html)
+* [knoema-提供全球国家公共数据，人口、教育、环境、经济、农业、能源、地理等等数据](https://cn.knoema.com/atlas)
+* [flourish-数据可视化](https://flourish.studio/examples/)
 
 近代、现代、后现代（如果将目光聚焦在我们熟知的象牙塔其中的社科专业上会怎样呢？）
 
