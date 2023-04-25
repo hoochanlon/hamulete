@@ -21,7 +21,7 @@ wiki
 * [维基百科是可靠可信的学术资源吗](https://news.sciencenet.cn/htmlnews/2018/1/401585.shtm)
 * [政策](https://zh.wikipedia.org/wiki/政策)、[教育](https://zh.wikipedia.org/wiki/教育)、[智库](https://zh.wikipedia.org/wiki/智庫#中國大陸)、[保险](https://zh.wikipedia.org/wiki/保險)、[间谍](https://zh.wikipedia.org/wiki/间谍)、[外交](https://zh.wikipedia.org/wiki/外交)
 * [政府](https://zh.wikipedia.org/wiki/政府)、[审查](https://zh.wikipedia.org/wiki/审查制度)、[失业](https://zh.wikipedia.org/wiki/失業#对個人、家庭、社会和经济的影响)、[黑社会](https://zh.wikipedia.org/wiki/黑社會#在華人文化中)
-* [蔡英文政府](https://zh.wikipedia.org/wiki/蔡英文政府)与[李明哲](https://zh.wikipedia.org/wiki/李明哲事件)、[普京](https://zh.wikipedia.org/zh-hans/弗拉基米尔·普京#俄日領土問題)
+* [蔡英文政府](https://zh.wikipedia.org/wiki/蔡英文政府)、[李明哲](https://zh.wikipedia.org/wiki/李明哲事件)、[普京](https://zh.wikipedia.org/zh-hans/弗拉基米尔·普京#俄日領土問題)
 * [柬埔寨人口贩卖事件](https://zh.wikipedia.org/zh-hans/柬埔寨人口販賣事件#造成影響)
 * [台湾地区自外国移交逃犯制度研析](https://core.ac.uk/reader/343508740)
 
