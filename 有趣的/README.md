@@ -30,7 +30,10 @@ wiki
 * [南京信息工程大学招聘](https://web.archive.org/web/20230425025024/https://rsc.nuist.edu.cn/2021/0419/c1097a175200/page.htm)
 * [中央党史和文献研究院所属企业2023年度面向全国高校毕业生公开招聘公告](https://web.archive.org/web/20230425025725/http://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202303/t20230308_496444.html)
 * [knoema-提供全球国家公共数据，人口、教育、环境、经济、农业、能源、地理等等数据](https://cn.knoema.com/atlas)
+* [全球数字统计](https://www.worldometers.info/cn/)
+* [世界银行公开大数据](https://data.worldbank.org.cn/indicator?tab=all)
 * [flourish-数据可视化](https://flourish.studio/examples/)
+* [平顶山学院文学院文献资料录](https://wxy.pdsu.edu.cn/wxzl/xszy.htm)
 
 近代、现代、后现代（如果将目光聚焦在我们熟知的象牙塔其中的社科专业上会怎样呢？）
 
@@ -62,6 +65,7 @@ wiki
 * [新加坡华语辅导谘商学会](http://www.ccss.sg/?page_id=77)
 * [马华文学图书馆](http://www.mcldl.com)
 * [广西图书馆](http://www.gxlib.org.cn) 、 [浙江图书馆](https://www.zjlib.cn)
+
 
 日语文献
 
