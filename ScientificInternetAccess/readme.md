@@ -80,6 +80,7 @@ iOS未越狱设备选择性地自动科学，且多款Shadowrocket规则带广�
 IOS 圈X去广告规则收集 quantumultX rule collection
 
 * https://github.com/zqzess/rule_for_quantumultX 
+* https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/
 * https://github.com/JQWS/GuangZhuiQuanX （新手友好教程）
 * https://github.com/guardiora/QuantumultX
 * https://github.com/TributePaulWalker/Profiles
@@ -307,7 +308,7 @@ IOS 圈X去广告规则收集 quantumultX rule collection
  * http://127.0.0.1:43110/1NzWeweqJ32aRVdM5UzFnYCszuvG5xV3vS
 
 
-暗网
+暗网，TG也相当于是暗网了
 
  [深网和暗网的区别及基础扫盲](https://hoochanlon.github.io/fq-book/#/abc/darkweb)
 
