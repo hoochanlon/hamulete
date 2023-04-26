@@ -22,6 +22,7 @@
 * 安全人员的信息流：https://i.hacking8.com
 * 贼酷zlibrary：http://zlibrary.ml https://zlib.pro 
 * 文件共享：https://bluepload.unstable.life
+* 软件工程：http://www.rjgczz.com
 * VS: https://versus.com/cn https://www.cpu-panda.com/zh-cn/
 
 |Start| [龙喵导航](https://ailongmiao.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
