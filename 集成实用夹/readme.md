@@ -5,6 +5,12 @@
 * https://api.aa1.cn
 * https://github.com/public-apis/public-apis
 
+## 图表
+
+* http://www.tubiaoxiu.com
+* https://dycharts.com/appv2/#/pages/home/index
+* https://www.chaojibiaoge.com/index.php
+
 ## 目录
 
 * [基层职场入门](基层职场入门/)
