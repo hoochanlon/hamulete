@@ -24,6 +24,7 @@
 * 文件共享：https://bluepload.unstable.life
 * 软件工程：http://www.rjgczz.com
 * VS: https://versus.com/cn https://www.cpu-panda.com/zh-cn/
+* 必应壁纸：https://bing.ioliu.cn
 
 |Start| [龙喵导航](https://ailongmiao.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
 | :-----------: | :----------------------------------------------------------: |
