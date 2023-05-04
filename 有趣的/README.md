@@ -1,4 +1,4 @@
-社会学文献信息库
+### 社会学文献信息库
 
 八卦
 
@@ -88,5 +88,54 @@ wiki
 * [中国民俗学网](https://www.chinafolklore.org/web/index.php?NewsID=16688)
 * [z-lib](https://singlelogin.me)
 
+### 数据分析
+
+第三方：
+
+* [统计年鉴分享平台](https://www.yearbookchina.com)
+* [中经数据](http://ceidata.cei.cn)
+* [中财网-数据引擎](https://data.cfi.cn/cfidata.aspx)（信息面广，查找也很方便。）
+* [搜数-各行各业数据统计](http://www.soshoo.com/index.do)
+
+权威官方
+
+* [新华社数据中心](https://www.cnfin.com/data/macro-data/index.html)（便利查询各国宏观数据）
+* [国家统计局-国家数据](https://data.stats.gov.cn)
+* [中国人民银行](http://www.pbc.gov.cn)（可查询社会总资规模、货币供应量、外汇储备、利率变化、汇率等金融领域的权威数据。）
+* [香港-资料一线通](https://data.gov.hk/sc/)
+* [经合组织开放资料库](https://data.oecd.org)
+* [新加坡政府开放数据平台](https://data.gov.sg)
+* [英国国家数据中心](https://www.data.gov.uk)
+* [日本统计局-采用情报](https://www.stat.go.jp)
+* [瑞典统计局](https://www.scb.se/en/)
+
+海外
+
+* [欧盟官方数据平台](https://data.europa.eu/en)
+* [加拿大开放数据平台](https://open.canada.ca/en/open-data)
+* [澳大利亚开放数据平台](https://data.gov.au)
+* [EDGAR](https://www.sec.gov/)（美国证监会SEC规定上市企业的公告要在EDGAR上公开）
+* [美国劳工统计局](https://www.bls.gov)（锁国区）
+* [美国人口普查局](https://www.census.gov)（掌握有关美国公民生活的统计数据，包括人口，经济，教育，地理等。）
+* [The Home of the U.S. Government's Open Data](https://data.gov)
+* [美国国家教育统计中心（NCES）](https://nces.ed.gov) （是收集和分析与美国和其他国家/地区的教育相关数据）
+* [纽约市开放数据中心](https://opendata.cityofnewyork.us)（既包括纽约市政府开放的各门类公共数据，也包括私人机构和企业公布的非公共数据。任何人都可以搜索、下载、使用这些数据。）
+* [hadoopilluminated.com](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)（指向数据集的指针、通用存储库、地理数据、网络数据、政府数据）
+* [Academic Torrents](https://academictorrents.com/)（提供445.96TB以上的研究数据）
+* [军情六处官网-信息科学资料](https://www.sis.gov.uk/science-and-technology.html)
+
+网路:
+
+* [中国信息通信研究院 -信息通信技术与政策期刊合集](http://ictp.caict.ac.cn/CN/2096-5931/home.shtml)
+* [中国互联网信息中心-网民人数与趋势统计](https://www.cnnic.net.cn)
+* [高德地图-全国道路健康榜](https://report.amap.com/diagnosis/index.do)
+* [北京交通发展研究院-《北京交通发展年度报告》](https://www.bjtrc.org.cn/List/index/cid/7.html)
+* [猫眼票房统计](http://pf.st.maoyan.com/dashboard)
+
+全球环境：
+
+* [NASA Socioeconomic Data and Applications Center (sedac)](https://sedac.ciesin.columbia.edu/)
+* [NASA earthobservatory](https://earthobservatory.nasa.gov)
+* [European Space Agency Climate Change Initiative (CCI)](https://climate.esa.int/en/odp/#/dashboard)
 
 
