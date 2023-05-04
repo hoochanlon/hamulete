@@ -28,6 +28,7 @@ wiki
 * [蔡英文政府](https://zh.wikipedia.org/wiki/蔡英文政府)、[李明哲](https://zh.wikipedia.org/wiki/李明哲事件)、[普京](https://zh.wikipedia.org/zh-hans/弗拉基米尔·普京#俄日領土問題)
 * [柬埔寨人口贩卖事件](https://zh.wikipedia.org/zh-hans/柬埔寨人口販賣事件#造成影響)
 * [台湾地区自外国移交逃犯制度研析](https://core.ac.uk/reader/343508740)
+* [维基学院-奶头乐](https://zh.wikiversity.org/zh-hans/奶头乐)
 
 孔乙己
 
