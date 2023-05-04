@@ -108,6 +108,7 @@ wiki
 * [新华社数据中心](https://www.cnfin.com/data/macro-data/index.html)（便利查询各国宏观数据）
 * [人民论坛网 > 思想理论 > 深度原创](http://www.rmlt.com.cn/idea/yuanchuang/)
 * [新疆>新闻发布>信息分析>新疆奶制品消费现状与发展趋势研究-国家统计局新疆调查总队](http://xjzd.stats.gov.cn/xwfb/xxfx/201009/t20100915_3698.html)
+* [人民网-清风时评-“言行不一”其后的官场文化](http://cpc.people.com.cn/n/2015/0109/c371963-26358276.html) ➡️ [人民网-清风时评](http://theory.people.com.cn/GB/409498/)
 
 第三方
 
