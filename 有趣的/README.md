@@ -1,5 +1,5 @@
 <a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/syr.png" width="270 " height="270" /></a>
-**不断遭受社会毒打，觉醒成的超级赛亚人**
+**不断遭受社会毒打，面对与弗利萨之间的贫富差距、阶级分化，觉醒成的超级赛亚人，决战！那美克星！**
 
 ### 社会学文献信息库
 
