@@ -99,7 +99,13 @@ wiki
 
 ### 数据分析
 
-第三方：
+示例
+
+* [新华社数据中心](https://www.cnfin.com/data/macro-data/index.html)（便利查询各国宏观数据）
+* [人民论坛网 > 思想理论 > 深度原创](http://www.rmlt.com.cn/idea/yuanchuang/)
+* [新疆>新闻发布>信息分析>新疆奶制品消费现状与发展趋势研究-国家统计局新疆调查总队](http://xjzd.stats.gov.cn/xwfb/xxfx/201009/t20100915_3698.html)
+
+第三方
 
 * [统计年鉴分享平台](https://www.yearbookchina.com)
 * [中经数据](http://ceidata.cei.cn)
@@ -108,7 +114,6 @@ wiki
 
 权威官方
 
-* [新华社数据中心](https://www.cnfin.com/data/macro-data/index.html)（便利查询各国宏观数据）
 * [国家统计局-国家数据](https://data.stats.gov.cn)
 * [中国人民银行](http://www.pbc.gov.cn)（可查询社会总资规模、货币供应量、外汇储备、利率变化、汇率等金融领域的权威数据。）
 * [香港-资料一线通](https://data.gov.hk/sc/)
@@ -133,7 +138,7 @@ wiki
 * [Academic Torrents](https://academictorrents.com/)（提供445.96TB以上的研究数据）
 * [军情六处官网-信息科学资料](https://www.sis.gov.uk/science-and-technology.html)
 
-网路:
+网路
 
 * [中国信息通信研究院 -信息通信技术与政策期刊合集](http://ictp.caict.ac.cn/CN/2096-5931/home.shtml)
 * [中国互联网信息中心-网民人数与趋势统计](https://www.cnnic.net.cn)
@@ -141,7 +146,7 @@ wiki
 * [北京交通发展研究院-《北京交通发展年度报告》](https://www.bjtrc.org.cn/List/index/cid/7.html)
 * [猫眼票房统计](http://pf.st.maoyan.com/dashboard)
 
-全球环境：
+全球环境
 
 * [NASA Socioeconomic Data and Applications Center (sedac)](https://sedac.ciesin.columbia.edu/)
 * [NASA earthobservatory](https://earthobservatory.nasa.gov)
