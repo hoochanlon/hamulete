@@ -3,6 +3,7 @@
 ## API
 
 * https://api.aa1.cn
+* http://www.free-api.com/doc/519
 * https://github.com/public-apis/public-apis
 
 ## 图表
