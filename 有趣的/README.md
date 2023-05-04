@@ -71,6 +71,7 @@ wiki
 * [新加坡华语辅导谘商学会](http://www.ccss.sg/?page_id=77)
 * [马华文学图书馆](http://www.mcldl.com)
 * [广西图书馆](http://www.gxlib.org.cn) 、 [浙江图书馆](https://www.zjlib.cn)
+* [燕山大学图书馆-推荐书目](http://library.ysu.edu.cn/content.aspx?id=1915&caid=2)
 
 
 日语文献
@@ -154,5 +155,71 @@ wiki
 * [NASA Socioeconomic Data and Applications Center (sedac)](https://sedac.ciesin.columbia.edu/)
 * [NASA earthobservatory](https://earthobservatory.nasa.gov)
 * [European Space Agency Climate Change Initiative (CCI)](https://climate.esa.int/en/odp/#/dashboard)
+
+
+鸡鹅同讲
+
+* [filedn.com-史上最全的苏联政治笑话288条.pdf](https://filedn.com/lhGMSiorWHSfUFDBy7DmqTk/史上最全的苏联政治笑话288条.pdf)
+* [警钟长鸣-纪检委-郑州旅游职业学院纪律检查委员会](https://www.zztrc.edu.cn/jjw/jzzm.htm)
+* [维基百科-对共产主义国家的批评](https://zh.wikipedia.org/wiki/对共产主义国家的批评)
+* [北京大学国际关系学院-中国社会转型过程中的苏联模式：改变的和没改变的](https://www.sis.pku.edu.cn/teachers/kongfanjun/kongfanjun_doc/1310888.htm)
+* [中共中央党史和文献研究院-苏联解体、苏共灭亡与斯大林的关系](https://www.dswxyjy.org.cn/n1/2019/0617/c427165-31157808.html)
+* [南华大学学报-苏联解体 后俄罗斯政党政治的发展探析](http://nhqks.cnjournals.com/sk/ch/reader/download_pdf_file.aspx?journal_id=nhdxxbsk&file_name=75DC495BE19E81626DF8D3DBFD696324F1CE477D6385F4942A3050C9588C8915BF94A23992CFB522ADA2AE9E17572551E6A6DDA5D8C483B6826FBA137089EBA6&open_type=self&file_no=20090404)
+* [亚欧经济 - 起始、剥离与回归 ——— 中东欧国家 20 世纪的两次社会转型](http://www.oyjj-oys.org/UploadFile/Issue/ikdfjh4f.pdf)
+* [山东大学移民研究所 - 俄罗斯研究 - 苏联特殊移民政策的深层原因](http://www.ims.sdu.edu.cn/__local/1/1B/8B/AEB869AE53A59B3699A23E659A2_2268513C_79F74.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
