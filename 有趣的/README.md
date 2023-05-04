@@ -82,6 +82,7 @@ wiki
 * [埼玉県立図書館](https://www.lib.pref.saitama.jp/reference/hint/cat/link-site.html)
 * [日本当代中国研究2011 - 早稲田大学](https://www.waseda.jp/prj-wiccs/wp/wp-content/uploads/2011/07/jscc2011.pdf)
 * [学位論文検索サイト](https://www.asahi-net.or.jp/~gb4k-ktr/phd.htm)
+* [纪伊国屋书屋店](https://www.kinokuniya.co.jp)
 
 
 艺术·哲学
@@ -158,6 +159,12 @@ wiki
 * [European Space Agency Climate Change Initiative (CCI)](https://climate.esa.int/en/odp/#/dashboard)
 
 
+跛脚鞋佐罗
+
+* [维基百科-乌合麒麟 参见部分](https://zh.wikipedia.org/wiki/乌合麒麟)
+* [联合早报-时事漫画家“阿涂”离港](https://www.kzaobao.com/bolg/20220426/115680.html)
+* [知乎-有哪些含有讽刺意味的新闻漫画值得分享？](https://www.zhihu.com/question/20618553)
+
 鸡鹅同讲
 
 * [filedn.com-史上最全的苏联政治笑话288条.pdf](https://filedn.com/lhGMSiorWHSfUFDBy7DmqTk/史上最全的苏联政治笑话288条.pdf)
@@ -168,7 +175,6 @@ wiki
 * [南华大学学报-苏联解体 后俄罗斯政党政治的发展探析](http://nhqks.cnjournals.com/sk/ch/reader/download_pdf_file.aspx?journal_id=nhdxxbsk&file_name=75DC495BE19E81626DF8D3DBFD696324F1CE477D6385F4942A3050C9588C8915BF94A23992CFB522ADA2AE9E17572551E6A6DDA5D8C483B6826FBA137089EBA6&open_type=self&file_no=20090404)
 * [亚欧经济 - 起始、剥离与回归 ——— 中东欧国家 20 世纪的两次社会转型](http://www.oyjj-oys.org/UploadFile/Issue/ikdfjh4f.pdf)
 * [山东大学移民研究所 - 俄罗斯研究 - 苏联特殊移民政策的深层原因](http://www.ims.sdu.edu.cn/__local/1/1B/8B/AEB869AE53A59B3699A23E659A2_2268513C_79F74.pdf)
-
 
 
 
