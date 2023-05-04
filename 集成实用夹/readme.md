@@ -31,6 +31,8 @@
 
 ## 注册表
 
+软件
+
 * https://registry-finder.com
 * https://kurtzimmermann.com/regcoolext_en.html
 
