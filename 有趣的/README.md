@@ -88,6 +88,12 @@ wiki
 * [中国民俗学网](https://www.chinafolklore.org/web/index.php?NewsID=16688)
 * [z-lib](https://singlelogin.me)
 
+社会学研究
+
+* [社会学研究](http://shxyj.ajcass.org)
+* [北京大学社会学系社会学人类学研究所](http://www.shehui.pku.edu.cn/rwpz/index.aspx?nodeid=301)
+* [知乎-社会学方面有哪些一流的研究、资讯、期刊网站？](https://www.zhihu.com/question/20815654) （找寻蛛丝马迹）
+
 ### 数据分析
 
 第三方：
