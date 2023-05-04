@@ -1,3 +1,8 @@
+
+**💡idea 请将这些链接转化为学术研究论文的方式去理解他们。**
+
+**一个链接对应着一个知网等学术期刊，你会有不一样的发现**
+
 * 刚毕业的大学生有什么福利政策 https://www.zhihu.com/question/68110172/answer/263163601
 * 你所在的行业，有哪些外人不知道的秘密或规则？ https://www.zhihu.com/question/23979276
 * 隐私收集 https://github.com/ffffffff0x/Digital-Privacy
@@ -9,3 +14,4 @@
 * 2020年福利政策大汇总 https://zhuanlan.zhihu.com/p/136479701
 * 为什么国企只招应届生？ https://www.zhihu.com/question/21691811/answer/1674484897
 * 为什么这么多人考公务员？https://www.zhihu.com/question/26526364/answer/1689251416
+* 为什么说户籍制度是当代中国很多社会矛盾的根源？https://www.zhihu.com/question/38464274
