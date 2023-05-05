@@ -39,6 +39,7 @@
 教程
 
 * https://admx.help
+* https://learn.microsoft.com/zh-cn/windows/win32/apiindex/windows-api-list
 * https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-gppref/c05dc3bf-dcfc-4f46-8be2-8a78e46875a7
 * https://kb.uconn.edu/space/IKB/10737647782/Understanding+the+Registry+on+Windows
 * https://en.wikipedia.org/wiki/Windows_Registry
