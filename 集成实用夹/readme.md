@@ -12,6 +12,12 @@
 * https://dycharts.com/appv2/#/pages/home/index
 * https://www.chaojibiaoge.com/index.php
 
+## 热搜
+
+* http://resou.today
+* https://tophub.today
+* http://rebang.today
+
 ## 目录
 
 * [基层职场入门](基层职场入门/)
