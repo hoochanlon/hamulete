@@ -18,6 +18,7 @@
 * [提桶旋风-导师网](https://www.mysupervisor.org/)
 * [广东工业大学-博弈论与信息经济学](https://xxjjx.gdut.edu.cn/jxkj.htm)
 * [沈阳建筑大学 mpacc-战略视角下恒大集团财务报表综合分析-财务报表分析](http://mpacc.sjzu.edu.cn/info/1093/1433.htm)
+* [心理测量者-人资心理题库](https://bluepload.unstable.life/8d3b5bw0.zip)
 * https://github.com/industry-report
 
 wiki
