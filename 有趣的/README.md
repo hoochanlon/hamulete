@@ -15,10 +15,11 @@
 * [特工宇哥-揭露街头口罩骗局，骗子们的演技吊打流量明星](https://www.bilibili.com/video/BV16g4y1M7ce)
 * [特工宇哥-【我之前举报的街头口罩骗局百万播放视频被下架了-哔哩哔哩】 ](https://b23.tv/c7BeAp3)
 * [【睡前消息576】新冠保险不赔钱 香港内地是一家](https://www.bilibili.com/video/BV1QP411U75p)
-* [提桶旋风-导师网](https://www.mysupervisor.org/)
 * [广东工业大学-博弈论与信息经济学](https://xxjjx.gdut.edu.cn/jxkj.htm)
 * [沈阳建筑大学 mpacc-战略视角下恒大集团财务报表综合分析-财务报表分析](http://mpacc.sjzu.edu.cn/info/1093/1433.htm)
+* [提桶旋风-导师网](https://www.mysupervisor.org/)
 * [心理测量者-人资心理题库](https://bluepload.unstable.life/8d3b5bw0.zip)
+* [深圳智库](http://szzklm.sz.gov.cn)
 * https://github.com/industry-report
 
 wiki
