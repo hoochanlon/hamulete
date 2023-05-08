@@ -6,8 +6,9 @@
 * http://www.free-api.com/doc/519
 * https://github.com/public-apis/public-apis
 
-## 图表
+## 图表、词频/数据分析
 
+* http://translation.education
 * http://www.tubiaoxiu.com
 * https://dycharts.com/appv2/#/pages/home/index
 * https://www.chaojibiaoge.com/index.php
