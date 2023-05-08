@@ -17,6 +17,14 @@
 * https://dycharts.com/appv2/#/pages/home/index
 * https://www.chaojibiaoge.com/index.php
 
+
+### 其他
+
+* https://worditout.com
+* https://www.wordle.net
+* https://me.bdp.cn/home.html
+
+
 ## 热搜
 
 * http://resou.today
