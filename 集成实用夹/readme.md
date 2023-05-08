@@ -15,7 +15,7 @@
 * http://ciyun.easytool.vip/#/
 * https://www.moage.cn
 * https://dycharts.com/appv2/#/pages/home/index
-* https://www.chaojibiaoge.com/index.php
+* https://www.finebi.com/2020/wzsxg
 
 
 ### 其他
