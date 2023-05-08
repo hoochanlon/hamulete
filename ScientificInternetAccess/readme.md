@@ -37,6 +37,7 @@ ban ip check  http://ip111.cn
  * https://chat.forchange.cn/
  * https://openprompt.co
  * https://chatbot.theb.ai
+ * https://chat.wuguokai.cn/#/chat/1683510502659
  * https://chat1.aichatos.com/#/chat/1681313544674
  * https://chatgpt.nianbroken.top
  * https://github.com/xx025/carrot
