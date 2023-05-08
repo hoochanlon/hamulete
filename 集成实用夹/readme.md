@@ -10,6 +10,10 @@
 
 * http://translation.education
 * http://www.tubiaoxiu.com
+* https://wordart.com
+* http://www.wenpipi.com
+* http://ciyun.easytool.vip/#/
+* https://www.moage.cn
 * https://dycharts.com/appv2/#/pages/home/index
 * https://www.chaojibiaoge.com/index.php
 
