@@ -1,3 +1,2 @@
-*.js linguist-language=java;
-*.v linguist-language=java;
-*.md linguist-detectable=true
+*.ps1 linguist-language=java;
+*.md linguist-detectable=False
