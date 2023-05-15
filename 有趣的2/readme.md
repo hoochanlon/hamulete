@@ -21,7 +21,6 @@
 * [上海出版社 - 东方公证法学·案例研讨:公证与法治中国](https://www.sh-notary.org.cn/u/cms/www/201901/18113051wrx1.pdf)
 * [赤壁市人民政府 - 律师、公证、司法鉴定等法律服务机构和人员有关基本信息](http://www.chibi.gov.cn/xxgk/xxgkml/gysyjs/ggflfw/202212/t20221227_2910025.shtml)
 
-
 国际分析
 
 * [リサーチ・ナビ「中国の日本研究」](https://rnavi.ndl.go.jp/jp/guides/theme-asia-106.html)
@@ -32,6 +31,29 @@
 * [Science Portal Asia Pacific JP- 中国の日本研究](https://spap.jst.go.jp/investigation/downloads/r_2016_07.pdf)
 * [一带一路数据库](https://www.ydylcn.com)
 
-国语
+JP
 
 * [日本中國學會](http://nippon-chugoku-gakkai.org/?p=420)
+* [总务省-『情報通信政策研究』](https://www.soumu.go.jp/iicp/journal/journal_03-02.html)
+* [国立情報学研究所 (NII)](https://ci.nii.ac.jp/naid/500001464371/)
+* [国立教育政策研究所](https://www.nier.go.jp/contentsearch/)
+* [財務総合政策研究所](https://www.mof.go.jp/pri/research/conference/index.htm)
+* [「科学技術・学術政策研究所」](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/benchmark)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
