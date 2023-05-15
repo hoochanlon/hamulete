@@ -10,8 +10,6 @@
 * [早稻田大学-日本当地中国研究2011](https://www.waseda.jp/prj-wiccs/wp/wp-content/uploads/2011/07/jscc2011.pdf)
 * [台湾人文社會科學研究中心](https://srda.sinica.edu.tw)
 
-
-
 国际分析
 
 * [リサーチ・ナビ「中国の日本研究」](https://rnavi.ndl.go.jp/jp/guides/theme-asia-106.html)
@@ -19,4 +17,5 @@
 ](https://spc.jst.go.jp/cad/literatures/12934)
 * [rand.org](https://www.rand.org/zh-hans/publications.html)
 * [东吴大学-当代中国研究](https://web-ch.scu.edu.tw/index.php/artsoc/web_page/8843)
+* [J-STAGE - 公共政策研究](https://www.jstage.jst.go.jp/browse/publicpolicystudies/-char/ja)
 
