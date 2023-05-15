@@ -1,2 +1,3 @@
-*.ps1 linguist-language=java;
-*.md linguist-detectable=False
+# *.md linguist-detectable=true
+*.ps1 linguist-language=py;
+
