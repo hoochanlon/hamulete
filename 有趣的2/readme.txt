@@ -13,4 +13,6 @@
 
 国际分析
 
+* [リサーチ・ナビ「中国の日本研究」](https://rnavi.ndl.go.jp/jp/guides/theme-asia-106.html)
 * [rand.org](https://www.rand.org/zh-hans/publications.html)
+
