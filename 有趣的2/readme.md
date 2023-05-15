@@ -9,6 +9,8 @@
 * [清华大学社会学系-论文发表（按时间倒序排列）](http://socialbigdata.cn/css/publication/publication.html)
 * [早稻田大学-日本当地中国研究2011](https://www.waseda.jp/prj-wiccs/wp/wp-content/uploads/2011/07/jscc2011.pdf)
 * [台湾人文社會科學研究中心](https://srda.sinica.edu.tw)
+* [J-STAGE - 公共政策研究](https://www.jstage.jst.go.jp/browse/publicpolicystudies/-char/ja)
+
 
 国际分析
 
@@ -17,5 +19,9 @@
 ](https://spc.jst.go.jp/cad/literatures/12934)
 * [rand.org](https://www.rand.org/zh-hans/publications.html)
 * [东吴大学-当代中国研究](https://web-ch.scu.edu.tw/index.php/artsoc/web_page/8843)
-* [J-STAGE - 公共政策研究](https://www.jstage.jst.go.jp/browse/publicpolicystudies/-char/ja)
+* [Science Portal Asia Pacific JP- 中国の日本研究](https://spap.jst.go.jp/investigation/downloads/r_2016_07.pdf)
+* [一带一路数据库](https://www.ydylcn.com)
 
+国语
+
+* [日本中國學會](http://nippon-chugoku-gakkai.org/?p=420)
