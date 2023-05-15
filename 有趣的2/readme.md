@@ -4,12 +4,13 @@
 * 赤壁市人民政府政务公开：http://www.chibi.gov.cn/xxgk/xxgkml/gysyjs/ggflfw/
 * 计算机设计分工模型研究：http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2021111915
 
-地方政策分析
+城市投资建设
 
 * [中国学术调查数据资料库](http://www.cnsda.org)
 * [清华大学社会学系-论文发表（按时间倒序排列）](http://socialbigdata.cn/css/publication/publication.html)
 * [清华大学国有资产管理研究院-城投公司化债转型的相关研究](https://gzyjy.tsinghua.edu.cn/info/1179/1125.htm)
 * [北京大学国家发展研究院-中国地方债务的省级风陷度量和网络外溢风险](https://nsd.pku.edu.cn/docs/20210629085132485688.pdf)
+* [光大证券 - 虽有坎坷，但路还要走下去——城投债深度研究(修订版)](http://pg.jrj.com.cn/acc/Res/CN_RES/MAC/2012/12/10/601dc2c3-7596-41d1-98ea-7b897570c5d3.pdf)
 * [早稻田大学-日本当地中国研究2011](https://www.waseda.jp/prj-wiccs/wp/wp-content/uploads/2011/07/jscc2011.pdf)
 * [人文社會科學研究中心](https://srda.sinica.edu.tw)
 * [J-STAGE - 公共政策研究](https://www.jstage.jst.go.jp/browse/publicpolicystudies/-char/ja)
