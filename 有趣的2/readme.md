@@ -14,6 +14,10 @@
 * [J-STAGE - 公共政策研究](https://www.jstage.jst.go.jp/browse/publicpolicystudies/-char/ja)
 
 
+法治公证
+
+* [上海出版社 - 东方公证法学·案例研讨:公证与法治中国](https://www.sh-notary.org.cn/u/cms/www/201901/18113051wrx1.pdf)
+
 国际分析
 
 * [リサーチ・ナビ「中国の日本研究」](https://rnavi.ndl.go.jp/jp/guides/theme-asia-106.html)
