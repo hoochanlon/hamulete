@@ -1,6 +1,7 @@
 
 文献检索：http://cnki.cgl.org.cn/kns55/
 
+计算机设计分工模型研究：http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2021111915
 
 地方政策分析
 
