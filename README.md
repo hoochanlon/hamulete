@@ -1,5 +1,3 @@
-## ***NeiJuan（内卷）***
-
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
  <a href="https://ndltd.ncl.edu.tw" target="_blank">
@@ -27,7 +25,7 @@
 
 ***[有趣的](有趣的/) 行业研究报告的知识储备库。***
 
-***[软件分享及网页备份](软件分享及网页备份/) [集成实用夹](集成实用夹/) [资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)***
+***[软件分享及网页备份](软件分享及网页备份/) [集成实用夹](集成实用夹/) [资源存储库 web版](https://hoochanlon.github.io/seikaii/)***
 
 有趣的东西其实是思想观点聚流，但需要具备较强的独立深度思考能力，把所见所闻信息转化为自己受用的知识；期间还要考虑人文环境及时势、概率、谬误偏差等，这本身就是困难的一件事。就信息整合这块，《睡前消息》确实做得不错，从了解消息到提出问题，提出问题的期间搜集资料，根据资料提出自己的建议，老实说很可以了。
 
@@ -72,8 +70,7 @@ stack overflow：[fatal: The current branch master has no upstream branch](https
 
 ## ***Star History***
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/neijuan&type=Date)](https://star-history.com/#hoochanlon/neijuan&Date)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/seikaii&type=Date)](https://star-history.com/#hoochanlon/seikaii&Date)
 
 
 <!--
