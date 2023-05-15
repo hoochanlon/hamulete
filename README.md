@@ -23,7 +23,7 @@
 
 ***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与S/V/C/QuanX网络链。***
 
-***[有趣的](有趣的/) 行业研究报告的知识储备库。***
+***[有趣的](有趣的/)、[有趣的2](有趣的2/) 行业研究报告的知识储备库。***
 
 ***[软件分享及网页备份](软件分享及网页备份/) [集成实用夹](集成实用夹/) [资源存储库 web版](https://hoochanlon.github.io/seikaii/)***
 
