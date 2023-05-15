@@ -38,7 +38,7 @@ JP
 * [国立情報学研究所 (NII)](https://ci.nii.ac.jp/naid/500001464371/)
 * [国立教育政策研究所](https://www.nier.go.jp/contentsearch/)
 * [財務総合政策研究所](https://www.mof.go.jp/pri/research/conference/index.htm)
-* [「科学技術・学術政策研究所」](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/benchmark)
+* [科学省 -「科学技術・学術政策研究所」](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/benchmark)
 
 
 
