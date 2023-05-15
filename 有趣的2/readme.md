@@ -1,7 +1,8 @@
 
-文献检索：http://cnki.cgl.org.cn/kns55/
-
-计算机设计分工模型研究：http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2021111915
+* 文献检索：http://cnki.cgl.org.cn/kns55/
+* 赤壁市人民政府搜索首页：http://www.chibi.gov.cn/site/cb/search.html
+* 赤壁市人民政府政务公开：http://www.chibi.gov.cn/xxgk/xxgkml/gysyjs/ggflfw/
+* 计算机设计分工模型研究：http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2021111915
 
 地方政策分析
 
@@ -17,6 +18,8 @@
 法治公证
 
 * [上海出版社 - 东方公证法学·案例研讨:公证与法治中国](https://www.sh-notary.org.cn/u/cms/www/201901/18113051wrx1.pdf)
+* [赤壁市人民政府 - 律师、公证、司法鉴定等法律服务机构和人员有关基本信息](http://www.chibi.gov.cn/xxgk/xxgkml/gysyjs/ggflfw/202212/t20221227_2910025.shtml)
+
 
 国际分析
 
