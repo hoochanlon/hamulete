@@ -3,6 +3,7 @@
 * 赤壁市人民政府搜索首页：http://www.chibi.gov.cn/site/cb/search.html
 * 赤壁市人民政府政务公开：http://www.chibi.gov.cn/xxgk/xxgkml/gysyjs/ggflfw/
 * 计算机设计分工模型研究：http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2021111915
+* 中港美股票市场的深度投资研究工具：https://stock.us/cn/
 
 城市投资建设
 
