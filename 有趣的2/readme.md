@@ -1,10 +1,20 @@
 
-一半人生·围城
+论文阅览
 
 * 文献检索：http://cnki.cgl.org.cn/kns55/
+* 南开大学学位论文管理系统：https://libpaper.nankai.edu.cn/classbrowse.action?curtaxid=2
+
+政务教育社会政务规划措施公开
+
 * 赤壁市人民政府搜索首页：http://www.chibi.gov.cn/site/cb/search.html
 * 赤壁市人民政府政务公开：http://www.chibi.gov.cn/xxgk/xxgkml/gysyjs/ggflfw/
+
+社会分工模型
+
 * 计算机设计分工模型研究：http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2021111915
+
+财经基础工具
+
 * 中港美股票市场的深度投资研究工具：https://stock.us/cn/
 * 上海财经大学热门期刊论文：https://qks.shufe.edu.cn/Article
 
@@ -18,7 +28,6 @@
 * [早稻田大学-日本当地中国研究2011](https://www.waseda.jp/prj-wiccs/wp/wp-content/uploads/2011/07/jscc2011.pdf)
 * [人文社會科學研究中心](https://srda.sinica.edu.tw)
 * [J-STAGE - 公共政策研究](https://www.jstage.jst.go.jp/browse/publicpolicystudies/-char/ja)
-
 
 财政
 
