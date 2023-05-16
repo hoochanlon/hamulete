@@ -58,6 +58,7 @@ JP
 * [国立教育政策研究所](https://www.nier.go.jp/contentsearch/)
 * [財務総合政策研究所](https://www.mof.go.jp/pri/research/conference/index.htm)
 * [科学省 -「科学技術・学術政策研究所」](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/benchmark)
+* [独立行政法人经济产业研究所](https://www.rieti.go.jp/cn/publications/summary/14020001.html)
 
 
 
