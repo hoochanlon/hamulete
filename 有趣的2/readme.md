@@ -34,6 +34,8 @@
 * [国立政治大学-论文查询表](https://pf.nccu.edu.tw/PageThesis/Paper?fid=8042)
 * [学术论文-南京财经大学公共财政研究中心](https://cpfr.nufe.edu.cn/yjkt/xslw.htm)
 * [财贸经济 - “ 国家分配论” 的学术史考察及相关争论](http://cmjj.ajcass.org/UploadFile/Issue/tzpcwt2w.pdf)
+* [中国高校社科网-中国政府间财政关系的演变(1949 - 2009)](https://www.sinoss.net/uploadfile/2010/1130/12408.pdf)
+* [北京大学国家发展研究院-分税制改革、财政分权与中国经济增长](https://www.nsd.pku.edu.cn/attachments/faf3cd622daa413ea5bac4b854056b74.pdf)
 
 
 法治公证
