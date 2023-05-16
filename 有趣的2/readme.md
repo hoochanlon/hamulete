@@ -33,6 +33,7 @@
 
 * [国立政治大学-论文查询表](https://pf.nccu.edu.tw/PageThesis/Paper?fid=8042)
 * [学术论文-南京财经大学公共财政研究中心](https://cpfr.nufe.edu.cn/yjkt/xslw.htm)
+* [财贸经济 - “ 国家分配论” 的学术史考察及相关争论](http://cmjj.ajcass.org/UploadFile/Issue/tzpcwt2w.pdf)
 
 
 法治公证
