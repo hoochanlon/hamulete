@@ -20,6 +20,12 @@
 * [J-STAGE - 公共政策研究](https://www.jstage.jst.go.jp/browse/publicpolicystudies/-char/ja)
 
 
+财政
+
+* [国立政治大学-论文查询表](https://pf.nccu.edu.tw/PageThesis/Paper?fid=8042)
+* [学术论文-南京财经大学公共财政研究中心](https://cpfr.nufe.edu.cn/yjkt/xslw.htm)
+
+
 法治公证
 
 * [上海出版社 - 东方公证法学·案例研讨:公证与法治中国](https://www.sh-notary.org.cn/u/cms/www/201901/18113051wrx1.pdf)
