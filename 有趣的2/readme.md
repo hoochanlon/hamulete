@@ -3,6 +3,7 @@
 
 * 文献检索：http://cnki.cgl.org.cn/kns55/
 * 南开大学学位论文管理系统：https://libpaper.nankai.edu.cn/classbrowse.action?curtaxid=2
+* 上海交通大学论文写作规范：https://dmne.sjtu.edu.cn/dmne/wp-content/uploads/2014/05/在职硕学术报告会_开题选题2014Spring.pdf
 
 政务教育社会政务规划措施公开
 
