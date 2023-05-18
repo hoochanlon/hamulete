@@ -48,7 +48,6 @@
 * [赤壁市人民政府 - 律师、公证、司法鉴定等法律服务机构和人员有关基本信息](http://www.chibi.gov.cn/xxgk/xxgkml/gysyjs/ggflfw/202212/t20221227_2910025.shtml)
 
 
-
 信任危机分析与策略
 
 * [重庆大学学报（社科版）- 中国政府信任类型的历史嬗变与现实思考](http://qks.cqu.edu.cn/html/cqdxskcn/2016/1/201601029.htm)
@@ -57,6 +56,7 @@
 * [中山大学中国公共管理研究中心 - 政府信任度的影响因素与提升路径研究_张书维](https://sog.sysu.edu.cn/sites/sog.prod.dpcms8.sysu.edu.cn/files/inline-files/政府信任度的影响因素与提升路径研究_张书维.pdf) （写作背景：新时代特殊时期）
 * [中国人民大学国家发展与战略研究院 - 国发院政策简报第八十期：疫情下的政府公信力研究
 ](http://nads.ruc.edu.cn/upfile/file/20200420145816_318399_37388.pdf)
+* [社会科学辑刊- 社会学研究·社会信任模式的历史变迁](http://www.shkxjk.com/CN/abstract/abstract1351.shtml)
 * https://www.aisixiang.com/data/29751.html
 * https://www.rieti.go.jp/users/kan-si-yu/cn/c221226.html
 
