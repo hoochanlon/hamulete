@@ -57,6 +57,7 @@
 * [中国人民大学国家发展与战略研究院 - 国发院政策简报第八十期：疫情下的政府公信力研究
 ](http://nads.ruc.edu.cn/upfile/file/20200420145816_318399_37388.pdf)
 * [社会科学辑刊- 社会学研究·社会信任模式的历史变迁](http://www.shkxjk.com/CN/abstract/abstract1351.shtml)
+* [湖南省工业和信息化厅 - 政府信任危机的发生机制探析](http://gxt.hunan.gov.cn/xxgk_71033/gzdt/gzdt_3/201208/t20120801_2838820.html)
 * https://www.aisixiang.com/data/29751.html
 * https://www.rieti.go.jp/users/kan-si-yu/cn/c221226.html
 
