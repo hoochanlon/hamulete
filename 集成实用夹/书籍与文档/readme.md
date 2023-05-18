@@ -16,6 +16,7 @@
 
 * https://clibrary.top
 * https://ctext.org/zhs
+* https://doosho.com
 * https://www.owllook.net/
 * https://itpanda.net/book
 * https://epubw.com/102850.html
