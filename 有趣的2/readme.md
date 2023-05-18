@@ -53,7 +53,6 @@
 * [重庆大学学报（社科版）- 中国政府信任类型的历史嬗变与现实思考](http://qks.cqu.edu.cn/html/cqdxskcn/2016/1/201601029.htm)
 * [知乎专栏-中国的信任危机该怎么解决？](https://zhuanlan.zhihu.com/p/557253697?utm_id=0)
 * [湖南省工业和信息化厅 - 政府信任危机的发生机制探析](http://gxt.hunan.gov.cn/xxgk_71033/gzdt/gzdt_3/201208/t20120801_2838820.html)
-* [中山大学中国公共管理研究中心 - 政府信任度的影响因素与提升路径研究_张书维](https://sog.sysu.edu.cn/sites/sog.prod.dpcms8.sysu.edu.cn/files/inline-files/政府信任度的影响因素与提升路径研究_张书维.pdf) （写作背景：新时代特殊时期）
 * [中国人民大学国家发展与战略研究院 - 国发院政策简报第八十期：疫情下的政府公信力研究
 ](http://nads.ruc.edu.cn/upfile/file/20200420145816_318399_37388.pdf)
 * [社会科学辑刊- 社会学研究·社会信任模式的历史变迁](http://www.shkxjk.com/CN/abstract/abstract1351.shtml)
@@ -62,6 +61,11 @@
 * https://www.aisixiang.com/data/29751.html
 * https://www.rieti.go.jp/users/kan-si-yu/cn/c221226.html
 
+
+马克思主义学院语言表达魅力
+
+* [中山大学中国公共管理研究中心 - 政府信任度的影响因素与提升路径研究_张书维](https://sog.sysu.edu.cn/sites/sog.prod.dpcms8.sysu.edu.cn/files/inline-files/政府信任度的影响因素与提升路径研究_张书维.pdf) 
+* [江西师范大学马克思主义学院 - 以马克思的工作日思想解析“996现象”](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXots2-UZzY7-jnYHKC3yrndSZf1ldoTaGbPhVVKRUj8hn)
 
 
 国际分析
