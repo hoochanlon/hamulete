@@ -47,6 +47,20 @@
 * [上海出版社 - 东方公证法学·案例研讨:公证与法治中国](https://www.sh-notary.org.cn/u/cms/www/201901/18113051wrx1.pdf)
 * [赤壁市人民政府 - 律师、公证、司法鉴定等法律服务机构和人员有关基本信息](http://www.chibi.gov.cn/xxgk/xxgkml/gysyjs/ggflfw/202212/t20221227_2910025.shtml)
 
+
+
+信任危机分析与策略
+
+* [重庆大学学报（社科版）-中国政府信任类型的历史嬗变与现实思考](http://qks.cqu.edu.cn/html/cqdxskcn/2016/1/201601029.htm)
+* [知乎专栏-中国的信任危机该怎么解决？](https://zhuanlan.zhihu.com/p/557253697?utm_id=0)
+* [湖南省工业和信息化厅-政府信任危机的发生机制探析](http://gxt.hunan.gov.cn/xxgk_71033/gzdt/gzdt_3/201208/t20120801_2838820.html)
+* https://www.aisixiang.com/data/29751.html
+
+
+
+
+
+
 国际分析
 
 * [リサーチ・ナビ「中国の日本研究」](https://rnavi.ndl.go.jp/jp/guides/theme-asia-106.html)
