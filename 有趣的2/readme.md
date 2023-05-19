@@ -6,6 +6,10 @@
 * 上海交通大学论文写作规范：https://dmne.sjtu.edu.cn/dmne/wp-content/uploads/2014/05/在职硕学术报告会_开题选题2014Spring.pdf
 * 华东师范大学论文涉密注意事项：https://u-office.ecnu.edu.cn/_upload/article/files/6d/38/bfe94f5547149504e3f47f5eefe5/5ba31e5d-5846-470e-b503-c814c392b4ce.pdf
 
+论文数据收集辅助
+
+* 智研咨询：https://www.chyxx.com
+
 政务教育社会政务规划措施公开
 
 * 赤壁市人民政府搜索首页：http://www.chibi.gov.cn/site/cb/search.html
