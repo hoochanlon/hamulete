@@ -10,6 +10,8 @@
 
 * 智研咨询：https://www.chyxx.com
 * 国家统计局知识库：http://www.stats.gov.cn/zsk/snapshoot?reference=33e2b9cdb6391521c53328be6244e40b_635F9BD4DE71F957D711CD972E0F8918&siteCode=tjzsk
+* 中国2021年国民经济和社会发展统计公报：http://www.gov.cn/xinwen/2022-02/28/content_5676015.htm
+* [浙江新闻 - 统计局宁吉喆：坚决防范和制止统计造假、弄虚作假](https://zj.zjol.com.cn/news.html?id=559871)
 
 政务教育社会政务规划措施公开
 
