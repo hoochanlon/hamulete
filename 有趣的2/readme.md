@@ -9,6 +9,7 @@
 论文数据收集辅助
 
 * 智研咨询：https://www.chyxx.com
+* 国家统计局知识库：http://www.stats.gov.cn/zsk/snapshoot?reference=33e2b9cdb6391521c53328be6244e40b_635F9BD4DE71F957D711CD972E0F8918&siteCode=tjzsk)
 
 政务教育社会政务规划措施公开
 
