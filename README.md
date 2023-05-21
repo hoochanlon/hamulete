@@ -15,9 +15,6 @@
 
 <h1 align="center"> 免责声明 </h1>
 
-<a href="https://ndltd.ncl.edu.tw" target="_blank">
-<img src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a> 
-
 <p align="center">
 该库并不提供任何的资料，所有内容仅为搬运，仅面向海外华人用户且仅供科研学习之用，切勿用于其他用途！<br>
 中国居民请自觉关闭并在24小时之内删掉与本项目相关的一切内容，否则出现一切问题，项目作者概不负责！<br>
@@ -27,7 +24,8 @@
 
 ## ***Intro***
 
-***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链。***
+***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链。*** <a href="https://ndltd.ncl.edu.tw" target="_blank">
+<img align="right" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a> 
 
 ***[有趣的](有趣的/)、[有趣的2](有趣的2/) 行业研究报告的知识储备库。***
 
