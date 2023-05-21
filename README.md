@@ -2,8 +2,6 @@
 <img src="https://s2.xptou.com/2023/04/23/6445336123f74.jpg">
 </a>
 
-<a href="https://ndltd.ncl.edu.tw" target="_blank">
-<img src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a> 
 
 <!--
 </a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/mof2.PNG" width="250 " height="250" /></a><a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/mof1.PNG" width="250 " height="250" />
@@ -16,6 +14,9 @@
 
 
 <h1 align="center"> 免责声明 </h1>
+
+<a href="https://ndltd.ncl.edu.tw" target="_blank">
+<img src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a> 
 
 <p align="center">
 此 repo 本身并不提供任何的资料，所有内容仅为搬运。<br>
