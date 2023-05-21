@@ -85,6 +85,7 @@
 * [Science Portal Asia Pacific JP- 中国の日本研究](https://spap.jst.go.jp/investigation/downloads/r_2016_07.pdf)
 * [一带一路数据库](https://www.ydylcn.com)
 * [清华大学战略与安全研究中心 - 黄靖：俄乌战争给中国带来的机遇、挑战与选择](http://ciss.tsinghua.edu.cn/info/china_wzft/4693)
+* [中国人民大学国际关系学院-评批判性地缘政治学](http://sis.ruc.edu.cn/kxyj/xszl/053987e8b1e34b2886a24144cdf6296c.htm)
 
 JP
 
