@@ -70,7 +70,7 @@ stack overflow：[fatal: The current branch master has no upstream branch](https
 
 ## ***Star History***
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/seikaii&type=Date)](https://star-history.com/#hoochanlon/seikaii&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/w3-goto-world&type=Date)](https://star-history.com/#hoochanlon/w3-goto-world&Date)
 
 
 <!--
