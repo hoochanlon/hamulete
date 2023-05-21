@@ -27,7 +27,7 @@
 
 ## ***Intro***
 
-***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与S/V/C/QuanX网络链。***
+***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链。***
 
 ***[有趣的](有趣的/)、[有趣的2](有趣的2/) 行业研究报告的知识储备库。***
 
