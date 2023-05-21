@@ -24,7 +24,7 @@
 
 ## ***Intro***
 
-***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链。*** <a href="https://ndltd.ncl.edu.tw" target="_blank">
+***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google等各类镜像站与SS/V2/Clash/QuanX连结。*** <a href="https://ndltd.ncl.edu.tw" target="_blank">
 <img align="right" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a> 
 
 ***[有趣的](有趣的/)、[有趣的2](有趣的2/) 行业研究报告的知识储备库。***
