@@ -1,16 +1,17 @@
+<a><img align="right" src="https://media.tenor.com/zriEbiEkbskAAAAC/攞你命3000.gif"></a>
 
 论文阅览
 
-* 文献检索：http://cnki.cgl.org.cn/kns55/
-* 南开大学学位论文管理系统：https://libpaper.nankai.edu.cn/classbrowse.action?curtaxid=2
-* 上海交通大学论文写作规范：https://dmne.sjtu.edu.cn/dmne/wp-content/uploads/2014/05/在职硕学术报告会_开题选题2014Spring.pdf
-* 华东师范大学论文涉密注意事项：https://u-office.ecnu.edu.cn/_upload/article/files/6d/38/bfe94f5547149504e3f47f5eefe5/5ba31e5d-5846-470e-b503-c814c392b4ce.pdf
+* [知网文献检索](http://cnki.cgl.org.cn/kns55/)
+* [南开大学学位论文管理系统](https://libpaper.nankai.edu.cn/classbrowse.action?curtaxid=2)
+* [上海交通大学论文写作规范](https://dmne.sjtu.edu.cn/dmne/wp-content/uploads/2014/05/在职硕学术报告会_开题选题2014Spring.pdf)
+* [华东师范大学论文涉密注意事项说明](https://u-office.ecnu.edu.cn/_upload/article/files/6d/38/bfe94f5547149504e3f47f5eefe5/5ba31e5d-5846-470e-b503-c814c392b4ce.pdf)
 
 论文数据收集辅助
 
-* 智研咨询：https://www.chyxx.com
-* 国家统计局知识库：http://www.stats.gov.cn/zsk/snapshoot?reference=33e2b9cdb6391521c53328be6244e40b_635F9BD4DE71F957D711CD972E0F8918&siteCode=tjzsk
-* 中国2021年国民经济和社会发展统计公报：http://www.gov.cn/xinwen/2022-02/28/content_5676015.htm
+* [智研咨询](https://www.chyxx.com)
+* [国家统计局知识库](http://www.stats.gov.cn/zsk/snapshoot?reference=33e2b9cdb6391521c53328be6244e40b_635F9BD4DE71F957D711CD972E0F8918&siteCode=tjzsk)
+* [中国2021年国民经济和社会发展统计公报](http://www.gov.cn/xinwen/2022-02/28/content_5676015.htm)
 * [浙江新闻 - 统计局宁吉喆：坚决防范和制止统计造假、弄虚作假](https://zj.zjol.com.cn/news.html?id=559871)
 
 政务教育社会政务规划措施公开
