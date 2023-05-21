@@ -27,6 +27,7 @@
 
 财经基础工具
 
+* 中华人民共和国财政部统计数据：http://gks.mof.gov.cn/tongjishuju/202305/t20230518_3885232.htm
 * 中港美股票市场的深度投资研究工具：https://stock.us/cn/
 * 上海财经大学热门期刊论文：https://qks.shufe.edu.cn/Article
 
