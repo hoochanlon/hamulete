@@ -102,9 +102,9 @@ JP
 
 舆情与辟谣
 
-* https://mf.percent.cn/reportHotEvent
-* https://www.piyao.org.cn/bq/index.htm
-* https://www.piyao.org.cn/yybgt/index.htm
+* 百分点舆情报告：https://mf.percent.cn/reportHotEvent
+* 谣言查询：https://www.piyao.org.cn/pysjk/frontsql.htm
+* 谣言热榜：https://www.piyao.org.cn/yybgt/index.htm
 
 
 other
