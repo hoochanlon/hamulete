@@ -27,7 +27,7 @@
 ***[ScientificInternetAccess](ScientificInternetAccess/) ChatGPT、Google等各类镜像站与SS/V2/Clash/QuanX连结。*** <a href="https://ndltd.ncl.edu.tw" target="_blank">
 <img align="right" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a> 
 
-***[有趣的](有趣的/)、[有趣的2](有趣的2/) 行业研究报告的知识储备库。***
+***[有趣的](有趣的/)、[有趣的2](有趣的2/) [α（AI问答）](α.ipynb) 行业研究报告的知识储备库。***
 
 ***[软件分享及网页备份](软件分享及网页备份/) [集成实用夹](集成实用夹/) [资源存储库 web版](https://hoochanlon.github.io/w3-goto-world/)***
 
