@@ -100,6 +100,13 @@ JP
 * [独立行政法人经济产业研究所](https://www.rieti.go.jp/cn/publications/summary/14020001.html)
 
 
+舆情与辟谣
+
+* https://mf.percent.cn/reportHotEvent
+* https://www.piyao.org.cn/bq/index.htm
+* https://www.piyao.org.cn/yybgt/index.htm
+
+
 other
 
 * 性别是一种生产力：酒吧中的性别景观构建及维系-刘子曦
