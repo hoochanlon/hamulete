@@ -64,8 +64,6 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 
 stack overflow：[fatal: The current branch master has no upstream branch](https://stackoverflow.com/a/50134362)
 
-“大佬”全等于“你就是大名鼎鼎的V”(alias) 😂 真正的大佬都是线下潜水员（master）🤿 不过现在的“大佬”，实际上人人都是大佬。
-
 ## ***Star History***
 
 [![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/w3-goto-world&type=Date)](https://star-history.com/#hoochanlon/w3-goto-world&Date)
