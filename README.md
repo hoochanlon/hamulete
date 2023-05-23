@@ -46,21 +46,21 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 
 **Linux检测脚本、教程、各类镜像***
 
-||||
-|:-:|:-:|:-:|
 |[al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck)|[dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) |[eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)|
+|:-:|:-:|:-:|
+
 
 **简历**
 
-|||
-|:-:|:-:|
 |[Lxxyx/LxxyxResume](https://github.com/Lxxyx/LxxyxResume)|[dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)|
+|:-:|:-:|
+
 
 **其他（仅列举部分）**
 
-||||
-|:-:|:-:|:-:|
 |[bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)|[Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)|[jnv/lists](https://github.com/jnv/lists)|
+|:-:|:-:|:-:|
+
 
 stack overflow：[fatal: The current branch master has no upstream branch](https://stackoverflow.com/a/50134362)
 
