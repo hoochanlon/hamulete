@@ -100,13 +100,17 @@ JP
 * [科学省 -「科学技術・学術政策研究所」](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/benchmark)
 * [独立行政法人经济产业研究所](https://www.rieti.go.jp/cn/publications/summary/14020001.html)
 
-
 舆情与辟谣
 
 * 百分点舆情报告：https://mf.percent.cn/reportHotEvent
 * 谣言查询：https://www.piyao.org.cn/pysjk/frontsql.htm
 * 谣言热榜：https://www.piyao.org.cn/yybgt/index.htm
 
+
+其他统计
+
+* https://trends.builtwith.com
+* https://www.worldometers.info
 
 other
 
