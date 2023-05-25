@@ -31,7 +31,7 @@
 
 ***[有趣的](有趣的/)、[有趣的2](有趣的2/)、[AI问答](僕は存在していなかった.ipynb) 行业研究报告的知识储备库。***
 
-***[软件分享及网页备份](软件分享及网页备份/) [集成实用夹](集成实用夹/) [资源存储库 web版](https://hoochanlon.github.io/resou/)***
+***[软件分享及网页备份](软件分享及网页备份/) [集成实用夹](集成实用夹/) [资源存储库 web版](https://hoochanlon.github.io/hamulete/)***
 
 有趣的东西其实是思想观点聚流，但需要具备较强的独立深度思考能力，把所见所闻信息转化为自己受用的知识；期间还要考虑人文环境及时势、概率、谬误偏差等，这本身就是困难的一件事。就信息整合这块，《睡前消息》确实做得不错，从了解消息到提出问题，提出问题的期间搜集资料，根据资料提出自己的建议，老实说很可以了。
 
@@ -68,8 +68,7 @@ stack overflow：[fatal: The current branch master has no upstream branch](https
 
 ## ***Star History***
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/resou&type=Date)](https://star-history.com/#hoochanlon/resou&Date)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/hamulete&type=Date)](https://star-history.com/#hoochanlon/hamulete&Date)
 
 <!--
 <hr>
