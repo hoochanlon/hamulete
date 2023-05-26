@@ -1,5 +1,4 @@
-<a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/syr.png" width="270 " height="270" /></a>
-**不断遭受社会毒打，面对与弗利萨之间的贫富差距、阶级分化、善弄欺诈的现实，呐喊觉醒成的超级赛亚人。让社会毒打来得更猛烈些吧！此时战斗力一亿五千万！龙珠Z！决战！那美克星！**
+<!-- **不断遭受社会毒打，面对与弗利萨之间的贫富差距、阶级分化、善弄欺诈的现实，呐喊觉醒成的超级赛亚人。让社会毒打来得更猛烈些吧！此时战斗力一亿五千万！龙珠Z！决战！那美克星！** -->
 
 ### 社会学文献信息库
 
@@ -77,6 +76,8 @@ wiki
 * [广西图书馆](http://www.gxlib.org.cn) 、 [浙江图书馆](https://www.zjlib.cn)
 * [燕山大学图书馆-推荐书目](http://library.ysu.edu.cn/content.aspx?id=1915&caid=2)
 
+
+<a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/syr.png" width="270 " height="270" /></a>
 
 日语文献
 
