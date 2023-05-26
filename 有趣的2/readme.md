@@ -22,6 +22,7 @@
 
 社会分工模型、情报收集、渗透
 
+* [百度百科-知沟理论](https://baike.baidu.com/item/知沟理论/6581835?fr=aladdin)
 * 计算机设计分工模型研究：http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2021111915
 * csdn-渗透测试之信息收集：https://blog.csdn.net/weixin_46941346/article/details/113055125
 * 易百教程-渗透（道德黑客）教程：https://www.yiibai.com/ethical_hacking/netdiscover.html
