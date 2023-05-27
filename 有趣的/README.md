@@ -27,6 +27,7 @@
 * [心理测量者-人资心理题库](https://bluepload.unstable.life/8d3b5bw0.zip)
 * [深圳智库](http://szzklm.sz.gov.cn)
 * https://github.com/industry-report
+* https://www.haoqikan.com
 
 wiki
 
