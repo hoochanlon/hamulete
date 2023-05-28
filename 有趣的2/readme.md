@@ -7,6 +7,7 @@
 * [南开大学学位论文管理系统](https://libpaper.nankai.edu.cn/classbrowse.action?curtaxid=2)
 * [上海交通大学论文写作规范](https://dmne.sjtu.edu.cn/dmne/wp-content/uploads/2014/05/在职硕学术报告会_开题选题2014Spring.pdf)
 * [华东师范大学论文涉密注意事项说明](https://u-office.ecnu.edu.cn/_upload/article/files/6d/38/bfe94f5547149504e3f47f5eefe5/5ba31e5d-5846-470e-b503-c814c392b4ce.pdf)
+* [国立台湾大学中华传播学会论文刊](http://ccstaiwan.org/historyPaper.asp?PC_ID=18)
 
 论文数据收集辅助
 
