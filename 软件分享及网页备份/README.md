@@ -7,6 +7,7 @@
 * [423down](https://www.423down.com)、[懒得勤快](https://masuit.com)、[胡萝卜周(RIP，感谢有你。)](https://www.zhihu.com/question/530078477/answer/2458656992)、[大眼仔](http://www.dayanzai.me)、[驿站网](https://www.yzw12.com) [软件部落（台湾）](http://softblog.tw)
 * 搜·搜·搜，网盘搜索神器，Magic：https://www.chaonengsou.com/
 * bootser driver下载驱动加速：https://1.0.0.1
+* win10/win11更新凶器：https://greatis.com/stopupdates10
 * github代码爬取：https://grep.app
 * 版权大山都压不住的野毛子，带上 трещина 用谷歌搜破解
   * https://www.tntmac.com （Mac）
