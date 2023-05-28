@@ -26,6 +26,8 @@
 
 ## ***Intro***
 
+🏔️ChatGPT、系统程序各类镜像、国立台湾大学、国立新加坡大学、早稻田大学、东京大学、中国内陆与香港重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
+
 ***[ScientificInternetAccess](有趣的/0%20魔幻现实主义与理想间的交织破碎/) ChatGPT、Google等各类镜像站与SS/V2/Clash/QuanX连结。*** <a href="https://ndltd.ncl.edu.tw" target="_blank">
 <img align="right" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a> 
 
