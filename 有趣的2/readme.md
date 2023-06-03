@@ -28,7 +28,7 @@
 * 计算机设计分工模型研究：http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2021111915
 * csdn-渗透测试之信息收集：https://blog.csdn.net/weixin_46941346/article/details/113055125
 * 易百教程-渗透（道德黑客）教程：https://www.yiibai.com/ethical_hacking/netdiscover.html
-* https://btnews.ktlab.io
+* 睡前消息存档：https://btnews.ktlab.io
 
 财经基础工具
 
