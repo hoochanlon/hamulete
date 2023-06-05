@@ -43,6 +43,7 @@ ban ip check  http://ip111.cn
  * https://chatbot.theb.ai
  * https://chat.wuguokai.cn/#/chat/1683510502659
  * https://chat1.aichatos.com/#/chat/1681313544674
+ * https://gpt.tool00.com
  * https://chatgpt.nianbroken.top
  * https://github.com/xx025/carrot
  * https://chat.bygpt.com
