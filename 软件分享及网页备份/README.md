@@ -138,12 +138,22 @@ Windows
 
 ### 驱动下载
 
-* 驱动数据库：https://cn.driverscollection.com
+驱动数据库
+
+* https://cn.driverscollection.com
+* https://www.driverguide.com
+* https://www.helpdrivers.com
+* https://driversdownloader.com
+
+
+第三方驱动软件
+
+* [安兔兔-驱动天使](http://www.qudongtianshi.com)
+* [chemicalfiber/Anti-DrvCeo](https://github.com/chemicalfiber/Anti-DrvCeo) （DIY总裁封装等，去广告，删捆绑）
 * [SamDrivers](http://driveroff.net/sam)
 * [DriverPack ](https://driverpack.io/zh-cn)
 * [3dp](http://www.3dpchip.com/3dp/chip.php?driver=dp_bench)
-* [chemicalfiber/Anti-DrvCeo](https://github.com/chemicalfiber/Anti-DrvCeo) （DIY总裁封装等，去广告，删捆绑）
-* [安兔兔-驱动天使](http://www.qudongtianshi.com)
+* https://driveridentifier.com
 
 
 ###  support flash
