@@ -1,3 +1,7 @@
+### 2023
+
+* https://livebook.manning.com/book/powershell-in-depth/chapter-33/
+
 ### 2022
 
 ```
