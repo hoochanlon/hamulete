@@ -1,7 +1,3 @@
-<a href="http://tul.blog.ntu.edu.tw/archives/19642">
-<img src="https://s2.xptou.com/2023/04/23/6445336123f74.jpg">
-</a>
-
 
 <!--
 </a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/mof2.PNG" width="250 " height="250" /></a><a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/mof1.PNG" width="250 " height="250" />
@@ -30,6 +26,10 @@
 
 ***[ScientificInternetAccess](有趣的/0%20魔幻现实主义与理想间的交织破碎/) ChatGPT、Google等各类镜像站与SS/V2/Clash/QuanX连结。*** <a href="https://ndltd.ncl.edu.tw" target="_blank">
 <img align="right" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a> 
+
+<a href="http://tul.blog.ntu.edu.tw/archives/19642">
+  <img width="345" alt="tw_u" src="https://github.com/hoochanlon/hamulete/assets/35732922/c78ff3a6-087e-4c00-90e5-e7ffaec8af70">
+</a>
 
 ***[有趣的](有趣的/)、[有趣的2](有趣的2/)、[AI问答](僕は存在していなかった.ipynb) 行业研究报告的知识储备库。***
 
