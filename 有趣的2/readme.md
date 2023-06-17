@@ -19,6 +19,7 @@
 * [浙江新闻 - 统计局宁吉喆：坚决防范和制止统计造假、弄虚作假](https://zj.zjol.com.cn/news.html?id=559871)
 * [IOM - 世界移民报告 2022](https://publications.iom.int/system/files/pdf/WMR-2022-CH.pdf)
 * [不同年龄段孩子的心理特点及沟通方式](https://www.deruimu.com/content/content_detail?id=2902)
+* [腾讯社会研究中心-中老年互联网生活研究报告](https://tengyun.tencent.com/storage/source180712/files/中老年互联网生活研究报告.pdf)
 
 政务教育社会政务规划措施公开
 
@@ -118,6 +119,13 @@ JP
 
 * https://trends.builtwith.com
 * https://www.worldometers.info
+
+犯罪心理学分析（诈骗）
+
+* [陈宇-天津师范大学心理学部，天津- 老年人受骗的现状及风险因素](https://pdf.hanspub.org/ASS20210600000_99694559.pdf)
+* [中国信通院 - 新形势下电信网络诈骗治理研究报告(2020年)](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202012/P020201218393889946295.pdf)
+* [清华大学- 防范电信网络诈骗手册](https://peace.tsinghua.edu.cn/__local/3/51/88/DCDC9E06666CEDB3075A1C257B4_CE06F1F8_680DF3.pdf)
+
 
 other
 
