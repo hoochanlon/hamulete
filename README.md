@@ -25,10 +25,10 @@
 🏔️ 国立台湾大学、国立中央大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 
 ***[ScientificInternetAccess](有趣的/0%20魔幻现实主义与理想间的交织破碎/) ChatGPT、Google等各类镜像站与SS/V2/Clash/QuanX连结。*** <a href="https://ndltd.ncl.edu.tw" target="_blank">
-<img align="right" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a> 
+<img align="right" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a>
 
-<a href="http://tul.blog.ntu.edu.tw/archives/19642">
-  <img width="345" alt="tw_u" src="https://github.com/hoochanlon/hamulete/assets/35732922/c78ff3a6-087e-4c00-90e5-e7ffaec8af70">
+<br><a href="http://tul.blog.ntu.edu.tw/archives/19642">
+  <img align="right" width="345" alt="tw_u" src="https://github.com/hoochanlon/hamulete/assets/35732922/c78ff3a6-087e-4c00-90e5-e7ffaec8af70">
 </a>
 
 ***[有趣的](有趣的/)、[有趣的2](有趣的2/)、[AI问答](僕は存在していなかった.ipynb) 行业研究报告的知识储备库。***
