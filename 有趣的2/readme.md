@@ -17,6 +17,7 @@
 * [中国2021年国民经济和社会发展统计公报](http://www.gov.cn/xinwen/2022-02/28/content_5676015.htm)
 * [浙江新闻 - 统计局宁吉喆：坚决防范和制止统计造假、弄虚作假](https://zj.zjol.com.cn/news.html?id=559871)
 * [IOM - 世界移民报告 2022](https://publications.iom.int/system/files/pdf/WMR-2022-CH.pdf)
+* [不同年龄段孩子的心理特点及沟通方式](https://www.deruimu.com/content/content_detail?id=2902)
 
 政务教育社会政务规划措施公开
 
