@@ -100,6 +100,7 @@ Office for Mac
 sudo /usr/bin/osascript -e "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/hoochanlon/ihs-simple/main/serializer_office_for_mac2021.AppleScript)"
 ```
 
+
 ### Windows/Office下载
 
 Windows
@@ -124,6 +125,7 @@ Windows
 * https://mrmacintosh.com/blog
 * https://mirrors.cernet.edu.cn
 
+可维修等级：https://www.ifixit.com
 
 ### winPE/启动盘
 
