@@ -16,9 +16,6 @@
 同时，尊重他人隐私和观点，切勿恶意妄加不必要的狂热主义情绪臆测！
 </p>
 
-<a href="有趣的/0%20魔幻现实主义与理想间的交织破碎/" target="_blank">
-<img align="right" width="160" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png"></a>
-
 # ***城中村哈姆雷特***
 
 <a href="https://ndltd.ncl.edu.tw" target="_blank">
@@ -31,6 +28,10 @@
 ## ***Intro***
 
 🏔️ 国立台湾大学、国立中央大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
+
+<a href="有趣的/0%20魔幻现实主义与理想间的交织破碎/" target="_blank">
+<img align="right" width="160" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png"></a>
+
 
 ***[ScientificInternetAccess](有趣的/0%20魔幻现实主义与理想间的交织破碎/) ChatGPT、Google等各类镜像站与SS/V2/Clash/QuanX连结。*** 
 
