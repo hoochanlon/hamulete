@@ -16,13 +16,17 @@
 同时，尊重他人隐私和观点，切勿恶意妄加不必要的狂热主义情绪臆测！
 </p>
 
+<a href="有趣的/0%20魔幻现实主义与理想间的交织破碎/" target="_blank">
+<img align="right" width="160" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png"></a>
+
 # ***城中村哈姆雷特***
 
 <a href="https://ndltd.ncl.edu.tw" target="_blank">
 <img align="right" width="200" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a>
 <a href="http://tul.blog.ntu.edu.tw/archives/19642">
   <img align="right" width="260" alt="tw_u" src="https://github.com/hoochanlon/hamulete/assets/35732922/c78ff3a6-087e-4c00-90e5-e7ffaec8af70">
-</a><br>
+</a>
+<br>
 
 ## ***Intro***
 
