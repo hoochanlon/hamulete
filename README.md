@@ -15,9 +15,17 @@
 请自觉关闭并在24小时之内删掉与本项目相关的一切内容，否则出现一切问题，项目作者概不负责！<br>
 同时，尊重他人隐私和观点，切勿恶意妄加不必要的狂热主义情绪臆测！
 </p>
-<hr>
 
-<h1 align="center"><i> 城中村哈姆雷特 </i></h1>
+# 城中村哈姆雷特 
+
+<img align="right" width="345" src="https://github.com/hoochanlon/hamulete/assets/35732922/7970e6bf-27cc-4815-8760-6c01fd5232b0">
+
+<a href="https://ndltd.ncl.edu.tw" target="_blank">
+<img align="right" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a>
+
+<a href="http://tul.blog.ntu.edu.tw/archives/19642">
+  <img align="right" width="345" alt="tw_u" src="https://github.com/hoochanlon/hamulete/assets/35732922/c78ff3a6-087e-4c00-90e5-e7ffaec8af70">
+</a>
 
 
 ## ***Intro***
@@ -31,13 +39,6 @@
 ***[软件分享及网页备份](软件分享及网页备份/) [集成实用夹](集成实用夹/) [资源存储库 web版](https://hoochanlon.github.io/hamulete/)***
 
 有趣的东西其实是思想观点聚流，但需要具备较强的独立深度思考能力，把所见所闻信息转化为自己受用的知识；期间还要考虑人文环境及时势、概率、谬误偏差等，这本身就是困难的一件事。就信息整合这块，《睡前消息》确实做得不错，从了解消息到提出问题，提出问题的期间搜集资料，根据资料提出自己的建议，老实说很可以了。
-
-<a href="http://tul.blog.ntu.edu.tw/archives/19642">
-  <img align="right" width="345" alt="tw_u" src="https://github.com/hoochanlon/hamulete/assets/35732922/c78ff3a6-087e-4c00-90e5-e7ffaec8af70">
-</a>
-<br>
-<a href="https://ndltd.ncl.edu.tw" target="_blank">
-<img align="right" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a>
 
 ## ***PR, Sponsored, participation***
 
