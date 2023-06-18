@@ -174,6 +174,7 @@ wiki
 * [维基百科-乌合麒麟 参见部分](https://zh.wikipedia.org/wiki/乌合麒麟)
 * [联合早报-时事漫画家“阿涂”离港](https://www.kzaobao.com/bolg/20220426/115680.html)
 * [知乎-有哪些含有讽刺意味的新闻漫画值得分享？](https://www.zhihu.com/question/20618553)
+* [Banned or Suppressed Publications & Ideas in India](https://bannedthought.net/India/index.htm)
 
 鸡鹅同讲
 
