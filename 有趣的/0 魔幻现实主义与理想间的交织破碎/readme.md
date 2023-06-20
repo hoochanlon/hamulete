@@ -78,6 +78,11 @@ ban ip check  http://ip111.cn
  * https://www.cnblogs.com/csyh/p/chatgpt.html
 
 
+github
+
+* http://github.aroex.ml
+* http://kgithub.com
+
 iOS未越狱设备选择性地自动科学，且多款Shadowrocket规则带广告过滤功能
 
 * https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules
