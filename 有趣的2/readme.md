@@ -2,7 +2,8 @@
 
 台湾
 
-* [國家科學及技術委員會補助專題研究計畫報告 - 女性生育自主權的保障與挑戰─性別與醫療化的觀點](https://taiwan-gist.nknu.edu.tw/images/110/110-37--.pdf)([臺灣通識教育策略聯盟暨品質策進會 國立中山大學 西灣學院](http://www.nwgest.org.tw/wSite/mp?mp=nwgest))
+* [國家科學及技術委員會補助專題研究計畫報告 - 女性生育自主權的保障與挑戰─性別與醫療化的觀點](https://taiwan-gist.nknu.edu.tw/images/110/110-37--.pdf)
+* [臺灣通識教育策略聯盟暨品質策進會 國立中山大學 西灣學院](http://www.nwgest.org.tw/wSite/mp?mp=nwgest)
 * [國家圖書館漢學研究中心](https://ccs.ncl.edu.tw)
 * [台灣國際研究季刊](http://www.tisanet.org/quarterly/quarterly.htm)
 * [国立台湾大学中华传播学会论文刊](http://ccstaiwan.org/historyPaper.asp?PC_ID=18)
