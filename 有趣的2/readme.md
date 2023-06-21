@@ -10,6 +10,7 @@
 * [國家圖書館漢學研究中心](https://ccs.ncl.edu.tw)
 * [台灣國際研究季刊](http://www.tisanet.org/quarterly/quarterly.htm)
 * [文化研究年會 2021](https://www.csat.org.tw/Years.aspx?ID=91&ek=138&pg=1&d=)
+* [臺灣社會學刊](https://www.tjs.org.tw)
 * [东吴大学-台湾人权学刊](https://www.taiwanhrj.org)
 * [行政院體育委員會-專題研究計畫(十一)·弱勢族群與運動](https://www.sa.gov.tw/Resource/Other/f1451372175554.pdf)
 * [法務部全球資訊網-刑事政策與犯罪研究論文集](https://www.moj.gov.tw/Public/Files/200801/811415291089.pdf)
@@ -29,6 +30,7 @@
 
 日本
 
+* [国立国会図書館サーチ](https://iss.ndl.go.jp)
 * [日本中國學會](http://nippon-chugoku-gakkai.org/?p=420)
 * [总务省-『情報通信政策研究』](https://www.soumu.go.jp/iicp/journal/journal_03-02.html)
 * [国立情報学研究所 (NII)](https://ci.nii.ac.jp/naid/500001464371/)
