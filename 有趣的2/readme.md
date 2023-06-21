@@ -3,6 +3,8 @@
 论文阅览
 
 * [国立台湾大学中华传播学会论文刊](http://ccstaiwan.org/historyPaper.asp?PC_ID=18)
+* [东吴大学-台湾人权学刊](https://www.taiwanhrj.org)
+* [大阪市立大学-人权问题研究中心](http://www.rchr.osaka-cu.ac.jp)
 * [知网文献检索](http://cnki.cgl.org.cn/kns55/)
 * [知网论文查重](http://wk.zhiwangvip.com/index/cnxfj)
 * [南开大学学位论文管理系统](https://libpaper.nankai.edu.cn/classbrowse.action?curtaxid=2)
@@ -109,12 +111,16 @@ JP
 * [科学省 -「科学技術・学術政策研究所」](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/benchmark)
 * [独立行政法人经济产业研究所](https://www.rieti.go.jp/cn/publications/summary/14020001.html)
 
+* 卡内基基金会：https://carnegieendowment.org/publications/
+* 
+
+
+
 舆情与辟谣
 
 * 百分点舆情报告：https://mf.percent.cn/reportHotEvent
 * 谣言查询：https://www.piyao.org.cn/pysjk/frontsql.htm
 * 谣言热榜：https://www.piyao.org.cn/yybgt/index.htm
-
 
 其他统计
 
