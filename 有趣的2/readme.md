@@ -13,6 +13,7 @@
 
 * [国立台湾大学中华传播学会论文刊](http://ccstaiwan.org/historyPaper.asp?PC_ID=18)
 * [台灣國際研究季刊](http://www.tisanet.org/quarterly/quarterly.htm)
+* [國家圖書館漢學研究中心](https://ccs.ncl.edu.tw)
 * [东吴大学-台湾人权学刊](https://www.taiwanhrj.org)
 
 
