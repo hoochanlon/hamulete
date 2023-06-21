@@ -4,7 +4,7 @@
 
 (一)
 
-
+* [中央研究院社會學研究所 - 專任研究人員](https://www.ios.sinica.edu.tw/people/fellow.php)
 * [臺灣通識教育策略聯盟暨品質策進會 國立中山大學 西灣學院](http://www.nwgest.org.tw/wSite/mp?mp=nwgest)
 * [國立政治大學學術集成](https://ah.nccu.edu.tw)
 * [國家圖書館漢學研究中心](https://ccs.ncl.edu.tw)
@@ -17,7 +17,6 @@
 
 
 （二）
-
 
 * [国立台湾大学中华传播学会论文刊](http://ccstaiwan.org/historyPaper.asp?PC_ID=18)
 * [政大圖書館- 晚清《啟蒙晝報》的圖像符虢學研究 國立政治大學傳播學院博士班 學位論文](https://ah.nccu.edu.tw/bitstream/140.119/137202/1/350601.pdf)
