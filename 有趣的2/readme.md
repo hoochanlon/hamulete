@@ -15,6 +15,8 @@
 * [台灣國際研究季刊](http://www.tisanet.org/quarterly/quarterly.htm)
 * [國家圖書館漢學研究中心](https://ccs.ncl.edu.tw)
 * [东吴大学-台湾人权学刊](https://www.taiwanhrj.org)
+* [文化研究年會 2021](https://www.csat.org.tw/Years.aspx?ID=91&ek=138&pg=1&d=)
+* [法務部全球資訊網-刑事政策與犯罪研究論文集](https://www.moj.gov.tw/Public/Files/200801/811415291089.pdf)
 
 
 日本
