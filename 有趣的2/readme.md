@@ -2,15 +2,31 @@
 
 论文阅览
 
-* [国立台湾大学中华传播学会论文刊](http://ccstaiwan.org/historyPaper.asp?PC_ID=18)
-* [东吴大学-台湾人权学刊](https://www.taiwanhrj.org)
-* [大阪市立大学-人权问题研究中心](http://www.rchr.osaka-cu.ac.jp)
 * [知网文献检索](http://cnki.cgl.org.cn/kns55/)
 * [知网论文查重](http://wk.zhiwangvip.com/index/cnxfj)
 * [南开大学学位论文管理系统](https://libpaper.nankai.edu.cn/classbrowse.action?curtaxid=2)
 * [上海交通大学论文写作规范](https://dmne.sjtu.edu.cn/dmne/wp-content/uploads/2014/05/在职硕学术报告会_开题选题2014Spring.pdf)
 * [华东师范大学论文涉密注意事项说明](https://u-office.ecnu.edu.cn/_upload/article/files/6d/38/bfe94f5547149504e3f47f5eefe5/5ba31e5d-5846-470e-b503-c814c392b4ce.pdf)
 * [中国科技术语-行文用语规范](http://www.term.org.cn/CN/1673-8578/home.shtml)
+
+台湾
+
+* [国立台湾大学中华传播学会论文刊](http://ccstaiwan.org/historyPaper.asp?PC_ID=18)
+* [台灣國際研究季刊](http://www.tisanet.org/quarterly/quarterly.htm)
+* [东吴大学-台湾人权学刊](https://www.taiwanhrj.org)
+
+
+日本
+
+* [日本中國學會](http://nippon-chugoku-gakkai.org/?p=420)
+* [总务省-『情報通信政策研究』](https://www.soumu.go.jp/iicp/journal/journal_03-02.html)
+* [国立情報学研究所 (NII)](https://ci.nii.ac.jp/naid/500001464371/)
+* [国立教育政策研究所](https://www.nier.go.jp/contentsearch/)
+* [大阪市立大学-人权问题研究中心](http://www.rchr.osaka-cu.ac.jp)
+* [財務総合政策研究所](https://www.mof.go.jp/pri/research/conference/index.htm)
+* [科学省 -「科学技術・学術政策研究所」](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/benchmark)
+* [独立行政法人经济产业研究所](https://www.rieti.go.jp/cn/publications/summary/14020001.html)
+
 
 
 论文数据收集辅助
@@ -101,19 +117,8 @@
 * [清华大学战略与安全研究中心 - 黄靖：俄乌战争给中国带来的机遇、挑战与选择](http://ciss.tsinghua.edu.cn/info/china_wzft/4693)
 * [中国人民大学国际关系学院-评批判性地缘政治学](http://sis.ruc.edu.cn/kxyj/xszl/053987e8b1e34b2886a24144cdf6296c.htm)
 
-JP
-
-* [日本中國學會](http://nippon-chugoku-gakkai.org/?p=420)
-* [总务省-『情報通信政策研究』](https://www.soumu.go.jp/iicp/journal/journal_03-02.html)
-* [国立情報学研究所 (NII)](https://ci.nii.ac.jp/naid/500001464371/)
-* [国立教育政策研究所](https://www.nier.go.jp/contentsearch/)
-* [財務総合政策研究所](https://www.mof.go.jp/pri/research/conference/index.htm)
-* [科学省 -「科学技術・学術政策研究所」](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/benchmark)
-* [独立行政法人经济产业研究所](https://www.rieti.go.jp/cn/publications/summary/14020001.html)
 
 * 卡内基基金会：https://carnegieendowment.org/publications/
-* 
-
 
 
 舆情与辟谣
