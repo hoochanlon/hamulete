@@ -17,6 +17,7 @@
 * [东吴大学-台湾人权学刊](https://www.taiwanhrj.org)
 * [文化研究年會 2021](https://www.csat.org.tw/Years.aspx?ID=91&ek=138&pg=1&d=)
 * [法務部全球資訊網-刑事政策與犯罪研究論文集](https://www.moj.gov.tw/Public/Files/200801/811415291089.pdf)
+* [國家科學及技術委員會補助專題研究計畫報告 - 女性生育自主權的保障與挑戰─性別與醫療化的觀點](https://taiwan-gist.nknu.edu.tw/images/110/110-37--.pdf)([臺灣通識教育策略聯盟暨品質策進會 國立中山大學 西灣學院](http://www.nwgest.org.tw/wSite/mp?mp=nwgest))
 
 
 日本
