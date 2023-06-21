@@ -28,9 +28,6 @@
 * [國家科學及技術委員會補助專題研究計畫報告 - 女性生育自主權的保障與挑戰─性別與醫療化的觀點](https://taiwan-gist.nknu.edu.tw/images/110/110-37--.pdf)
 
 
-
-
-
 日本
 
 * [日本中國學會](http://nippon-chugoku-gakkai.org/?p=420)
@@ -51,7 +48,8 @@
 * [上海交通大学论文写作规范](https://dmne.sjtu.edu.cn/dmne/wp-content/uploads/2014/05/在职硕学术报告会_开题选题2014Spring.pdf)
 * [华东师范大学论文涉密注意事项说明](https://u-office.ecnu.edu.cn/_upload/article/files/6d/38/bfe94f5547149504e3f47f5eefe5/5ba31e5d-5846-470e-b503-c814c392b4ce.pdf)
 * [华东师范大学教育科学版学报 - 后结构主义者的论争及其对于教育学的几种影响:转向理论](https://hdsfdxjkb.xml-journal.net/cn/article/doi/10.16382/j.cnki.10005560.1995.01.005?viewType=HTML)
-* [中国科技术语-行文用语规范](http://www.term.org.cn/CN/1673-8578/home.shtml)
+* [中国科技术语 - 行文用语规范](http://www.term.org.cn/CN/1673-8578/home.shtml)
+* [南京大学马克思主义社会理论研究中心 - 实践与文本](https://ptext.nju.edu.cn/bb/47/c13407a244551/page.htm)
 
 论文数据收集辅助
 
