@@ -1,23 +1,16 @@
 <a><img align="right" src="https://media.tenor.com/zriEbiEkbskAAAAC/攞你命3000.gif"></a>
 
-论文阅览
-
-* [知网文献检索](http://cnki.cgl.org.cn/kns55/)
-* [知网论文查重](http://wk.zhiwangvip.com/index/cnxfj)
-* [南开大学学位论文管理系统](https://libpaper.nankai.edu.cn/classbrowse.action?curtaxid=2)
-* [上海交通大学论文写作规范](https://dmne.sjtu.edu.cn/dmne/wp-content/uploads/2014/05/在职硕学术报告会_开题选题2014Spring.pdf)
-* [华东师范大学论文涉密注意事项说明](https://u-office.ecnu.edu.cn/_upload/article/files/6d/38/bfe94f5547149504e3f47f5eefe5/5ba31e5d-5846-470e-b503-c814c392b4ce.pdf)
-* [中国科技术语-行文用语规范](http://www.term.org.cn/CN/1673-8578/home.shtml)
-
 台湾
 
-* [国立台湾大学中华传播学会论文刊](http://ccstaiwan.org/historyPaper.asp?PC_ID=18)
-* [台灣國際研究季刊](http://www.tisanet.org/quarterly/quarterly.htm)
+* [國家科學及技術委員會補助專題研究計畫報告 - 女性生育自主權的保障與挑戰─性別與醫療化的觀點](https://taiwan-gist.nknu.edu.tw/images/110/110-37--.pdf)([臺灣通識教育策略聯盟暨品質策進會 國立中山大學 西灣學院](http://www.nwgest.org.tw/wSite/mp?mp=nwgest))
 * [國家圖書館漢學研究中心](https://ccs.ncl.edu.tw)
+* [台灣國際研究季刊](http://www.tisanet.org/quarterly/quarterly.htm)
+* [国立台湾大学中华传播学会论文刊](http://ccstaiwan.org/historyPaper.asp?PC_ID=18)
 * [东吴大学-台湾人权学刊](https://www.taiwanhrj.org)
 * [文化研究年會 2021](https://www.csat.org.tw/Years.aspx?ID=91&ek=138&pg=1&d=)
 * [法務部全球資訊網-刑事政策與犯罪研究論文集](https://www.moj.gov.tw/Public/Files/200801/811415291089.pdf)
-* [國家科學及技術委員會補助專題研究計畫報告 - 女性生育自主權的保障與挑戰─性別與醫療化的觀點](https://taiwan-gist.nknu.edu.tw/images/110/110-37--.pdf)([臺灣通識教育策略聯盟暨品質策進會 國立中山大學 西灣學院](http://www.nwgest.org.tw/wSite/mp?mp=nwgest))
+* [中華民國大陸委員會 - 大陸工作參考資料](https://ws.mac.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjk4L2NrZmlsZS8zZDJiMGUyYi1lN2U1LTRlZWYtYTE4ZS0yMTcwYTJlYWE2NjcucGRm&n=MTA55bm05aSn6Zm45bel5L2c5Y%2BD6ICD6LOH5paZLnBkZg%3D%3D)
+
 
 
 日本
@@ -32,6 +25,14 @@
 * [独立行政法人经济产业研究所](https://www.rieti.go.jp/cn/publications/summary/14020001.html)
 
 
+论文阅览
+
+* [知网文献检索](http://cnki.cgl.org.cn/kns55/)
+* [知网论文查重](http://wk.zhiwangvip.com/index/cnxfj)
+* [南开大学学位论文管理系统](https://libpaper.nankai.edu.cn/classbrowse.action?curtaxid=2)
+* [上海交通大学论文写作规范](https://dmne.sjtu.edu.cn/dmne/wp-content/uploads/2014/05/在职硕学术报告会_开题选题2014Spring.pdf)
+* [华东师范大学论文涉密注意事项说明](https://u-office.ecnu.edu.cn/_upload/article/files/6d/38/bfe94f5547149504e3f47f5eefe5/5ba31e5d-5846-470e-b503-c814c392b4ce.pdf)
+* [中国科技术语-行文用语规范](http://www.term.org.cn/CN/1673-8578/home.shtml)
 
 论文数据收集辅助
 
