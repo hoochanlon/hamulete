@@ -2,15 +2,27 @@
 
 台湾
 
+(一)
+
 * [國家科學及技術委員會補助專題研究計畫報告 - 女性生育自主權的保障與挑戰─性別與醫療化的觀點](https://taiwan-gist.nknu.edu.tw/images/110/110-37--.pdf)
 * [臺灣通識教育策略聯盟暨品質策進會 國立中山大學 西灣學院](http://www.nwgest.org.tw/wSite/mp?mp=nwgest)
 * [國家圖書館漢學研究中心](https://ccs.ncl.edu.tw)
+* [國家教育研究院 - 原住民族教育與十二年國教課綱之對話](https://ws.moe.edu.tw/001/Upload/23/relfile/8006/55206/f8842443-3d92-4b2e-841f-0fcd00f59f79.pdf)
+* [行政院體育委員會-專題研究計畫(十一)·弱勢族群與運動](https://www.sa.gov.tw/Resource/Other/f1451372175554.pdf)
+* [法務部全球資訊網-刑事政策與犯罪研究論文集](https://www.moj.gov.tw/Public/Files/200801/811415291089.pdf)
+
+（二）
+
 * [台灣國際研究季刊](http://www.tisanet.org/quarterly/quarterly.htm)
 * [国立台湾大学中华传播学会论文刊](http://ccstaiwan.org/historyPaper.asp?PC_ID=18)
 * [东吴大学-台湾人权学刊](https://www.taiwanhrj.org)
 * [文化研究年會 2021](https://www.csat.org.tw/Years.aspx?ID=91&ek=138&pg=1&d=)
-* [法務部全球資訊網-刑事政策與犯罪研究論文集](https://www.moj.gov.tw/Public/Files/200801/811415291089.pdf)
 * [中華民國大陸委員會 - 大陸工作參考資料](https://ws.mac.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjk4L2NrZmlsZS8zZDJiMGUyYi1lN2U1LTRlZWYtYTE4ZS0yMTcwYTJlYWE2NjcucGRm&n=MTA55bm05aSn6Zm45bel5L2c5Y%2BD6ICD6LOH5paZLnBkZg%3D%3D)
+* [本土諮商心理學學刊-大膽的建構、小心的求證?社會科學本土化的嘗試與挑戰](http://jicp.heart.net.tw/article/JICP1104.pdf)
+* [學習新動力:「自主學習」在十二年國教的多元展現](https://teric.naer.edu.tw/wSite/PDFReader?xmlId=&fileName=1609384031176&format=pdf&OWASP_CSRFTOKEN=Q1WL-RTT1-7JF0-KKIA-1W8N-7AEI-ZRIL-F0MG)
+* [通識學刊:理念與實務 - 兩種批判取向的通識教育進路:批判思考與批判教育學](http://www.nwgest.org.tw/wSite/public/Attachment/f1632905176181.pdf)
+
+
 
 
 
