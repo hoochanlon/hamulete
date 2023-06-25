@@ -59,6 +59,15 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 
 [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)、[indiff/qttabbar](https://github.com/indiff/qttabbar)
 
+## ***contributors***
+
+<a href="https://github.com/hoochanlon/hamulete/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hoochanlon/hamulete" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+
 ## ***Star History***
 
 [![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/hamulete&type=Date)](https://star-history.com/#hoochanlon/hamulete&Date)
