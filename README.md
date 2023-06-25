@@ -45,9 +45,19 @@
 
 <img align="right" width="260" src="https://github.com/hoochanlon/hamulete/assets/35732922/7970e6bf-27cc-4815-8760-6c01fd5232b0">
 
+## ***鸣谢***
+
+fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是18年的事了，还是学生时期，失业一年多那会，从学校出来到社会，懂的都懂，不过现在看起来，也无所谓了。感谢对此 repo 参与的所有人。
+
+<a href="https://github.com/hoochanlon/hamulete/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hoochanlon/hamulete" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 ## ***PR, Sponsored, participation***
 
-fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是18年的事了，还是学生时期，失业一年多那会，从学校出来到社会，懂的都懂，不过现在看起来，也无所谓了。感谢对此 repo 参与的所有人，致中二的青春，折腾不动了。入手GitHub这几年(截止2023.5)，自己呢多多少少也PR、sponsored 过一些项目，这里只列出部分，也许对大家有用吧：
+入手GitHub这几年(截止2023.5)，自己呢多多少少也PR、sponsored 过一些项目，这里只列出部分，也许对大家有用吧：
 
 [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck)、[dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial)、[eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
 
@@ -58,14 +68,6 @@ fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是
 [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)、[Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)、[jnv/lists](https://github.com/jnv/lists)
 
 [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)、[indiff/qttabbar](https://github.com/indiff/qttabbar)
-
-## ***contributors***
-
-<a href="https://github.com/hoochanlon/hamulete/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hoochanlon/hamulete" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
 
 
 ## ***Star History***
