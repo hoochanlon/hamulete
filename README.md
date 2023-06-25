@@ -47,7 +47,7 @@
 
 ## ***鸣谢***
 
-fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来是18年的事了，还是学生时期，失业一年多那会，从学校出来到社会，懂的都懂，不过现在看起来，也无所谓了。感谢对此 repo 参与的所有人。
+fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来已是2018年的事了，那会还是学生时期，失业一年多。从学校出来到社会，一直被社会教育、毒打，懂的都懂。这也是自己尤为重视及关心人文社科文献、以及跨学科应用的原因。不过现在看起来，也无所谓了。感谢对此 repo 参与的所有人。
 
 <a href="https://github.com/hoochanlon/hamulete/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hoochanlon/hamulete" />
