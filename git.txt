@@ -1,6 +1,12 @@
-<#
-'''
-(*
+
+
+### ihs
+
+https://imgbb.com
+https://7up.pics
+https://imgtp.com
+https://mjj.today
+https://imgs.wiki
 
 ### git
 
@@ -54,6 +60,4 @@ example：
 
 `pip3 install jupyter -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com`
 
-*)
-'''
-#>
+
