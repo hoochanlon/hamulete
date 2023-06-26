@@ -16,7 +16,7 @@
 同时，尊重他人隐私和观点，切勿恶意妄加不必要的狂热主义情绪臆测！
 </p>
 
-# ***城中村哈姆雷特***
+# ***城中村哈姆雷特（Slums‘s Hamlet in China）***
 
 <a href="https://ndltd.ncl.edu.tw" target="_blank">
 <img align="right" width="200" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a>
