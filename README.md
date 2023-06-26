@@ -43,17 +43,17 @@
 
 有趣的东西其实是思想观点聚流，但需要具备较强的独立深度思考能力，把所见所闻信息转化为自己受用的知识；期间还要考虑人文环境及时势、概率、谬误偏差等，这本身就是困难的一件事。就信息整合这块，《睡前消息》确实做得不错，从了解消息到提出问题，提出问题的期间搜集资料，根据资料提出自己的建议，老实说很可以了。
 
-<img align="right" width="260" src="https://github.com/hoochanlon/hamulete/assets/35732922/7970e6bf-27cc-4815-8760-6c01fd5232b0">
-
 ## ***鸣谢***
 
-fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来已是2018年的事了，那会还是学生时期，失业一年多。从学校出来到社会，一直被社会教育、毒打，懂的都懂。这也是自己尤为重视及关心人文社科文献、以及跨学科应用的原因。不过现在看起来，也无所谓了。感谢对此 repo 参与的所有人。
+fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来已是2018年的事了，那会还是学生时期，失业一年多。从学校出来到社会，一直被社会教育、毒打，懂的都懂。这也是自己尤为重视及关心人文社科文献、以及跨学科应用的原因。最后感谢参与 PR 的所有人。
 
 <a href="https://github.com/hoochanlon/hamulete/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hoochanlon/hamulete" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+
+<img align="right" width="260" src="https://github.com/hoochanlon/hamulete/assets/35732922/7970e6bf-27cc-4815-8760-6c01fd5232b0">
 
 ## ***PR, Sponsored, participation***
 
