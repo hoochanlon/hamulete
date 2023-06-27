@@ -76,6 +76,11 @@ ban ip check  http://ip111.cn
  * https://cway.top/post/1054.html
  * https://sms-activate.org
  * https://www.cnblogs.com/csyh/p/chatgpt.html
+ * https://fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D
+ * https://www.aishort.top
+ * https://prompthero.com
+ * https://www.imiprompt.com/resources
+ * https://awelwc6s6jd.feishu.cn/base/UAbdbYEskaPtrTscQxrczmLYnpb?table=tblSVCNXgHktfz9K&view=vewPND11b4
 
 
 github
