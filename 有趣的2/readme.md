@@ -165,6 +165,12 @@
 * [清华大学- 防范电信网络诈骗手册](https://peace.tsinghua.edu.cn/__local/3/51/88/DCDC9E06666CEDB3075A1C257B4_CE06F1F8_680DF3.pdf)
 
 
+期刊：
+
+* [参考网 - 论赫伯特·马尔库塞的“单向度” 理论](https://www.fx361.com/page/2021/0910/9368268.shtml)
+* [好期刊](https://www.haoqikan.com)
+* [知乎 - 有哪些优秀的期刊杂志值得推荐？](https://www.zhihu.com/question/22090283/answer/2844299874)
+
 other
 
 * 性别是一种生产力：酒吧中的性别景观构建及维系-刘子曦
