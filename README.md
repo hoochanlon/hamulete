@@ -29,12 +29,11 @@
 <a href="有趣的/0%20魔幻现实主义与理想间的交织破碎/" target="_blank">
 <img align="right" width="160" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png"></a>
 
-
 ***[ScientificInternetAccess](有趣的/0%20魔幻现实主义与理想间的交织破碎/) ChatGPT、Google等各类镜像站与SS/V2/Clash/QuanX连结。*** 
 
 ***[有趣的](有趣的/)、[有趣的2](有趣的2/) 行业研究报告的知识储备库。***
 
-**AI问答示例：[一](サイレントマジョリティー/僕は存在していなかった.ipynb)、[二](サイレントマジョリティー/夜明けまで強がらなくてもいい.ipynb) [（点击这里查看ipynb文件打开方式）](https://blog.reviewnb.com/jupyter-notebook-not-rendering-on-github/)**
+**AI问答示例：[一](https://nbviewer.org/github/hoochanlon/hamulete/blob/master/サイレントマジョリティー/僕は存在していなかった.ipynb)、[二](https://nbviewer.org/github/hoochanlon/hamulete/blob/master/サイレントマジョリティー/夜明けまで強がらなくてもいい.ipynb)**
 
 ***[软件分享及网页备份](软件分享及网页备份/) [集成实用夹](集成实用夹/) [资源存储库 web版](https://hoochanlon.github.io/hamulete/)***
 
