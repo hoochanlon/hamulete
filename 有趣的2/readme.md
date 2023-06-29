@@ -53,6 +53,7 @@
 * [中国科技术语 - 行文用语规范](http://www.term.org.cn/CN/1673-8578/home.shtml)
 * [南京大学马克思主义社会理论研究中心 - 实践与文本](https://ptext.nju.edu.cn/bb/47/c13407a244551/page.htm)
 * [北京大学社会学系 社会学人类学研究所·系庆·发刊词](http://www.shehui.pku.edu.cn/second/index.aspx?nodeid=2042)
+* [澳典词典 - 查词语用法](https://cidian.odict.net)
 
 论文数据收集辅助
 
