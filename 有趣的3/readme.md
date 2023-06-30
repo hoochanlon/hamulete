@@ -4,6 +4,8 @@
 * https://www.mathsisfun.com
 * https://www.purplemath.com
 
+知乎 - 有什么学习数学的好网站？ https://www.zhihu.com/question/19559151
+
 学术搜索库
 
 * 清华大学图书馆推荐网络学术站点系统：https://wr.lib.tsinghua.edu.cn
