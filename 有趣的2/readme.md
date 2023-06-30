@@ -30,6 +30,8 @@
 
 日本
 
+（一）
+
 * [国立国会図書館サーチ](https://iss.ndl.go.jp)
 * [日本中國學會](http://nippon-chugoku-gakkai.org/?p=420)
 * [总务省-『情報通信政策研究』](https://www.soumu.go.jp/iicp/journal/journal_03-02.html)
@@ -43,6 +45,17 @@
 * [社会学研究所　大東文化大学](https://www.daito.ac.jp/research/laboratory/sociology/publication/annals/details_15_32897.html)
 * [爱知大学论文库](https://aichiu.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=808&pn=1&count=20&order=16&lang=japanese&page_id=13&block_id=17)
 
+（二）
+
+
+* [社会学者个人博客](https://terukisanada.com/profile/)
+* [日本社会学会](https://jss-sociology.org/news/public/events/20221108post-13821/)
+* [日本社会学系联盟](http://socconso.com/introduction/index.html)
+* [日本学术会议](https://www.scj.go.jp/ja/gakkai/G00184.html)
+* [国立情报研究所-社会学](https://ci.nii.ac.jp/ncid/AN00109550#anc-resource)
+* [东北社会学年报](https://tohoku-sociology.org)
+* [東北大学 社会学研究室](https://www2.sal.tohoku.ac.jp/soc/cgi-bin/wiki.cgi?page=%C5%EC%CB%CC%BC%D2%B2%F1%B3%D8%B8%A6%B5%E6%B2%F1)
+* [日本教育社会学会](https://jses-web.jp)
 
 论文阅览
 
@@ -58,6 +71,7 @@
 * [北京大学社会学系 社会学人类学研究所·系庆·发刊词](http://www.shehui.pku.edu.cn/second/index.aspx?nodeid=2042)
 * [澳典词典 - 查词语用法](https://cidian.odict.net)
 * [谷粉学术聚合站点](https://www.gufen.net)
+* [学术之家](https://shxyj.xueshu.com)
 
 论文数据收集辅助
 
@@ -69,6 +83,8 @@
 * [不同年龄段孩子的心理特点及沟通方式](https://www.deruimu.com/content/content_detail?id=2902)
 * [腾讯社会研究中心-中老年互联网生活研究报告](https://tengyun.tencent.com/storage/source180712/files/中老年互联网生活研究报告.pdf)
 * [bilibili - 英国打清朝时，百姓们为啥不自发抵抗呢？](https://www.bilibili.com/video/BV1uj411X7pD)
+* [社会人类学中国网](http://www.sachina.edu.cn/journal-and-data/journal-rss.html)
+* [中国社会科学院民族学与人类学研究所](http://103.247.176.245/iea/index.htm)
 * https://datacommons.org
 
 政务教育社会政务规划措施公开
