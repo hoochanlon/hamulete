@@ -4,7 +4,9 @@
 * https://www.mathsisfun.com
 * https://www.purplemath.com
 
-知乎 - 有什么学习数学的好网站？ https://www.zhihu.com/question/19559151
+知乎：
+* https://www.zhihu.com/question/19559151
+* https://zhuanlan.zhihu.com/p/134308017
 
 学术搜索库
 
