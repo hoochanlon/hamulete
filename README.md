@@ -14,7 +14,7 @@
 
 该库并不提供任何资料，所有内容均为搬运。仅面向海外华人及社科研究者，切勿用于其他用途！大陆地区请自觉关闭，并在24小时之内删掉与本项目相关的一切内容。否则出现一切问题，项目作者概不负责！<br>
 
-# ***城中村哈姆雷特（Slums‘s Hamlet in China）***
+# ***城中村哈姆雷特***
 
 <a href="https://ndltd.ncl.edu.tw" target="_blank">
 <img align="right" width="200" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a>
