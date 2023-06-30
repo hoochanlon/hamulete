@@ -39,6 +39,7 @@
 * [財務総合政策研究所](https://www.mof.go.jp/pri/research/conference/index.htm)
 * [科学省 -「科学技術・学術政策研究所」](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/benchmark)
 * [独立行政法人经济产业研究所](https://www.rieti.go.jp/cn/publications/summary/14020001.html)
+* [日本学刊](http://www.rbxk.org)
 
 
 论文阅览
@@ -54,7 +55,7 @@
 * [南京大学马克思主义社会理论研究中心 - 实践与文本](https://ptext.nju.edu.cn/bb/47/c13407a244551/page.htm)
 * [北京大学社会学系 社会学人类学研究所·系庆·发刊词](http://www.shehui.pku.edu.cn/second/index.aspx?nodeid=2042)
 * [澳典词典 - 查词语用法](https://cidian.odict.net)
-* [谷粉学术](https://www.gufen.net)
+* [谷粉学术聚合站点](https://www.gufen.net)
 
 论文数据收集辅助
 
