@@ -1,3 +1,9 @@
+数学
+
+* https://www.mathplanet.com
+* https://www.mathsisfun.com
+* https://www.purplemath.com
+
 学术搜索库
 
 * 清华大学图书馆推荐网络学术站点系统：https://wr.lib.tsinghua.edu.cn
