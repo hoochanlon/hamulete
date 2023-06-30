@@ -40,6 +40,8 @@
 * [科学省 -「科学技術・学術政策研究所」](https://www.nistep.go.jp/research/science-and-technology-indicators-and-scientometrics/benchmark)
 * [独立行政法人经济产业研究所](https://www.rieti.go.jp/cn/publications/summary/14020001.html)
 * [日本学刊](http://www.rbxk.org)
+* [社会学研究所　大東文化大学](https://www.daito.ac.jp/research/laboratory/sociology/publication/annals/details_15_32897.html)
+* [爱知大学论文库](https://aichiu.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=808&pn=1&count=20&order=16&lang=japanese&page_id=13&block_id=17)
 
 
 论文阅览
