@@ -1,3 +1,5 @@
+### main
+
 [什么是白皮书、蓝皮书、红皮书、黄皮书、绿皮书？ ](https://www.sohu.com/a/472589858_120296460)
 
   * [德勤中国研究《月度经济概览》](https://www2.deloitte.com/cn/zh/pages/about-deloitte/articles/deloitte-research-monthly-report.html)
@@ -7,8 +9,13 @@
 
 
 
+### other
 
+大学生
 
+* 择校生活质量：https://colleges.chat
+* 教育优惠等：https://github.com/ivmm/Student-resources
+* 教育部高校名单：http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202206/t20220617_638352.html
 
 AI工具：
 
