@@ -4,6 +4,8 @@
 
 数学：
 
+简介
+
 * https://fanpusci.blog.caixin.com/archives/265869 财新网简介
 * https://blog.sciencenet.cn/blog-401820-1383173.html 一线数学教师应在三方面提升认识水平
 * http://jszy.whu.edu.cn/anfengwen/zh_CN/jxzy/225196/content/1024.htm 武汉大学教师个人主页
@@ -17,6 +19,8 @@
 * https://www.mathsisfun.com （[中文版](https://www.shuxuele.com)）
 * https://www.worksheetworks.com
 * https://www.purplemath.com
+* https://openstax.org
+* https://libretexts.org
 * https://corbettmaths.com
 * http://www.dzkbw.com/books/rjb/gaozhong-shuxue/
 * http://www.mathchina.com/bbs/
