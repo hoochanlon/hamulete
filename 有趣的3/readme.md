@@ -29,6 +29,10 @@
 * https://bbs.emath.ac.cn/forum.php
 * https://www.math.org.cn
 
+（二）
+
+* https://cooc.tp.edu.tw
+* https://www.newtonpress.co.jp
 
 个人博客系列（数学）
 
