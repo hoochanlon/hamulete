@@ -1,3 +1,5 @@
+香槟酒盗版资源维基：https://champagne.pages.dev
+
 数学：
 
 * https://fanpusci.blog.caixin.com/archives/265869 财新网简介
