@@ -1,6 +1,6 @@
 ## 城中村ハムレット（Slums's Hamlet in China）
 
-<a href="https://github.com/hoochanlon/hamulete/edit/master/README.md"> 日本語 </a> | <a href="./README.md"> 中文 </a> 
+<a href="https://github.com/hoochanlon/hamulete/blob/master/README_JP.md"> 日本語 </a> | <a href="./README.md"> 中文 </a> 
 
 <!--**免责声明（Disclaimer)**
 
