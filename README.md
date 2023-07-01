@@ -25,14 +25,14 @@
 
 ## ***Intro***
 
-🏔️国立台湾大学、国立政治大学、新加坡国立大学、早稻田大学、东京大学，以及中国重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
+🏔️国立台湾大学、国立政治大学、新加坡国立大学、早稻田大学、东京大学，以及中国重点高校及科研机构，社科、经济、数学、系统工程类学术论文等知识库。
 
 <a href="有趣的/0%20魔幻现实主义与理想间的交织破碎/" target="_blank">
 <img align="right" width="160" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png"></a>
 
 ***[ScientificInternetAccess](有趣的/0%20魔幻现实主义与理想间的交织破碎/) ChatGPT、Google等各类镜像站与SS/V2/Clash/QuanX连结。*** 
 
-***[有趣的](有趣的/)、[有趣的2](有趣的2/) 行业研究报告的知识储备库。***
+***[有趣的](有趣的/)、[有趣的2](有趣的2/)、[有趣的3](有趣的3/) 行业研究报告的知识储备库。***
 
 **AI问答示例：[一](https://nbviewer.org/github/hoochanlon/hamulete/blob/master/サイレントマジョリティー/僕は存在していなかった.ipynb)、[二](https://nbviewer.org/github/hoochanlon/hamulete/blob/master/サイレントマジョリティー/夜明けまで強がらなくてもいい.ipynb)**
 
