@@ -6,6 +6,8 @@
   * [2023中国消费者洞察 与市场展望白皮书](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/consumer-business/deloitte-cn-cb-consumer-insight-zh-230118.pdf)
   * [罗兰贝格-预见2023-中国行业趋势报告](https://www.rolandberger.com/zh/Insights/Publications/罗兰贝格-预见2023-中国行业趋势报告.html)
   * [大华银行- 2023年经济展望](https://www.uob.com.sg/assets/pdfs/investment-marketoutlook-2023-zh.pdf)
+  * [2023麦肯锡 中国消费者报告 韧性时代](https://www.mckinsey.com.cn/wp-content/uploads/2022/12/20221208_China-consumer-report-CN.pdf)
+  * [艾瑞咨询 - 2023年中国消费者洞察白皮书](https://pdf.dfcfw.com/pdf/H3_AP202305121586532765_1.pdf?1683912453000.pdf)
 
 
 
