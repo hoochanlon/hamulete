@@ -71,6 +71,7 @@
 * ssrn：https://www.ssrn.com/index.cfm/en/
 * bookgoldmine：https://www.bookgoldmine.com
 * sciseek: https://sciseek.com
+* futurelearn：https://www.futurelearn.com
 
 
 报社数据库
