@@ -9,6 +9,7 @@
   * [2023麦肯锡 中国消费者报告 韧性时代](https://www.mckinsey.com.cn/wp-content/uploads/2022/12/20221208_China-consumer-report-CN.pdf)
   * [艾瑞咨询 - 2023年中国消费者洞察白皮书](https://pdf.dfcfw.com/pdf/H3_AP202305121586532765_1.pdf?1683912453000.pdf)
   * [CCI-report-Chinese-Consumers-of-the-Future-Generation-Shifts-Mar-2023-CHN](https://media-publications.bcg.com/CCI-report-Chinese-Consumers-of-the-Future-Generation-Shifts-Mar-2023-CHN.pdf)
+  * [中国人民大学国家发展与战略研究院 - 夯实复苏基础的2023年中国宏观经济](http://ier.ruc.edu.cn/docs/2023-06/e223c6fae2a74566b7781ed776d015a4.pdf)
 
 
 
