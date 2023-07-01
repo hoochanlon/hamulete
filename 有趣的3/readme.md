@@ -1,7 +1,9 @@
 数学
 
 * https://www.mathplanet.com
+* https://www.ixl.com/math
 * https://www.mathsisfun.com
+* https://www.worksheetworks.com
 * https://www.purplemath.com
 
 知乎：
