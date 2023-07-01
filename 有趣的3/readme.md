@@ -1,4 +1,6 @@
-香槟酒盗版资源维基：https://champagne.pages.dev
+* 香槟酒盗版资源维基：https://champagne.pages.dev
+* 文件资源搜索：https://filepursuit.com
+* 免费ppt模版：https://www.greatppt.com
 
 数学：
 
