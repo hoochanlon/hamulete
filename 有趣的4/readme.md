@@ -13,6 +13,7 @@
   * [CCI-report-Chinese-Consumers-of-the-Future-Generation-Shifts-Mar-2023-CHN](https://media-publications.bcg.com/CCI-report-Chinese-Consumers-of-the-Future-Generation-Shifts-Mar-2023-CHN.pdf)
   * [中国人民大学国家发展与战略研究院 - 夯实复苏基础的2023年中国宏观经济](http://ier.ruc.edu.cn/docs/2023-06/e223c6fae2a74566b7781ed776d015a4.pdf)
   * [【粤开宏观】拨云见日：2023 年中国宏观经济展望](https://pdf.dfcfw.com/pdf/H3_AP202211221580484581_1.pdf?1669148804000.pdf)
+  * [imf - 经济呈现韧性迹象，中国迎来重新开放，但全球经济仍将进一步放缓](https://www.imf.org/zh/Blogs/Articles/2023/01/30/global-economy-to-slow-further-amid-signs-of-resilience-and-china-re-opening)
   * [香港贸发局 - 2023年及以后的中国经济前景](https://research.hktdc.com/sc/article/MTMyMTE3ODAyNA)
   * [BBC - 2023中国经济展望：中央经济工作会议透露不寻常信号](https://www.bbc.com/zhongwen/simp/chinese-news-64039860)
 
