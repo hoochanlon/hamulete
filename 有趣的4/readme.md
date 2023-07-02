@@ -24,7 +24,8 @@
  * [南开大学行为经济学研究中心 - 有关行为微观经济学的一些研究资料](https://economics.nankai.edu.cn/2021/0404/c23943a349257/page.htm)
  * [湖南工学院 - 《微观经济学》教案](https://www.hnit.edu.cn/__local/1/18/DC/89213108202A3AEC10E0C7E00F2_20FDA19C_DC000.doc?e=.doc)
 
-[厦门大学 - 现代经济学体系的基本脉络](https://core.ac.uk/download/41345113.pdf)
+[厦门大学 - 现代经济学体系的基本脉络](https://core.ac.uk/download/41345113.pdf) <br>
+[湖南农业大学 - 应用经济学人才培养](https://yjsy.hunau.edu.cn/xkjs/xzzx_5556/201709/P020170927544192709692.pdf)
 
 
 ### other
