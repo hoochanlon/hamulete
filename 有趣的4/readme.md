@@ -25,7 +25,7 @@
  * [湖南工学院 - 《微观经济学》教案](https://www.hnit.edu.cn/__local/1/18/DC/89213108202A3AEC10E0C7E00F2_20FDA19C_DC000.doc?e=.doc)
 
 [厦门大学 - 现代经济学体系的基本脉络](https://core.ac.uk/download/41345113.pdf) <br>
-[湖南农业大学 - 应用经济学人才培养](https://yjsy.hunau.edu.cn/xkjs/xzzx_5556/201709/P020170927544192709692.pdf)
+[湖南农业大学 - 应用经济学学科介绍与人才培养](https://yjsy.hunau.edu.cn/xkjs/xzzx_5556/201709/P020170927544192709692.pdf)
 
 
 ### other
