@@ -17,11 +17,15 @@
 
 微观观察
 
+[IMF - 宏观经济学与微观经济学](https://www.imf.org/zh/Blogs/Articles/2023/01/30/global-economy-to-slow-further-amid-signs-of-resilience-and-china-re-opening)
+
  * [艾瑞咨询 - 2023年中国消费者洞察白皮书](https://pdf.dfcfw.com/pdf/H3_AP202305121586532765_1.pdf?1683912453000.pdf)
  * [2023麦肯锡 中国消费者报告 韧性时代](https://www.mckinsey.com.cn/wp-content/uploads/2022/12/20221208_China-consumer-report-CN.pdf)
  * [南开大学行为经济学研究中心 - 有关行为微观经济学的一些研究资料](https://economics.nankai.edu.cn/2021/0404/c23943a349257/page.htm)
+ * [湖南工学院 - 《微观经济学》教案](https://www.hnit.edu.cn/__local/1/18/DC/89213108202A3AEC10E0C7E00F2_20FDA19C_DC000.doc?e=.doc)
 
-[IMF - 宏观经济学与微观经济学](https://www.imf.org/zh/Blogs/Articles/2023/01/30/global-economy-to-slow-further-amid-signs-of-resilience-and-china-re-opening)
+[厦门大学 - 现代经济学体系的基本脉络](https://core.ac.uk/download/41345113.pdf)
+
 
 ### other
 
