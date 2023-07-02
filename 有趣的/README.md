@@ -14,6 +14,7 @@
 * [贴吧热议-哪些事上了大学才知道？](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=13099934&topic_name=哪些事上了大学才知道？)
 * [知乎-有哪些是你真正进入社会才懂得的道理？](https://www.zhihu.com/question/297880330/answers/updated)
 * [知乎-什么是有孩子之后才知道的事？](https://www.zhihu.com/question/456245328)
+* [知乎 - 到底经历了什么，才会让一个二十出头的年轻人对生活失去希望?](https://www.zhihu.com/question/335463073) （小说题材灵感来源）
 * [微博话题-社保挂靠代缴已被明确为违法](https://s.weibo.com/weibo?q=社保挂靠代缴已被明确为违法)
 * [新修订的《征兵工作条例》公布，有哪些信息值得关注？- 知乎](https://www.zhihu.com/question/595309486/answer/2982887636)
 * [俄罗斯将启用电子征兵传票，严打逃避征兵者，如何评价该法案？将带来哪些影响？](https://www.zhihu.com/question/595107569)
