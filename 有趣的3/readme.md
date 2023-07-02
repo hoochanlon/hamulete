@@ -2,7 +2,7 @@
 * 文件资源搜索：https://filepursuit.com
 * 免费ppt模版：https://www.greatppt.com
 
-数学：
+### 数学
 
 简介
 
@@ -14,6 +14,7 @@
 
 （一）
 
+* https://book.douban.com/subject/35238473/
 * http://www.cashl.edu.cn/index.php/kfhqzy/?page=0
 * https://www.mathplanet.com
 * https://www.ixl.com/math
@@ -45,7 +46,7 @@
 * https://www.zhihu.com/question/19559151
 * https://zhuanlan.zhihu.com/p/134308017
 
-学术搜索库
+### 学术搜索库
 
 * 清华大学图书馆推荐网络学术站点系统：https://wr.lib.tsinghua.edu.cn
 * 河北经贸大学免费期刊索引：https://lib.hueb.edu.cn/szzy/mfzydy/qk.htm
@@ -78,7 +79,7 @@
 * futurelearn：https://www.futurelearn.com
 
 
-报社数据库
+### 报社数据库
 
 * 中国近代报刊数据库：https://tk.cepiec.com.cn/SP/
 * 全国报刊索引：https://www.cnbksy.com/home
@@ -86,7 +87,7 @@
 * 光明日报数据库：http://epaper.gmw.cn/gmrbdb/
 * 人民日报数据库：http://data.people.com.cn/rmrb/20230630/1?code=2
 
-学术论坛：
+### 学术论坛
 
 http://www.lib.seu.edu.cn/list.php?fid=78 东南大学学术交流导航简介
 
@@ -105,7 +106,6 @@ http://www.lib.seu.edu.cn/list.php?fid=78 东南大学学术交流导航简介
 * https://www.meeting.edu.cn/zh 中国学术会议在线
 * http://www.bio.net（外网）
 * https://www.cwauthors.com.cn/article/platforms2 （外网）
-
 
 
 other
