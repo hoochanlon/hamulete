@@ -27,6 +27,11 @@
 [厦门大学 - 现代经济学体系的基本脉络](https://core.ac.uk/download/41345113.pdf) <br>
 [湖南农业大学 - 应用经济学学科介绍与人才培养](https://yjsy.hunau.edu.cn/xkjs/xzzx_5556/201709/P020170927544192709692.pdf)
 
+风险社会
+
+* [中国知网协办 - 风险社会：概念的提出及研究进展](http://www.xml-data.org/KXYSH/html/22ddadf4-325e-41ce-b447-82a9129abf51.htm)
+* [中国农业大学人文与发展学院 - 风险社会的研究述评](https://cohd.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=1608242010578831327.pdf)
+
 
 ### other
 
