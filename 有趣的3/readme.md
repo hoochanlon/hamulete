@@ -9,12 +9,15 @@
 * https://fanpusci.blog.caixin.com/archives/265869 财新网简介
 * https://blog.sciencenet.cn/blog-401820-1383173.html 一线数学教师应在三方面提升认识水平
 * http://jszy.whu.edu.cn/anfengwen/zh_CN/jxzy/225196/content/1024.htm 武汉大学教师个人主页
+* https://fe.bnu.edu.cn/pc/cms1info/resume/50/184 北师大数学教授主页
 
 正题开始
 
 （一）
 
 * https://book.douban.com/subject/35238473/
+* https://zh.khanacademy.org
+* https://mathispower4u.com/general-interest.php
 * http://www.cashl.edu.cn/index.php/kfhqzy/?page=0
 * https://www.mathplanet.com
 * https://www.ixl.com/math
@@ -45,6 +48,11 @@
 
 * https://www.zhihu.com/question/19559151
 * https://zhuanlan.zhihu.com/p/134308017
+
+待证明：
+
+* https://www.163.com/dy/article/DU26V9TR0529V9GP.html
+* https://jsfz.hqu.edu.cn/info/1042/2382.htm
 
 ### 学术搜索库
 
