@@ -32,6 +32,11 @@
 * [中国知网协办 - 风险社会：概念的提出及研究进展](http://www.xml-data.org/KXYSH/html/22ddadf4-325e-41ce-b447-82a9129abf51.htm)
 * [中国农业大学人文与发展学院 - 风险社会的研究述评](https://cohd.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=1608242010578831327.pdf)
 
+信任危机
+
+* [腾讯研究院 - 互联网中比经济危机更恐怖的是什么？信任危机！](https://tisi.org/4688)
+* [郑永年 黄彦杰：中国的社会信任危机](https://www.aisixiang.com/data/40393.html)
+
 
 ### other
 
