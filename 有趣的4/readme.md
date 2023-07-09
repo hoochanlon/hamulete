@@ -35,7 +35,7 @@
 信任危机
 
 * [腾讯研究院 - 互联网中比经济危机更恐怖的是什么？信任危机！](https://tisi.org/4688)
-* [郑永年 黄彦杰：中国的社会信任危机](https://www.aisixiang.com/data/40393.html)
+* [新加坡国立大学东亚研究院 - 郑永年 黄彦杰：中国的社会信任危机](https://www.aisixiang.com/data/40393.html)
 
 
 ### other
