@@ -50,6 +50,7 @@ wiki
 
 * [说我摸，说我摆，谁在意劳动者的无奈？](https://www.bilibili.com/video/BV1ss4y1M72E)
 * [知乎专栏-推荐系统五大陷阱之一：奶头乐内容](https://zhuanlan.zhihu.com/p/481595580)
+* [知乎 - 这个社会为什么不把弱者当回事](https://www.zhihu.com/question/24296936)
 * [南京信息工程大学招聘](https://web.archive.org/web/20230425025024/https://rsc.nuist.edu.cn/2021/0419/c1097a175200/page.htm)
 * [中央党史和文献研究院所属企业2023年度面向全国高校毕业生公开招聘公告](https://web.archive.org/web/20230425025725/http://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202303/t20230308_496444.html)
 * [knoema-提供全球国家公共数据，人口、教育、环境、经济、农业、能源、地理等等数据](https://cn.knoema.com/atlas)
