@@ -38,6 +38,9 @@
 * [新加坡国立大学东亚研究院 - 郑永年 黄彦杰：中国的社会信任危机](https://www.aisixiang.com/data/40393.html)
 * [南京大学社会学院人类学研究所 - 当代中国的“信任危机”](https://sociology.nju.edu.cn/_upload/article/files/b2/e1/6d96e374419faf2c2a868333042d/a2b8ba51-ea6f-40f6-8e8b-fc2e5855e200.pdf)
 
+人类社会活动与经济研究
+
+* [四川大学符号学论坛](http://www.semiotics.net.cn)
 
 ### other
 
