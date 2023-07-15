@@ -45,6 +45,7 @@
 待看
 
 * [南开大学管理评论](https://nbr.nankai.edu.cn/ch/index.aspx)
+* http://www.alljournals.cn
 
 
 ### other
