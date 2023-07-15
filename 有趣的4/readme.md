@@ -42,6 +42,11 @@
 
 * [四川大学符号学论坛](http://www.semiotics.net.cn)
 
+待看
+
+* [南开大学管理评论](https://nbr.nankai.edu.cn/ch/index.aspx)
+
+
 ### other
 
 大学生
