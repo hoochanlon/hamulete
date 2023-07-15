@@ -38,6 +38,7 @@
 * [新加坡国立大学东亚研究院 - 郑永年 黄彦杰：中国的社会信任危机](https://www.aisixiang.com/data/40393.html)
 * [南京大学社会学院人类学研究所 - 当代中国的“信任危机”](https://sociology.nju.edu.cn/_upload/article/files/b2/e1/6d96e374419faf2c2a868333042d/a2b8ba51-ea6f-40f6-8e8b-fc2e5855e200.pdf)
 * [美国国家民主研究所 - 在香港外国记者会的讲话(准备稿)](https://www.ndi.org/sites/default/files/Derek%20FCC%20Remarks%20-%20Simplified%20Chinese.pdf)
+* [郑酋午："国际专制轴心"维持不了多久](http://www.aisixiang.com/data/55372.html)
 
 人类社会活动与经济研究
 
