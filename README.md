@@ -34,9 +34,9 @@
 
 ***[有趣的](有趣的/)、[有趣的2](有趣的2/) 科研机构与高校行业研究报告的知识储备库。***
 
-***[有趣的3](有趣的3/) 图书馆学科导航、数学以及部分相关交叉学科学术论坛汇总***
+***[有趣的3](有趣的3/) 图书馆学科导航、数学以及部分相关交叉学科学术论坛汇总。***
 
-***学习[词汇表](https://github.com/hoochanlon/tetyou/tree/master/学到的新词)与[新概念](https://github.com/hoochanlon/tetyou/tree/master/学到的新概念)***
+***学习[词汇表](https://github.com/hoochanlon/tetyou/tree/master/学到的新词)与[新概念](https://github.com/hoochanlon/tetyou/tree/master/学到的新概念)，方便写文章。***
 
 **AI问答示例：[一](https://nbviewer.org/github/hoochanlon/hamulete/blob/master/サイレントマジョリティー/僕は存在していなかった.ipynb)、[二](https://nbviewer.org/github/hoochanlon/hamulete/blob/master/サイレントマジョリティー/夜明けまで強がらなくてもいい.ipynb)**
 
