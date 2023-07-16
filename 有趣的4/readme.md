@@ -50,7 +50,9 @@
 * [中国人民大学公共管理学 董克用教授- 中国人口老龄化及其经济、社会影响](http://www.sprp-cn.eu/HLE2016/Reports/AGINGDKYCN.pdf)
 
 
+待看：
 
+* [华东师范大学 - 特稿写作 | 一个沈阳工人的两次下岗危机](http://www.comm.ecnu.edu.cn/htmlaction.do?method=toHtmlDetail&htmlId=1850&menuType=34)
 
 
 ### other
