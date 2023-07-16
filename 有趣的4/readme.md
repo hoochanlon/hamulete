@@ -60,6 +60,7 @@
 * 择校生活质量：https://colleges.chat
 * 教育优惠等：https://github.com/ivmm/Student-resources
 * 教育部高校名单：http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202206/t20220617_638352.html
+* [（警惕勃列日涅夫行为影响学术研究导向）](https://www.project-syndicate.org/commentary/xi-jinping-china-economy-rotting-from-the-head-by-daron-acemoglu-2022-10/chinese)
 
 AI工具：
 
