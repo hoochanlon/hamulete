@@ -31,6 +31,7 @@
 
 * [中国知网协办 - 风险社会：概念的提出及研究进展](http://www.xml-data.org/KXYSH/html/22ddadf4-325e-41ce-b447-82a9129abf51.htm)
 * [中国农业大学人文与发展学院 - 风险社会的研究述评](https://cohd.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=1608242010578831327.pdf)
+* [青海社会科学- 中国社会矛盾问题研究述评](http://cohd.cau.edu.cn/main/uploads/COHDFBLW/2009/1-47.pdf) （社会矛盾研究方法）
 
 信任危机
 
