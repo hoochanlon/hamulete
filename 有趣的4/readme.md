@@ -1,6 +1,9 @@
 ### main
 
 * [什么是白皮书、蓝皮书、红皮书、黄皮书、绿皮书？ ](https://www.sohu.com/a/472589858_120296460)
+* [四川大学符号学论坛](http://www.semiotics.net.cn)
+* [南开大学管理评论](https://nbr.nankai.edu.cn/ch/index.aspx)
+* http://www.alljournals.cn
 
 宏观视角
 
@@ -45,14 +48,8 @@
 
 * [中国人民大学公共管理学 董克用教授- 中国人口老龄化及其经济、社会影响](http://www.sprp-cn.eu/HLE2016/Reports/AGINGDKYCN.pdf)
 
-人类社会活动与经济研究
 
-* [四川大学符号学论坛](http://www.semiotics.net.cn)
 
-待看
-
-* [南开大学管理评论](https://nbr.nankai.edu.cn/ch/index.aspx)
-* http://www.alljournals.cn
 
 
 ### other
