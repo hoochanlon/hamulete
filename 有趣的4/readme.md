@@ -2,6 +2,7 @@
 
 * [什么是白皮书、蓝皮书、红皮书、黄皮书、绿皮书？ ](https://www.sohu.com/a/472589858_120296460)
 * [四川大学符号学论坛](http://www.semiotics.net.cn)
+* [外研阅读 ——博弈论](https://i.unistudy.top/book/detail/3762)
 * [南开大学管理评论](https://nbr.nankai.edu.cn/ch/index.aspx)
 * http://www.alljournals.cn
 
