@@ -40,6 +40,10 @@
 * [美国国家民主研究所 - 在香港外国记者会的讲话(准备稿)](https://www.ndi.org/sites/default/files/Derek%20FCC%20Remarks%20-%20Simplified%20Chinese.pdf)
 * [郑酋午："国际专制轴心"维持不了多久](http://www.aisixiang.com/data/55372.html)
 
+国家发展战略课题 ——人口与经济：
+
+* [中国人民大学公共管理学 董克用教授- 中国人口老龄化及其经济、社会影响](http://www.sprp-cn.eu/HLE2016/Reports/AGINGDKYCN.pdf)
+
 人类社会活动与经济研究
 
 * [四川大学符号学论坛](http://www.semiotics.net.cn)
