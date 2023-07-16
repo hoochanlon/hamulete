@@ -36,6 +36,7 @@
 
 ***[有趣的3](有趣的3/) 图书馆学科导航、数学以及部分相关交叉学科学术论坛汇总***
 
+***学习[词汇表](tetyou/学到的新词)与[新概念](tetyou/学到的新概念)***
 
 **AI问答示例：[一](https://nbviewer.org/github/hoochanlon/hamulete/blob/master/サイレントマジョリティー/僕は存在していなかった.ipynb)、[二](https://nbviewer.org/github/hoochanlon/hamulete/blob/master/サイレントマジョリティー/夜明けまで強がらなくてもいい.ipynb)**
 
