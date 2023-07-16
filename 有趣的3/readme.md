@@ -11,12 +11,23 @@
 * http://jszy.whu.edu.cn/anfengwen/zh_CN/jxzy/225196/content/1024.htm 武汉大学教师个人主页
 * https://fe.bnu.edu.cn/pc/cms1info/resume/50/184 北师大数学教授主页
 
+辅助工具
+
+* www.mathway.com ：是一个在线数学问题求解器，可以帮助用户解决各种数学问题，包括代数、几何、微积分等。它还提供了步骤和图形展示，可以帮助用户理解解题过程。
+* www.desmos.com ：是一个在线数学工具，提供了图形绘制和函数可视化的功能。用户可以输入数学公式或方程，Desmos会生成对应的图形，帮助用户直观地理解数学概念。
+* zs.symbolab.com ：是一个数学求解器和教学工具，可以解决各种数学问题，并提供详细的解题步骤和解释。
+* www.wolframalpha.com ：是一个强大的计算引擎，可以回答各种数学问题，包括代数、几何、微积分、概率等。它提供了详细的计算步骤和图形展示，帮助用户理解数学概念和解题方法。
+* webdemo.myscript.com ：手写数学公式并求解，生成latex代码
+* www.overleaf.com ：在线latex编辑器
+
 正题开始
 
 （一）
 
 * https://book.douban.com/subject/35238473/
-* https://zh.khanacademy.org
+* https://zh.khanacademy.org （全年级课程）
+* https://github.com/TapXWorld/ChinaTextbook （国产数学教材）
+* https://github.com/ossu/math
 * https://mathispower4u.com/general-interest.php
 * http://www.cashl.edu.cn/index.php/kfhqzy/?page=0
 * https://www.mathplanet.com
