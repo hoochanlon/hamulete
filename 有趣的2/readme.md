@@ -87,6 +87,7 @@
 * [社会人类学中国网](http://www.sachina.edu.cn/journal-and-data/journal-rss.html)
 * [中国社会科学院民族学与人类学研究所](http://103.247.176.245/iea/index.htm)
 * [ILASOPAC知识平台检索](http://159.75.1.91:8081/ILASOPAC/Index?target=0)
+* [清华大学图书馆推荐网络学术站点系统](http://wr.lib.tsinghua.edu.cn)
 * https://datacommons.org
 
 政务教育社会政务规划措施公开
