@@ -19,6 +19,7 @@
 * www.wolframalpha.com ：是一个强大的计算引擎，可以回答各种数学问题，包括代数、几何、微积分、概率等。它提供了详细的计算步骤和图形展示，帮助用户理解数学概念和解题方法。
 * webdemo.myscript.com ：手写数学公式并求解，生成latex代码
 * www.overleaf.com ：在线latex编辑器
+* https://zh.wikipedia.org/zh-hans/数学符号表
 
 正题开始
 
