@@ -7,6 +7,8 @@
 * 术语在线：https://www.termonline.cn/
 * 厦门大学知识资源港：https://library.xmu.edu.cn/zy/sysjk/1.htm
 * 深言达意：https://www.shenyandayi.com
+* worldcat：https://worldcat.org/zh-cn/
+* magicsearch：https://magicsearch.org/
 
 ### 信息应用科学
 
