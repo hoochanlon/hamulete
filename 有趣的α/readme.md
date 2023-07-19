@@ -9,6 +9,7 @@
 * 深言达意：https://www.shenyandayi.com
 * worldcat：https://worldcat.org/zh-cn/
 * magicsearch：https://magicsearch.org/
+* wipopearl：https://wipopearl.wipo.int/zh/linguistic
 
 ### 信息应用科学
 
