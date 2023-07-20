@@ -163,6 +163,7 @@ Windows
 * [3dp](http://www.3dpchip.com/3dp/chip.php?driver=dp_bench)
 * https://driveridentifier.com
 
+电脑检测手册：https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_4.47.1_ug.pdf
 
 ###  support flash
 
