@@ -52,6 +52,7 @@
 
 * https://tools.pdf24.org
 * https://www.pdfgear.com
+* https://github.com/wmjordan/PDFPatcher
 * https://github.com/pdfarranger/pdfarranger
 
 ### 预热
