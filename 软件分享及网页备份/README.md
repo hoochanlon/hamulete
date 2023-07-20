@@ -2,7 +2,7 @@
 
 ### 工具 链·表
 
-* [不死鸟](https://iui.su/pic.html)、[423down](https://www.423down.com)、[懒得勤快](https://masuit.com)、[胡萝卜周(RIP，感谢有你。)](https://www.zhihu.com/question/530078477/answer/2458656992)、[大眼仔](http://www.dayanzai.me)、[驿站网](https://www.yzw12.com) [软件部落（台湾）](http://softblog.tw)
+*  [软件部落（台湾）](http://softblog.tw)、[不死鸟](https://iui.su/pic.html)、[423down](https://www.423down.com)、[懒得勤快](https://masuit.com)、[胡萝卜周(RIP，感谢有你。)](https://www.zhihu.com/question/530078477/answer/2458656992)、[大眼仔](http://www.dayanzai.me)、[驿站网](https://www.yzw12.com)
 * 搜·搜·搜，网盘搜索神器，Magic：https://www.chaonengsou.com/
 * bootser driver下载驱动加速：https://1.0.0.1
 * win10/win11更新凶器：https://greatis.com/stopupdates10
