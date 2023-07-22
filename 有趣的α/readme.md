@@ -1,3 +1,9 @@
+### 博弈论
+
+* https://github.com/binwangwork/gameTheory （暨南大学博弈论）
+* https://www.game-theory-class.org （斯坦福大学博弈论）
+* http://fdjpkc.fudan.edu.cn/201915/ 复旦大学博弈论
+
 ### 社会学词典
 
 * 大英百科全书 ——社会学：https://www.britannica.com/topic/social-science
