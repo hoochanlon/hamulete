@@ -49,6 +49,14 @@
 
 * [中国人民大学公共管理学 董克用教授- 中国人口老龄化及其经济、社会影响](http://www.sprp-cn.eu/HLE2016/Reports/AGINGDKYCN.pdf)
 
+地缘政治学
+
+* [北京大学 - 世界经济与政治·北约东扩与美俄中的地缘政治 1997 年第 1 期](https://www.sis.pku.edu.cn/teachers/docs/20190904105547031840.PDF)
+* [国策研究院文教基金会（台湾） - 俄罗斯入侵乌克兰：认同差异与地缘政治冲突
+崔琳 (淡江大学欧洲研究所副教授)](http://inpr.org.tw/m/405-1728-23974,c113.php?Lang=zh-cn)
+* [来读网 - “冷战” 后俄罗斯地缘政治环境的变化](http://47.94.233.156/RMBase/SysJP/Multimedia/Pdf.ashx?ID=155720&contentid=466513&form=browse)
+
+
 
 待看：
 
