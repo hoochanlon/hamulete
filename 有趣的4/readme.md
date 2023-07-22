@@ -49,11 +49,13 @@
 
 * [中国人民大学公共管理学 董克用教授- 中国人口老龄化及其经济、社会影响](http://www.sprp-cn.eu/HLE2016/Reports/AGINGDKYCN.pdf)
 
-地缘政治学
+地缘政治/国际关系学
 
+* [清华大学国际关系研究院 - 体系制衡、地区对冲与中俄关系](http://qjip.tsinghuajournals.com/article/2017/2096-1545/101393D-2017-1-005.shtml)
 * [北京大学国际关系学院 - 世界经济与政治·北约东扩与美俄中的地缘政治 1997 年第 1 期](https://www.sis.pku.edu.cn/teachers/docs/20190904105547031840.PDF)
+* [华东师范大学全球创新与发展研究院 - 杜德斌等：“心脏地带”理论与俄乌冲突](https://iss.ecnu.edu.cn/75/79/c18658a423289/page.htm)
 * [国策研究院文教基金会 - 俄罗斯入侵乌克兰：认同差异与地缘政治冲突
-崔琳 (淡江大学欧洲研究所副教授)](http://inpr.org.tw/m/405-1728-23974,c113.php?Lang=zh-cn)
+崔琳](http://inpr.org.tw/m/405-1728-23974,c113.php?Lang=zh-cn)
 * [来读网 - “冷战” 后俄罗斯地缘政治环境的变化](http://47.94.233.156/RMBase/SysJP/Multimedia/Pdf.ashx?ID=155720&contentid=466513&form=browse)
 
 
