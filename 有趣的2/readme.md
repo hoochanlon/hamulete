@@ -12,6 +12,7 @@
 * [文化研究年會 2021](https://www.csat.org.tw/Years.aspx?ID=91&ek=138&pg=1&d=)
 * [臺灣社會學刊](https://www.tjs.org.tw)
 * [东吴大学-台湾人权学刊](https://www.taiwanhrj.org)
+* [华艺线上图书馆](https://www.airitilibrary.com/Search/alJnlbrowse)
 * [行政院體育委員會-專題研究計畫(十一)·弱勢族群與運動](https://www.sa.gov.tw/Resource/Other/f1451372175554.pdf)
 * [法務部全球資訊網-刑事政策與犯罪研究論文集](https://www.moj.gov.tw/Public/Files/200801/811415291089.pdf)
 * [中華民國大陸委員會 - 大陸工作參考資料](https://ws.mac.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjk4L2NrZmlsZS8zZDJiMGUyYi1lN2U1LTRlZWYtYTE4ZS0yMTcwYTJlYWE2NjcucGRm&n=MTA55bm05aSn6Zm45bel5L2c5Y%2BD6ICD6LOH5paZLnBkZg%3D%3D)
