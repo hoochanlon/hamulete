@@ -1,3 +1,11 @@
+### 就业
+
+* http://www.cier.org.cn 中国就业研究所
+* http://cbnri.org 第一财经研究院
+* [人社信息网 - 2022中国大学生就业趋势调研报告：跨专业就业比例增加，超4成择业“求稳”（2023年2月27日）](https://www.hrssit.cn/info/2829.html)
+* [从“下海潮”到“考公热”：中国就业形势、结构及理念的变迁](https://finance.sina.cn/china/gncj/2021-04-08/detail-ikmyaawa8434629.d.html)
+* [ceicdata - 中国就业人数图](https://www.ceicdata.com/zh-hans/indicator/china/employed-persons)
+
 ### 博弈论
 
 * https://github.com/binwangwork/gameTheory （暨南大学博弈论）
