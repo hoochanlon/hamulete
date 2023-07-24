@@ -1,8 +1,9 @@
 ### 就业
 
-零 生涯规划
+零 课程教材动向与生涯规划
 
-[西南财经大学学生职业规划与就业指导中心 - 教育与辅导](https://job.swufe.edu.cn)
+* [课程教材研究所- 普通高中学生生涯规划教育的现状和趋势](https://www.ncct.edu.cn/periodicals/jing/detail/636.html)
+* [西南财经大学学生职业规划与就业指导中心 - 教育与辅导](https://job.swufe.edu.cn)
 
 一
 
