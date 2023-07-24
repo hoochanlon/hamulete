@@ -11,6 +11,7 @@
 * [中国农业教育 - 就业质量研究述评——以我国农民工为例](http://www.xml-data.org/ZGNYJY/html/9ad4b687-a079-42b1-9a6c-c617cb489add.htm)
 * [中国家庭收入调查（CHIP）数据首页](http://www.ciidbnu.org/chip/index.asp)
 * [中国教育追踪调查](http://ceps.ruc.edu.cn)
+* [北京大学学生就业指导服务中心 - 生源、就业质量信息调查](https://scc.pku.edu.cn/home.action)
 
 二
 
@@ -22,8 +23,9 @@
 
 三
 
-* [北京大学学生就业指导服务中心 - 生源、就业质量信息调查](https://scc.pku.edu.cn/home.action)
-
+* [运营派 - 求职经历复盘：写简历、投简历、面试每个阶段该注意什么问题？](https://www.yunyingpai.com/work/621600.html)
+* [解放日报 - 上海一些机构“假招工真卖课”，有些求职者还陷入连环套工作没找到，却背上2万多“培训贷”](https://www.jfdaily.com/staticsg/res/html/journal/detail.html?date=2023-06-26&id=355107&page=05)
+* [长沙理工大学 - 求职心经 | HR：10分钟让70%的简历变得更专业](https://csust.bysjy.com.cn/detail/news?id=159140)
 
 other
 
