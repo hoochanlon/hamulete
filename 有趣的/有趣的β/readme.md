@@ -27,5 +27,14 @@
 * [解放日报 - 上海一些机构“假招工真卖课”，有些求职者还陷入连环套工作没找到，却背上2万多“培训贷”](https://www.jfdaily.com/staticsg/res/html/journal/detail.html?date=2023-06-26&id=355107&page=05)
 * [长沙理工大学 - 求职心经 | HR：10分钟让70%的简历变得更专业](https://csust.bysjy.com.cn/detail/news?id=159140)
 
+四
+
+* [ACCC - 防诈骗小黑皮书](https://www.accc.gov.au/system/files/The%20Little%20Black%20Book%20of%20Scams%20-%20Chinese%20simplified%20-%20%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.pdf)
+* [河南大中专学生就业创业 -【就业指导】求职“陷阱”套路多，这些骗局你都知道吗？](https://mp.weixin.qq.com/s/dbhsQaolxMmOIFUaGiE5_A)
+* [和君职业学院 - 求职防骗手册 | 高校毕业生必看！](https://www.hejuncollege.com/zsjy/jykt/2222.html)
+* [academic-accelerator - 就业欺诈](https://academic-accelerator.com/encyclopedia/zh-cn/employment-fraud)
+* [中国政府网 - 三部门发布求职招聘十个典型陷阱防范提示](https://www.gov.cn/lianbo/bumen/202306/content_6885712.htm)
+* [湖南省人力资源和社会保障厅　- 毕业生求职“陷阱”套路多...这些骗局你都知道吗？](https://rst.hunan.gov.cn/rst/qta/202306/t20230620_29379785.html)
+
 other
 
