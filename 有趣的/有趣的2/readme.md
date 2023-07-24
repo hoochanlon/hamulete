@@ -29,6 +29,10 @@
 * [國家科學及技術委員會補助專題研究計畫報告 - 女性生育自主權的保障與挑戰─性別與醫療化的觀點](https://taiwan-gist.nknu.edu.tw/images/110/110-37--.pdf)
 
 
+新加坡
+
+* [新加坡国立大学项目 - 官方背景提升项目，结业证书、学术证明信、成绩评定报告、优秀学员证明(优胜小组)2022 暑假](https://iecd.buct.edu.cn/_upload/article/files/3d/a6/81c306ae44df9ae79f4d2fe5b8eb/f6ffe5d9-9494-4380-9307-c6364578e3f6.pdf)
+
 日本
 
 （一）
