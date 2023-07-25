@@ -124,7 +124,7 @@ http://www.lib.seu.edu.cn/list.php?fid=78 东南大学学术交流导航简介
 * http://www.cul-studies.com/Article/view/article_id/332.html 热风学术论坛
 * https://www.gench.edu.cn/kyc/497/list.htm 上海建桥学院学术论坛
 * https://www.meeting.edu.cn/zh 中国学术会议在线
-* http://www.bio.net（外网）
+* http://www.bio.net
 * https://www.cwauthors.com.cn/article/platforms2 （外网）
 
 
