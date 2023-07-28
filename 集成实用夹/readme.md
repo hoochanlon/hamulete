@@ -1,3 +1,12 @@
+
+
+* https://z-lib.io
+* https://zlibrary-africa.se
+* https://bbs.yibook.org
+
+
+---
+
 短链接：http://33h.co/e2ED
 
 ## 找图
