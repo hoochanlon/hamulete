@@ -45,11 +45,12 @@
 * [美国国家民主研究所 - 在香港外国记者会的讲话(准备稿)](https://www.ndi.org/sites/default/files/Derek%20FCC%20Remarks%20-%20Simplified%20Chinese.pdf)
 * [郑酋午："国际专制轴心"维持不了多久](http://www.aisixiang.com/data/55372.html)
 
-人口与经济：
+人口·经济·社会：
 
 * [中国人民大学公共管理学 董克用教授 - 中国人口老龄化及其经济、社会影响](http://www.sprp-cn.eu/HLE2016/Reports/AGINGDKYCN.pdf)
 * [南开大学周恩来政府管理学院 - 现实还是风险“:阶层固化”辨析](http://www.tsyzm.com/CN/article/downloadArticleFile.do?attachType=PDF&id=2269)
 * [社会学研究 - 从资本到惯习：中国城市家庭教育模式阶层分化](http://shxyj.ajcass.org/Admin/UploadFile/Issue/4zlbugdg.pdf)
+* [中国农业大学人文发展学院 - 怎样看待我国社会分层现状](http://cohd.cau.edu.cn/attach/0/NZYFZ0067.pdf)
 
 地缘政治/国际关系学
 
