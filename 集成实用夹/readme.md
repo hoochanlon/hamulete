@@ -3,6 +3,7 @@
 * https://z-lib.io
 * https://zlibrary-africa.se
 * https://bbs.yibook.org
+* https://findbooks.eu.org
 
 
 ---
