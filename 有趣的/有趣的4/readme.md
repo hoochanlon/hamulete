@@ -79,6 +79,13 @@
 * 教育部高校名单：http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202206/t20220617_638352.html
 * [（警惕勃列日涅夫行为影响学术研究导向）](https://www.project-syndicate.org/commentary/xi-jinping-china-economy-rotting-from-the-head-by-daron-acemoglu-2022-10/chinese)
 
+各国的移民要求
+
+* https://www.spacious.hk/zh-tw/blog/投資移民熱門國家/
+* https://www.spacious.hk/zh-tw/blog/技術移民熱門國家-最低學歷要求/
+* https://www.spacious.hk/zh-tw/blog/日本移民懶人包/
+* https://www.spacious.hk/zh-tw/blog/港人愛爾蘭移民懶人包-iip/
+
 AI工具：
 
 * https://topai.tools/t/chat-gpt-demo
