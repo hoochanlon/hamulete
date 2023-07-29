@@ -1,5 +1,9 @@
-
 http://mohu.org/zh/
+
+
+* https://oi-wiki.org/tools/latex/
+* https://github.com/xinychen/latex-cookbook
+* https://zilutian.github.io/latex-tutorial-chinese/
 
 ---
 
