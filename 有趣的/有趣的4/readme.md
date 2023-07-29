@@ -51,6 +51,8 @@
 * [南开大学周恩来政府管理学院 - 现实还是风险“:阶层固化”辨析](http://www.tsyzm.com/CN/article/downloadArticleFile.do?attachType=PDF&id=2269)
 * [社会学研究 - 从资本到惯习：中国城市家庭教育模式阶层分化](http://shxyj.ajcass.org/Admin/UploadFile/Issue/4zlbugdg.pdf)
 * [中国农业大学人文发展学院 - 怎样看待我国社会分层现状](http://cohd.cau.edu.cn/attach/0/NZYFZ0067.pdf)
+* [单位社会的终结 —— 第 四 章 体制转轨与东北 弱势群体问题](http://47.94.233.156/RMBase/SysJP/Multimedia/Pdf.ashx?ID=247396&contentid=769321&form=browse)
+*  [scgti.org-《中国与全球化研究》](http://www.scgti.org/dianzizazhi/《中国与全球化研究》29期.pdf)
 
 地缘政治/国际关系学
 
@@ -63,7 +65,7 @@
 
 
 
-待看：
+<s>待看</s> 已看完：
 
 * [华东师范大学 - 特稿写作 | 一个沈阳工人的两次下岗危机](http://www.comm.ecnu.edu.cn/htmlaction.do?method=toHtmlDetail&htmlId=1850&menuType=34)
 
