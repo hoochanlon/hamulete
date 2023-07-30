@@ -2,6 +2,7 @@ http://mohu.org/zh/
 
 
 * http://tug.ctan.org/info/install-latex-guide-zh-cn/install-latex-guide-zh-cn.pdf
+* http://aff.whu.edu.cn/huangzh/中文LaTeX安装与使用.pdf
 * https://oi-wiki.org/tools/latex/
 * https://github.com/xinychen/latex-cookbook
 * https://zilutian.github.io/latex-tutorial-chinese/
