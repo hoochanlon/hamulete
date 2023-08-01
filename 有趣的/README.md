@@ -95,6 +95,7 @@ wiki
 
 * [东洋经济](https://toyokeizai.net/articles/-/648098?page=3)
 * [东洋文库](https://toyo-bunko.repo.nii.ac.jp)
+* [日清研究所](https://www.nli-research.co.jp/?site=nli) （中国社会保障制度研究）
 * [大和总研](https://www.dir.co.jp/)
 * [RIETI 独立行政法人经济产业研究所](https://www.rieti.go.jp/users/china-tr/jp/ssqs/220202ssqs.html)
 * [埼玉県立図書館](https://www.lib.pref.saitama.jp/reference/hint/cat/link-site.html)
