@@ -5,6 +5,7 @@ http://mohu.org/zh/
 
 入门
 
+* https://uva-fnwi.github.io/LaTeX/
 * http://tug.ctan.org/info/install-latex-guide-zh-cn/install-latex-guide-zh-cn.pdf
 * http://aff.whu.edu.cn/huangzh/中文LaTeX安装与使用.pdf
 * https://oi-wiki.org/tools/latex/
