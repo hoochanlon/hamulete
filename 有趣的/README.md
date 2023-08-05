@@ -82,6 +82,9 @@ wiki
 
 * https://www.yueyao1982.com/index.html
 
+科学文库
+
+https://book.sciencereading.cn
 
 中文文献较多的国家院校及图书馆
 
