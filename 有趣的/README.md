@@ -77,6 +77,7 @@ wiki
 * <a href="https://data.stats.gov.cn/easyquery.htm?cn=C01" target="_blank">国家统计局</a>
 * [联合国报告：世界经济面临巨大阻力 全球经济复苏面临风险不容忽视 ](https://news.un.org/zh/story/2022/01/1097462#:~:text=今天发布的%20联合国%20《2022年世界经济形势与展望》报告表示，由于新一轮,2019冠状病毒病%20疫情，劳动力市场挑战不断，供应链问题得不到解决，加上通胀压力增加，全球经济复苏正面临巨大的阻力%E3%80%82%20报告预测，继2021年经济增长5.5%25后，2022年全球产值预计将仅增长4.0%25，2023年将增长3.5%25%E3%80%82%20此前两天世界银行发布的《全球经济展望》报告同样预计全球经济增长将显著放缓，它所预测的2022年经济增长为4.1%25，2023年为3.2%25%E3%80%82)
 * [复旦大学美国研究中心-国家安全特性的变化与研穷困境](http://www.cas.fudan.edu.cn/picture/1558.pdf)
+* [谢选骏全集-翻译运动的终结](https://books.google.co.jp/books?id=sUvMEAAAQBAJ&pg=PA132&lpg=PA132&dq=俄罗斯乌克兰战争&source=bl&ots=R2VdwSb-nc&sig=ACfU3U0DRj9yBYw6XB7160C9jLyrvBicyA&hl=zh-CN&sa=X&ved=2ahUKEwj8pNO2gMmAAxWmgFYBHavrA9s4HhDoAXoECAkQAg#v=onepage&q=俄罗斯乌克兰战争&f=false)
 
 哲学问答
 
