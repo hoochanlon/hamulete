@@ -222,6 +222,7 @@ IOS 圈X去广告规则收集 quantumultX rule collection
  * win https://github.com/shadowsocks/shadowsocks-windows
  * mac https://github.com/shadowsocks/ShadowsocksX-NG
  * clash：https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/20201120%20.yml
+ * https://github.com/aiboboxx/clashfree
 
 
  WireGuard
