@@ -18,6 +18,7 @@
 * [中華民國大陸委員會 - 大陸工作參考資料](https://ws.mac.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjk4L2NrZmlsZS8zZDJiMGUyYi1lN2U1LTRlZWYtYTE4ZS0yMTcwYTJlYWE2NjcucGRm&n=MTA55bm05aSn6Zm45bel5L2c5Y%2BD6ICD6LOH5paZLnBkZg%3D%3D)
 
 
+
 （二）
 
 * [国立台湾大学中华传播学会论文刊](http://ccstaiwan.org/historyPaper.asp?PC_ID=18)
@@ -27,11 +28,12 @@
 * [學習新動力:「自主學習」在十二年國教的多元展現](https://teric.naer.edu.tw/wSite/PDFReader?xmlId=&fileName=1609384031176&format=pdf&OWASP_CSRFTOKEN=Q1WL-RTT1-7JF0-KKIA-1W8N-7AEI-ZRIL-F0MG)
 * [通識學刊:理念與實務 - 兩種批判取向的通識教育進路:批判思考與批判教育學](http://www.nwgest.org.tw/wSite/public/Attachment/f1632905176181.pdf)
 * [國家科學及技術委員會補助專題研究計畫報告 - 女性生育自主權的保障與挑戰─性別與醫療化的觀點](https://taiwan-gist.nknu.edu.tw/images/110/110-37--.pdf)
-
+* [报道者 - 盲目崇拜塑造獨裁──希特勒神話是怎麼煉成的？](https://www.twreporter.org/a/bookreview-the-myth-of-the-strong-leader-political-leadership-in-the-modern-age)
 
 新加坡
 
 * [新加坡国立大学项目 - 官方背景提升项目，结业证书、学术证明信、成绩评定报告、优秀学员证明(优胜小组)2022 暑假](https://iecd.buct.edu.cn/_upload/article/files/3d/a6/81c306ae44df9ae79f4d2fe5b8eb/f6ffe5d9-9494-4380-9307-c6364578e3f6.pdf)
+* [新加坡国立大学 Source:Lianhe Zaobao,p24 Date:2 March 2018](https://www.nus.edu.sg/newshub/news/2018/2018-03/2018-03-02/regression-ZB-pg24-2Mar.pdf)
 
 日本
 
