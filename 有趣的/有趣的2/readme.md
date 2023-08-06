@@ -62,6 +62,8 @@
 * [東北大学 社会学研究室](https://www2.sal.tohoku.ac.jp/soc/cgi-bin/wiki.cgi?page=%C5%EC%CB%CC%BC%D2%B2%F1%B3%D8%B8%A6%B5%E6%B2%F1)
 * [日本教育社会学会](https://jses-web.jp)
 
+中国*
+
 论文阅览
 
 * [知网文献检索](http://cnki.cgl.org.cn/kns55/)
