@@ -152,6 +152,7 @@
 * [中州学刊-论构建我国社会矛盾预防机制](https://core.ac.uk/download/pdf/41357072.pdf)
 * https://www.aisixiang.com/data/29751.html
 * https://www.rieti.go.jp/users/kan-si-yu/cn/c221226.html
+* https://reurl.cc/r5Gq8Z
 
 
 马克思主义学院语言表达魅力
