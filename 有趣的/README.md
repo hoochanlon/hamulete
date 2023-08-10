@@ -9,6 +9,8 @@
 
 ### 社会学文献信息库
 
+催化剂加：https://www.researchercosmos.com
+
 八卦
 
 * [贴吧热议-哪些事上了大学才知道？](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=13099934&topic_name=哪些事上了大学才知道？)
