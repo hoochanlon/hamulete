@@ -81,6 +81,8 @@
 * [澳典词典 - 查词语用法](https://cidian.odict.net)
 * [谷粉学术聚合站点](https://www.gufen.net)
 * [学术之家](https://shxyj.xueshu.com)
+* [经济金融网](http://down.efnchina.com/list-1373-1.html)
+* [对外贸易大学-《 金融英语阅读 》课程简介](http://jpkc.uibe.chinahcm.cn/jingpin/jpkc2005/courses/eng358j/index.htm)
 
 论文数据收集辅助
 
