@@ -40,12 +40,4 @@
 * [academic-accelerator - 就业欺诈](https://academic-accelerator.com/encyclopedia/zh-cn/employment-fraud)
 * [中国政府网 - 三部门发布求职招聘十个典型陷阱防范提示](https://www.gov.cn/lianbo/bumen/202306/content_6885712.htm)
 * [湖南省人力资源和社会保障厅　- 毕业生求职“陷阱”套路多...这些骗局你都知道吗？](https://rst.hunan.gov.cn/rst/qta/202306/t20230620_29379785.html)
-
-### other
-
-* http://www.dicts.cn
-* http://enpuz.com
-* https://virtualwritingtutor.com
-* https://www.ldoceonline.com/dictionary/
-* https://figshare.com/articles/dataset/3076____xls/7122518/2
 * [联合国 - 人类发展报告 2021/2022](https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22chpdf.pdf)
