@@ -44,5 +44,6 @@
 ### other
 
 * http://www.dicts.cn
+* http://enpuz.com
 * https://figshare.com/articles/dataset/3076____xls/7122518/2
 * [联合国 - 人类发展报告 2021/2022](https://hdr.undp.org/system/files/documents/global-report-document/hdr2021-22chpdf.pdf)
