@@ -1,3 +1,28 @@
+
+
+#### 英语新闻
+
+* https://focustaiwan.tw
+* https://taiwantoday.tw
+* https://www.taipeitimes.com
+* https://english.ftvnews.com.tw
+* https://alpha.japantimes.co.jp
+* https://www.rnz.co.nz/news/chinese-english
+* https://www.tokyo-np.co.jp/article/122949?rct=olympics_in_english
+* http://www.chinadaily.com.cn
+* https://www.globaltimes.cn
+
+
+#### 英语语法
+
+* http://www.dicts.cn
+* http://enpuz.com
+* https://virtualwritingtutor.com
+* https://www.ldoceonline.com/dictionary/
+* https://figshare.com/articles/dataset/3076____xls/7122518/2
+
+#### 订阅
+
 * http://other.caixin.com/e_newsletter/?id=1&email= 财新订阅
 * https://emailing.rfi.fr/cn/subscribe 法广新闻订阅
 * https://www.cna.com.tw 中央社新闻订阅
