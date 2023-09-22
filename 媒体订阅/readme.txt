@@ -9,6 +9,7 @@
 * https://alpha.japantimes.co.jp
 * https://www.rnz.co.nz/news/chinese-english
 * https://www.tokyo-np.co.jp/article/122949?rct=olympics_in_english
+* http://www.china.org.cn/chinese/node_7245066.htm （双语）
 * http://www.chinadaily.com.cn
 * https://www.globaltimes.cn
 
