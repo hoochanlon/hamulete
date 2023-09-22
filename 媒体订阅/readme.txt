@@ -22,6 +22,7 @@
 * https://virtualwritingtutor.com
 * https://www.ldoceonline.com/dictionary/
 * https://figshare.com/articles/dataset/3076____xls/7122518/2
+* https://zhuanlan.zhihu.com/p/349209422 （音标输入）
 
 #### 订阅
 
