@@ -12,7 +12,7 @@
 * http://www.china.org.cn/chinese/node_7245066.htm （双语）
 * http://www.chinadaily.com.cn
 * https://www.globaltimes.cn
-
+* https://zhuanlan.zhihu.com/p/104473574?utm_id=0 （预防针）
 
 #### 英语语法
 
