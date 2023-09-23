@@ -6,6 +6,8 @@
 
 * [國家政策研究基金會](https://www.npf.org.tw/1/2735)
 * [國家圖書館漢學研究中心](https://ccs.ncl.edu.tw)
+* [國人在中國機場轉機應注意事項 - 壹、入出境](https://www.seftb.org/cp-1026-966-5c4d7-1.html)
+* [中華民國大陸委員會 - 大陸工作參考資料](https://ws.mac.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjk4L2NrZmlsZS8zZDJiMGUyYi1lN2U1LTRlZWYtYTE4ZS0yMTcwYTJlYWE2NjcucGRm&n=MTA55bm05aSn6Zm45bel5L2c5Y%2BD6ICD6LOH5paZLnBkZg%3D%3D)
 * [台灣國際研究季刊](http://www.tisanet.org/quarterly/quarterly.htm)
 * [中央研究院社會學研究所 - 專任研究人員](https://www.ios.sinica.edu.tw/people/fellow.php)
 * [臺灣通識教育策略聯盟暨品質策進會 國立中山大學 西灣學院](http://www.nwgest.org.tw/wSite/mp?mp=nwgest)
@@ -16,7 +18,7 @@
 * [华艺线上图书馆](https://www.airitilibrary.com/Search/alJnlbrowse)
 * [行政院體育委員會-專題研究計畫(十一)·弱勢族群與運動](https://www.sa.gov.tw/Resource/Other/f1451372175554.pdf)
 * [法務部全球資訊網-刑事政策與犯罪研究論文集](https://www.moj.gov.tw/Public/Files/200801/811415291089.pdf)
-* [中華民國大陸委員會 - 大陸工作參考資料](https://ws.mac.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMjk4L2NrZmlsZS8zZDJiMGUyYi1lN2U1LTRlZWYtYTE4ZS0yMTcwYTJlYWE2NjcucGRm&n=MTA55bm05aSn6Zm45bel5L2c5Y%2BD6ICD6LOH5paZLnBkZg%3D%3D)
+
 
 
 （二）
