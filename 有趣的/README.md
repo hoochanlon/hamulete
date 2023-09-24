@@ -36,6 +36,10 @@
 * https://github.com/industry-report
 * https://www.haoqikan.com
 * http://ft.newdu.com/Index.html
+* https://www.lishiyushehui.cn/article/item/852
+* https://www.nippon.com/cn/in-depth/d00691/
+* https://www.ruralchina.cn/xcyj/XCReport/onlineReadPage?SiteID=18&Type=literature&ID=5156674
+* http://html.rhhz.net/society/html/2007-02-002.htm
 
 
 wiki
