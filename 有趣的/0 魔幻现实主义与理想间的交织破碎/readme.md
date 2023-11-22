@@ -35,7 +35,6 @@ ban ip check  http://ip111.cn
 
  * https://github.com/binary-husky/gpt_academic （学术优化）
  * https://www.usechatgpt.ai
- * https://hotpot.ai/art-generator
  * https://www.ooopn.com/tool/chatgpt/
  * https://lzw.me/x/chatgpt-sites/
  * https://chat.forchange.cn/
@@ -85,6 +84,14 @@ ban ip check  http://ip111.cn
  * https://www.imiprompt.com/resources
  * https://awelwc6s6jd.feishu.cn/base/UAbdbYEskaPtrTscQxrczmLYnpb?table=tblSVCNXgHktfz9K&view=vewPND11b4
 
+
+AI图像
+
+ * https://hotpot.ai/art-generator
+ * https://playgroundai.com
+ * https://www.img2go.com/ai-art-generator
+ * https://getimg.ai/text-to-image
+ * https://firefly.adobe.com
 
 github
 
