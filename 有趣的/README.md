@@ -13,7 +13,6 @@
 
 八卦
 
-* [國立台灣大學人口與性別研究中心 - 臺灣民眾幸福感變動趨勢:世代、年齡及人格的影響](http://www.psc.ntu.edu.tw/jps/pub/60/assets/人口學刊(60)-02%20劉蓉果.pdf)
 * [國立中央大學 - 性／別研究室新聞整理](https://sex.ncu.edu.tw/news_archive/?p=3102)
 * [贴吧热议-哪些事上了大学才知道？](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=13099934&topic_name=哪些事上了大学才知道？)
 * [知乎-有哪些是你真正进入社会才懂得的道理？](https://www.zhihu.com/question/297880330/answers/updated)
@@ -32,6 +31,12 @@
 * [提桶旋风-导师网](https://www.mysupervisor.org/)
 * [心理测量者-人资心理题库](https://bluepload.unstable.life/8d3b5bw0.zip)
 * [深圳智库](http://szzklm.sz.gov.cn)
+
+台灣
+
+* [國立台灣大學人口與性別研究中心 - 臺灣民眾幸福感變動趨勢:世代、年齡及人格的影響](http://www.psc.ntu.edu.tw/jps/pub/60/assets/人口學刊(60)-02%20劉蓉果.pdf)
+* [國立臺灣師範大學教育心理與輔導學系 - 碩士論文](https://www.epc.ntnu.edu.tw/zh_tw/Research/Master_Thesis)
+* [數位內容為國立政治大學所收錄之機構典藏，無償提供學術研究與公眾教育等公益性使用](https://nccur.lib.nccu.edu.tw/bitstream/140.119/60459/1/201301.pdf)
 
 闰土
 
