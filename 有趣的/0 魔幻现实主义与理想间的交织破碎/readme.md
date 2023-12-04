@@ -43,6 +43,7 @@ ban ip check  http://ip111.cn
  * https://chatbot.theb.ai
  * https://chat.wuguokai.cn/#/chat/1683510502659
  * https://chat1.aichatos.com/#/chat/1681313544674
+ * https://zhiloc.com
  * https://gpt.tool00.com
  * https://chatgpt.nianbroken.top
  * https://github.com/xx025/carrot
@@ -92,6 +93,10 @@ AI图像
  * https://www.img2go.com/ai-art-generator
  * https://getimg.ai/text-to-image
  * https://firefly.adobe.com
+
+看图识地点
+
+*  https://geohints.com
 
 github
 
