@@ -39,6 +39,7 @@ ban ip check  http://ip111.cn
 
  * https://github.com/binary-husky/gpt_academic （学术优化）
  * https://codenews.cc/chatgpt
+ * https://chat-shared2.zhile.io/shared.html
  * https://github.com/click33/chatgpt---mirror-station-summary
  * https://www.usechatgpt.ai
  * https://www.ooopn.com/tool/chatgpt/
