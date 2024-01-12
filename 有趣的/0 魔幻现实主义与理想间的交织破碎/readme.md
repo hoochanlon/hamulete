@@ -30,6 +30,10 @@
  -->
  
 ban ip check  http://ip111.cn
+
+ newbing
+
+ * https://dongsiqie.me
  
  chatgpt
 
