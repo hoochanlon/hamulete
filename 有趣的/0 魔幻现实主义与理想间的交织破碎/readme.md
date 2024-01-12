@@ -38,6 +38,7 @@ ban ip check  http://ip111.cn
  * https://mcv3p7-3000.csb.app
  * https://t.cn/A6jPPnhj
  * https://t.cn/A6jPPB3t
+ * https://chiyang001.github.io/GPT/
  
  chatgpt
 
