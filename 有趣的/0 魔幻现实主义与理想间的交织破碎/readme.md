@@ -34,6 +34,7 @@ ban ip check  http://ip111.cn
  newbing
 
  * https://dongsiqie.me
+ * https://github.com/weaigc/bingo
  * https://kingtest123-bingai.hf.space/web/index.html?showconv=1#/
  * https://mcv3p7-3000.csb.app
  * https://effulgent-bubblegum-e2f5df.netlify.app/
