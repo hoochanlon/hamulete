@@ -36,8 +36,8 @@ ban ip check  http://ip111.cn
  * https://dongsiqie.me
  * https://kingtest123-bingai.hf.space/web/index.html?showconv=1#/
  * https://mcv3p7-3000.csb.app
- * https://t.cn/A6jPPnhj
- * https://t.cn/A6jPPB3t
+ * https://effulgent-bubblegum-e2f5df.netlify.app/
+ * https://bingo-beta-seven.vercel.app/
  * https://chiyang001.github.io/GPT/
  
  chatgpt
