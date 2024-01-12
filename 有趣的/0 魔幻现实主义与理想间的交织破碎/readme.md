@@ -34,6 +34,7 @@ ban ip check  http://ip111.cn
  newbing
 
  * https://dongsiqie.me
+ * https://kingtest123-bingai.hf.space/web/index.html?showconv=1#/
  
  chatgpt
 
