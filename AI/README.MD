@@ -9,6 +9,8 @@ chatgpt类似竞品
 * https://chat.lmsys.org
 * https://poe.com/
 * https://you.com/
+* https://www.coze.com/
+* https://gemini.google.com/app
 * https://ora.ai/start
 * https://chat35.com/chat
 * https://promptboom.com/PowerChat/PowerChatTalk
