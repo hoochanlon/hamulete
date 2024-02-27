@@ -30,7 +30,7 @@
 <a href="有趣的/0%20魔幻现实主义与理想间的交织破碎/" target="_blank">
 <img align="right" width="160" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png"></a>
 
-***[ScientificInternetAccess](有趣的/0%20魔幻现实主义与理想间的交织破碎/) ChatGPT、Google等各类镜像站与SS/V2/Clash/QuanX连结。*** 
+***[ScientificInternetAccess](有趣的/0%20魔幻现实主义与理想间的交织破碎/) [ChatGPT](AI/)、Google等各类镜像站与SS/V2/Clash/QuanX连结。*** 
 
 ***[有趣的](有趣的/)、[2](有趣的/有趣的2/)、[3](有趣的/有趣的3/) 科研机构与高校行业研究报告的知识储备库，图书馆学科导航、数学以及部分相关交叉学科学术论坛汇总。（附：[数学符号表](https://zh.wikipedia.org/zh-hans/数学符号表)、[数学读音表](https://www.zhihu.com/question/23655549)）***
 
