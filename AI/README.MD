@@ -1,10 +1,15 @@
-chatgpt 平替/类似竞品
+chatgpt 平替
+
+* https://www.classpoint.io/blog/zh-hant/46-%E7%A8%AE%E6%9C%80%E4%BD%B3-chatgpt-%E6%9B%BF%E4%BB%A3%E5%93%81%EF%BC%88chatgpt-%E4%B8%8D%E6%98%AF%E5%94%AF%E4%B8%80%E7%9A%84%E6%95%99%E8%82%B2%E5%B7%A5%E5%85%B7%EF%BC%81#why-explore-chat-gpt-alternatives
+
+chatgpt类似竞品
 
 * https://www.perplexity.ai
 * https://chat.lmsys.org
 * https://poe.com/
 * https://you.com/
-* https://www.classpoint.io/blog/zh-hant/46-%E7%A8%AE%E6%9C%80%E4%BD%B3-chatgpt-%E6%9B%BF%E4%BB%A3%E5%93%81%EF%BC%88chatgpt-%E4%B8%8D%E6%98%AF%E5%94%AF%E4%B8%80%E7%9A%84%E6%95%99%E8%82%B2%E5%B7%A5%E5%85%B7%EF%BC%81#why-explore-chat-gpt-alternatives
+* https://www.ooopn.com/tool/chatgpt/
+
 
 
 newbing
