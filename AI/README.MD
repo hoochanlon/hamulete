@@ -1,7 +1,7 @@
 chatgpt 平替/类似竞品
 
 * https://www.perplexity.ai
-
+* https://chat.lmsys.org
 newbing
 
  * https://dongsiqie.me
