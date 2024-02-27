@@ -1,4 +1,8 @@
- newbing
+chatgpt 平替/类似竞品
+
+* https://www.perplexity.ai
+
+newbing
 
  * https://dongsiqie.me
  * https://github.com/weaigc/bingo
