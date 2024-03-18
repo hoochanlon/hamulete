@@ -7,6 +7,26 @@ newbing
  * https://effulgent-bubblegum-e2f5df.netlify.app/
  * https://bingo-beta-seven.vercel.app/
  * https://chiyang001.github.io/GPT/
+
+
+ai搜索
+
+https://metaso.cn
+https://aoyo.ai/
+https://iask.ai/
+https://letmegpt.com/
+https://consensus.app/
+http://exploer.globe.engineer/
+https://www.perplexity.ai/
+https://you.com
+https://gptgo.ai/en
+https://www.semanticscholar.org/
+
+ai工具
+
+https://topai.tools
+https://www.toolify.ai/zh/category/ai-search-engine
+
  
  chatgpt 一
 
