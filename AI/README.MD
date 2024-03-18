@@ -11,21 +11,21 @@ newbing
 
 ai搜索
 
-https://metaso.cn
-https://aoyo.ai/
-https://iask.ai/
-https://letmegpt.com/
-https://consensus.app/
-http://exploer.globe.engineer/
-https://www.perplexity.ai/
-https://you.com
-https://gptgo.ai/en
-https://www.semanticscholar.org/
+* https://metaso.cn
+* https://aoyo.ai/
+* https://iask.ai/
+* https://letmegpt.com/
+* https://consensus.app/
+* http://exploer.globe.engineer/
+* https://www.perplexity.ai/
+* https://you.com
+* https://gptgo.ai/en
+* https://www.semanticscholar.org/
 
 ai工具
 
-https://topai.tools
-https://www.toolify.ai/zh/category/ai-search-engine
+* https://topai.tools
+* https://www.toolify.ai/zh/category/ai-search-engine
 
  
  chatgpt 一
