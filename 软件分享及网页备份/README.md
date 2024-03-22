@@ -29,6 +29,7 @@
 * 必应壁纸：https://bing.ioliu.cn 、 http://www.isummer.cn/#/index
 * AI去水印：https://lama-cleaner-docs.vercel.app
 * 查看ipynb文件打开方式：https://blog.reviewnb.com/jupyter-notebook-not-rendering-on-github
+* 不关心cookie：https://www.i-dont-care-about-cookies.eu
 
 |Start| [龙喵导航](https://ailongmiao.com)、[ACG导航](https://www.myiys.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
 | :-----------: | :----------------------------------------------------------: |
