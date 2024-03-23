@@ -160,6 +160,7 @@ Windows
 第三方驱动软件
 
 * [安兔兔-驱动天使](http://www.qudongtianshi.com)
+* [韩博士驱动](http://www.driverzj.com/index.html)
 * [chemicalfiber/Anti-DrvCeo](https://github.com/chemicalfiber/Anti-DrvCeo) （DIY总裁封装等，去广告，删捆绑）
 * [SamDrivers](http://driveroff.net/sam)
 * [DriverPack ](https://driverpack.io/zh-cn)
