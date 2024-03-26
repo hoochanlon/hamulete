@@ -14,6 +14,7 @@ ai搜索
 * https://metaso.cn
 * https://aoyo.ai/
 * https://iask.ai/
+* https://kimi.moonshot.cn/
 * https://letmegpt.com/
 * https://consensus.app/
 * http://exploer.globe.engineer/
