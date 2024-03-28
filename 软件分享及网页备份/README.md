@@ -30,6 +30,7 @@
 * AI去水印：https://lama-cleaner-docs.vercel.app
 * 查看ipynb文件打开方式：https://blog.reviewnb.com/jupyter-notebook-not-rendering-on-github
 * 不关心cookie：https://www.i-dont-care-about-cookies.eu
+* 屏幕常亮：https://www.keepscreenon.com
 
 |Start| [龙喵导航](https://ailongmiao.com)、[ACG导航](https://www.myiys.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
 | :-----------: | :----------------------------------------------------------: |
@@ -214,6 +215,10 @@ flash
 * https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn
 
 
+### 文件蜈蚣
+
+* https://filecxx.com/zh_CN/index.html
+
 ### 网页导航
 
 常规型：
@@ -282,7 +287,6 @@ AI：https://www.aicangshu.net
 * https://1lib.ink/
 * https://annas-archive.org/
 
-
 ### 文档存储
 
 * https://www.zhihu.com/question/51309695
@@ -290,13 +294,18 @@ AI：https://www.aicangshu.net
 * http://lib.uibe.edu.cn/zy/sjk/wwsjk/index.htm
 * https://gfsoso.99lb.net/freecnki.html （文献、书籍下载）
 
-### ゲーム
+### AI与搜索（加入收藏夹，方便）
+
+* https://metaso.cn/
+* https://kimi.moonshot.cn/
+
+### 游戏特卖相关
 
 * https://www.bing.com/search?q=HB%E6%85%88%E5%96%84%E5%8C%85
 * https://www.bing.com/search?q=epic
 * https://www.bing.com/search?q=xgp%E8%A5%BF%E7%93%9C%E7%9A%AE%E6%B8%AF%E5%8C%BA
 
-![_20240319101005](https://github.com/hoochanlon/hamulete/assets/35732922/5da44925-50ba-4177-b81f-191e4cdef154)
+<img align="left" src="https://github.com/hoochanlon/hamulete/assets/35732922/5da44925-50ba-4177-b81f-191e4cdef154.png" width="500 " height="900" />
 
 
 <!--![ ](https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/titong.PNG)-->
