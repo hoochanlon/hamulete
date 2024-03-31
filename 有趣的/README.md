@@ -9,7 +9,8 @@
 
 ### 社会学文献信息库
 
-催化剂加：https://www.researchercosmos.com
+* 催化剂加：https://www.researchercosmos.com
+* youglish：https://youglish.com/
 
 八卦
 
