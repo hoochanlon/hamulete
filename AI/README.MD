@@ -27,7 +27,9 @@ ai工具
 
 * https://topai.tools
 * https://www.toolify.ai/zh/category/ai-search-engine
-
+* https://sharedchat.fun/
+* https://sharedchat.cn/shared.html
+* http://free01.xyz/
  
  chatgpt 一
 
