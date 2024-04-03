@@ -204,10 +204,16 @@ flash
 * https://www.filepuma.com
 * https://filehippo.com
 
+### mac
+
+* https://www.macvk.com/
+* https://appstorrent.ru
+
 ### 软件分享
 
 * https://www.52pjb.net
 * https://ruancang.net
+* https://www.ypojie.com
 * https://wgbqr.com/about.html
 * https://www.qijishow.com
 * http://lizhua.ysepan.com
