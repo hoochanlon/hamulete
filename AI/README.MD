@@ -25,6 +25,7 @@ ai搜索
 
 ai工具
 
+* https://arena.lmsys.org/
 * https://topai.tools
 * https://www.toolify.ai/zh/category/ai-search-engine
 * https://sharedchat.fun/
