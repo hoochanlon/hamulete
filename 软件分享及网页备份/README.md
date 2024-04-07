@@ -34,6 +34,7 @@
 * 查看ipynb文件打开方式：https://blog.reviewnb.com/jupyter-notebook-not-rendering-on-github
 * 不关心cookie：https://www.i-dont-care-about-cookies.eu
 * 屏幕常亮：https://www.keepscreenon.com
+* 在线电台：https://theonestopradio.com
 
 |Start| [龙喵导航](https://ailongmiao.com)、[ACG导航](https://www.myiys.com)、[龙轩导航](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/) |
 | :-----------: | :----------------------------------------------------------: |
