@@ -7,7 +7,8 @@
   *  https://www.chaonengsou.com
   *  https://www.xuebapan.com
 * 替代谷歌搜索：https://www.whoogle.click
-* 课程中心：https://www.classcentral.com/
+* 课程中心（海外）：https://www.classcentral.com/
+* 计算机相关免费课程（海外）：https://www.freecodecamp.org
 * 网页工具：https://tinywow.com/
 * 书签同步工具：https://cangquyun.com
 * PDF工具：https://pdf.datapipe.top
