@@ -9,6 +9,7 @@
 * 替代谷歌搜索：https://www.whoogle.click
 * 课程中心：https://www.classcentral.com/
 * 网页工具：https://tinywow.com/
+* PDF工具：https://pdf.datapipe.top
 * bootser driver下载驱动加速：https://1.0.0.1
 * win10/win11更新凶器：https://greatis.com/stopupdates10
 * github代码爬取：https://grep.app
