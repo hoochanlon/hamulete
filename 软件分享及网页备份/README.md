@@ -156,6 +156,10 @@ Windows
 * [csdn-揭密win7pe制作全过程](https://blog.csdn.net/ln_zdl/article/details/38537249)
 * [腾讯云-WinPE制作介绍](https://cloud.tencent.com/developer/article/1609617)
 
+### 电脑工具
+
+* https://www.sordum.org/
+
 ### 驱动下载
 
 驱动数据库
