@@ -158,7 +158,10 @@ Windows
 
 ### 电脑工具
 
-* https://www.sordum.org/
+* https://www.sordum.org
+* https://sumofents.net/retroarch
+* https://www.kocpc.com.tw
+* https://www.techbang.com
 
 ### 驱动下载
 
