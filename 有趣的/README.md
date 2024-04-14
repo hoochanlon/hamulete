@@ -10,7 +10,6 @@
 ### 社会学文献信息库
 
 * 催化剂加：https://www.researchercosmos.com
-* youglish：https://youglish.com/
 
 八卦
 
@@ -223,6 +222,12 @@ https://book.sciencereading.cn
 * [山东大学移民研究所 - 俄罗斯研究 - 苏联特殊移民政策的深层原因](http://www.ims.sdu.edu.cn/__local/1/1B/8B/AEB869AE53A59B3699A23E659A2_2268513C_79F74.pdf)
 
 
+### so easy
+
+* https://github.com/pot-app/pot-desktop
+* https://pt.hongliang.fun/
+* https://tophonetics.com/
+* youglish：https://youglish.com/
 
 
 
