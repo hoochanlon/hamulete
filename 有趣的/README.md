@@ -228,6 +228,8 @@ https://book.sciencereading.cn
 * https://pt.hongliang.fun/
 * https://tophonetics.com/
 * youglish：https://youglish.com/
+* https://forum.freemdict.com/
+* https://chaoli.club/index.php/
 
 
 
