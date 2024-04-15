@@ -34,7 +34,8 @@
 * zlibrary & bookcrossing：http://zlibrary.ml 、 https://zlib.pro 、 https://www.bookcrossing.com
 * 文件共享：https://bluepload.unstable.life
 * 软件工程：http://www.rjgczz.com
-* VS: https://versus.com/cn 
+* VS: https://versus.com/cn
+* 软件对比：https://www.slant.co/
 * CPUPANDA：https://www.cpu-panda.com/zh-cn/
 * 必应壁纸：https://bing.ioliu.cn 、 http://www.isummer.cn/#/index
 * AI去水印：https://lama-cleaner-docs.vercel.app
