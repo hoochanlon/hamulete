@@ -9,7 +9,7 @@
 * 发现AI工具：https://top.aibase.com
 * word排版工具：https://github.com/xkonglong/gw
 * 看图工具：https://www.fmjsoft.com/imageeye.html#main
-* 播放工具：https://potplayer.org/category-3.html
+* 播放工具：https://potplayer.tv/
 * 课程中心（海外）：https://www.classcentral.com
 * 计算机相关免费课程（海外）：https://www.freecodecamp.org
 * 网页工具：https://tinywow.com/
