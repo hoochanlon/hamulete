@@ -30,7 +30,6 @@
 
 * http://other.caixin.com/e_newsletter/?id=1&email= 财新订阅
 * https://aeon.co/ 英语社会读物杂志
-* https://emailing.rfi.fr/cn/subscribe 法广新闻订阅
 * https://www.cna.com.tw 中央社新闻订阅（台湾）
 * https://freewarehome.tw 免费软件订阅 （台湾）
 * https://www.todayonline.com 新加坡今日报订阅
