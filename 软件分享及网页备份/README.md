@@ -10,6 +10,7 @@
 * word排版工具：https://github.com/xkonglong/gw
 * 看图工具：https://www.fmjsoft.com/imageeye.html#main
 * 播放工具：https://potplayer.tv
+* 划词工具:https://github.com/pot-app/pot-desktop
 * 卸载工具：https://www.wisecleaner.com.cn/wise-program-uninstaller.html
 * 课程中心（海外）：https://www.classcentral.com
 * 计算机相关免费课程（海外）：https://www.freecodecamp.org
