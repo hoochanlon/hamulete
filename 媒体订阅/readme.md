@@ -1,25 +1,3 @@
-#### 获取免费正版软件资讯
-
-* https://winningpc.com
-* https://www.giveawayoftheday.com
-* https://www.techno360.in
-* https://thesoftware.shop
-* https://fullylicensekey.com
-* https://giveawayradar.weebly.com
-
-#### 免费获取正版游戏资讯
-
-* https://freesteam.games/
-* https://www.4gamers.com.tw/news/tag/%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB
-* https://pinogamer.com/c/free
-
-### 游戏折扣
-
-* https://www.humblebundle.com
-* https://www.fanatical.com/en
-* https://toy-people.com
-* https://www.sonkwo.cn
-
 #### 英语新闻
 
 * https://focustaiwan.tw
@@ -58,3 +36,36 @@
 * https://magazinelib.com 英语综合类别杂志搜索
 * https://github.com/hehonghui/awesome-english-ebooks 经济学人、纽约客等英语外刊杂志下载
 * https://www.laodongqushi.com 中国劳动趋势
+
+#### 获取免费正版软件资讯
+
+* https://winningpc.com
+* https://www.giveawayoftheday.com
+* https://www.techno360.in
+* https://thesoftware.shop
+* https://fullylicensekey.com
+* https://giveawayradar.weebly.com
+
+#### 免费获取正版游戏资讯
+
+* https://freesteam.games/
+* https://www.4gamers.com.tw/news/tag/%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB
+* https://pinogamer.com/c/free
+
+#### 游戏折扣
+
+* https://www.humblebundle.com
+* https://www.fanatical.com/en
+* https://toy-people.com
+* https://www.sonkwo.cn
+
+#### 游戏特卖相关
+
+* https://www.bing.com/search?q=HB%E6%85%88%E5%96%84%E5%8C%85
+* https://www.bing.com/search?q=epic
+* https://www.bing.com/search?q=xgp%E8%A5%BF%E7%93%9C%E7%9A%AE%E6%B8%AF%E5%8C%BA
+
+<img align="left" src="https://github.com/hoochanlon/hamulete/assets/35732922/5da44925-50ba-4177-b81f-191e4cdef154.png" width="500 " height="900" />
+
+<!--![ ](https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/titong.PNG)-->
+
