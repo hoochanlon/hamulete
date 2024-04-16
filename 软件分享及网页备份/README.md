@@ -13,7 +13,6 @@
 * 课程中心（海外）：https://www.classcentral.com
 * 计算机相关免费课程（海外）：https://www.freecodecamp.org
 * 网页工具：https://tinywow.com/
-* 书签同步工具：https://cangquyun.com
 * PDF工具：https://pdf.datapipe.top 、 https://www.pdfgear.com
 * bootser driver下载驱动加速：https://1.0.0.1
 * win10/win11更新凶器：https://greatis.com/stopupdates10
@@ -177,10 +176,12 @@ Windows
 * https://driversdownloader.com
 
 
+
 第三方驱动软件
 
 * [安兔兔-驱动天使](http://www.qudongtianshi.com)
 * [韩博士驱动](http://www.driverzj.com/index.html)
+* [硬件狗狗](https://yjgg.mydrivers.com)
 * [chemicalfiber/Anti-DrvCeo](https://github.com/chemicalfiber/Anti-DrvCeo) （DIY总裁封装等，去广告，删捆绑）
 * [SamDrivers](http://driveroff.net/sam)
 * [DriverPack ](https://driverpack.io/zh-cn)
