@@ -164,6 +164,7 @@ Windows
 ### 电脑工具
 
 * https://www.sordum.org
+* https://winaero.com/this-pc-tweaker
 * https://sumofents.net/retroarch
 * https://www.kocpc.com.tw
 * https://www.techbang.com
