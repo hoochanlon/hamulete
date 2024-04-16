@@ -179,7 +179,6 @@ Windows
 * https://driversdownloader.com
 
 
-
 第三方驱动软件
 
 * [安兔兔-驱动天使](http://www.qudongtianshi.com)
@@ -187,9 +186,11 @@ Windows
 * [硬件狗狗](https://yjgg.mydrivers.com)
 * [chemicalfiber/Anti-DrvCeo](https://github.com/chemicalfiber/Anti-DrvCeo) （DIY总裁封装等，去广告，删捆绑）
 * [SamDrivers](http://driveroff.net/sam)
-* [DriverPack ](https://driverpack.io/zh-cn)
+* https://www.drivermax.com/
+* https://driverpack.io
 * [3dp](http://www.3dpchip.com/3dp/chip.php?driver=dp_bench)
 * https://driveridentifier.com
+* http://www.boozet.org
 
 电脑检测手册：https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_4.47.1_ug.pdf
 
