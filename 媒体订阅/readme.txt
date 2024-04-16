@@ -11,8 +11,14 @@
 
 * https://freesteam.games/
 * https://www.4gamers.com.tw/news/tag/%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB
+* https://pinogamer.com/c/free
 
+### 游戏折扣
 
+* https://www.humblebundle.com
+* https://www.fanatical.com/en
+* https://toy-people.com
+* https://www.sonkwo.cn
 
 #### 英语新闻
 
