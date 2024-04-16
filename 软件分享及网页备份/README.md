@@ -326,14 +326,3 @@ AI：https://www.aicangshu.net
 * https://metaso.cn/
 * https://kimi.moonshot.cn/
 
-### 游戏特卖相关
-
-* https://www.bing.com/search?q=HB%E6%85%88%E5%96%84%E5%8C%85
-* https://www.bing.com/search?q=epic
-* https://www.bing.com/search?q=xgp%E8%A5%BF%E7%93%9C%E7%9A%AE%E6%B8%AF%E5%8C%BA
-
-<img align="left" src="https://github.com/hoochanlon/hamulete/assets/35732922/5da44925-50ba-4177-b81f-191e4cdef154.png" width="500 " height="900" />
-
-
-<!--![ ](https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/titong.PNG)-->
-
