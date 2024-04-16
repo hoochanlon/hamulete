@@ -37,6 +37,10 @@
 * https://github.com/hehonghui/awesome-english-ebooks 经济学人、纽约客等英语外刊杂志下载
 * https://www.laodongqushi.com 中国劳动趋势
 
+### TG
+
+https://github.com/houyushan/telegram-groups-search
+
 #### 获取免费正版软件资讯
 
 * https://winningpc.com
