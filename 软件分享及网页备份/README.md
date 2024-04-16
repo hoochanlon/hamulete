@@ -187,7 +187,6 @@ Windows
 * [chemicalfiber/Anti-DrvCeo](https://github.com/chemicalfiber/Anti-DrvCeo) （DIY总裁封装等，去广告，删捆绑）
 * [SamDrivers](http://driveroff.net/sam)
 * https://www.drivermax.com/
-* https://driverpack.io
 * [3dp](http://www.3dpchip.com/3dp/chip.php?driver=dp_bench)
 * https://driveridentifier.com
 * http://www.boozet.org
