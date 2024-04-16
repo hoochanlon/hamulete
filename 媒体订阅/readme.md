@@ -49,6 +49,7 @@ https://github.com/houyushan/telegram-groups-search
 * https://thesoftware.shop
 * https://fullylicensekey.com
 * https://giveawayradar.weebly.com
+* https://www.softking.com.tw
 
 #### 免费获取正版游戏资讯
 
