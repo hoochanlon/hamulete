@@ -1,11 +1,18 @@
 #### 获取免费正版软件资讯
 
-https://winningpc.com
-https://www.giveawayoftheday.com
-https://www.techno360.in
-https://thesoftware.shop
-https://fullylicensekey.com
-https://giveawayradar.weebly.com
+* https://winningpc.com
+* https://www.giveawayoftheday.com
+* https://www.techno360.in
+* https://thesoftware.shop
+* https://fullylicensekey.com
+* https://giveawayradar.weebly.com
+
+#### 免费获取正版游戏资讯
+
+* https://freesteam.games/
+* https://www.4gamers.com.tw/news/tag/%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB
+
+
 
 #### 英语新闻
 
