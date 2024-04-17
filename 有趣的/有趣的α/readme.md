@@ -17,6 +17,7 @@
 * magicsearch：https://magicsearch.org/
 * wipopearl：https://wipopearl.wipo.int/zh/linguistic
 
+
 ### 信息应用科学
 
 Excel应用学术研究：https://academic-accelerator.com/encyclopedia/zh-cn/microsoft-excel <br>
@@ -27,6 +28,7 @@ Excel应用学术研究：https://academic-accelerator.com/encyclopedia/zh-cn/mi
 * 常用统计软件介绍：https://netedu.xauat.edu.cn/jpkc/netclass/jpkc/gltj/homepage/5jxsj/52.htm
 * 结构方程论坛：http://www.semchina.net/thread-6675-1-1.html
 * warp pls用户手册：http://cits.tamiu.edu/WarpPLS/UserManual_v_5_0.pdf
+* 公式识别：https://simpletex.net
 
 ### 关联
 
@@ -37,4 +39,11 @@ Excel应用学术研究：https://academic-accelerator.com/encyclopedia/zh-cn/mi
 * Gale 在线数据库：https://www.ckgsb.com/uploads/report/file/201512/08/1449568717470572.pdf
 * 西安交通大学图书馆——100个社会学小故事：https://web.lib.xjtu.edu.cn/info/1123/10136.htm
 * 做社科研究常用的40个微观数据库: http://kygl.ynavc.com/ky_template/news/show/9757
+* 各国生活成本数据库：https://www.numbeo.com/cost-of-living
 
+### 书籍搜索
+
+* https://xiaotusoushu.com
+* https://yidanshu.com
+* https://www.pubmed.pro/home
+* https://www.kaoyany.top
