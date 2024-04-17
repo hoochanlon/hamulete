@@ -13,6 +13,8 @@ ai查询
 
 * https://kimi.moonshot.cn/
 * https://hailuoai.com/chat
+* https://www.doubao.com
+* https://www.coze.com/store/bot/7350860305154686978
 * https://metaso.cn
 * https://www.tiangong.cn
 * https://aoyo.ai/
@@ -27,10 +29,13 @@ ai查询
 
 ai工具
 
+* https://www.futurepedia.io
 * https://theresanaiforthat.com/tasks/recommended
-* https://www.gptshunter.com/
-* https://arena.lmsys.org/
+* https://www.gptshunter.com
+* https://arena.lmsys.org
 * https://topai.tools
+* https://www.ainav.cn
+* https://ai-bot.cn
 * https://www.toolify.ai/zh/category/ai-search-engine
 * https://sharedchat.fun/
 * https://sharedchat.cn/shared.html
