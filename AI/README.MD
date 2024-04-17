@@ -34,7 +34,8 @@ ai工具
 * https://www.toolify.ai/zh/category/ai-search-engine
 * https://sharedchat.fun/
 * https://sharedchat.cn/shared.html
-* http://free01.xyz/
+* http://free01.xyz
+* https://midreal.ai
  
  chatgpt 一
 
