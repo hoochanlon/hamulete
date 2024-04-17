@@ -331,5 +331,6 @@ AI：https://www.aicangshu.net
 ### AI与搜索（加入收藏夹，方便）
 
 * https://metaso.cn/
-* https://kimi.moonshot.cn/
+* https://kimi.moonshot.cn
+* https://hailuoai.com
 
