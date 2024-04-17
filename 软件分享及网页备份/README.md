@@ -333,5 +333,5 @@ AI：https://www.aicangshu.net
 * https://metaso.cn/
 * https://kimi.moonshot.cn
 * https://hailuoai.com
-* https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/
+* https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/  （最低8G显存）
 
