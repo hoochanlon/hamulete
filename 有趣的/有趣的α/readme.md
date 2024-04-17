@@ -41,9 +41,3 @@ Excel应用学术研究：https://academic-accelerator.com/encyclopedia/zh-cn/mi
 * 做社科研究常用的40个微观数据库: http://kygl.ynavc.com/ky_template/news/show/9757
 * 各国生活成本数据库：https://www.numbeo.com/cost-of-living
 
-### 书籍搜索
-
-* https://xiaotusoushu.com
-* https://yidanshu.com
-* https://www.pubmed.pro/home
-* https://www.kaoyany.top
