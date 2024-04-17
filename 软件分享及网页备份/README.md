@@ -231,6 +231,7 @@ flash
 
 * https://www.macvk.com/
 * https://appstorrent.ru
+* https://hubweb.cn
 
 ### 软件分享
 
@@ -267,11 +268,12 @@ AI：https://www.aicangshu.net
 图床：http://imgdh.com
 
 
-### BT与PT
+### PT与BT
 
 * [iecho.cc - PT 下载从入门到养老篇一：站点介绍及生存指南](https://iecho.cc/2019/01/09/PT-下载从入门到养老/)
 * [tellyousome - 主流的PT站点汇总](http://www.tellyousome.com/275.html)
 * https://torrentinvites.org/trackerlist.php
+* https://ciliduo.org/
 
 
 ### 网页备份
