@@ -231,8 +231,13 @@ https://book.sciencereading.cn
 * https://forum.freemdict.com/
 * https://chaoli.club/index.php/
 
+### 书籍搜索与题库
 
-
+* https://xiaotusoushu.com
+* https://yidanshu.com
+* https://www.pubmed.pro/home
+* https://www.kaoyany.top
+* https://questionlib.net/index.html
 
 
 
