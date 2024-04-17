@@ -9,13 +9,14 @@ newbing
  * https://chiyang001.github.io/GPT/
 
 
-ai搜索
+ai查询
 
+* https://kimi.moonshot.cn/
+* https://hailuoai.com/chat
 * https://metaso.cn
 * https://www.tiangong.cn
 * https://aoyo.ai/
 * https://iask.ai/
-* https://kimi.moonshot.cn/
 * https://letmegpt.com/
 * https://consensus.app/
 * http://exploer.globe.engineer/
@@ -26,6 +27,8 @@ ai搜索
 
 ai工具
 
+* https://theresanaiforthat.com/tasks/recommended
+* https://www.gptshunter.com/
 * https://arena.lmsys.org/
 * https://topai.tools
 * https://www.toolify.ai/zh/category/ai-search-engine
