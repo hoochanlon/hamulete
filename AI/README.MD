@@ -22,10 +22,12 @@ ai查询
 * https://letmegpt.com/
 * https://consensus.app/
 * http://exploer.globe.engineer/
-* https://www.perplexity.ai/
+* https://www.perplexity.ai
+* https://wrtn.ai
 * https://you.com
 * https://gptgo.ai/en
-* https://www.semanticscholar.org/
+* https://www.semanticscholar.org
+* * https://chat.lmsys.org
 
 ai工具
 
