@@ -38,6 +38,7 @@ ai工具
 * https://topai.tools
 * https://www.ainav.cn
 * https://ai-bot.cn
+* https://shutu.cn
 * https://www.toolify.ai/zh/category/ai-search-engine
 * https://sharedchat.fun/
 * https://sharedchat.cn/shared.html
