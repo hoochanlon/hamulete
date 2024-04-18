@@ -13,7 +13,7 @@
 
 八卦
 
-* 各国所发生的事阅读：https://www.buzzing.cc/
+* [buzzing.cc](https://www.buzzing.cc/)
 * [國立中央大學 - 性／別研究室新聞整理](https://sex.ncu.edu.tw/news_archive/?p=3102)
 * [北大法宝](https://pkulaw.com/)
 * [贴吧热议-哪些事上了大学才知道？](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=13099934&topic_name=哪些事上了大学才知道？)
