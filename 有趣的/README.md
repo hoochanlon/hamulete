@@ -14,6 +14,7 @@
 八卦
 
 * [buzzing.cc](https://www.buzzing.cc/)
+* [seedhub.cc](https://www.seedhub.cc/)
 * [國立中央大學 - 性／別研究室新聞整理](https://sex.ncu.edu.tw/news_archive/?p=3102)
 * [北大法宝](https://pkulaw.com/)
 * [贴吧热议-哪些事上了大学才知道？](https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=13099934&topic_name=哪些事上了大学才知道？)
@@ -230,7 +231,11 @@ https://book.sciencereading.cn
 * https://tophonetics.com/
 * youglish：https://youglish.com/
 * https://forum.freemdict.com/
-* https://chaoli.club/index.php/
+* https://chaoli.club/index.php
+* https://alphabetimals.com
+* https://qwerty.kaiyi.cool
+* https://zh.speaklanguages.com
+* http://wordvis.com
 
 ### 书籍搜索
 
@@ -242,11 +247,16 @@ https://book.sciencereading.cn
 * https://www.kaoyany.top
 * https://www.920.im/the-economist-ebook-audio-weekly-update
 * https://waikanstore.com/tag/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E4%B8%8B%E8%BD%BD/
+* https://unglue.it
 
 ### 题库
 
 * https://questionlib.net/index.html
-* https://www.jiansouti.com/
+* https://www.jiansouti.com
+* https://www.mxqe.com
+* http://tk.mxqe.com
+* https://www.examcoo.com
+* https://www.jiandati.com
 
 
 
