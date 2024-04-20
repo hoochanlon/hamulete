@@ -138,6 +138,7 @@ Windows
 * https://windsys.win （装机爱好者定制，类似于常见的纯净版的ghost）
 * https://www.xitongku.com （各类Windows版本系统下载）
 * https://www.microsoft.com/zh-cn/software-download/ （官方下载）
+* https://www.mocreak.com （office自动安装工具）
 * http://y-os.net/
 * https://latest10.win/
 * https://msdn.itellyou.cn/
