@@ -172,6 +172,7 @@ Windows
 * https://sumofents.net/retroarch
 * https://www.kocpc.com.tw
 * https://www.techbang.com
+* https://github.com/leoFitz1024/wallhaven
 
 ### 驱动下载
 
