@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://github.com/hoochanlon/hamulete/blob/master/README_JP.md"> 日本語 </a> | <a href="https://github.com/hoochanlon/hamulete/blob/master/README.md"> 中文 </a>  </p>
 
-该库并不提供任何资料，所有内容均为搬运。仅面向海外华人及社科研究者，切勿用于其他用途！中国用户请自觉关闭，并在24小时之内删掉与本项目相关的一切内容。否则出现一切问题，项目作者概不负责！<br>
+该库并不提供任何资料，所有内容均为搬运。仅面向海外华人及社科研究者，切勿用于其他用途！大陆用户请自觉关闭，并在24小时之内删掉与本项目相关的一切内容。否则出现一切问题，项目作者概不负责！<br>
 
 # ***城中村哈姆雷特（Slums's Hamlet in China）***
 
