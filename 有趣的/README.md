@@ -67,6 +67,7 @@ wiki
 
 孔乙己
 
+* [考公沉思录](https://www.wolai.com/shangan/eTk9MfMbm1AtJUa4SrwREC)
 * [说我摸，说我摆，谁在意劳动者的无奈？](https://www.bilibili.com/video/BV1ss4y1M72E)
 * [知乎专栏-推荐系统五大陷阱之一：奶头乐内容](https://zhuanlan.zhihu.com/p/481595580)
 * [知乎 - 这个社会为什么不把弱者当回事](https://www.zhihu.com/question/24296936)
@@ -228,6 +229,7 @@ https://book.sciencereading.cn
 
 * https://github.com/pot-app/pot-desktop
 * https://pt.hongliang.fun/
+* https://wordforest.cn
 * https://tophonetics.com/
 * youglish：https://youglish.com/
 * https://forum.freemdict.com/
