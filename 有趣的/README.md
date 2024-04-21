@@ -246,6 +246,7 @@ https://book.sciencereading.cn
 * https://www.book123.info
 * http://www.banshujiang.cn
 * https://www.pubmed.pro/home
+* https://annas-archive.org
 * https://www.kaoyany.top
 * https://www.920.im/the-economist-ebook-audio-weekly-update
 * https://waikanstore.com/tag/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E4%B8%8B%E8%BD%BD/
