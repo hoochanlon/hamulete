@@ -10,6 +10,7 @@
 ### 社会学文献信息库
 
 * 催化剂加：https://www.researchercosmos.com
+* 什么值得读：https://shenmezhidedu.com
 
 八卦
 
