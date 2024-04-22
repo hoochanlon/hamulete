@@ -10,9 +10,6 @@
 ### 社会学文献信息库
 
 * 催化剂加：https://www.researchercosmos.com
-* 谷粉社区：https://bbs.99lb.net
-* 啄木论坛：http://www.zhuomu.cn
-* 超理论坛：https://chaoli.club
 
 八卦
 
@@ -54,6 +51,13 @@
 * https://www.nippon.com/cn/in-depth/d00691/
 * https://www.ruralchina.cn/xcyj/XCReport/onlineReadPage?SiteID=18&Type=literature&ID=5156674
 * http://html.rhhz.net/society/html/2007-02-002.htm
+
+
+互助
+
+* 谷粉社区：https://bbs.99lb.net
+* 啄木论坛：http://www.zhuomu.cn
+* 超理论坛：https://chaoli.club
 
 
 wiki
