@@ -10,6 +10,9 @@
 ### 社会学文献信息库
 
 * 催化剂加：https://www.researchercosmos.com
+* 谷粉社区：https://bbs.99lb.net
+* 啄木论坛：http://www.zhuomu.cn
+* 超理论坛：https://chaoli.club
 
 八卦
 
@@ -231,7 +234,8 @@ https://book.sciencereading.cn
 * https://pt.hongliang.fun/
 * https://wordforest.cn
 * https://tophonetics.com/
-* youglish：https://youglish.com/
+* https://youglish.com/
+* https://www.lingohut.com/zh
 * https://forum.freemdict.com/
 * https://chaoli.club/index.php
 * https://alphabetimals.com
@@ -247,6 +251,8 @@ https://book.sciencereading.cn
 * http://www.banshujiang.cn
 * https://www.pubmed.pro/home
 * https://annas-archive.org
+* http://www.dzkbw.com
+* http://www.rudder.com.cn
 * https://www.kaoyany.top
 * https://www.920.im/the-economist-ebook-audio-weekly-update
 * https://waikanstore.com/tag/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E4%B8%8B%E8%BD%BD/
@@ -260,6 +266,12 @@ https://book.sciencereading.cn
 * http://tk.mxqe.com
 * https://www.examcoo.com
 * https://www.jiandati.com
+* https://www.shijuan1.com
+* https://www.dayin.page
+* https://www.zxxk.com
+
+### 刷题技巧
+
 * [xiaobaige-h0ryq - 背题经验与技巧分享](https://www.yuque.com/xiaobaige-h0ryq/irkaxh/sptnsgbnr0sm1cwl#%E3%80%8A1.7%20%E8%83%8C%E9%A2%98%E7%BB%8F%E9%AA%8C%E4%B8%8E%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB%E3%80%8B)
 * [graduate_school - 113年統研所推甄與考試心得分享（從吊車尾到研究所上榜）](https://www.dcard.tw/f/graduate_school/p/255315035)
 * https://www.bilibili.com/video/BV1zZ4y157Nh
