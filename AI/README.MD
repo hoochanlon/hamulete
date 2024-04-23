@@ -25,6 +25,7 @@ ai辅助学习
 * https://www.youlearn.ai
 * https://coursable.io
 * https://app.yoodli.ai
+* https://baoyueai.com
 
 
 ai工具
