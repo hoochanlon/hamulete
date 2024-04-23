@@ -1,22 +1,12 @@
-newbing
-
- * https://dongsiqie.me
- * https://github.com/weaigc/bingo
- * https://kingtest123-bingai.hf.space/web/index.html?showconv=1#/
- * https://mcv3p7-3000.csb.app
- * https://effulgent-bubblegum-e2f5df.netlify.app/
- * https://bingo-beta-seven.vercel.app/
- * https://chiyang001.github.io/GPT/
-
-
 ai查询
 
 * https://kimi.moonshot.cn/
 * https://hailuoai.com/chat
 * https://www.doubao.com
-* https://www.coze.com/store/bot/7350860305154686978
+* https://thinkany.ai/zh
 * https://metaso.cn
 * https://www.tiangong.cn
+* https://www.epsilon-ai.com/
 * https://aoyo.ai/
 * https://iask.ai/
 * https://letmegpt.com/
@@ -27,7 +17,15 @@ ai查询
 * https://you.com
 * https://gptgo.ai/en
 * https://www.semanticscholar.org
-* * https://chat.lmsys.org
+* https://chat.lmsys.org
+* https://www.coze.com/store/bot/7350860305154686978
+
+ai辅助学习
+
+* https://www.youlearn.ai
+* https://coursable.io
+* https://app.yoodli.ai
+
 
 ai工具
 
@@ -44,6 +42,16 @@ ai工具
 * https://sharedchat.cn/shared.html
 * http://free01.xyz
 * https://midreal.ai
+
+newbing
+
+ * https://dongsiqie.me
+ * https://github.com/weaigc/bingo
+ * https://kingtest123-bingai.hf.space/web/index.html?showconv=1#/
+ * https://mcv3p7-3000.csb.app
+ * https://effulgent-bubblegum-e2f5df.netlify.app/
+ * https://bingo-beta-seven.vercel.app/
+ * https://chiyang001.github.io/GPT/
  
  chatgpt 一
 
