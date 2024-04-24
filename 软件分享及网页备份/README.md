@@ -34,7 +34,7 @@
   * https://nsaneforums.com （海外破解）
   * https://www.xda-developers.com （海外移动端破解）
 * 只要英语号不怕软件找不到，学好英语走遍天下都不怕！：https://freeprosoftz.com 、 https://www.thepiratecity.co
-* 钢铁是怎样炼成的系统管理员：https://blog.simplix.info （Ukraine，win7布丁集成，ie11）
+* 钢铁是怎样炼成的乌克兰系统管理员：https://blog.simplix.info （win7布丁集成，ie11）
 * 安全人员的信息流：https://i.hacking8.com
 * zlibrary & bookcrossing：http://zlibrary.ml 、 https://zlib.pro 、 https://www.bookcrossing.com
 * 文件共享：https://bluepload.unstable.life
