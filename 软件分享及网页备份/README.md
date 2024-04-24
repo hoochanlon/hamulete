@@ -236,6 +236,9 @@ flash
 
 * https://www.macvk.com/
 * https://appstorrent.ru
+* https://cmacked.com
+* https://www.applnn.cc
+* https://macked.app
 * https://hubweb.cn
 
 ### 软件分享
