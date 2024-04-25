@@ -3,8 +3,7 @@
 ### 工具 链·表
 
 *  [不死鸟](https://iui.su/pic.html)、[423down](https://www.423down.com)、[懒得勤快](https://masuit.com)、[胡萝卜周(RIP，感谢有你。)](https://www.zhihu.com/question/530078477/answer/2458656992)、[大眼仔](http://www.dayanzai.me)、[知您网](https://www.zhiniw.com)
-* 台湾软件分享：[软体王](https://www.softking.com.tw)、[软件部落](http://softblog.tw) 、[阿荣](https://www.azofreeware.com)、[电脑王阿达](https://www.kocpc.com.tw/)、[T客邦](https://www.techbang.com/)、[网管人期刊](https://www.netadmin.com.tw/)
-* 日本IT技术：https://itojisan.xyz/
+* 日本台湾IT技术软件分享：[itojisan](https://itojisan.xyz)、[软体王](https://www.softking.com.tw)、[软件部落](http://softblog.tw) 、[阿荣](https://www.azofreeware.com)、[电脑王阿达](https://www.kocpc.com.tw/)、[T客邦](https://www.techbang.com/)、[网管人期刊](https://www.netadmin.com.tw/)
 * 链接失效检测：https://www.deadlinkchecker.com
 * 搜·搜·搜，网盘搜索神器：
   *  https://www.chaonengsou.com
