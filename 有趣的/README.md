@@ -256,6 +256,8 @@ https://book.sciencereading.cn
 * http://www.banshujiang.cn
 * https://www.pubmed.pro/home
 * https://annas-archive.org
+* https://mirror.yibook.org
+* https://librarygenesis.net
 * http://www.dzkbw.com
 * https://www.kaoyany.top
 * https://www.920.im/the-economist-ebook-audio-weekly-update
