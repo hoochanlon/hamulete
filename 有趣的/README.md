@@ -258,6 +258,7 @@ https://book.sciencereading.cn
 * https://www.sci-hub.se
 * https://annas-archive.org
 * https://mirror.yibook.org
+* https://yabook.org
 * https://librarygenesis.net
 * http://www.dzkbw.com
 * https://www.kaoyany.top
