@@ -255,6 +255,7 @@ https://book.sciencereading.cn
 * https://www.book123.info
 * http://www.banshujiang.cn
 * https://www.pubmed.pro/home
+* https://www.sci-hub.se
 * https://annas-archive.org
 * https://mirror.yibook.org
 * https://librarygenesis.net
