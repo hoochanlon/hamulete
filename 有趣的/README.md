@@ -11,6 +11,8 @@
 
 * 催化剂加：https://www.researchercosmos.com
 * 什么值得读：https://shenmezhidedu.com
+* https://discuss.sci-hub.org.cn/d/279
+
 
 八卦
 
@@ -258,6 +260,9 @@ https://book.sciencereading.cn
 * https://www.sci-hub.se
 * https://annas-archive.org
 * https://mirror.yibook.org
+* https://t.ck-ai.co/
+* https://tool.yovisun.com/scihub/
+* https://www.ablesci.com/
 * https://yabook.org
 * https://librarygenesis.net
 * http://www.dzkbw.com
