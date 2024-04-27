@@ -132,6 +132,7 @@ sudo /usr/bin/osascript -e "$(curl -fsSL https://ghproxy.com/https://raw.githubu
 
 Windows
 
+* https://www.revi.cc/ （游戏系统，可轻办公）
 * http://www.realqwh.cn （秋无痕，系统封装）
 * http://www.jinhu.me/tag.asp (金狐)
 * https://lvsexitong.com/21684.html （绿色系统网）
@@ -176,7 +177,13 @@ Windows
 * https://www.techbang.com
 * https://github.com/leoFitz1024/wallhaven
 
-### 驱动下载
+### 运行库与驱动下载
+
+游戏运行库
+
+* https://www.allinoneruntimes.org
+* https://github.com/abbodi1406/vcredist
+* https://www.teamos.xyz/tags/runtimes
 
 驱动数据库
 
