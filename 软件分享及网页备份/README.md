@@ -187,6 +187,7 @@ Windows
 
 驱动数据库
 
+* https://www.driverscloud.com
 * https://cn.driverscollection.com
 * https://www.driverguide.com
 * https://www.helpdrivers.com
