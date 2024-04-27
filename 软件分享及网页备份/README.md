@@ -182,6 +182,8 @@ Windows
 游戏运行库
 
 * https://www.allinoneruntimes.org
+* https://www.mefcl.com/grlpackage/8201
+* https://dl.3dmgame.com/patch/28051.html
 * https://github.com/abbodi1406/vcredist
 * https://www.teamos.xyz/tags/runtimes
 
