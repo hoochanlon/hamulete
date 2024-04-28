@@ -250,6 +250,7 @@ https://book.sciencereading.cn
 * https://qwerty.kaiyi.cool
 * https://zh.speaklanguages.com
 * http://wordvis.com
+* https://coach.microsoft.com
 
 ### 书籍搜索
 
