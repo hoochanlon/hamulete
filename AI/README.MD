@@ -3,6 +3,7 @@ ai查询
 * https://kimi.moonshot.cn/
 * https://hailuoai.com/chat
 * https://www.doubao.com
+* https://isou.chat
 * https://thinkany.ai/zh
 * https://metaso.cn
 * https://www.tiangong.cn
