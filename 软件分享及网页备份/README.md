@@ -4,7 +4,7 @@
 
 *  [不死鸟](https://iui.su/pic.html)、[423down](https://www.423down.com)、[懒得勤快](https://masuit.com)、[胡萝卜周(RIP，感谢有你。)](https://www.zhihu.com/question/530078477/answer/2458656992)、[大眼仔](http://www.dayanzai.me)、[知您网](https://www.zhiniw.com)
 * 日本台湾IT分享：
-  * [infraexpert](https://www.infraexpert.com/)、[nesuke](https://milestone-of-se.nesuke.com/)、[itojisan](https://itojisan.xyz)、[it-networking](https://it-networking.jp/)
+  * [nesuke](https://milestone-of-se.nesuke.com/)、[itojisan](https://itojisan.xyz)、[it-networking](https://it-networking.jp/)、[n-study](https://www.n-study.com/)、 [infraexpert](https://www.infraexpert.com/)
   * [软体王](https://www.softking.com.tw)、[软件部落](http://softblog.tw) 、[阿荣](https://www.azofreeware.com)、[电脑王阿达](https://www.kocpc.com.tw/)、[T客邦](https://www.techbang.com/)、[网管人](https://www.netadmin.com.tw/)、[翻转工作室](www.tsnien.idv.tw/)
 * 链接失效检测：https://www.deadlinkchecker.com
 * 搜·搜·搜，网盘搜索神器：
