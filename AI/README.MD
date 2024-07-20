@@ -1,5 +1,6 @@
 ai查询
 
+* https://share.mosha.cloud/list
 * https://kimi.moonshot.cn/
 * https://hailuoai.com/chat
 * https://www.doubao.com
