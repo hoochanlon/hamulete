@@ -151,6 +151,7 @@ Windows
 * https://hellowindows.cn/
 * https://www.imsdn.cn/
 * https://www.sysmini.com/
+* https://yyczxt.com/
 
 各种系统镜像资源全都有，一把梭
 
