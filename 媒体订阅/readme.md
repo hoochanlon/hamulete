@@ -1,5 +1,6 @@
 #### 英语新闻
 
+* https://www.bloomberg.com/asia
 * https://focustaiwan.tw
 * https://taiwantoday.tw
 * https://www.taipeitimes.com
