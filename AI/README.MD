@@ -1,5 +1,6 @@
 ai查询
 
+* https://www.opkfc.com/list
 * https://share.mosha.cloud/list
 * https://kimi.moonshot.cn/
 * https://hailuoai.com/chat
