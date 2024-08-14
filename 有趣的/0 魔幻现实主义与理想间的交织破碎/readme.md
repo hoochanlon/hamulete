@@ -61,6 +61,7 @@ IOS 圈X去广告规则收集 quantumultX rule collection
  * https://github.com/QIN2DIM/V2RayCloudSpider
  * https://www.lu8.win/
  * https://ngrok.com/
+ * https://www.49gm.org
  * https://www.natfrp.com/
  * https://github.com/limbopro/Adblock4limbo
  * https://www.duckdns.org/
