@@ -101,6 +101,8 @@ Set-ExecutionPolicy RemoteSigned
 
 * [msguides-Easy ways to activate Windows 11 for FREE without a product key](https://msguides.com/windows-11)
 * https://massgrave.dev/get
+* https://kms.cx
+* https://github.com/zbezj/HEU_KMS_Activator/releases
 
 以管理员命令行CMD，一键切换Windows版本及激活Windows/office。
 
