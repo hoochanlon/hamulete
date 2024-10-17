@@ -170,11 +170,12 @@ Windows
 - [微pe](https://www.wepe.com.cn)
 - [Ventoy 油漆桶](https://github.com/ventoy/Ventoy)
 - [Hackintosh，安装黑苹果](https://github.com/daliansky/Hackintosh)
-- [edgeless PE](https://home.edgeless.top/) 、[hotpe](https://www.hotpe.top/)、[cowpe](http://cowpe.myzwq.cn/)、[firpe](http://www.firpe.cn/)
+- [edgeless PE](https://home.edgeless.top/) 、[hotpe](https://www.hotpe.top/)、[firpe](http://www.firpe.cn/)
 - [Hiren’s BootCD PE](https://www.hirensbootcd.org/download/)
 - [diskinternal boot-cd](https://www.diskinternals.com/boot-cd/features/)
 * [csdn-揭密win7pe制作全过程](https://blog.csdn.net/ln_zdl/article/details/38537249)
 * [腾讯云-WinPE制作介绍](https://cloud.tencent.com/developer/article/1609617)
+* [黑苹果动力](https://www.mfpud.com/)
 
 ### 电脑工具
 
@@ -208,7 +209,6 @@ Windows
 
 * [安兔兔-驱动天使](http://www.qudongtianshi.com)
 * [韩博士驱动](http://www.driverzj.com/index.html)
-* [硬件狗狗](https://yjgg.mydrivers.com)
 * [chemicalfiber/Anti-DrvCeo](https://github.com/chemicalfiber/Anti-DrvCeo) （DIY总裁封装等，去广告，删捆绑）
 * [SamDrivers](http://driveroff.net/sam)
 * https://www.drivermax.com/
