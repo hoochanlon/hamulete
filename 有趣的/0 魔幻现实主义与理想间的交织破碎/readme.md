@@ -57,6 +57,8 @@ IOS 圈X去广告规则收集 quantumultX rule collection
  ss/ssr/vmess
 
  * https://domain.zgqinc.gq
+ * https://xn--4gq62f52gdss.ink/#/login
+ * https://一元机场.ink/#/login
  * https://github.com/freefq/free
  * https://github.com/QIN2DIM/V2RayCloudSpider
  * https://www.lu8.win/
