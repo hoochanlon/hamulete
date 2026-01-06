@@ -69,15 +69,3 @@ Made with [contrib.rocks](https://contrib.rocks).
 [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)、[indiff/qttabbar](https://github.com/indiff/qttabbar)
 
 
-## ***Star History***
-
-[![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/hamulete&type=Date)](https://star-history.com/#hoochanlon/hamulete&Date)
-
-<!--
-<hr>
-<p align="center">
-
-<br>
-</p>
--->
-
