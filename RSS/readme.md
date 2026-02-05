@@ -7,3 +7,4 @@ rss 订阅软件：
 rss web：
 * https://rss101.colinx.one/read-feed/reader-for-web
 * https://rssviewer.app
+* https://xiaoshuapp.com/blog/posts/10-web-rss-reader
