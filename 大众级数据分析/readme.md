@@ -32,4 +32,7 @@
 * [yzba.free.fr - 乌合之众 —— 大众心理研究](http://yzba.free.fr/%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97--%E5%A4%A7%E4%BC%97%E5%BF%83%E7%90%86%E7%A0%94%E7%A9%B6.pdf)
 * [academia.edu - 大前研一 - 低智商社会](https://www.academia.edu/4267622/%E4%BD%8E%E6%99%BA%E5%95%86%E7%A4%BE%E4%BC%9A)
 * [广州公益慈善书院 - 社会生活中的交换与权力](https://www.daccp.org.cn/content/2606)
+* [羅伯特．席爾迪尼  -《影响力》](https://www.irisable.com/wp-content/uploads/2020/03/%E5%BD%B1%E5%93%8D%E5%8A%9B%EF%BC%88%E7%8F%8D%E8%97%8F%E7%89%88%EF%BC%89.pdf)
+* [国立基隆女子高级中学 - 你被了？了解各類型靠手法](https://www.klgsh.kl.edu.tw/wp-content/uploads/sites/67/2024/03/112-5%E8%A9%90%E9%A8%99-1.pdf)
+* [scribd - 孙中兴 - 詐騙社會學：華人第一本探索詐騙、謊言與信任的專書](https://www.scribd.com/document/850407594/%E8%A9%90%E9%A8%99%E7%A4%BE%E6%9C%83%E5%AD%B8-%E8%8F%AF%E4%BA%BA%E7%AC%AC%E4%B8%80%E6%9C%AC%E6%8E%A2%E7%B4%A2%E8%A9%90%E9%A8%99-%E8%AC%8A%E8%A8%80%E8%88%87%E4%BF%A1%E4%BB%BB%E7%9A%84%E5%B0%88%E6%9B%B8)
 
