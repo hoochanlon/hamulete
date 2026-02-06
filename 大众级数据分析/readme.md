@@ -36,6 +36,7 @@
 
 * [希图科技 - 全球剥削机器内幕：中国公司如何虐待海外员工](https://www.xitu-tech.com/news/chinese-companies-exploiting-workers-overseas/)
 * [香港中文大学 - 白潇 - 中国劳工群体性事件的起因、过程与影响 —— 形成中的工人阶级集体身份与意识 ](https://web.swk.cuhk.edu.hk/~hwong//pubfile/thesis/2016_Bai%20Xiao.pdf)
+* [中国劳工观察 - 沉默的受害者：在新冠疫情中滞留海外的一带一路中国工人](https://chinalaborwatch.org/wp-content/uploads/2021/04/Overseas-Chinese.pdf)
 * [redsails.org - china has billionaires](https://redsails.org/china-has-billionaires/)
 
 **社会**
