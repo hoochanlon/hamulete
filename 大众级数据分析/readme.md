@@ -9,3 +9,15 @@
 全球 9000+ 城市实时物价对比（房租、餐饮、工资、购买力）：https://www.numbeo.com/cost-of-living
 
 全球城市生活成本指数：https://www.expatistan.com/cost-of-living
+
+经济研究：
+
+* https://www.newyorkfed.org/research
+* https://www.nber.org
+* https://www.rieti.go.jp/cn
+
+中国人民大学经济理论与经济管理、人口研究：
+
+* http://jjll.ruc.edu.cn/CN/article/showBrowseTopList.do
+* https://rkyj.ruc.edu.cn/CN/article/showBrowseTopList.do
+
