@@ -1,3 +1,5 @@
+### 站点浏览
+
 高德地图-主要城市交通分析报告：https://report.amap.com/index.do
 
 软科排名 一款权威高等的教育排名平台：https://www.shanghairanking.cn
@@ -21,3 +23,10 @@
 * http://jjll.ruc.edu.cn/CN/article/showBrowseTopList.do
 * https://rkyj.ruc.edu.cn/CN/article/showBrowseTopList.do
 
+---
+
+### 阅读
+
+* [scribd - 权力与特权 社会分层的理论 ( (美) 格尔哈特·伦斯基,译者 关信平 陈宗显 谢晋宇) (Z-Library)](https://www.scribd.com/document/812167042/%E6%9D%83%E5%8A%9B%E4%B8%8E%E7%89%B9%E6%9D%83-%E7%A4%BE%E4%BC%9A%E5%88%86%E5%B1%82%E7%9A%84%E7%90%86%E8%AE%BA-%E7%BE%8E-%E6%A0%BC%E5%B0%94%E5%93%88%E7%89%B9-%E4%BC%A6%E6%96%AF%E5%9F%BA-%E8%AF%91%E8%80%85-%E5%85%B3%E4%BF%A1%E5%B9%B3-%E9%99%88%E5%AE%97%E6%98%BE-%E8%B0%A2%E6%99%8B%E5%AE%87-Z-Library)
+* [scribd - 国家为什么会失败：权力、富裕与贫困的根源（无删减目录优化版）](https://www.scribd.com/document/816431187/%E5%9B%BD%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%A4%B1%E8%B4%A5-%E6%9D%83%E5%8A%9B-%E5%AF%8C%E8%A3%95%E4%B8%8E%E8%B4%AB%E5%9B%B0%E7%9A%84%E6%A0%B9%E6%BA%90-%E6%97%A0%E5%88%A0%E5%87%8F%E7%9B%AE%E5%BD%95%E4%BC%98%E5%8C%96%E7%89%88-Why-Nations-Fail-the-Origins-of-Power-Prosperity-And-Poverty-Daron-Acemoglu-James-a-Robinson-Z-Library)
+* [yzba.free.fr - 乌合之众 —— 大众心理研究](http://yzba.free.fr/%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97--%E5%A4%A7%E4%BC%97%E5%BF%83%E7%90%86%E7%A0%94%E7%A9%B6.pdf)
