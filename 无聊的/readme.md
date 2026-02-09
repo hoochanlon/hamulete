@@ -4,3 +4,4 @@
 * https://5ch.net
 * https://www.mobile01.com
 * https://www.bilibili.com/video/BV1wnfoBGENt
+* https://www.bilibili.com/video/BV1TNqnBcE64
