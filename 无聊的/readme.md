@@ -12,3 +12,4 @@
 * [知乎 - 既然富人财富占社会总财富的 80%，那么鼓励富人消费不就可以了吗？](https://www.zhihu.com/question/583840954/answer/2944661578)
 * [知乎 - 钱最大的用处是什么？](https://www.zhihu.com/question/642299713/answer/1999058268367119445)
 * [知乎 - 《大明王朝 1566》为何看着那么压抑？](https://www.zhihu.com/question/6576248726/answer/1948690839661422145)
+* [BILIBILI - 讨厌一个人最好的方法，不是翻脸，而是降熵](https://www.bilibili.com/video/BV1ePSxBJEAm)
