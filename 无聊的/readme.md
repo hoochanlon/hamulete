@@ -16,3 +16,15 @@
 * [知乎 - 为什么招聘都不要 35 岁以上的？](https://www.zhihu.com/question/614315545)
 * [BILIBILI - 讨厌一个人最好的方法，不是翻脸，而是降熵](https://www.bilibili.com/video/BV1ePSxBJEAm)
 * [BILIBILI - 顶级高手从不刻苦，他们只做「低内阻学习」](https://www.bilibili.com/video/BV1m7zEBcEv5)
+
+---
+
+知乎 - 普通人的一生应该是怎样的？
+* https://www.zhihu.com/question/33416764/answer/1521890113
+* https://www.zhihu.com/question/33416764/answer/1915344698702303485
+* https://www.zhihu.com/question/33416764/answer/3351476462
+
+其他
+
+* [大家都什么时候开始信命的？ - 黑暗的指路明灯的回答 - 知乎](https://www.zhihu.com/question/572093019/answer/2805446166)
+* [【王德峰】为什么人到四十不信命，就是悟性太差？](https://www.bilibili.com/video/BV15h4y1r7qH/)
