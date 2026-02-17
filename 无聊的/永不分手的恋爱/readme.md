@@ -3,3 +3,5 @@
 后续收集相关恋爱分析视频链接
 
 * [BILIBILI - 去相亲还不知道问什么，不知道怎么判断女生为人，记死这九个含金量问题（生活、社交、价值观、性格、健康、经济......）](https://www.bilibili.com/video/BV18cFQzCEUe)
+* [BILIBILI - 相亲和女生第一次见面该聊什么，有什么注意事项](https://www.bilibili.com/video/BV1ucKVzQEUo)
+* [BILIBILI - 相亲必问的10个问题，避免人财两空，成为二婚男](https://www.bilibili.com/video/BV1smjnzfEtf)
