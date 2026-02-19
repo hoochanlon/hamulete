@@ -5,3 +5,5 @@
 * [BILIBILI - 去相亲还不知道问什么，不知道怎么判断女生为人，记死这九个含金量问题（生活、社交、价值观、性格、健康、经济......）](https://www.bilibili.com/video/BV18cFQzCEUe)
 * [BILIBILI - 相亲和女生第一次见面该聊什么，有什么注意事项](https://www.bilibili.com/video/BV1ucKVzQEUo)
 * [BILIBILI - 相亲必问的10个问题，避免人财两空，成为二婚男](https://www.bilibili.com/video/BV1smjnzfEtf)
+* [女生会察觉到男生对她的暗恋吗？ - 知乎](https://www.zhihu.com/question/538676006/answer/2560389197)
+* [怎么判断一个女生是喜欢你还只是把你当做朋友？ - 冰糖炖雪梨的回答 - 知乎](https://www.zhihu.com/question/451934480/answer/2926015801)
