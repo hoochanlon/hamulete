@@ -13,3 +13,12 @@
 * [BiliBili - 你是什么阶层，取决于占有什么样的资源](https://www.bilibili.com/video/BV1YFzxBoEB9/)
 * [中国社会各阶层分析，真敢写啊！ - 闲话咯的文章 - 知乎](https://zhuanlan.zhihu.com/p/1985755818734420210)
 * [BILIBILI - 普通人的认命](https://www.bilibili.com/video/BV1HUZHBGEHN)
+* [为什么部分女生，年轻时追求经济独立，岁数大了却突然想嫁人？ - 入画的回答 - 知乎](https://www.zhihu.com/question/1954536374410641994/answer/2003042571354661681)
+* [为什么部分女生，年轻时追求经济独立，岁数大了却突然想嫁人？ - 白白的回答 - 知乎](https://www.zhihu.com/question/1954536374410641994/answer/2003561128467394900)
+
+
+
+---
+
+* [一个人的核心能力是什么？ - 张灯结彩的回答 - 知乎](https://www.zhihu.com/question/524777137/answer/1991096057568985202)
+* [一个人的核心能力是什么？ - 知乎用户cSEQeW的回答 - 知乎](https://www.zhihu.com/question/524777137/answer/1960982713453516754)
