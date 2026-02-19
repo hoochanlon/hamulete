@@ -12,3 +12,4 @@
 * [现在的男生为什么普遍不追女生了? - 讨厌红楼梦的回答 - 知乎](https://www.zhihu.com/question/529393852/answer/1978020007322617283)
 * [BiliBili - 你是什么阶层，取决于占有什么样的资源](https://www.bilibili.com/video/BV1YFzxBoEB9/)
 * [中国社会各阶层分析，真敢写啊！ - 闲话咯的文章 - 知乎](https://zhuanlan.zhihu.com/p/1985755818734420210)
+* [BILIBILI - 普通人的认命](https://www.bilibili.com/video/BV1HUZHBGEHN)
