@@ -1,4 +1,6 @@
-<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/b7cd9f1c-d34a-4370-969a-a40d374bfafa" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/b7cd9f1c-d34a-4370-969a-a40d374bfafa" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/305ce298-d225-48ad-9d10-7f54114ea77b" />
+
 
 * [人生开窍太晚，会出现什么结果？ - 胃窦Elaine的回答 - 知乎](https://www.zhihu.com/question/350099381/answer/1999502467029816167)
 * [人生开窍太晚，会出现什么结果？ - 懂升学的靓靓的回答 - 知乎](https://www.zhihu.com/question/350099381/answer/1998737774107456400)
@@ -10,4 +12,6 @@
 * 怎样使自己处于高能量状态？
 * 长期主义能做的事?
 
-<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/0f959a3c-2c6b-478b-bb87-2abea8acea31" />
+
+
+
