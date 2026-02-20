@@ -9,3 +9,5 @@
 * [日本年轻人疯狂恨老，中国年轻人为什么叫好？](https://www.bilibili.com/video/BV1BuFCzKEDr)
 * 怎样使自己处于高能量状态？
 * 长期主义能做的事?
+
+<img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/0f959a3c-2c6b-478b-bb87-2abea8acea31" />
