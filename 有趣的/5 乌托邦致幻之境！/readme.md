@@ -45,6 +45,7 @@
 * [为什么很多人辛劳一生，仍然生活在社会底层？](https://www.zhihu.com/question/39997502/answer/181765009)
 * [阶层固化是怎么回事？](https://zhuanlan.zhihu.com/p/62009656)
 * [谈谈「富不过三代」和「阶层固化」](https://zhuanlan.zhihu.com/p/25231656)
+* [朱元璋采取了史上最严厉的反腐政策，为什么明朝仍然有那么多官员贪污呢? - 鞭临天下的回答 - 知乎](https://www.zhihu.com/question/13922747175/answer/1923131807404111817)
 
 
 ***shanghai***
