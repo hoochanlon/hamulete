@@ -26,6 +26,7 @@
 
 其他
 
+* [为什么十几年前很多人批判啃老族，现在却少有人提及？ - 米哥淘客的回答 - 知乎](https://www.zhihu.com/question/348003746/answer/1940458487017607917)
 * [大家都什么时候开始信命的？ - 黑暗的指路明灯的回答 - 知乎](https://www.zhihu.com/question/572093019/answer/2805446166)
 * [【王德峰】为什么人到四十不信命，就是悟性太差？](https://www.bilibili.com/video/BV15h4y1r7qH/)
 * [曾仕强教授：什么是命？什么叫运？命运怎么化解？怎么理解命运？](https://www.bilibili.com/video/BV1J4WPz9EZt)
