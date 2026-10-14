@@ -3,6 +3,8 @@
 > [!important]
 > * 三个皮匠报告：https://www.sgpjbg.com
 > * 报告汇：https://www.vicsdf.com
+> * EverythingProfessor：
+>   * [【财富的每个等级解析 中配】](https://www.bilibili.com/video/BV1t8Ew6KE1d)
 
 ## 一、最值得优先阅读的长期调查
 
