@@ -5,6 +5,7 @@
 > * 报告汇：https://www.vicsdf.com
 > * EverythingProfessor：
 >   * [【财富的每个等级解析 中配】](https://www.bilibili.com/video/BV1t8Ew6KE1d)
+>    
 >  研究人生生活的新项目
 >   * 人间防骗指南：https://github.com/QERSSD/HowToAvoidScams
 >   * 高性价比人生指南：https://github.com/eternity4719/HowToLiveBetter
